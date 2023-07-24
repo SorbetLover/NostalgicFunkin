@@ -5,8 +5,8 @@ This modpack will encluding OG Mods from the early days of FNF, starting from 20
 
 # to-dos | Planned Mods
 - [x] Vs. Whitty (Legacy)
-- [x] Vs. Hex (Maybe Weekand Update)
-- [ ] Vs. Carol
+- [ ] Vs. Hex (Maybe Weekand Update)
+- [x] Vs. Carol
 - [ ] Vs. Hatsune Miku
 - [ ] Vs. Zardy
 - [ ] Vs. Garcello
