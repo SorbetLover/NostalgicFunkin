@@ -35,6 +35,6 @@ function stepHit()
     switch (curStep)
     {
         case 896:
-        switchChar('dad', 'updikeEdgy', 'updike')
+        switchChar('dad', 'updikeEdgy', 'updike');
     }
 }
