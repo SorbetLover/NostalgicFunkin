@@ -1,16 +1,16 @@
 {
 	"opponentModeAllowed": true,
-	"coopAllowed": true,
-	"stepsPerBeat": 4,
-	"beatsPerMesure": 4,
-	"bpm": 120,
+	"icon": "updike",
 	"difficulties": [
 		"HARD"
 	],
-	"needsVoices": true,
 	"parsedColor": -3289651,
-	"displayName": "remorse",
-	"icon": "updike",
+	"color": "#CDCDCD",
 	"name": "remorse",
-	"color": "#CDCDCD"
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "remorse",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 120
 }

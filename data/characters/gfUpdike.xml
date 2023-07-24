@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="100" icon="gf" y="200" isGF="true" isPlayer="false" sprite="updike/gf">
+<character x="100" icon="gf" y="200" isGF="true" isPlayer="false" sprite="VS Whitty/updike/gf">
 	<anim x="0" loop="true" y="-2" fps="24" anim="gf sad" name="cry"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="GF Dancing Beat 0" indices="29,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" name="danceLeft"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="GF Dancing Beat 0" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28" name="danceRight"/>

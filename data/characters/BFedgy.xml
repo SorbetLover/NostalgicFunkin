@@ -1,12 +1,12 @@
 <!DOCTYPE codename-engine-character>
-<character x="200" icon="bf" y="350" isGF="false" flipX="true" isPlayer="true" holdTime="6.1" sprite="updike/bf">
+<character x="-200" icon="bf" camx="350" y="380" isGF="false" camy="50" flipX="true" isPlayer="false" holdTime="6.1" sprite="VS Whitty/updike/bf">
 	<anim x="-20" loop="false" y="-50" fps="24" anim="BF NOTE DOWN edgy" name="singDOWN"/>
-	<anim x="45" loop="false" y="21" fps="24" anim="BF NOTE RIGHT MISS edgy" name="singRIGHTmiss"/>
-	<anim x="-32" loop="false" y="19" fps="24" anim="BF NOTE LEFT MISS edgy" name="singLEFTmiss"/>
-	<anim x="8" loop="false" y="31" fps="24" anim="BF NOTE UP edgy" name="singUP"/>
+	<anim x="45" loop="false" y="23" fps="24" anim="BF NOTE RIGHT MISS edgy" name="singRIGHTmiss"/>
+	<anim x="-31" loop="false" y="18" fps="24" anim="BF NOTE LEFT MISS edgy" name="singLEFTmiss"/>
+	<anim x="10" loop="false" y="31" fps="24" anim="BF NOTE UP edgy" name="singUP"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="BF idle dance edgy" name="idle"/>
-	<anim x="41" loop="false" y="-4" fps="24" anim="BF NOTE RIGHT edgy" name="singRIGHT"/>
-	<anim x="-7" loop="false" y="-19" fps="24" anim="BF NOTE DOWN MISS edgy" name="singDOWNmiss"/>
-	<anim x="-34" loop="false" y="-6" fps="24" anim="BF NOTE LEFT edgy" name="singLEFT"/>
-	<anim x="10" loop="false" y="25" fps="24" anim="BF NOTE UP MISS egdy" name="singUPmiss"/>
+	<anim x="41" loop="false" y="-5" fps="24" anim="BF NOTE RIGHT edgy" name="singRIGHT"/>
+	<anim x="-7" loop="false" y="-21" fps="24" anim="BF NOTE DOWN MISS edgy" name="singDOWNmiss"/>
+	<anim x="-33" loop="false" y="-6" fps="24" anim="BF NOTE LEFT edgy" name="singLEFT"/>
+	<anim x="10" loop="false" y="27" fps="24" anim="BF NOTE UP MISS edgy" name="singUPmiss"/>
 </character>
