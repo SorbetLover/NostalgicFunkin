@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.85" name="alley" folder="stages/alley/whitty/">
+	<sprite name="stage" 	x="-600" y="-200"   sprite="alleyCrazy"       scroll="0.9">
+		<anim name="idle" anim="Background Whitty Moving" indices="" fps="24" loop="true"/>
+	</sprite>
+	<girlfriend />
+	<dad x="-50"/>
+	<boyfriend />
+	<sprite name="thefunnyeffect" x="-580" y="-376" sprite="thefunnyeffect"	scroll="0" scale="0.66" alpha="0.5"/>
+</stage>

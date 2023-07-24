@@ -1,0 +1,8 @@
+<!DOCTYPE codename-mod-credits>
+<!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
+<menu name="Vs Whitty" desc="The Developers of Vs. Whitty.">
+	<credit name="Sock.clip" desc="Artist and Song Composer." icon="credit icon example" size="130" url="https://www.instagram.com/sock.clip/"/>
+	<credit name="Nate Anim8" desc="Note CHarter, Secondary Animator and Play Tester." icon="credit icon example" size="130" url="https://gamebanana.com/members/1778429"/>
+	<credit name="KadeDev" desc="Coder." icon="credit icon example" size="130" url="https://gamebanana.com/members/1774971"/>
+	<credit name="bbpanzu" desc="Secondary Coder." icon="credit icon example" size="130" url="https://gamebanana.com/members/1764067"/>
+</menu>

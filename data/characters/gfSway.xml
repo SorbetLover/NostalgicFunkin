@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" icon="gf" y="200" isGF="true" isPlayer="false" sprite="gfSway">
+	<anim x="0" loop="true" y="0" fps="24" anim="Scared" name="scared"/>
+	<anim x="-23" loop="true" y="-5" fps="24" anim="Sad" name="cry"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Idle Left" name="danceLeft"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Idle Right" name="danceRight"/>
+</character>

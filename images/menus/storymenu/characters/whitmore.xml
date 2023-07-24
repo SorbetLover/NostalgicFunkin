@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitmore.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="whitty idle00000000" x="422" y="0" width="424" height="756" frameX="2" frameY="-6" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00010000" x="422" y="0" width="424" height="756" frameX="2" frameY="-6" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00020000" x="846" y="763" width="411" height="753" frameX="-10" frameY="-8" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00030000" x="846" y="763" width="411" height="753" frameX="-10" frameY="-8" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00040000" x="422" y="756" width="422" height="758" frameX="-1" frameY="-6" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00050000" x="422" y="756" width="422" height="758" frameX="-1" frameY="-6" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00060000" x="846" y="0" width="418" height="763" frameX="-7" frameY="1" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00070000" x="846" y="0" width="418" height="763" frameX="-7" frameY="1" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00080000" x="0" y="767" width="421" height="768" frameX="-4" frameY="2" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00090000" x="0" y="767" width="421" height="768" frameX="-4" frameY="2" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00100000" x="0" y="0" width="422" height="767" frameX="-4" frameY="2" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00110000" x="0" y="0" width="422" height="767" frameX="-4" frameY="2" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00120000" x="0" y="0" width="422" height="767" frameX="-4" frameY="2" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="whitty idle00130000" x="0" y="0" width="422" height="767" frameX="-4" frameY="2" frameWidth="429" frameHeight="767"/>
+</TextureAtlas>

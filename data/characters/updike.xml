@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="updike" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="updike/updike">
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong idle0" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong down note0" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong right note0" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong up note0" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong left note0" name="singLEFT"/>
+</character>

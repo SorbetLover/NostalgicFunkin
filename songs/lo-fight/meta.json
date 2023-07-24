@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 120.5,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -14806960,
+	"displayName": "Lo Fight",
+	"icon": "whitty",
+	"name": "lo-fight",
+	"color": "#1E1050"
+}

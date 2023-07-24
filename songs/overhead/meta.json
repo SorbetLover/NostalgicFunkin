@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "whitty",
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"parsedColor": -15726294,
+	"color": "#10092A",
+	"name": "overhead",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "overhead",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 180.5
+}

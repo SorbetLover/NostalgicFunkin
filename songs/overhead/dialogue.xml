@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="whitty2" char="whitty2" position="left" />
+	<char name="bf" char="bf" position="right" />
+
+	<!-- Lines -->
+	<line char="whitty2" stay="true" anim="crazy">
+		I see how it is.
+	</line>
+	<line char="bf">
+		brep bappity boop 
+	</line>
+	<line char="whitty2">
+		You're really pushing my limits, dude.
+	</line>
+	<line char="bf">
+		bip bep skoo de boop
+	</line>
+	<line char="whitty2">
+		Well how about you go die in a ditch instead.
+	</line>
+	<line char="bf">
+		bepoobee skoop 
+	</line>
+	<line char="whitty2">
+		...Don't make me do this. 
+	</line>
+</dialogue>
