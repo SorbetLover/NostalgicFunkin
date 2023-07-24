@@ -2,13 +2,13 @@
 <dialogue box="default">
 	<!-- All characters -->
 	<char name="whitty" char="whitty" position="left" />
-	<char name="bf" char="bf" position="right" />
+	<char name="bfWhitty" char="bfWhitty" position="right" />
 
 	<!-- Lines -->
 	<line char="whitty" stay="true" anim="crazy">
 		..Who-
 	</line>
-	<line char="bf">
+	<line char="bfWhitty">
 		beep boop
 	</line>
 	<line char="whitty">
@@ -17,13 +17,13 @@
 	<line char="whitty">
 		Would both of you kindly leave me alone? I don't want anyone knowin' I'm here.
 	</line>
-	<line char="bf">
+	<line char="bfWhitty">
 		bip boop beep 
 	</line>
 	<line char="whitty">
 		...Listen, I ain't lookin' for trouble tonight, just leave and all will be cool.
 	</line>
-	<line char="bf">
+	<line char="bfWhitty">
 		beepo bap skeboop 
 	</line>
 	<line char="whitty">

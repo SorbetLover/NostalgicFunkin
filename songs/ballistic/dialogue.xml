@@ -2,7 +2,7 @@
 <dialogue box="default">
 	<!-- All characters -->
 	<char name="whittyC" char="whittyC" position="left" />
-	<char name="bf" char="bf" position="right" />
+	<char name="bfWhitty" char="bfWhitty" position="right" />
 
 	<!-- Lines -->
 	<line char="whittyC" stay="true">
@@ -17,7 +17,7 @@
 	<line char="whittyC">
 		CURSE YOU, CURSE YOU AND THE FILTH THAT BROUGHT YOU INTO THIS WORLD.
 	</line>
-	<line char="bf">
+	<line char="bfWhitty">
 		baboop peebo
 	</line>
 </dialogue>
