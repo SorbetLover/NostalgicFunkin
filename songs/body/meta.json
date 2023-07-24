@@ -3,16 +3,16 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 120.5,
+	"bpm": 188,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -14806960,
-	"displayName": "Lo Fight",
-	"icon": "Vs Whitty/whitty",
-	"name": "lo-fight",
-	"color": "#1E1050"
+	"parsedColor": -10464370,
+	"displayName": "Body",
+	"icon": "Vs Carol/Carol",
+	"name": "body",
+	"color": "#594D88"
 }

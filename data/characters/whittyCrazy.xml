@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="WhittyCrazy" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="VS Whitty/whitty/WhittyCrazy">
+<character x="0" icon="Vs Whitty/WhittyCrazy" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="VS Whitty/whitty/WhittyCrazy">
 	<anim x="0" loop="true" y="0" fps="24" anim="Whitty idle dance" name="idle"/>
 	<anim x="-5" loop="false" y="-70" fps="24" anim="whitty sing note right" name="singRIGHT"/>
 	<anim x="80" loop="false" y="-140" fps="24" anim="Whitty Sing Note DOWN" name="singDOWN"/>

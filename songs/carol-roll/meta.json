@@ -3,16 +3,16 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 120.5,
+	"bpm": 100,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -14806960,
-	"displayName": "Lo Fight",
-	"icon": "Vs Whitty/whitty",
-	"name": "lo-fight",
-	"color": "#1E1050"
+	"parsedColor": -8622166,
+	"displayName": "Carol Roll",
+	"icon": "Vs Carol/carol",
+	"name": "carol-roll",
+	"color": "#594D88"
 }
