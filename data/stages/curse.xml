@@ -1,7 +1,10 @@
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.8" name="normal_stage" folder="stages/Vs Tabi/normal_stage/">
-	<sprite name="normalStage" x="-600" y="-300" sprite="normal_stage" scroll="1" />
-	<girlfriend x="893" y="315" />
-	<dad x="482" y="368" />
-	<boyfriend x="1620" y="746" />
+	<sprite name="normalStage" x="0" y="0" sprite="normal_stage" scroll="1" />
+
+	<girlfriend x="800" y="100" scale="1.1" />
+	<dad x="450" y="368" />
+	<boyfriend x="1620" y="380" />
+
+	<sprite name="sumtable" x="0" y="0" sprite="sumtable" scroll="1" />
 </stage>
