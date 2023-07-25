@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 190,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -17791,
+	"displayName": "last chance",
+	"icon": "Vs Tabi/TabiIcons",
+	"name": "last-chance",
+	"color": "#FFBA81"
+}

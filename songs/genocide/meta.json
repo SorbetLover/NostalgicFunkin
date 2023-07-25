@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 213,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HARD-RECHART"
+	],
+	"needsVoices": true,
+	"parsedColor": -24483,
+	"displayName": "genocide",
+	"icon": "Vs Tabi/TabiMadIcons",
+	"name": "genocide",
+	"color": "#FFA05D"
+}
