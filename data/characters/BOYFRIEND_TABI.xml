@@ -1,14 +1,14 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="true" isGF="false" camy="50" flipX="true" sprite="Vs Tabi/BOYFRIEND_TABI" icon="bf" x="0" y="0">
-	<anim name="idle"          anim="BF idle dance"      fps="24" loop="false" x="-5"  y="0"/>
-	<anim name="singUP"        anim="BF NOTE UP0"        fps="24" loop="false" x="-29" y="27"/>
-	<anim name="singLEFT"      anim="BF NOTE LEFT0"      fps="24" loop="false" x="12"  y="-6"/>
-	<anim name="singRIGHT"     anim="BF NOTE RIGHT0"     fps="24" loop="false" x="-38" y="-7"/>
-	<anim name="singDOWN"      anim="BF NOTE DOWN0"      fps="24" loop="false" x="-10" y="-50"/>
-	<anim name="singUPmiss"    anim="BF NOTE UP MISS"    fps="24" loop="false" x="-29" y="27"/>
-	<anim name="singLEFTmiss"  anim="BF NOTE LEFT MISS"  fps="24" loop="false" x="12"  y="24"/>
-	<anim name="singRIGHTmiss" anim="BF NOTE RIGHT MISS" fps="24" loop="false" x="-30" y="21"/>
-	<anim name="singDOWNmiss"  anim="BF NOTE DOWN MISS"  fps="24" loop="false" x="-11" y="-19"/>
-	<anim name="hey"           anim="BF HEY"             fps="24" loop="false" x="7"   y="4"/>
-	<anim name="scared"        anim="BF idle shaking"    fps="24" loop="true"  x="-4"  y="0"/>
+<character x="0" icon="bf" y="0" isGF="false" camy="50" flipX="true" isPlayer="true" sprite="Vs Tabi/BOYFRIEND_TABI">
+	<anim x="0" loop="true" y="0" fps="24" anim="BF idle shaking" name="scared"/>
+	<anim x="11" loop="false" y="20" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim x="-10" loop="false" y="-50" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="-30" loop="false" y="21" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="-29" loop="false" y="27" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="-4" loop="false" y="7" fps="24" anim="BF HEY" name="hey"/>
+	<anim x="-4" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="-14" loop="false" y="-17" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="5" loop="false" y="-5" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="-36" loop="false" y="-4" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+	<anim x="-25" loop="false" y="22" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
 </character>

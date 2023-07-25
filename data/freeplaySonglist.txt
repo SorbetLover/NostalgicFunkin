@@ -5,3 +5,5 @@ remorse
 carol-roll
 body
 boogie
+my-battle
+last-chance

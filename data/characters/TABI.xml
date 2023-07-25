@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Tabi/TabiIcons" camx="150" y="0" isGF="false" camy="125" isPlayer="false" holdTime="6.1" sprite="Vs Tabi/TABI">
+	<anim x="0" loop="false" y="0" fps="24" anim="Dad idle dance" name="idle"/>
+	<anim x="-1" loop="false" y="12" fps="24" anim="Dad Sing Note RIGHT" name="singRIGHT"/>
+	<anim x="84" loop="false" y="-108" fps="24" anim="Dad Sing Note DOWN" name="singDOWN"/>
+	<anim x="288" loop="false" y="-33" fps="24" anim="Dad Sing Note LEFT" name="singLEFT"/>
+	<anim x="50" loop="false" y="51" fps="24" anim="Dad Sing Note UP" name="singUP"/>
+</character>
