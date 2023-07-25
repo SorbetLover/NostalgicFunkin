@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="carol" char="carol" position="left" />
+	<char name="gfCheer" char="gfCheer" position="middle" />
+	<char name="bfCarol" char="bfCarol" position="right" />
+
+	<!-- Lines -->
+	<line char="carol" stay="true" >
+		hehe song was fire right?
+	</line>
+	<line char="bfCarol" stay="true" >
+		beep poo bo
+	</line>
+	<line char="carol">
+		ay you heard of Megan Thee Stalion?
+	</line>
+</dialogue>

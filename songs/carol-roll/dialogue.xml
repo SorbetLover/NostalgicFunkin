@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="carol" char="carol" position="left" />
+	<char name="gfCheer" char="gfCheer" position="middle" />
+	<char name="bfCarol" char="bfCarol" position="right" />
+
+	<!-- Lines -->
+	<line char="carol" stay="true" >
+		yoo bestfriend wsup
+	</line>
+	<line char="gfCheer" stay="true" >
+		hey, girly this my bf
+	</line>
+	<line char="carol">
+		he mad short ngl. 
+	</line>
+	<line char="carol">
+		ayo peep this bop i whipped up
+	</line>
+	<line char="gfCheer" stay="true" >
+		do it bang tho
+	</line>
+	<line char="bfCarol" stay="true" >
+		beep opboobi
+	</line>
+	<line char="carol">
+		what?
+	</line>
+</dialogue>

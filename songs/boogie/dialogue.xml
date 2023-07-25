@@ -1,0 +1,24 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="carol" char="carol" position="left" />
+	<char name="gfCheer" char="gfCheer" position="middle" />
+	<char name="bfCarol" char="bfCarol" position="right" />
+
+	<!-- Lines -->
+	<line char="carol" stay="true" >
+		shit went hard right?
+	</line>
+	<line char="bfCarol" stay="true" >
+		no that shit was ass.
+	</line>
+	<line char="carol">
+		you're literally a fucking toddler. baby bitch can't even wipe his own has with those big ass hands of yours.
+	</line>
+	<line char="carol">
+		can't bend on your knees cuz they up to your nuts. big foot called. he wanted to congrat you on beating the world record of largest feet.
+	</line>
+	<line char="bfCarol" stay="true" >
+		b eep.
+	</line>
+</dialogue>
