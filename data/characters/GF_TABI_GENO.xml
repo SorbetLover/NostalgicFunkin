@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" icon="gf" y="200" isGF="true" isPlayer="false" sprite="Vs Tabi/PostExpGF_Assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="GF LayedDownHurt" name="a"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="GF LayedDownHurt" name="bopHead"/>
+</character>
