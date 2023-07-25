@@ -5,7 +5,12 @@ function postCreate() {
     logoBump.scale.set(1.25, 1.25);
     logoBump.antialiasing = true;
     logoBump.screenCenter();
-    add(logoBump);
+}
+
+function postUpdate() {
+    if (curBeat >= 16 || FlxG.keys.justPressed.ENTER) {
+        add(logoBump);
+    }
 }
 
 function beatHit(curBeat) {
