@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 100,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -8823400,
+	"displayName": "beathoven",
+	"icon": "kapi",
+	"name": "beathoven",
+	"color": "#795D98"
+}

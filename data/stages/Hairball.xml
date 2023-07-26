@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="stages/week1/">
+	<sprite name="stagebackkapiold"               x="-600" y="-200"   sprite="stagesunset"       scroll="0.7" />
+
+		<sprite name="lights"               x="-600" y="-200"   sprite="lights" scroll="0.7">
+		<anim name="light" anim="lightblink" fps="3" loop="true"/>
+		</sprite>
+
+		<sprite name="littleguys"               x="0" y="200"   sprite="littleguys"       scroll="0.7" fps="12" />
+
+		<sprite name="stagefrontkapiold"               x="-500" y="640"   sprite="stagefrontkapiold"       scroll="1" />
+
+		<girlfriend y="-120"  x= "280" scroll="1"/>
+
+		<dad/>
+		<boyfriend/>
+
+		<sprite name="upperBop"               x="-600" y="-200"   sprite="upperBop"       scroll="1.2" />
+</stage>

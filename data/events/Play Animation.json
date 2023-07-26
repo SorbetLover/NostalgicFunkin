@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Character",
+            "type": " StrumLine",
+            "defaultValue": 0
+        },
+        {
+            "name": "Animation",
+            "type": "String",
+            "defaultValue": ""
+        }
+    ]
+}

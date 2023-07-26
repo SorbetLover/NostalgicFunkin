@@ -1,0 +1,13 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "Kapi",
+	"parsedColor": -8943463,
+	"name": "Nyaw",
+	"coopAllowed": true,
+	"color": "#778899",
+	"stepsPerBeat": 4,
+	"displayName": "Nyaw",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}
