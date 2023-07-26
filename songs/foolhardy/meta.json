@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "zardy",
+	"parsedColor": -8943463,
+	"name": "foolhardy",
+	"coopAllowed": true,
+	"color": "#778899",
+	"stepsPerBeat": 4,
+	"displayName": "foolhardy",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}

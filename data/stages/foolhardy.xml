@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="stages/foolhardy/">
+	<sprite name="maze"               x="-690" y="-300"   sprite="maze"       scroll="1" />
+	<girlfriend scroll="1"/>
+</stage>
