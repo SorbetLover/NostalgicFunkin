@@ -1,8 +1,32 @@
 <!DOCTYPE codename-mod-credits>
-<!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
-<menu name="Vs Whitty" desc="The Developers of Vs. Whitty.">
-	<credit name="Sock.clip" desc="Artist and Song Composer." icon="credit icon example" size="130" url="https://www.instagram.com/sock.clip/"/>
-	<credit name="Nate Anim8" desc="Note CHarter, Secondary Animator and Play Tester." icon="credit icon example" size="130" url="https://gamebanana.com/members/1778429"/>
-	<credit name="KadeDev" desc="Coder." icon="credit icon example" size="130" url="https://gamebanana.com/members/1774971"/>
-	<credit name="bbpanzu" desc="Secondary Coder." icon="credit icon example" size="130" url="https://gamebanana.com/members/1764067"/>
+<!-- VS WHITTY -->
+<menu name="Vs Whitty" desc="Credits of the original devs who made Vs Whitty.">
+	<credit name="Sock.clip" desc="Artist and Song Composer." icon="" size="130" url="https://www.instagram.com/sock.clip/"/>
+	<credit name="Nate Anim8" desc="Note Charter, Secondary Animator and Play Tester." icon="" size="130" url="https://gamebanana.com/members/1778429"/>
+	<credit name="KadeDev" desc="Coder." icon="" size="130" url="https://gamebanana.com/members/1774971"/>
+	<credit name="bbpanzu" desc="Secondary Coder." icon="" size="130" url="https://gamebanana.com/members/1764067"/>
+	<credit name="juliaa" desc="Main charter for the Definitive Edition (featured in the port)." icon="" size="130" url="https://gamebanana.com/members/1963089"/>
+	<credit name="The Only Volume" desc="Assistant charter for the Definitive Edition (featured in the port)." icon="" size="130" url="https://gamebanana.com/members/1822530"/>
+</menu>
+
+<!-- VS TABI -->
+
+<menu name="Vs Tabi" desc="Credits of the original devs who made Vs Tabi.">
+	<credit name="Homskiy" desc="Owner Of Tabi V1 / Author Of lore / Leader of project." icon="" size="130" url="https://gamebanana.com/members/1803091"/>
+	<credit name="GWebDev" desc="Scripter." icon="" size="130" url="https://gamebanana.com/members/1799048"/>
+	<credit name="Brightfyre" desc="Second scripter / Updates." icon="" size="130" url="https://gamebanana.com/members/1800180"/>
+	<credit name="Tenzubushi" desc="Music Composer / Art / Sprites Editor / Charter." icon="" size="130" url="https://gamebanana.com/members/1803333"/>
+	<credit name="DaDrawingLad" desc="My battle Charts." icon="" size="130" url="https://gamebanana.com/members/1775965"/>
+	<credit name="Angelattes" desc="Girlfriend VA." icon="" size="130" url="https://gamebanana.com/members/1822530"/>
+	<credit name="Cougar MacDowall" desc="Tabi VA." icon="" size="130" url="https://twitter.com/CougarMacDowal1"/>
+	<credit name="sock.clip" desc="FNF Styled Tabi Idle Sprite." icon="" size="130" url="https://www.instagram.com/sock.clip/"/>
+	<credit name="Sini" desc="First Version of Mad Tabi Sprites." icon="" size="130" url="https://twitter.com/Sini_Art_"/>
+	<credit name="RussianRatigan" desc="Background design." icon="" size="130" url="https://twitter.com/RussianRatigan"/>
+</menu>
+
+<!-- VS CAROL -->
+
+<menu name="Vs Carol" desc="Credits of the original devs who made Vs Carol.">
+	<credit name="bbpanzu" desc="Artist and Musician." icon="" size="130" url="https://gamebanana.com/members/1764067"/>
+	<credit name="GENOX" desc="Carol UTAU." icon="" size="130" url="https://gamebanana.com/members/1771171"/>
 </menu>
