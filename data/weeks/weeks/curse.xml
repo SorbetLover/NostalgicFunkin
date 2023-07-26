@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-week>
+<week name="CURSE" chars="tabi_lines,bf,gf" sprite="curse">
+	<song>my-battle</song>
+	<song>last-chance</song>
+	<song hide="true">genocide</song>
+</week>
