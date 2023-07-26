@@ -1,8 +1,11 @@
 // Hscript version of ExtendedCentral's Tabi health gimmick Lua script
+// Plus some color flash thing that was in KE
+import flixel.util.FlxColor;
 
 var tabiHealthBar = true;
 var drainHealth = true;
 var moveBar = true;
+var samShit:FlxSprite;
 
 function create() {
     if (tabiHealthBar)
@@ -10,6 +13,13 @@ function create() {
 }
 function postCreate() {
 	health += 1.1;
+
+    samShit = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.WHITE);
+	samShit.alpha = 0.05;
+	samShit.color = FlxColor.BLACK;
+	add(samShit);
+	samShit.cameras = [camHUD];
+	samShit.visible = false;
     // canDie = false;
 }
 
@@ -41,6 +51,21 @@ function onPlayerHit(event) {
 }
 
 function onDadHit(event:NoteHitEvent) {
+    // I know this code looks dogshit but "it just works" - Tod
+    var randomActivate = FlxG.random.int(0, 10);
+    function colorFlashThing() {
+        if (randomActivate <= 5) {
+            // trace(randomActivate);
+            samShit.visible = true;
+        } else {
+            samShit.visible = false;
+        }
+    }
+
+    colorFlashThing();
+    
+    samShit.color = FlxG.random.color(FlxColor.BLACK, FlxColor.WHITE);
+
     if (tabiHealthBar) {
         if (healthBar.x < 343.5 && healthBarBG.x < 343.5) {
             healthBar.x += 5;
