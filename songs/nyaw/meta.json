@@ -1,5 +1,10 @@
 {
 	"opponentModeAllowed": true,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
 	"icon": "Kapi",
 	"parsedColor": -8943463,
 	"name": "Nyaw",

@@ -1,3 +1,3 @@
-function create() {
-	playCutscenes = true;
-}
+function create()
+	if (playCutscenes)
+		playCutscenes = true;

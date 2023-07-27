@@ -1,10 +1,10 @@
 import flixel.util.FlxColor;
 
 function onStartCountdown(event)
-	if (playCutscenes)
-		event.cancel();
+	event.cancel();
 
 function postCreate() {
+	playCutscenes = true;
 	if (playCutscenes) {
 		var blackScreen:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		add(blackScreen);
@@ -23,8 +23,8 @@ function postCreate() {
 				FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 2.5, {
 					ease: FlxEase.quadInOut,
 					onComplete: function(twn:FlxTween){
-						// startCountdown();
-                        startCutscene("mid-", cutscene);
+						startCountdown();
+                        // startCutscene("mid-", cutscene, close());
 					}
 				});
 			});
