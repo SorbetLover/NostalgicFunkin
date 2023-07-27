@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="dad" char="dad" position="left" />
+
+	<!-- Lines -->
+	<line char="dad" bubble="angry">
+		Dialogue jumpscare!!
+	</line>
+</dialogue>

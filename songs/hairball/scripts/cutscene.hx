@@ -1,13 +1,11 @@
 import flixel.util.FlxColor;
 
 function onStartCountdown(event)
-	event.cancel();
+	if (playCutscenes)
+		event.cancel();
 
 function postCreate() {
-	isStoryMode = true; // delete if you have ported the week
-	// lights.framerate = 3;
-
-	if (isStoryMode) {
+	if (playCutscenes) {
 		var blackScreen:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		add(blackScreen);
 		camHUD.visible = false;
@@ -25,14 +23,13 @@ function postCreate() {
 				FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 2.5, {
 					ease: FlxEase.quadInOut,
 					onComplete: function(twn:FlxTween){
-						startCountdown();
-						// startDialogue();
-						// playCutscenes = true;
-						// I didn't test this but use startDialogue()
-                        // startCutscene("d-");
+						// startCountdown();
+                        startCutscene("mid-", cutscene);
 					}
 				});
 			});
 		});
+	} else {
+		trace("freeplayin");
 	}
 }

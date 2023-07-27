@@ -1,3 +1,7 @@
 function create() {
-	playCutscenes = true;
+	if (playCutscenes) {
+		playCutscenes = true;
+	} else {
+		playCutscenes = false;
+	}
 }

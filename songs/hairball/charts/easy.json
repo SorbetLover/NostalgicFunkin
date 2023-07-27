@@ -14,7 +14,7 @@
 				]
 			]
 		],
-		"gfVersion": "KAPIGIRLFRIEND",
+		"gfVersion": "GfKapi",
 		"player2": "KAPI_ANGRY",
 		"notes": [
 			{
@@ -5270,7 +5270,7 @@
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,
-		"stage": "sunset",
+		"stage": "hairball",
 		"bpm": 117,
 		"speed": 1.9
 	}
