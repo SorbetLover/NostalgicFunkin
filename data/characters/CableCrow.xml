@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="-200" icon="cablecrow" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="cablecrow">
+<character x="-200" icon="cablecrow" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Zardy/cablecrow">
 	<anim x="0" loop="false" y="0" fps="24" anim="Idle" name="idle"/>
 	<anim x="-120" loop="false" y="-38" fps="24" anim="Right" name="singRIGHT"/>
 	<anim x="209" loop="false" y="57" fps="24" anim="Down" name="singDOWN"/>

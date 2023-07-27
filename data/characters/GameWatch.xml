@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="GameWatch" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="GameWatch">
+<character x="0" icon="GameWatch" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Kapi/GameWatch">
 	<anim x="0" loop="false" y="0" fps="24" anim="spooky dance idle" name="idle"/>
 	<anim x="-118" loop="false" y="9" fps="24" anim="spooky DOWN note" name="singDOWN"/>
 	<anim x="-11" loop="false" y="3" fps="24" anim="spooky sing right" name="singRIGHT"/>
