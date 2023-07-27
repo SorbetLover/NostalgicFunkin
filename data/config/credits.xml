@@ -30,3 +30,27 @@
 	<credit name="bbpanzu" desc="Artist and Musician." icon="" size="130" url="https://gamebanana.com/members/1764067"/>
 	<credit name="GENOX" desc="Carol UTAU." icon="" size="130" url="https://gamebanana.com/members/1771171"/>
 </menu>
+
+<!-- VS ZARDY -->
+
+<menu name="Vs Zardy" desc="Credits of the original devs who made Vs Zardy.">
+	<credit name="Tsaku" desc="Porter of the mod in codename engine (without modchart)" icon="" size="130" url="https://gamebanana.com/members/2298631"/>
+	<credit name="KadeDev" desc="Programmer and Charter" icon="" size="130" url="https://gamebanana.com/members/1774971"/>
+	<credit name="SwankyBox" desc="Team Lead and Animator" icon="" size="130" url="https://www.youtube.com/user/SwankyBox"/>
+	<credit name="Rozebud" desc="Music Producer" icon="" size="130" url="https://www.youtube.com/channel/UCZsn8GXFKTdDB5TQtuR4FnA"/>
+	<credit name="StarnyArt" desc="Art" icon="" size="130" url="https://starnyart.tumblr.com"/>
+	<credit name="SugarRatio" desc="Additional Art and Animation" icon="" size="130" url="https://www.youtube.com/channel/UCZsn8GXFKTdDB5TQtuR4FnA"/>
+	<credit name="Charriii5" desc="Additional Art and Animation" icon="" size="130" url="https://www.youtube.com/channel/UC1wWQb7GYP6d_FdrNts-DpQ"/>
+	<credit name="Turvie" desc="Menu backgrounds" icon="" size="130" url="https://twitter.com/turvs6"/>
+	<credit name="Jads" desc="Vocal Samples" icon="" size="130" url="https://gamebanana.com/members/1767622"/>
+</menu>
+
+
+<!-- VS KAPI -->
+
+<menu name="Vs Kapi" desc="Credits of the original devs who made Vs Kapi.">
+	<credit name="Tsaku" desc="Porter of the mod in codename engine (without modchart)" icon="" size="130" url="https://gamebanana.com/members/2298631"/>
+	<credit name="Paper Kitty" desc="Art, Animations, Misc. Scripting, Charting and Composing." icon="" size="130" url="https://gamebanana.com/members/1838959"/>
+	<credit name="BbPanzu" desc="For sitting down and saying meow 16 different times for me" icon="" size="130" url="https://gamebanana.com/members/1764067"/>
+	<credit name="MikeGeno" desc="The song Hairball" icon="" size="130" url="https://www.youtube.com/channel/UCyDQKOgEjuIiuPXctcuQKlg"/>
+</menu>
