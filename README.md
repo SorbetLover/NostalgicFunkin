@@ -31,4 +31,4 @@ This modpack will encluding OG Mods from the early days of FNF, starting from 20
 - [ ] StarCatcher
 - [ ] Static Memories
 ---
-# [Credits!](credits.xml)
+# [Credits!](https://github.com/AceThePan/NostalgicFunkin/blob/main/data/config/credits.xml)
