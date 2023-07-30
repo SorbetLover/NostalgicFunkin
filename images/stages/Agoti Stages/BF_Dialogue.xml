@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF_Dialogue_A0000" x="0" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_A0001" x="0" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_A0002" x="410" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_A0003" x="410" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_A0004" x="820" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_A0005" x="820" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_A0006" x="820" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_B0000" x="1230" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_B0001" x="1230" y="0" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_B0002" x="0" y="412" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_B0003" x="0" y="412" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_B0004" x="410" y="412" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_B0005" x="410" y="412" width="410" height="412"/>
+	<SubTexture name="BF_Dialogue_B0006" x="410" y="412" width="410" height="412"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue Box_2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="P5_Box Tailess0000" x="0" y="0" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0001" x="723" y="0" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0002" x="1446" y="0" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0003" x="2169" y="0" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0004" x="2892" y="0" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0005" x="0" y="205" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0006" x="723" y="205" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0007" x="1446" y="205" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0008" x="2169" y="205" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0009" x="2892" y="205" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0010" x="0" y="410" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0011" x="0" y="410" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0012" x="723" y="410" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0013" x="1446" y="410" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0014" x="2169" y="410" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0015" x="2169" y="410" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0016" x="2892" y="410" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0017" x="0" y="615" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0018" x="723" y="615" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0019" x="1446" y="615" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0020" x="2169" y="615" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0021" x="2892" y="615" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0022" x="0" y="820" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0023" x="723" y="820" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0024" x="1446" y="820" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0025" x="2169" y="820" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0026" x="2892" y="820" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0027" x="0" y="1025" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0028" x="723" y="1025" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0029" x="723" y="1025" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0030" x="723" y="1025" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0031" x="1446" y="1025" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0032" x="2169" y="1025" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0033" x="2892" y="1025" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0034" x="0" y="1230" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0035" x="723" y="1230" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0036" x="1446" y="1230" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0037" x="2169" y="1230" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0038" x="2892" y="1230" width="723" height="205"/>
+	<SubTexture name="P5_Box Tailess0039" x="0" y="1435" width="723" height="205"/>
+</TextureAtlas>

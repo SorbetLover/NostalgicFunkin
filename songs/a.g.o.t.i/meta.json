@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 160,
+	"difficulties": [
+		"NOOB",
+		"NORMAL",
+		"HARD",
+		"EXPERT",
+		"INSANE"
+	],
+	"needsVoices": true,
+	"parsedColor": -3541864,
+	"displayName": "a.g.o.t.i",
+	"icon": "agoti crazy",
+	"name": "a.g.o.t.i",
+	"color": "#C9F498"
+}

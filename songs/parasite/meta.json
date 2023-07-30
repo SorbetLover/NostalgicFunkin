@@ -1,0 +1,22 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "agoti",
+	"difficulties": [
+		"NOOB",
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"EXPERT",
+		"INSANE"
+		
+	],
+	"parsedColor": -3541864,
+	"color": "#C9F498",
+	"name": "parasite",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "parasite",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 160
+}

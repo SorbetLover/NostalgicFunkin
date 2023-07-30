@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="agoti" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Agoti/AGOTI">
+	<anim x="0" loop="false" y="0" fps="24" anim="Agoti_Idle" name="idle"/>
+	<anim x="20" loop="false" y="-185" fps="24" anim="Agoti_Down" name="singDOWN"/>
+	<anim x="95" loop="false" y="-43" fps="24" anim="Agoti_Right" name="singRIGHT"/>
+	<anim x="59" loop="false" y="70" fps="24" anim="Agoti_Up" name="singUP"/>
+	<anim x="333" loop="false" y="25" fps="24" anim="Agoti_Left" name="singLEFT"/>
+</character>

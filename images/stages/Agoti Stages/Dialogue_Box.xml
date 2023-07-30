@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue_Box.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="P5_Box0000" x="0" y="0" width="723" height="324"/>
+	<SubTexture name="P5_Box0001" x="723" y="0" width="723" height="324"/>
+	<SubTexture name="P5_Box0002" x="1446" y="0" width="723" height="324"/>
+	<SubTexture name="P5_Box0003" x="2169" y="0" width="723" height="324"/>
+	<SubTexture name="P5_Box0004" x="2892" y="0" width="723" height="324"/>
+	<SubTexture name="P5_Box0005" x="0" y="324" width="723" height="324"/>
+	<SubTexture name="P5_Box0006" x="723" y="324" width="723" height="324"/>
+	<SubTexture name="P5_Box0007" x="1446" y="324" width="723" height="324"/>
+	<SubTexture name="P5_Box0008" x="2169" y="324" width="723" height="324"/>
+	<SubTexture name="P5_Box0009" x="2892" y="324" width="723" height="324"/>
+	<SubTexture name="P5_Box0010" x="0" y="648" width="723" height="324"/>
+	<SubTexture name="P5_Box0011" x="723" y="648" width="723" height="324"/>
+	<SubTexture name="P5_Box0012" x="1446" y="648" width="723" height="324"/>
+	<SubTexture name="P5_Box0013" x="2169" y="648" width="723" height="324"/>
+	<SubTexture name="P5_Box0014" x="2892" y="648" width="723" height="324"/>
+	<SubTexture name="P5_Box0015" x="0" y="972" width="723" height="324"/>
+	<SubTexture name="P5_Box0016" x="723" y="972" width="723" height="324"/>
+	<SubTexture name="P5_Box0017" x="1446" y="972" width="723" height="324"/>
+	<SubTexture name="P5_Box0018" x="2169" y="972" width="723" height="324"/>
+	<SubTexture name="P5_Box0019" x="2892" y="972" width="723" height="324"/>
+	<SubTexture name="P5_Box0020" x="0" y="1296" width="723" height="324"/>
+	<SubTexture name="P5_Box0021" x="723" y="1296" width="723" height="324"/>
+	<SubTexture name="P5_Box0022" x="1446" y="1296" width="723" height="324"/>
+	<SubTexture name="P5_Box0023" x="2169" y="1296" width="723" height="324"/>
+	<SubTexture name="P5_Box0024" x="2892" y="1296" width="723" height="324"/>
+	<SubTexture name="P5_Box0025" x="0" y="1620" width="723" height="324"/>
+	<SubTexture name="P5_Box0026" x="723" y="1620" width="723" height="324"/>
+	<SubTexture name="P5_Box0027" x="1446" y="1620" width="723" height="324"/>
+	<SubTexture name="P5_Box0028" x="2169" y="1620" width="723" height="324"/>
+	<SubTexture name="P5_Box0029" x="2892" y="1620" width="723" height="324"/>
+	<SubTexture name="P5_Box0030" x="0" y="1944" width="723" height="324"/>
+	<SubTexture name="P5_Box0031" x="723" y="1944" width="723" height="324"/>
+	<SubTexture name="P5_Box0032" x="1446" y="1944" width="723" height="324"/>
+	<SubTexture name="P5_Box0033" x="2169" y="1944" width="723" height="324"/>
+	<SubTexture name="P5_Box0034" x="2892" y="1944" width="723" height="324"/>
+	<SubTexture name="P5_Box0035" x="0" y="2268" width="723" height="324"/>
+	<SubTexture name="P5_Box0036" x="723" y="2268" width="723" height="324"/>
+	<SubTexture name="P5_Box0037" x="1446" y="2268" width="723" height="324"/>
+	<SubTexture name="P5_Box0038" x="2169" y="2268" width="723" height="324"/>
+	<SubTexture name="P5_Box0039" x="2892" y="2268" width="723" height="324"/>
+</TextureAtlas>
