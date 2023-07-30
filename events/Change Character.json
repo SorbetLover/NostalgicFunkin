@@ -1,0 +1,25 @@
+{
+	"params": [
+		{
+			"name": "Strumline",
+			"type": "StrumLine",
+			"defaultValue": 0
+		}, {
+			"name": "To",
+			"type": "String",
+			"defaultValue": "dad"
+		}, {
+			"name": "Change Icon",
+			"type": "Bool",
+			"defaultValue": true
+		}, {
+			"name": "Offset (X,Y)",
+			"type": "String",
+			"defaultValue": "0,0"
+		}, {
+			"name": "Keep Color",
+			"type": "Bool",
+			"defaultValue": true
+		}
+	]
+}

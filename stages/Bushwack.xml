@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="Bushwack" folder="stages/Bushwhack/">
+
+<girlfriend scroll="1"/>
+	<sprite name="Zardy2BG"               x="-500" y="-400"   sprite="Zardy2BG"       scroll="1" />
+	
+<boyfriend x="900"/>
+
+</stage>

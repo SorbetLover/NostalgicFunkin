@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8125" name="philly" folder="stages/Vs QT/qt-port/stage/">
+    <!--BACKGROUND-->
+	<sprite name="bg" x="-550" y="-283" sprite="streetBackCute" scroll="0.9" alpha="1"/>
+	<sprite name="floor" x="-546" y="654" sprite="streetFrontCute" scroll="1" alpha="1"/>
+
+	<!--TV-->
+	<sprite name="TV" x="130" y="480" sprite="TV_V2_off" scroll="0.95" alpha="1"/>
+
+	<!--OFFSETS-->
+	<girlfriend x="420" y="155" scroll="1"/>
+	<dad x="140" y="320"/>
+	<boyfriend x="835"/>
+</stage>

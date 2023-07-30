@@ -1,0 +1,29 @@
+<!-- DONT TOUCH -->
+
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="genocide" folder="stages/Vs Tabi/burned_stage/">
+    <sprite name="firebuilding" x="0" y="0" sprite="youhavebeendestroyed" scroll="1" scale="1"/>
+    <high-memory>
+        <sprite name="fireglow" x="700" y="260" sprite="fireglow" scroll="0.9" scale="0.75"/>
+        <sprite name="fireglow" x="1100" y="180" sprite="fireglow" scroll="0.9" scale="0.65"/>
+        <sprite name="boards" x="0" y="0" sprite="boards" scroll="1" scale="1"/>
+    </high-memory>
+
+    <high-memory>
+        <sprite name="FireStage" x="100" y="200" sprite="FireStage" scroll="0.9" scale="2"/>
+        <sprite name="fireglow" x="600" y="300" sprite="fireglow" scroll="0.9" scale="1"/>
+        <sprite name="fireglow" x="1250" y="300" sprite="fireglow" scroll="0.9" scale="1"/>
+        <sprite name="FireStage" x="1700" y="300" sprite="FireStage" scroll="0.9" scale="1.5"/>
+    </high-memory>
+
+    <sprite name="glowyfurniture" x="0" y="0" sprite="glowyfurniture" scroll="1" scale="1"/>
+    
+    <high-memory>
+        <sprite name="Destroyed_boombox" x="800" y="700" sprite="Destroyed_boombox" scroll="1" scale="1.2"/>
+    </high-memory>
+
+    <dad x="550" y="430"/>
+    <gf x="1300" y="450" scroll="0.95"/>
+    <boyfriend x="1680" y="770"/>
+    <sprite name="overlayingsticks" x="0" y="0" sprite="overlayingsticks" scroll="1" scale="1"/>
+</stage>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="alley" folder="stages/Vs Whitty/alley/">
+	<sprite name="wall" 	x="-600" y="-200"   sprite="whittyBack"       scroll="0.9" />
+	<sprite name="floor" 	x="-600" y="600"    sprite="whittyFront"      scroll="0.9" />
+	<girlfriend />
+	<dad />
+	<boyfriend />
+</stage>

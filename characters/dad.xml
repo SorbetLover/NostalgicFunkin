@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bf" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="KAPIBOYFRIEND">
+	<anim x="0" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="-14" loop="false" y="-53" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="-46" loop="false" y="-7" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="-44" loop="false" y="26" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="7" loop="false" y="-6" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+</character>

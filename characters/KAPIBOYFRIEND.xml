@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bf" y="350" isGF="false" flipX="true" isPlayer="false" holdTime="6.1" sprite="Vs Kapi/KAPIBOYFRIEND">
+	<anim x="-16" loop="false" y="1" fps="24" anim="BF HEY" name="Nyaw"/>
+	<anim x="40" loop="false" y="18" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim x="-18" loop="false" y="-49" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="-40" loop="false" y="19" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="6" loop="false" y="30" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="-17" loop="false" y="2" fps="24" anim="BF HEY" name="hey"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="-36" loop="false" y="-7" fps="24" anim="BF NOTE LEFT0" name="singRIGHT"/>
+	<anim x="-11" loop="false" y="-19" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="5" loop="false" y="26" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="39" loop="false" y="-5" fps="24" anim="BF NOTE RIGHT0" name="singLEFT"/>
+</character>

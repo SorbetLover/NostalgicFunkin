@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" icon="Vs QT/kb" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs QT/qt-port/robot_404-angry">
+	<anim x="-60" loop="true" y="-26" fps="24" anim="KB_idleBabyRage" name="idle"/>
+	<anim x="-6" loop="false" y="-73" fps="24" anim="KB_Down" name="singDOWN"/>
+	<anim x="-320" loop="false" y="-53" fps="24" anim="KB_Right" name="singRIGHT"/>
+	<anim x="-40" loop="false" y="165" fps="24" anim="KB_Up" name="singUP"/>
+	<anim x="44" loop="false" y="143" fps="24" anim="KB_Left" name="singLEFT"/>
+</character>
