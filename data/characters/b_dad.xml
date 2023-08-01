@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="B Sides/b_dad" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="B Sides/DADDY_DEAREST">
+	<anim x="0" loop="false" y="0" fps="24" anim="Dad idle dance" name="idle"/>
+	<anim x="0" loop="false" y="-31" fps="24" anim="Dad Sing Note DOWN" name="singDOWN"/>
+	<anim x="-6" loop="false" y="27" fps="24" anim="Dad Sing Note RIGHT" name="singRIGHT"/>
+	<anim x="-8" loop="false" y="51" fps="24" anim="Dad Sing Note UP" name="singUP"/>
+	<anim x="-7" loop="false" y="10" fps="24" anim="Dad Sing Note LEFT" name="singLEFT"/>
+</character>

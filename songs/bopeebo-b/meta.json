@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 120,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -288832,
+	"displayName": "Bopeebo",
+	"icon": "B Sides/b_dad",
+	"name": "bopeebo-b",
+	"color": "#FB97C0"
+}

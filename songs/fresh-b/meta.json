@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 132,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -288831,
+	"displayName": "fresh",
+	"icon": "B Sides/b_dad",
+	"name": "fresh-b",
+	"color": "#FB97C1"
+}
