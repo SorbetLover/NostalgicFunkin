@@ -3,16 +3,16 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 187,
+	"bpm": 184,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -288833,
-	"displayName": "Dad Battle",
-	"icon": "B Sides/dad",
-	"name": "dadbattle-b",
-	"color": "#FB97BF"
+	"parsedColor": -5460820,
+	"displayName": "South",
+	"icon": "B Sides/spooky",
+	"name": "south-b",
+	"color": "#ACACAC"
 }

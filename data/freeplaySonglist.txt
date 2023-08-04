@@ -2,6 +2,8 @@ tutorial-b
 bopeebo-b
 fresh-b
 dadbattle-b
+spookeez-b
+south-b
 
 lo-fight
 overhead

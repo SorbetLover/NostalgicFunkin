@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="B Sides/spooky" y="200" isGF="false" isPlayer="false" sprite="B Sides/spooky_kids_assets">
+	<anim x="-50" loop="false" y="-130" fps="24" anim="spooky DOWN note" name="singDOWN"/>
+	<anim x="-130" loop="false" y="-14" fps="24" anim="spooky sing right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="spooky dance idle" indices="8,10,12,14" name="danceRight"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="spooky dance idle" indices="0,2,6" name="danceLeft"/>
+	<anim x="-20" loop="false" y="26" fps="24" anim="spooky UP NOTE" name="singUP"/>
+	<anim x="130" loop="false" y="-10" fps="24" anim="note sing left" name="singLEFT"/>
+</character>
