@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 187,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7376387,
+	"displayName": "Philly",
+	"icon": "B SIDEs/b_pico",
+	"name": "philly-b",
+	"color": "#8978CC"
+}
