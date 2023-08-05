@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Zooms",
+            "type": "String",
+            "defaultValue": "0.9"
+        }
+    ]
+}

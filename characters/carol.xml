@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Carol/carol" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Carol/carol" camx="150" camy="125">
+	<anim x="0" loop="false" y="0" fps="24" anim="Dad idle dance" name="idle"/>
+	<anim x="-9" loop="false" y="30" fps="24" anim="Dad Sing Note RIGHT" name="singRIGHT"/>
+	<anim x="-4" loop="false" y="-29" fps="24" anim="Dad Sing Note DOWN" name="singDOWN"/>
+	<anim x="-18" loop="false" y="12" fps="24" anim="Dad Sing Note LEFT" name="singLEFT"/>
+	<anim x="-17" loop="false" y="52" fps="24" anim="Dad Sing Note UP" name="singUP"/>
+</character>

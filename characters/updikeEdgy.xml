@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Whitty/updike" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="VS Whitty/updike/updike">
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong idle edgy" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong down note edgy" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong right note edgy" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong up note edgy" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="updingdong left note edgy" name="singLEFT"/>
+</character>

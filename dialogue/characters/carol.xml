@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="50" y="50">
+	<anim name="normal" anim="Normal" fps="24" />
+</character>

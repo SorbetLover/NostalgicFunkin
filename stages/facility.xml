@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.85" name="facility" folder="stages/VS Whitty/facility/">
+	<sprite name="wall" 	x="-600" y="-200"   sprite="wallbg"       scroll="1" />
+	<sprite name="light" 	x="375" y="100"   sprite="light"       scroll="1" 	alpha="0.25"	scale="1.1"/>
+	<girlfriend x="400" y="250"/>
+	<dad x="-75" y="225"/>
+	<boyfriend x="750" y="200"/>
+</stage>

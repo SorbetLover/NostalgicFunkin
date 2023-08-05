@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bf" y="0" isGF="false" camy="50" flipX="true" isPlayer="false" gameOverChar="BF_Knife_death" sprite="Vs Tabi/BF_post_exp">
+	<anim x="-3" loop="true" y="-1" fps="24" anim="BF idle shaking" name="scared"/>
+	<anim x="-36" loop="false" y="19" fps="24" anim="BF NOTE LEFT MISS" name="singRIGHTmiss"/>
+	<anim x="-25" loop="false" y="-52" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="4" loop="false" y="34" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="41" loop="false" y="23" fps="24" anim="BF NOTE RIGHT MISS" name="singLEFTmiss"/>
+	<anim x="-2" loop="false" y="7" fps="24" anim="BF HEY" name="hey"/>
+	<anim x="-4" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="-38" loop="false" y="-7" fps="24" anim="BF NOTE LEFT0" name="singRIGHT"/>
+	<anim x="-28" loop="false" y="-23" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="1" loop="false" y="25" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="36" loop="false" y="-5" fps="24" anim="BF NOTE RIGHT0" name="singLEFT"/>
+</character>

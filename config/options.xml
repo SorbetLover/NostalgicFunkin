@@ -1,0 +1,5 @@
+<!DOCTYPE codename-mod-options>
+<menu name="NostalgicFunkin" desc="Options for the ports!">
+	<checkbox id="shaderShit" desc="Disables shaders in the port." name="Disable shaders" />
+	<checkbox id="shakeShit" desc="Disables shaking in the port." name="Disable shaking"/>
+</menu>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" icon="Vs Mami/mami-mamigation" camx="15" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Mami/Mami Mamigation">
+	<anim x="0" loop="false" y="0" fps="24" anim="MAMIGATION_IDLE" name="idle"/>
+	<anim x="-220" loop="false" y="-48" fps="24" anim="MAMIGATION_RIGHT" name="singRIGHT"/>
+	<anim x="29" loop="false" y="-63" fps="24" anim="MAMIGATION_DOWN" name="singDOWN"/>
+	<anim x="200" loop="false" y="34" fps="24" anim="MAMIGATION_LEFT" name="singLEFT"/>
+	<anim x="2" loop="false" y="184" fps="24" anim="MAMIGATION_UP" name="singUP"/>
+</character>

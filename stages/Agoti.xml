@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.55" name="philly" folder="stages/Agoti Stages/">
+
+	<sprite name="The_void" x="500" y="300" sprite="The_void" scroll="0.5" scale="2.5"/>
+
+	<sprite name="Void_Back" x="-500" y="-580" sprite="Void_Back" scroll="0.7" scale="0.55"/>
+
+	<girlfriend x="950" y="-300" scale="1" scroll= "0.8" />
+
+	<sprite name="Void_Front" x="-200" y="-370" sprite="Void_Front" scroll="1"/>
+
+
+
+	<dad x="800" y="288" />
+	<boyfriend x="1620" y="380" />
+
+
+</stage>

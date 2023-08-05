@@ -1,0 +1,61 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8125" name="philly" folder="stages/Vs QT/qt-port/stage/">
+    <!--BACKGROUND-->
+	<sprite name="bg" x="-550" y="-283" sprite="streetBack" scroll="0.9" alpha="1"/>
+	<sprite name="floor" x="-546" y="654" sprite="streetFront" scroll="1" alpha="1"/>
+
+	<sprite name="bg2" x="-550" y="-283" sprite="streetError" scroll="0.9" alpha="0.0001"/>
+	<sprite name="floor2" x="-546" y="654" sprite="streetFrontError" scroll="1" alpha="0.0001"/>
+
+	<!--TV-->
+	<sprite name="TV" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_brutality0" loop="false"/>
+	</sprite>
+	<sprite name="TV2" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_Drop" loop="false"/>
+	</sprite>
+	<sprite name="TV3" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_End" loop="false"/>
+	</sprite>
+	<sprite name="TV3" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_Error" loop="false"/>
+	</sprite>
+	<sprite name="TV4" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_Error" loop="false"/>
+	</sprite>
+	<sprite name="TV5" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_eyeLeft" loop="false"/>
+	</sprite>
+	<sprite name="TV6" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_eyeLeft" loop="false"/>
+	</sprite>
+	<sprite name="TV7" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_eyeRight" loop="false"/>
+	</sprite>
+	<sprite name="TV8" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_eyes-OLD" loop="false"/>
+	</sprite>
+	<sprite name="TV9" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_sus" loop="false"/>
+	</sprite>
+	<sprite name="TV10" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="1">
+		<anim name="anim1" anim="TV_Instructions-Normal" loop="false"/>
+	</sprite>
+	<sprite name="TV11" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_Watchout" loop="false"/>
+	</sprite>
+	<sprite name="TV12" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_Idle" loop="false"/>
+	</sprite>
+	<sprite name="TV13" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_GoodLuck" loop="false"/>
+	</sprite>
+	<sprite name="TV14" x="130" y="480" sprite="TV_V5" scroll="0.95" alpha="0.0001">
+		<anim name="anim1" anim="TV_Attention" loop="false"/>
+	</sprite>
+
+	<!--OFFSETS-->
+	<girlfriend x="420" y="155" scroll="1"/>
+	<dad x="140" y="200"/>
+	<boyfriend x="835"/>
+</stage>
