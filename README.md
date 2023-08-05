@@ -1,9 +1,14 @@
-[![nf.png](https://i.postimg.cc/YCFPbpny/nf.png)](https://postimg.cc/TKRQPXXr)
 # NostalgicFunkin
-Nostalgic Funkin' is a modpack made with well, Codename Engine.
-This modpack will encluding OG Mods from the early days of FNF, starting from 2020 to the end of 2021.
----
-# to-dos | Planned Mods
+[![nf.png](https://i.postimg.cc/YCFPbpny/nf.png)](https://postimg.cc/TKRQPXXr)
+## What the funk is Nostalgic Funkin???
+Nostalgic Funkin is a modpack made with Codename Engine. Want to play most of the OLD mods from the late 2020 up to the end of 2021 and you don't want to download the game 100 times again and again?? Well this modpack is for you! Currently being developed by ***5 People!!***
+
+--------------------
+
+## Whats planned?
+
+A ton of mods see below of whats currently work in progress or still needs start.
+
 - [x] Vs. Whitty (Legacy) | Finished without ballistic cutscene ⭐
 - [ ] Vs. AGOTI (the classic one)
 - [ ] Vs. Hex (Maybe Weekand Update)
@@ -30,5 +35,6 @@ This modpack will encluding OG Mods from the early days of FNF, starting from 20
 - [ ] vs imposter v?
 - [ ] StarCatcher
 - [ ] Static Memories
----
+
+
 # [Credits!](https://github.com/AceThePan/NostalgicFunkin/blob/main/data/config/credits.xml)

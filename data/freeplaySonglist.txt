@@ -4,6 +4,9 @@ fresh-b
 dadbattle-b
 spookeez-b
 south-b
+pico-b
+philly-b
+blammed-b
 
 lo-fight
 overhead
