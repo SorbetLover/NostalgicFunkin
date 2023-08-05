@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.4,
+			"portrait": "kb"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're too stubborn for your own good kid."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've grown tired of you and your annoying chipmunk voice."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Prepare yourself, for I won't show any mercy for you..."
+		}
+	]
+}

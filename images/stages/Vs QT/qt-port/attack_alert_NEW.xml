@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attack_alert_NEW.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kb_attack_animation_alert-single0000" x="4" y="4" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0001" x="262" y="4" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0002" x="520" y="4" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0003" x="778" y="4" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0004" x="1036" y="4" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0005" x="1294" y="4" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-double0000" x="1552" y="4" width="378" height="277"/>
+	<SubTexture name="kb_attack_animation_alert-double0001" x="4" y="283" width="378" height="277"/>
+	<SubTexture name="kb_attack_animation_alert-double0002" x="384" y="283" width="377" height="277" frameX="0" frameY="0" frameWidth="378" frameHeight="277"/>
+	<SubTexture name="kb_attack_animation_alert-double0003" x="763" y="283" width="376" height="277" frameX="0" frameY="0" frameWidth="378" frameHeight="277"/>
+	<SubTexture name="kb_attack_animation_alert-double0004" x="1141" y="283" width="375" height="277" frameX="0" frameY="0" frameWidth="378" frameHeight="277"/>
+	<SubTexture name="kb_attack_animation_alert-double0005" x="1518" y="283" width="374" height="277" frameX="0" frameY="0" frameWidth="378" frameHeight="277"/>
+	<SubTexture name="kb_attack_animation_alert-triple0000" x="4" y="562" width="507" height="351"/>
+	<SubTexture name="kb_attack_animation_alert-triple0001" x="513" y="562" width="507" height="351"/>
+	<SubTexture name="kb_attack_animation_alert-triple0002" x="1022" y="562" width="505" height="350" frameX="-1" frameY="-1" frameWidth="507" frameHeight="351"/>
+	<SubTexture name="kb_attack_animation_alert-triple0003" x="1529" y="562" width="504" height="350" frameX="-2" frameY="-1" frameWidth="507" frameHeight="351"/>
+	<SubTexture name="kb_attack_animation_alert-triple0004" x="4" y="915" width="503" height="350" frameX="-3" frameY="-1" frameWidth="507" frameHeight="351"/>
+	<SubTexture name="kb_attack_animation_alert-triple0005" x="509" y="915" width="502" height="350" frameX="-4" frameY="-1" frameWidth="507" frameHeight="351"/>
+	<SubTexture name="kb_attack_animation_alert-quad0000" x="1013" y="915" width="462" height="321" frameX="-4" frameY="0" frameWidth="470" frameHeight="321"/>
+	<SubTexture name="kb_attack_animation_alert-quad0001" x="1477" y="915" width="466" height="321" frameX="-2" frameY="0" frameWidth="470" frameHeight="321"/>
+	<SubTexture name="kb_attack_animation_alert-quad0002" x="4" y="1267" width="468" height="320" frameX="-1" frameY="0" frameWidth="470" frameHeight="321"/>
+	<SubTexture name="kb_attack_animation_alert-quad0003" x="474" y="1267" width="470" height="320" frameX="0" frameY="0" frameWidth="470" frameHeight="321"/>
+	<SubTexture name="kb_attack_animation_alert-quad0004" x="946" y="1267" width="320" height="320" frameX="-73" frameY="0" frameWidth="470" frameHeight="321"/>
+	<SubTexture name="kb_attack_animation_alert-quad0005" x="1268" y="1267" width="320" height="320" frameX="-73" frameY="0" frameWidth="470" frameHeight="321"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" icon="Gf" y="30" isGF="true" isPlayer="false" sprite="Vs Mami/HOLY_GF">
+	<anim x="0" loop="true" y="0" fps="24" anim="GF Dancing Beat" name="idle"/>
+</character>

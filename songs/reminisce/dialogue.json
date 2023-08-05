@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "NORMAL",
+			"text": "I enjoyed the little duet we had, but what were those?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "CONCERN",
+			"text": "Thoughts? Memories? Visions?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "ANNOYED",
+			"text": "No, it can't be any one of those.."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "ANNOYED",
+			"text": "The better question to ask would be, why did I see them at all?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "CONCERN",
+			"text": "What kind manipulative magic am I dealing with here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "CONCERN",
+			"text": "I need to stick around a little longer so that I can figure this out."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "HAPPY",
+			"text": "Well, that was a nice change of pace for once, it's not every day you get to sing your heart out!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "NORMAL",
+			"text": "Say, do you want to do another? Then after that we can all have tea over at my place."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "BF",
+			"boxState": "normal",
+			"expression": "NORMAL",
+			"text": "beep"
+		}
+	]
+}

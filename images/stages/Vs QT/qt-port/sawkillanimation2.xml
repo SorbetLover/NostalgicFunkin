@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sawkillanimation2.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kb_attack_animation_kill_idle0000" x="75" y="75" width="1416" height="206"/>
+	<SubTexture name="kb_attack_animation_kill_moving0000" x="1541" y="75" width="1416" height="206" frameX="-10" frameY="-47" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0001" x="75" y="331" width="1437" height="229" frameX="-8" frameY="-21" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0002" x="1562" y="331" width="1443" height="237" frameX="-5" frameY="-11" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0003" x="75" y="618" width="1429" height="230" frameX="-3" frameY="-15" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0004" x="1554" y="618" width="1402" height="209" frameX="0" frameY="-34" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0005" x="75" y="898" width="1421" height="226" frameX="-2" frameY="-15" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0006" x="1546" y="898" width="1431" height="236" frameX="-4" frameY="-3" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0007" x="75" y="1184" width="1432" height="236" frameX="-6" frameY="-1" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0008" x="1557" y="1184" width="1423" height="226" frameX="-8" frameY="-9" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0009" x="75" y="1470" width="1405" height="208" frameX="-10" frameY="-25" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0010" x="1530" y="1470" width="1430" height="233" frameX="-12" frameY="-2" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0011" x="75" y="1753" width="1425" height="222" frameX="-14" frameY="-15" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0012" x="1550" y="1753" width="1434" height="220" frameX="-16" frameY="-19" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0013" x="75" y="2025" width="1443" height="240" frameX="-18" frameY="-1" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0014" x="1568" y="2025" width="1399" height="220" frameX="-20" frameY="-23" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0015" x="75" y="2315" width="1427" height="241" frameX="-18" frameY="-4" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0016" x="1552" y="2315" width="1440" height="247" frameX="-16" frameY="0" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0017" x="75" y="2612" width="1436" height="237" frameX="-14" frameY="-12" frameWidth="1461" frameHeight="253"/>
+	<SubTexture name="kb_attack_animation_kill_moving0018" x="1561" y="2612" width="1415" height="211" frameX="-12" frameY="-40" frameWidth="1461" frameHeight="253"/>
+</TextureAtlas>

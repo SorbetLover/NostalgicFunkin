@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.08,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "fucked",
+			"text": "System error"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "fucked",
+			"text": "Cannot process <lose_condition>"
+		},
+		{
+			"speed": 0.35,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "fucked",
+			"text": "..."
+		}
+	]
+}

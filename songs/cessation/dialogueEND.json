@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Well that was fun!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "bruhNoTalk",
+			"text": "..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I hope we can sing again next time we meet."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "lookAwayNoTalk",
+			"text": "(I hope not)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Goodbye."
+		}
+	]
+}

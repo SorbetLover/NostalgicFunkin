@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="QT_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="QTDialogueFucked0000" x="4" y="4" width="370" height="421"/>
+	<SubTexture name="QTDialogueHappyIDLE0000" x="376" y="4" width="428" height="482"/>
+	<SubTexture name="QTDialogueHappyLoop0000" x="806" y="4" width="437" height="492"/>
+	<SubTexture name="QTDialogueHappyLoop0001" x="1245" y="4" width="437" height="492"/>
+	<SubTexture name="QTDialogueHappyLoop0002" x="4" y="498" width="437" height="492"/>
+	<SubTexture name="QTDialogueHappyLoop0003" x="443" y="498" width="437" height="492"/>
+	<SubTexture name="QTDialogueHappyLoop0004" x="882" y="498" width="437" height="492"/>
+	<SubTexture name="QTDialogueNervousIDLE0000" x="1321" y="498" width="389" height="460"/>
+	<SubTexture name="QTDialogueNervousLoop0000" x="4" y="992" width="390" height="466"/>
+	<SubTexture name="QTDialogueNervousLoop0001" x="396" y="992" width="390" height="466"/>
+	<SubTexture name="QTDialogueNervousLoop0002" x="788" y="992" width="390" height="466"/>
+	<SubTexture name="QTDialogueNervousLoop0003" x="1180" y="992" width="390" height="466"/>
+	<SubTexture name="QTDialogueNervousLoop0004" x="1572" y="992" width="390" height="466"/>
+	<SubTexture name="QTDialogueNormalIDLE0000" x="4" y="1460" width="389" height="460"/>
+	<SubTexture name="QTDialogueNormalLoop0000" x="395" y="1460" width="389" height="466"/>
+	<SubTexture name="QTDialogueNormalLoop0001" x="786" y="1460" width="389" height="466"/>
+	<SubTexture name="QTDialogueNormalLoop0002" x="1177" y="1460" width="389" height="466"/>
+	<SubTexture name="QTDialogueNormalLoop0003" x="1568" y="1460" width="389" height="466"/>
+	<SubTexture name="QTDialogueNormalLoop0004" x="4" y="1928" width="389" height="466"/>
+</TextureAtlas>

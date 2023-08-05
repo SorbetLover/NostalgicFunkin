@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 113,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -3172116,
+	"displayName": "cessation",
+	"icon": "Vs QT/qtkb",
+	"name": "cessation",
+	"color": "#CF98EC"
+}

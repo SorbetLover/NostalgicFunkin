@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KB_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KBDialogueAngry0000" x="4" y="4" width="803" height="561" frameX="-29" frameY="-2" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueAngry0001" x="809" y="4" width="822" height="562" frameX="-10" frameY="-1" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueAngry0002" x="1633" y="4" width="829" height="562" frameX="0" frameY="-1" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueAngry0003" x="2464" y="4" width="828" height="563" frameX="0" frameY="0" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueAngryIDLE0000" x="4" y="569" width="803" height="561" frameX="-29" frameY="-2" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueAngryIDLE0001" x="809" y="569" width="822" height="562" frameX="-10" frameY="-1" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueAngryIDLE0002" x="1633" y="569" width="829" height="562" frameX="0" frameY="-1" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueAngryIDLE0003" x="2464" y="569" width="828" height="563" frameX="0" frameY="0" frameWidth="832" frameHeight="563"/>
+	<SubTexture name="KBDialogueBruh0000" x="4" y="1134" width="800" height="563"/>
+	<SubTexture name="KBDialogueBruh0001" x="806" y="1134" width="800" height="563"/>
+	<SubTexture name="KBDialogueBruh0002" x="1608" y="1134" width="800" height="563"/>
+	<SubTexture name="KBDialogueBruh0003" x="2410" y="1134" width="800" height="563"/>
+	<SubTexture name="KBDialogueBruhIDLE0000" x="3212" y="1134" width="800" height="563"/>
+	<SubTexture name="KBDialogueBruhIDLE0001" x="4" y="1699" width="800" height="563"/>
+	<SubTexture name="KBDialogueBruhIDLE0002" x="806" y="1699" width="800" height="563"/>
+	<SubTexture name="KBDialogueBruhIDLE0003" x="1608" y="1699" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAway0000" x="2410" y="1699" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAway0001" x="3212" y="1699" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAway0002" x="4" y="2264" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAway0003" x="806" y="2264" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAwayUWU0000" x="1608" y="2264" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAwayUWU0001" x="2410" y="2264" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAwayUWU0002" x="3212" y="2264" width="800" height="563"/>
+	<SubTexture name="KBDialogueLooksAwayUWU0003" x="4" y="2829" width="800" height="563"/>
+	<SubTexture name="KBDialogueNormal0000" x="806" y="2829" width="800" height="562"/>
+	<SubTexture name="KBDialogueNormal0001" x="1608" y="2829" width="800" height="562"/>
+	<SubTexture name="KBDialogueNormal0002" x="2410" y="2829" width="800" height="562"/>
+	<SubTexture name="KBDialogueNormal0003" x="3212" y="2829" width="800" height="562"/>
+	<SubTexture name="KBDialogueNormalIDLE0000" x="4" y="3394" width="800" height="562"/>
+	<SubTexture name="KBDialogueNormalIDLE0001" x="806" y="3394" width="800" height="562"/>
+	<SubTexture name="KBDialogueNormalIDLE0002" x="1608" y="3394" width="800" height="562"/>
+	<SubTexture name="KBDialogueNormalIDLE0003" x="2410" y="3394" width="800" height="562"/>
+</TextureAtlas>

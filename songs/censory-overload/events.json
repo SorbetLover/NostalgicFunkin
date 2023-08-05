@@ -1,0 +1,1227 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "street-kb",
+		"player1": "bf",
+		"player2": "kb",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				20210.5263157895,
+				[
+					[
+						"streetTV state",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				25263.1578947368,
+				[
+					[
+						"streetTV state",
+						"0",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				65684.2105263157,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				75789.4736842105,
+				[
+					[
+						"streetTV state",
+						"9",
+						""
+					],
+					[
+						"Alarm Gradient",
+						"right",
+						"0.09"
+					]
+				]
+			],
+			[
+				76421.0526315789,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.09"
+					]
+				]
+			],
+			[
+				77052.6315789473,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.09"
+					]
+				]
+			],
+			[
+				77684.2105263157,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.09"
+					]
+				]
+			],
+			[
+				78315.7894736841,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.1"
+					]
+				]
+			],
+			[
+				78947.3684210526,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.1"
+					]
+				]
+			],
+			[
+				79578.947368421,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.12"
+					]
+				]
+			],
+			[
+				80210.5263157894,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.15"
+					]
+				]
+			],
+			[
+				80842.1052631578,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.16"
+					]
+				]
+			],
+			[
+				81473.6842105262,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.16"
+					]
+				]
+			],
+			[
+				82105.2631578947,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.2"
+					]
+				]
+			],
+			[
+				82736.8421052631,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.2"
+					]
+				]
+			],
+			[
+				83368.4210526315,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.2"
+					]
+				]
+			],
+			[
+				83999.9999999999,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.2"
+					]
+				]
+			],
+			[
+				84631.5789473683,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.26"
+					]
+				]
+			],
+			[
+				85263.1578947368,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.29"
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				86526.3157894736,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.33"
+					]
+				]
+			],
+			[
+				87157.894736842,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.36"
+					]
+				]
+			],
+			[
+				87789.4736842104,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.39"
+					]
+				]
+			],
+			[
+				88421.0526315789,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.41"
+					]
+				]
+			],
+			[
+				89052.6315789473,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.44"
+					]
+				]
+			],
+			[
+				89684.2105263157,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.47"
+					]
+				]
+			],
+			[
+				90315.7894736841,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.49"
+					]
+				]
+			],
+			[
+				90947.3684210525,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.5"
+					]
+				]
+			],
+			[
+				91578.947368421,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.51"
+					]
+				]
+			],
+			[
+				92210.5263157894,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.53"
+					]
+				]
+			],
+			[
+				92842.1052631578,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.54"
+					]
+				]
+			],
+			[
+				93473.6842105262,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.56"
+					]
+				]
+			],
+			[
+				94105.2631578946,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.58"
+					]
+				]
+			],
+			[
+				94736.8421052631,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.6"
+					]
+				]
+			],
+			[
+				95368.4210526315,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.61"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"streetTV state",
+						"1",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					],
+					[
+						"Alarm Gradient",
+						"right",
+						"0.4"
+					],
+					[
+						"Alarm Gradient",
+						"left",
+						"0.4"
+					]
+				]
+			],
+			[
+				116210.526315789,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				116842.105263158,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				117473.684210526,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				118105.263157895,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				121263.157894737,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				121894.736842105,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				122526.315789474,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				123157.894736842,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				126315.789473684,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				126947.368421052,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				127578.947368421,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				128210.526315789,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				128842.105263158,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				129473.684210526,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				130105.263157895,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				130736.842105263,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.3"
+					]
+				]
+			],
+			[
+				131368.421052631,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.3"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.31"
+					]
+				]
+			],
+			[
+				132631.578947368,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				133263.157894737,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.33"
+					]
+				]
+			],
+			[
+				133894.736842105,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.34"
+					]
+				]
+			],
+			[
+				134526.315789474,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.35"
+					]
+				]
+			],
+			[
+				135157.894736842,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.36"
+					]
+				]
+			],
+			[
+				135789.47368421,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.36"
+					]
+				]
+			],
+			[
+				136421.052631579,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					],
+					[
+						"streetTV state",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				176210.52631579,
+				[
+					[
+						"streetTV state",
+						"5",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.63,0.0097",
+						"0.63,0.0092"
+					]
+				]
+			],
+			[
+				176842.105263158,
+				[
+					[
+						"streetTV state",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				217263.157894738,
+				[
+					[
+						"streetTV state",
+						"0",
+						""
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				221684.210526317,
+				[
+					[
+						"streetTV state",
+						"6",
+						""
+					],
+					[
+						"streetBG state",
+						"1",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.63,0.0123",
+						"0.63,0.012"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				222315.789473685,
+				[
+					[
+						"streetTV state",
+						"7",
+						""
+					],
+					[
+						"streetBG state",
+						"2",
+						""
+					],
+					[
+						"Change Character OPTIONAL",
+						"gf",
+						"gf-404"
+					],
+					[
+						"Change Character OPTIONAL",
+						"dad",
+						"kb-404"
+					],
+					[
+						"Change Character OPTIONAL",
+						"bf",
+						"bf-404"
+					],
+					[
+						"newDadDrainHealthValue",
+						"0.0095",
+						""
+					],
+					[
+						"newLossMultiplier",
+						"1.125",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				242526.315789474,
+				[
+					[
+						"streetTV state",
+						"7",
+						""
+					],
+					[
+						"streetBG state",
+						"2",
+						""
+					],
+					[
+						"Change Character OPTIONAL",
+						"gf",
+						"gf-404"
+					],
+					[
+						"Change Character OPTIONAL",
+						"dad",
+						"kb-404"
+					],
+					[
+						"Change Character OPTIONAL",
+						"bf",
+						"bf-404"
+					],
+					[
+						"newDadDrainHealthValue",
+						"0.0095",
+						""
+					],
+					[
+						"newLossMultiplier",
+						"1.125",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				242526.315789475,
+				[
+					[
+						"newDadDrainHealthValue",
+						"0.125",
+						""
+					]
+				]
+			],
+			[
+				262736.842105264,
+				[
+					[
+						"Change Character OPTIONAL",
+						"dad",
+						"kb"
+					],
+					[
+						"Change Character OPTIONAL",
+						"bf",
+						"bf"
+					],
+					[
+						"Change Character OPTIONAL",
+						"gf",
+						"gf"
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					],
+					[
+						"newLossMultiplier",
+						"1.075",
+						""
+					],
+					[
+						"newDadDrainHealthValue",
+						"0.01195",
+						""
+					],
+					[
+						"streetTV state",
+						"1",
+						""
+					],
+					[
+						"streetBG state",
+						"0",
+						""
+					]
+				],
+				null,
+				"Hurt Note"
+			],
+			[
+				282947.368421054,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				283578.947368422,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				284210.526315791,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				284842.105263159,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				285473.684210528,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				286105.263157896,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				286736.842105264,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				287368.421052633,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				288000.000000001,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				288631.57894737,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				289263.157894738,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				289894.736842107,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				290526.315789475,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				291157.894736843,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				291789.473684212,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				292421.05263158,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				293052.631578949,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				293684.210526317,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				294315.789473686,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				294947.368421054,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				295578.947368422,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				296210.526315791,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				296842.105263159,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				297473.684210528,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				298105.263157896,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				298736.842105265,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				299368.421052633,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				300000.000000001,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				300631.57894737,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				301263.157894738,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				301894.736842107,
+				[
+					[
+						"Alarm Gradient",
+						"right",
+						"0.32"
+					]
+				]
+			],
+			[
+				302526.315789475,
+				[
+					[
+						"Alarm Gradient",
+						"left",
+						"0.32"
+					]
+				]
+			],
+			[
+				303157.894736844,
+				[
+					[
+						"streetTV state",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				312947.368421054,
+				[
+					[
+						"Add Camera Zoom",
+						"0.016",
+						"0.032"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Censory-Overload",
+		"dodgeEnabled": null
+	}
+}

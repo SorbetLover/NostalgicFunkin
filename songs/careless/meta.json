@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 113,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HARDER"
+	],
+	"needsVoices": true,
+	"parsedColor": -3172116,
+	"displayName": "careless",
+	"icon": "Vs QT/qt",
+	"name": "careless",
+	"color": "#CF98EC"
+}

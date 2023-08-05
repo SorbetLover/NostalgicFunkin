@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"scale": 1.75,
+	"animations": [
+		{
+			"loop_offsets": [
+				-80,
+				-30
+			],
+			"anim": "HURT",
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"loop_name": "HURT",
+			"idle_name": "HURT"
+		},
+		{
+			"loop_name": "TALK",
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"idle_name": "TALK",
+			"anim": "NORMAL",
+			"loop_offsets": [
+				-80,
+				-30
+			]
+		}
+	],
+	"image": "HOMURA"
+}

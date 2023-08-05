@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "Vs Mami/mami-mamigation",
+	"difficulties": [
+		"HARD",
+		"HOLY"
+	],
+	"parsedColor": -3541864,
+	"name": "Mamigation",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Mamigation",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 150
+}

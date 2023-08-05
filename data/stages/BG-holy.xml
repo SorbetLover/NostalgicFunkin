@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.65" followLerp="0.02" name="Holy" folder="stages/Vs Mami/">
+    <!--BACKGROUND-->
+	<sprite name="sky" x="-700" y="0" sprite="BGSky" scroll="1" alpha="1"/>
+	<sprite name="train" x="-630" y="200" sprite="BGTrain" scroll="1" alpha="1"/>
+	<sprite name="floor" x="-650" y="935" sprite="HOLY_floor" scroll="1" alpha="1" scale="1.4"/>
+	<sprite name="bgLamp" x="-630" y="-100" sprite="BGLamps" scroll="1" alpha="1"/>
+	<sprite name="floorLamps" x="-630" y="-100" sprite="HOLY_BGLampLights" scroll="1" alpha="1"/>
+	<sprite name="Objects" x="-675" y="250" sprite="HOLY_objects" scroll="1" alpha="1" scale="1.15"/>
+	<sprite name="women" x="-975" y="675" sprite="HOLY_women" scroll="1" alpha="1">
+		<anim name="struggle" anim="animegirl" loop="false"/>
+	</sprite>
+
+	<!--OFFSETS-->
+	<girlfriend x="420" y="330" scroll="1"/>
+	<dad x="-320" y="240"/>
+	<boyfriend x="940" y="430"/>
+</stage>

@@ -1,7 +1,7 @@
 b0
 b1
-b2
 
 whitmore
 carol
 curse
+QT

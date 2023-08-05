@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" icon="Vs Mami/mami-holy" camx="15" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Mami/Holy Mami">
+	<anim x="0" loop="false" y="0" fps="24" anim="IDLE" name="idle"/>
+	<anim x="149" loop="false" y="-43" fps="24" anim="DOWN" name="singDOWN"/>
+	<anim x="85" loop="false" y="-13" fps="24" anim="RIGHT" name="singRIGHT"/>
+	<anim x="182" loop="false" y="14" fps="24" anim="UP" name="singUP"/>
+	<anim x="75" loop="false" y="-1" fps="24" anim="LEFT" name="singLEFT"/>
+</character>

@@ -1,0 +1,100 @@
+{
+	"song": {
+		"speed": 3.8,
+		"stage": "street-kb",
+		"player1": "bf",
+		"player2": "kb",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"TerminationIntro",
+						"3",
+						"player"
+					],
+					[
+						"TerminationIntro",
+						"0",
+						""
+					],
+					[
+						"streetTV state",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				2162.16216216216,
+				[
+					[
+						"TerminationIntro",
+						"2",
+						"player"
+					],
+					[
+						"TerminationIntro",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				4324.32432432432,
+				[
+					[
+						"TerminationIntro",
+						"1",
+						"player"
+					],
+					[
+						"TerminationIntro",
+						"2",
+						""
+					],
+					[
+						"streetTV state",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				6486.48648648649,
+				[
+					[
+						"TerminationIntro",
+						"0",
+						"player"
+					],
+					[
+						"TerminationIntro",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				8648.64864864865,
+				[
+					[
+						"TerminateEndEarly",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 222,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Terminate",
+		"dodgeEnabled": true
+	}
+}

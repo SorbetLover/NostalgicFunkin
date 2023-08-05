@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" icon="Vs QT/qtkb" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs QT/qt-port/qt-kbV2">
+	<anim x="-75" loop="false" y="8" fps="24" anim="danceRightNormal" name="danceRight"/>
+	<anim x="-180" loop="false" y="-23" fps="24" anim="singRightQT" name="singRIGHT"/>
+	<anim x="-100" loop="false" y="-78" fps="24" anim="singDownQT" name="singDOWN"/>
+	<anim x="-35" loop="false" y="-2" fps="24" anim="danceLeftNormal" name="danceLeft"/>
+	<anim x="-61" loop="false" y="29" fps="24" anim="singLeftQT" name="singLEFT"/>
+	<anim x="-32" loop="false" y="55" fps="24" anim="singUpQT" name="singUP"/>
+</character>

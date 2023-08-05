@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "NORMAL",
+			"text": "Could this be a familiar? I've never seen anything like it, yet it emits a strange aura."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "BF",
+			"boxState": "normal",
+			"expression": "NORMAL",
+			"text": "beep bop bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "HAPPY",
+			"text": "It seems like it wants us to sing. All right then, I'll do so!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "NORMAL",
+			"text": "It will be a nice break from witch-hunting."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "HOMURA",
+			"boxState": "normal",
+			"expression": "NORMAL",
+			"text": "Be careful, we don't know what we're dealing with..."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "ANNOYED",
+			"text": "It'll be fine, I'm a veteran and I have you guys."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "MAMI",
+			"boxState": "normal",
+			"expression": "HAPPY",
+			"text": "What's the harm in a little fun?"
+		}
+	]
+}

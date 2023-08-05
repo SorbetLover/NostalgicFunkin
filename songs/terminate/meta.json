@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 150,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HARDER"
+	],
+	"needsVoices": true,
+	"parsedColor": -3172116,
+	"displayName": "terminate",
+	"icon": "Vs QT/kb",
+	"name": "terminate",
+	"color": "#CF98EC"
+}

@@ -1,0 +1,90 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"scale": 1.75,
+	"animations": [
+		{
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"anim": "NORMAL",
+			"loop_offsets": [
+				-80,
+				-30
+			],
+			"idle_name": "NORMAL",
+			"loop_name": "NORMAL"
+		},
+		{
+			"loop_offsets": [
+				-80,
+				-30
+			],
+			"anim": "HAPPY",
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"loop_name": "HAPPY",
+			"idle_name": "HAPPY"
+		},
+		{
+			"loop_offsets": [
+				-80,
+				-30
+			],
+			"anim": "ANNOYED",
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"loop_name": "ANNOYED",
+			"idle_name": "ANNOYED"
+		},
+		{
+			"loop_offsets": [
+				-80,
+				-30
+			],
+			"anim": "CONCERN",
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"loop_name": "CONCERN",
+			"idle_name": "CONCERN"
+		},
+		{
+			"loop_offsets": [
+				-80,
+				-30
+			],
+			"anim": "HOLY",
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"loop_name": "HOLY",
+			"idle_name": "HOLY"
+		},
+		{
+			"loop_name": "somewhatHOLY",
+			"idle_offsets": [
+				-80,
+				-30
+			],
+			"idle_name": "somewhatHOLY",
+			"anim": "HOLY-THREAT",
+			"loop_offsets": [
+				-80,
+				-30
+			]
+		}
+	],
+	"image": "MAMI"
+}

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="qt_classic.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="QT_sprite_test-down0000" x="8" y="8" width="508" height="436" frameX="0" frameY="-1" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-down0001" x="8" y="8" width="508" height="436" frameX="0" frameY="-1" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-down0002" x="520" y="8" width="505" height="436" frameX="-8" frameY="-2" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-down0003" x="520" y="8" width="505" height="436" frameX="-8" frameY="-2" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-down0004" x="1029" y="8" width="495" height="438" frameX="-16" frameY="0" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-down0005" x="1029" y="8" width="495" height="438" frameX="-16" frameY="0" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-down0006" x="1528" y="8" width="488" height="438" frameX="-20" frameY="0" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-down0007" x="1528" y="8" width="488" height="438" frameX="-20" frameY="0" frameWidth="513" frameHeight="438"/>
+	<SubTexture name="QT_sprite_test-idle0000" x="8" y="450" width="392" height="464" frameX="-3" frameY="0" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0001" x="8" y="450" width="392" height="464" frameX="-3" frameY="0" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0002" x="404" y="450" width="399" height="459" frameX="-1" frameY="-5" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0003" x="404" y="450" width="399" height="459" frameX="-1" frameY="-5" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0004" x="807" y="450" width="399" height="457" frameX="-1" frameY="-7" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0005" x="807" y="450" width="399" height="457" frameX="-1" frameY="-7" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0006" x="1210" y="450" width="394" height="458" frameX="-2" frameY="-6" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0007" x="1210" y="450" width="394" height="458" frameX="-2" frameY="-6" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0008" x="1608" y="450" width="406" height="448" frameX="-1" frameY="-14" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0009" x="1608" y="450" width="406" height="448" frameX="-1" frameY="-14" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0010" x="8" y="918" width="412" height="443" frameX="-1" frameY="-20" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0011" x="8" y="918" width="412" height="443" frameX="-1" frameY="-20" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0012" x="424" y="918" width="410" height="445" frameX="0" frameY="-18" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0013" x="424" y="918" width="410" height="445" frameX="0" frameY="-18" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0014" x="838" y="918" width="410" height="447" frameX="-1" frameY="-16" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0015" x="838" y="918" width="410" height="447" frameX="-1" frameY="-16" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0016" x="1252" y="918" width="407" height="454" frameX="-2" frameY="-9" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0017" x="1252" y="918" width="407" height="454" frameX="-2" frameY="-9" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0018" x="8" y="1376" width="404" height="455" frameX="-1" frameY="-8" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-idle0019" x="8" y="450" width="392" height="464" frameX="-3" frameY="0" frameWidth="413" frameHeight="464"/>
+	<SubTexture name="QT_sprite_test-left0000" x="416" y="1376" width="288" height="489" frameX="0" frameY="0" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-left0001" x="416" y="1376" width="288" height="489" frameX="0" frameY="0" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-left0002" x="708" y="1376" width="288" height="489" frameX="-2" frameY="0" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-left0003" x="708" y="1376" width="288" height="489" frameX="-2" frameY="0" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-left0004" x="1000" y="1376" width="288" height="485" frameX="-5" frameY="-4" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-left0005" x="1000" y="1376" width="288" height="485" frameX="-5" frameY="-4" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-left0006" x="1292" y="1376" width="276" height="484" frameX="-8" frameY="-5" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-left0007" x="1292" y="1376" width="276" height="484" frameX="-8" frameY="-5" frameWidth="293" frameHeight="489"/>
+	<SubTexture name="QT_sprite_test-right0000" x="8" y="1869" width="469" height="435" frameX="0" frameY="-2" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-right0001" x="8" y="1869" width="469" height="435" frameX="0" frameY="-2" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-right0002" x="481" y="1869" width="457" height="437" frameX="-3" frameY="0" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-right0003" x="481" y="1869" width="457" height="437" frameX="-3" frameY="0" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-right0004" x="942" y="1869" width="450" height="434" frameX="-12" frameY="-3" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-right0005" x="942" y="1869" width="450" height="434" frameX="-12" frameY="-3" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-right0006" x="1396" y="1869" width="442" height="431" frameX="-20" frameY="-6" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-right0007" x="1396" y="1869" width="442" height="431" frameX="-20" frameY="-6" frameWidth="469" frameHeight="437"/>
+	<SubTexture name="QT_sprite_test-up0000" x="8" y="2310" width="451" height="500"/>
+	<SubTexture name="QT_sprite_test-up0001" x="8" y="2310" width="451" height="500"/>
+	<SubTexture name="QT_sprite_test-up0002" x="463" y="2310" width="433" height="493" frameX="-17" frameY="-7" frameWidth="451" frameHeight="500"/>
+	<SubTexture name="QT_sprite_test-up0003" x="463" y="2310" width="433" height="493" frameX="-17" frameY="-7" frameWidth="451" frameHeight="500"/>
+	<SubTexture name="QT_sprite_test-up0004" x="900" y="2310" width="420" height="486" frameX="-30" frameY="-14" frameWidth="451" frameHeight="500"/>
+	<SubTexture name="QT_sprite_test-up0005" x="900" y="2310" width="420" height="486" frameX="-30" frameY="-14" frameWidth="451" frameHeight="500"/>
+	<SubTexture name="QT_sprite_test-up0006" x="1324" y="2310" width="418" height="475" frameX="-32" frameY="-25" frameWidth="451" frameHeight="500"/>
+	<SubTexture name="QT_sprite_test-up0007" x="1324" y="2310" width="418" height="475" frameX="-32" frameY="-25" frameWidth="451" frameHeight="500"/>
+</TextureAtlas>

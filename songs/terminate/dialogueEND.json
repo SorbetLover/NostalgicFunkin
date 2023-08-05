@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "b...boop?"
+		},
+		{
+			"speed": 0.165,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Let's leave."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		}
+	]
+}

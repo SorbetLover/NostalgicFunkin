@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "Vs Mami/mami-tetris",
+	"difficulties": [
+		"HARD",
+		"HOLY"
+	],
+	"parsedColor": -3541864,
+	"name": "tetris",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Tetris",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 150
+}

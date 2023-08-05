@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "street-real",
+		"player1": "bf",
+		"player2": "qt-nervous",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				103636.363636364,
+				[
+					[
+						"streetTV state",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"streetTV state",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122181.818181818,
+				[
+					[
+						"streetTV state",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				122727.272727273,
+				[
+					[
+						"streetTV state",
+						"05",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 110,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Careless"
+	}
+}

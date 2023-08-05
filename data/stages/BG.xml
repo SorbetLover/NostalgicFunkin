@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.65" FollowLerp="0.02" name="Mami" folder="stages/Vs Mami/">
+    <!--BACKGROUND-->
+	<sprite name="sky" x="-700" y="0" sprite="BGSky" scroll="1" alpha="1"/>
+	<sprite name="train" x="-630" y="200" sprite="BGTrain" scroll="1" alpha="1"/>
+	<sprite name="floor" x="-650" y="935" sprite="BGFloor" scroll="1" alpha="1" scale="1.4"/>
+	<sprite name="bgLamp" x="-630" y="-100" sprite="BGLamps" scroll="1" alpha="1"/>
+	<sprite name="floorLamps" x="-630" y="-100" sprite="BGLampLights" scroll="1" alpha="1"/>
+    <sprite name="girl" x="1150" y="300" sprite="BGbackgirl" scroll="1" alpha="1">
+		<anim name="dancing" anim="Symbol 6 instance" loop="false"/>
+	</sprite>
+	<sprite name="Objects" x="-675" y="225" sprite="BGRandomshit" scroll="1" alpha="1" scale="1.15"/>
+	<sprite name="bgGirls" x="-400" y="450" sprite="BGGirlsDance" scroll="1" alpha="1">
+		<anim name="dancing" anim="girls dancing instance" loop="false"/>
+	</sprite>
+
+	<!--OFFSETS-->
+	<girlfriend x="320" y="480" scroll="1"/>
+	<dad x="80" y="480"/>
+	<boyfriend x="875" y="500"/>
+</stage>

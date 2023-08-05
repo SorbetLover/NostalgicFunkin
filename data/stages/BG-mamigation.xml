@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" FollowLerp="0.02" name="Mamigation" folder="stages/Vs Mami/">
+    <!--BACKGROUND-->
+	<sprite name="sky" x="-775" y="0" sprite="BGSkyMamigation" scroll="1" alpha="1" scale="1.2"/>
+	<sprite name="Place" x="-700" y="0" sprite="placeholder" scroll="1" alpha="1" scale="1.2"/>
+
+	<!--OFFSETS-->
+	<girlfriend x="320" y="400" scroll="1"/>
+	<dad x="-600" y="0"/>
+	<boyfriend x="875" y="400"/>
+</stage>

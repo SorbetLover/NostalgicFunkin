@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" icon="Vs Mami/mami-tetris" camx="15" y="100" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Mami/Mami Tetris">
+	<anim x="0" loop="false" y="0" fps="24" anim="Mami IDLE" name="idle"/>
+	<anim x="-50" loop="false" y="-13" fps="24" anim="Mami RIGHT" name="singRIGHT"/>
+	<anim x="4" loop="false" y="-3" fps="24" anim="Mami DOWN" name="singDOWN"/>
+	<anim x="0" loop="false" y="-1" fps="24" anim="Mami LEFT" name="singLEFT"/>
+	<anim x="2" loop="false" y="-1" fps="24" anim="Mami UP" name="singUP"/>
+</character>

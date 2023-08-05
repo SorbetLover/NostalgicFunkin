@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MAMI.png">
+	<SubTexture name="ANNOYED0000" x="0" y="0" width="500" height="400"/>
+	<SubTexture name="CONCERN0000" x="500" y="0" width="500" height="400"/>
+	<SubTexture name="HAPPY0000" x="1000" y="0" width="500" height="400"/>
+	<SubTexture name="NORMAL0000" x="0" y="400" width="500" height="400"/>
+	<SubTexture name="HOLY0000" x="500" y="400" width="500" height="400"/>
+	<SubTexture name="somewhatHOLY0000" x="1000" y="400" width="500" height="400"/>
+</TextureAtlas>

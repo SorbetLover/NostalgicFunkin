@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGbackgirl.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 6 instance 10000" x="0" y="0" width="329" height="397" frameX="0" frameY="-9" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10001" x="0" y="0" width="329" height="397" frameX="0" frameY="-9" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10002" x="332" y="0" width="325" height="403" frameX="-2" frameY="-3" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10003" x="332" y="0" width="325" height="403" frameX="-2" frameY="-3" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10004" x="660" y="0" width="323" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10005" x="660" y="0" width="323" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10006" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10007" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10008" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10009" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10010" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10011" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10012" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+	<SubTexture name="Symbol 6 instance 10013" x="0" y="409" width="322" height="406" frameX="-3" frameY="0" frameWidth="329" frameHeight="406"/>
+</TextureAtlas>

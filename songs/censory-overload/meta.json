@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 150,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HARDER"
+	],
+	"needsVoices": true,
+	"parsedColor": -3172116,
+	"displayName": "censory-overload",
+	"icon": "Vs QT/kb",
+	"name": "censory-overload",
+	"color": "#CF98EC"
+}
