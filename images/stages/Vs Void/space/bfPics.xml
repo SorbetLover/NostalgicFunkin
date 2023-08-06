@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPics.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf Normal instance 10000" x="0" y="0" width="500" height="490"/>
+	<SubTexture name="Bf Normal instance 10001" x="0" y="500" width="500" height="490"/>
+	<SubTexture name="Bf Normal instance 10002" x="0" y="1000" width="500" height="490"/>
+	<SubTexture name="Bf Normal instance 10003" x="0" y="1000" width="500" height="490"/>
+	<SubTexture name="Bf Smug instance 10000" x="500" y="0" width="500" height="490"/>
+	<SubTexture name="Bf Smug instance 10001" x="500" y="500" width="500" height="490"/>
+	<SubTexture name="Bf Smug instance 10002" x="500" y="1000" width="500" height="490"/>
+	<SubTexture name="Bf Smug instance 10003" x="500" y="1000" width="500" height="490"/>
+	<SubTexture name="Bf Umm instance 10000" x="1000" y="0" width="500" height="490"/>
+	<SubTexture name="Bf Umm instance 10001" x="1000" y="500" width="500" height="490"/>
+	<SubTexture name="Bf Umm instance 10002" x="1000" y="1000" width="500" height="490"/>
+	<SubTexture name="Bf Umm instance 10003" x="1000" y="1000" width="500" height="490"/>
+	<SubTexture name="Bf Ready instance 10000" x="1500" y="0" width="500" height="490"/>
+	<SubTexture name="Bf Ready instance 10001" x="1500" y="500" width="500" height="490"/>
+	<SubTexture name="Bf Ready instance 10002" x="1500" y="1000" width="500" height="490"/>
+	<SubTexture name="Bf Ready instance 10003" x="1500" y="1000" width="500" height="490"/>
+        <SubTexture name="Accretion Normal instance 10000" x="2000" y="0" width="500" height="490"/>
+	<SubTexture name="Accretion Normal instance 10001" x="2000" y="500" width="500" height="490"/>
+	<SubTexture name="Accretion Normal instance 10002" x="2000" y="1000" width="500" height="490"/>
+	<SubTexture name="Accretion Normal instance 10003" x="2000" y="1000" width="500" height="490"/>
+        <SubTexture name="Accretion Umm instance 10000" x="2500" y="0" width="500" height="490"/>
+	<SubTexture name="Accretion Umm instance 10001" x="2500" y="500" width="500" height="490"/>
+	<SubTexture name="Accretion Umm instance 10002" x="2500" y="1000" width="500" height="490"/>
+	<SubTexture name="Accretion Umm instance 10003" x="2500" y="1000" width="500" height="490"/>
+</TextureAtlas>

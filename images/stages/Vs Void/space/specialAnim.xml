@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="specialAnim.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+        <SubTexture name="Void Pose0000" x="750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0001" x="1500" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0002" x="2250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0003" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0004" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0006" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0007" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0008" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0009" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0010" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0011" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Pose0012" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0000" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0001" x="4500" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0002" x="5250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0003" x="5250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0004" x="5250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0005" x="5250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0006" x="5250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Void Wink0007" x="5250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Succ0000" x="0" y="850" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0001" x="1000" y="850" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0002" x="2000" y="850" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0003" x="3000" y="850" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0004" x="4000" y="850" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0005" x="5000" y="850" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+        <SubTexture name="Defeat0000" x="0" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0001" x="750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0002" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0003" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0004" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0005" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0006" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0007" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0008" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0009" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0010" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0011" x="3000" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0012" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Defeat0013" x="0" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0014" x="750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0015" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0016" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0017" x="3000" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0018" x="3750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0019" x="3750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Scream0000" x="0" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Scream0001" x="750" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Scream0002" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Stunned0000" x="0" y="4250" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0001" x="1000" y="4250" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0002" x="2000" y="4250" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0003" x="3000" y="4250" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0004" x="4000" y="4250" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0005" x="5000" y="4250" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+        <SubTexture name="Flinch A0000" x="0" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0001" x="750" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0002" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0003" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0004" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0005" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0006" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0007" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0008" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0009" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0010" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0011" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0012" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch A0013" x="1500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0000" x="2250" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0001" x="3000" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0002" x="3750" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0003" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0004" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0005" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0006" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0007" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0008" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0009" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0010" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0011" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0012" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Flinch B0013" x="4500" y="5100" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0000" x="0" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0001" x="750" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0002" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0003" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0004" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0005" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0006" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0007" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0008" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0009" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0010" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0011" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0012" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap A0013" x="1500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0000" x="2250" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0001" x="3000" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0002" x="3750" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0003" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0004" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0005" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0006" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0007" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0008" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0009" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0010" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0011" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0012" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Snap B0013" x="4500" y="5950" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+</TextureAtlas>

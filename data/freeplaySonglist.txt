@@ -47,3 +47,12 @@ reminisce
 salvation
 tetris
 Mamigation
+
+asteroids
+weightless
+event-horizon
+ultraviolet
+gravity
+singularity
+security
+stardust

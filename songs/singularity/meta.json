@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 200,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -18047,
+	"displayName": "Singularity",
+	"icon": "Vs Void/acvoid",
+	"name": "singularity",
+	"color": "#778899"
+}

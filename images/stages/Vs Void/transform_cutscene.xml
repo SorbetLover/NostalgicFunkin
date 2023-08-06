@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="transform_cutscene.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Init0000" x="0" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchA0000" x="700" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchA0001" x="1400" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchA0002" x="2100" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchA0003" x="0" y="700" width="700" height="700"/>
+	<SubTexture name="GlitchA0004" x="0" y="700" width="700" height="700"/>
+	<SubTexture name="GlitchA0005" x="0" y="700" width="700" height="700"/>
+	<SubTexture name="GlitchA0006" x="0" y="700" width="700" height="700"/>
+	<SubTexture name="GlitchA0007" x="700" y="700" width="700" height="700"/>
+	<SubTexture name="GlitchA0008" x="1400" y="700" width="700" height="700"/>
+	<SubTexture name="GlitchB0000" x="700" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchB0001" x="1400" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchB0002" x="2100" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchB0003" x="0" y="1400" width="700" height="700"/>
+	<SubTexture name="GlitchB0004" x="700" y="1400" width="700" height="700"/>
+	<SubTexture name="GlitchB0005" x="1400" y="1400" width="700" height="700"/>
+	<SubTexture name="GlitchC0000" x="700" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchC0001" x="1400" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchC0002" x="2100" y="0" width="700" height="700"/>
+	<SubTexture name="GlitchC0003" x="0" y="2100" width="700" height="700"/>
+	<SubTexture name="GlitchC0004" x="700" y="2100" width="700" height="700"/>
+	<SubTexture name="GlitchC0005" x="1400" y="2100" width="700" height="700"/>
+	<SubTexture name="Dead0000" x="0" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0001" x="700" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0002" x="1400" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0003" x="1400" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0004" x="1400" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0005" x="1400" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0006" x="1400" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0007" x="1400" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0008" x="1400" y="2800" width="700" height="700"/>
+	<SubTexture name="Dead0009" x="0" y="3500" width="700" height="700"/>
+	<SubTexture name="Dead0010" x="700" y="3500" width="700" height="700"/>
+	<SubTexture name="Dead0011" x="1400" y="3500" width="700" height="700"/>
+	<SubTexture name="Dead0012" x="2100" y="3500" width="700" height="700"/>
+	<SubTexture name="Dead0013" x="2800" y="3500" width="700" height="700"/>
+	<SubTexture name="Dead0014" x="3500" y="3500" width="700" height="700"/>
+	<SubTexture name="Gone0000" x="0" y="4200" width="700" height="700"/>
+	<SubTexture name="Gone0001" x="700" y="4200" width="700" height="700"/>
+	<SubTexture name="Gone0002" x="1400" y="4200" width="700" height="700"/>
+	<SubTexture name="Gone0003" x="2100" y="4200" width="700" height="700"/>
+	<SubTexture name="Scream0000" x="0" y="4900" width="700" height="700"/>
+	<SubTexture name="Scream0001" x="700" y="4900" width="700" height="700"/>
+	<SubTexture name="Scream0002" x="1400" y="4900" width="700" height="700"/>
+	<SubTexture name="Scream0003" x="2100" y="4900" width="700" height="700"/>
+</TextureAtlas>

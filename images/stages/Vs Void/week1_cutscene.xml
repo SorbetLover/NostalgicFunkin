@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="week1_cutscene.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cutscene First0000" x="0" y="0" width="1200" height="700"/>
+	<SubTexture name="Cutscene Second0000" x="1200" y="0" width="1200" height="700"/>
+	<SubTexture name="Cutscene Second0001" x="0" y="700" width="1200" height="700"/>
+	<SubTexture name="Cutscene Second0002" x="1200" y="700" width="1200" height="700"/>
+	<SubTexture name="Cutscene Second0003" x="0" y="1400" width="1200" height="700"/>
+	<SubTexture name="Cutscene Second0004" x="1200" y="1400" width="1200" height="700"/>
+	<SubTexture name="Cutscene Second0005" x="0" y="2100" width="1200" height="700"/>
+	<SubTexture name="Cutscene Third0000" x="1200" y="2100" width="1200" height="700"/>
+	<SubTexture name="Cutscene Third0001" x="0" y="2800" width="1200" height="700"/>
+        <SubTexture name="Cutscene Third0002" x="1200" y="2800" width="1200" height="700"/>
+</TextureAtlas>

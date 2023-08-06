@@ -224,6 +224,7 @@ function beatHit(curBeat:Int) {
     if (curBeat % 2 == 0){
         women.animation.play("struggle", true);
     }
+    if (curSong == "salvation"){
     if (curBeat == 408){
         camHUD.flash();
         on = true;
@@ -255,4 +256,5 @@ function beatHit(curBeat:Int) {
         camHUD.flash();
         //badApple("b");
     }
+}
 }

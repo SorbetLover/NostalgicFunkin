@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="transform_particles.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Succ0000" x="0" y="0" width="1200" height="700"/>
+	<SubTexture name="Succ0001" x="1200" y="0" width="1200" height="700"/>
+	<SubTexture name="Succ0002" x="0" y="700" width="1200" height="700"/>
+	<SubTexture name="Succ0003" x="1200" y="700" width="1200" height="700"/>
+	<SubTexture name="Succ0004" x="0" y="1400" width="1200" height="700"/>
+	<SubTexture name="Succ0005" x="1200" y="1400" width="1200" height="700"/>
+	<SubTexture name="Succ0006" x="0" y="2100" width="1200" height="700"/>
+	<SubTexture name="Succ0007" x="1200" y="2100" width="1200" height="700"/>
+</TextureAtlas>

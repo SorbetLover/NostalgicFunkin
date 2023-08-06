@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgBreak.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Initial0000" x="0" y="0" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="1st Break0000" x="1500" y="0" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="1st Break0001" x="0" y="1000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="1st Break0002" x="1500" y="1000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="1st Break0003" x="0" y="2000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="2nd Break0000" x="1500" y="2000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="2nd Break0001" x="0" y="3000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="2nd Break0002" x="1500" y="3000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="2nd Break0003" x="0" y="4000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+        <SubTexture name="2nd Break0004" x="1500" y="4000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+</TextureAtlas>

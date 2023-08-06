@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacestage.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stage Bop0000" x="0" y="0" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0001" x="0" y="0" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0002" x="1800" y="0" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0003" x="1800" y="0" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0004" x="0" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0005" x="0" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0006" x="1800" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0007" x="1800" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0008" x="1800" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0009" x="1800" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0010" x="1800" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0011" x="1800" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0012" x="1800" y="1200" width="1800" height="1200"/>
+	<SubTexture name="Stage Bop0013" x="1800" y="1200" width="1800" height="1200"/>
+</TextureAtlas>
