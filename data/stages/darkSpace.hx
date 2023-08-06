@@ -265,9 +265,9 @@ function beatHit(curBeat:Int) {
 
 					case 345:
 
-						remove(dad);
-						dad = new Character(dad.x, dad.y, 'hurt-void');
-						add(dad);
+						//remove(dad);
+						//dad = new Character(dad.x, dad.y, 'hurt-void');
+						//add(dad);
 
 					case 346:
 
@@ -286,11 +286,9 @@ function beatHit(curBeat:Int) {
 						dad.alpha = 1;
 						specialAnim.alpha = 0;
 
-						remove(dad);
-						dad = new Character(dad.x, dad.y, 'darkcrazed-void');
-						add(dad);
-
-						iconP2.animation.play('crazed-void');
+						//remove(dad);
+						//dad = new Character(dad.x, dad.y, 'darkcrazed-void');
+						//add(dad);
 
 						darkSpaceBG.alpha = 0.15;
 						holoEmptyAlt.alpha = 0;
@@ -299,9 +297,9 @@ function beatHit(curBeat:Int) {
 
 						FlxG.camera.flash(FlxColor.WHITE, 1.2);
 
-						remove(dad);
-						dad = new Character(dad.x, dad.y, 'crazed-void');
-						add(dad);
+						//remove(dad);
+						//dad = new Character(dad.x, dad.y, 'crazed-void');
+						//add(dad);
 
 						darkSpaceBG.alpha = 1;
 						holoEmptyAlt.alpha = 1;
