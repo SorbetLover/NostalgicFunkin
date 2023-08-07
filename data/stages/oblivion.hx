@@ -1,4 +1,5 @@
-function create(){	
+function create(){
+
     new FlxTimer().start(0.01, function(tmr:FlxTimer)
     {
         if(brokeHolo.angle == 0) 
@@ -20,7 +21,10 @@ function create(){
     add(specialAnim);
     specialAnim.animation.play('scream', true, false, 0);
 }
-function update(elapsed:Float) {
+function postUpdate() {
+    //PlayState.instance.comboGroup.cameras = [camHUD];
+}
+function update(){
 }
 function stepHit(curStep:Int) {
     switch (curStep){}
@@ -45,9 +49,11 @@ function beatHit(curBeat:Int) {
            
          case 231:
 
-         FlxTween.num(defaultCamZoom, 0.90, 0.38, {ease: FlxEase.linear}, function(v:Float) {
-            defaultCamZoom  = v;
-          });
+        //FlxTween.num(defaultCamZoom, 0.90, 0.38, {ease: FlxEase.expoIn}, function(v:Float) {
+        //    defaultCamZoom  = v;
+        //  });
+        FlxTween.tween(FlxG.camera, {zoom: 0.90}, 7.2, 
+            {ease: FlxEase.expoOut});
             specialAnim.animation.play('scream', true, false, 0);
 
             dad.alpha = 0;
@@ -60,9 +66,9 @@ function beatHit(curBeat:Int) {
 
         case 256:
 
-        FlxTween.num(defaultCamZoom, 0.60, 0.38, {ease: FlxEase.linear}, function(v:Float) {
-            defaultCamZoom  = v;
-          });
+        //FlxTween.num(defaultCamZoom, 0.60, 0.38, {ease: FlxEase.expoOut}, function(v:Float) {
+        //    defaultCamZoom  = v;
+        //  });
 
         case 390:
 
