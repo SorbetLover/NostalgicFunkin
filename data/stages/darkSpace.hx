@@ -200,6 +200,15 @@ function create(){
         boyfriend.x = 730;
         boyfriend.y = 120;
     }
+    
+    //dad2 = new Character(dad.x, dad.y, 'hurt-void');
+    //dads.push(dad2);
+
+    //dad3 = new Character(dad.x, dad.y, 'darkcrazed-void');
+    //dads.push(dad3);
+
+    //dad4 = new Character(dad.x, dad.y, 'crazed-void');
+    //dads.push(dad4);
 }
 function update(elapsed:Float) {
 }
@@ -265,9 +274,8 @@ function beatHit(curBeat:Int) {
 
 					case 345:
 
-						//remove(dad);
-						//dad = new Character(dad.x, dad.y, 'hurt-void');
-						//add(dad);
+                    //remove(dad);
+                    //add(dad2);
 
 					case 346:
 
@@ -286,9 +294,8 @@ function beatHit(curBeat:Int) {
 						dad.alpha = 1;
 						specialAnim.alpha = 0;
 
-						//remove(dad);
-						//dad = new Character(dad.x, dad.y, 'darkcrazed-void');
-						//add(dad);
+                        //remove(dad2);
+                        //add(dad3);
 
 						darkSpaceBG.alpha = 0.15;
 						holoEmptyAlt.alpha = 0;
@@ -297,9 +304,8 @@ function beatHit(curBeat:Int) {
 
 						FlxG.camera.flash(FlxColor.WHITE, 1.2);
 
-						//remove(dad);
-						//dad = new Character(dad.x, dad.y, 'crazed-void');
-						//add(dad);
+                        //remove(dad3);
+                        //add(dad4);
 
 						darkSpaceBG.alpha = 1;
 						holoEmptyAlt.alpha = 1;

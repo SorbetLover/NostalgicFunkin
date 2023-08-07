@@ -3,7 +3,7 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 200,
+	"bpm": 160,
 	"difficulties": [
 		"EASY",
 		"NORMAL",

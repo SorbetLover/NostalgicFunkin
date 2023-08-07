@@ -7,7 +7,7 @@ function create(){
             FlxTween.angle(brokeHolo, 180, 360, 15);
     }, 0);
 
-    specialAnim = new FlxSprite(dad.x, dad.y - 20);
+    specialAnim = new FlxSprite(dad.x, dad.y - 40);
     specialAnim.frames = Paths.getSparrowAtlas('stages/Vs Void/space/specialAnim');
     specialAnim.animation.addByPrefix('scream', 'Scream', 20, true);
     specialAnim.animation.addByPrefix('succ', 'Succ', 20, true);
@@ -45,6 +45,9 @@ function beatHit(curBeat:Int) {
            
          case 231:
 
+         FlxTween.num(defaultCamZoom, 0.90, 0.38, {ease: FlxEase.linear}, function(v:Float) {
+            defaultCamZoom  = v;
+          });
             specialAnim.animation.play('scream', true, false, 0);
 
             dad.alpha = 0;
@@ -57,7 +60,9 @@ function beatHit(curBeat:Int) {
 
         case 256:
 
-            defaultCamZoom = 0.60;
+        FlxTween.num(defaultCamZoom, 0.60, 0.38, {ease: FlxEase.linear}, function(v:Float) {
+            defaultCamZoom  = v;
+          });
 
         case 390:
 
