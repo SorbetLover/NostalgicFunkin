@@ -1,3 +1,5 @@
+var blackboxDown = new FlxSprite();
+var blackboxUp = new FlxSprite();
 function create(){
 
     new FlxTimer().start(0.01, function(tmr:FlxTimer)
@@ -20,6 +22,16 @@ function create(){
     specialAnim.updateHitbox();
     add(specialAnim);
     specialAnim.animation.play('scream', true, false, 0);
+    
+    blackboxDown.makeGraphic(FlxG.width * 20, 1000,  FlxColor.BLACK);
+    blackboxDown.y = 900;
+
+    blackboxUp.makeGraphic(FlxG.width * 20, 1000,  FlxColor.BLACK);
+    blackboxUp.y -= 1000;
+    blackboxDown.cameras = [camHUD];
+    blackboxUp.cameras = [camHUD];
+    insert(5, blackboxDown);
+    insert(5, blackboxUp);
 }
 function postUpdate() {
     //PlayState.instance.comboGroup.cameras = [camHUD];
@@ -101,6 +113,9 @@ function beatHit(curBeat:Int) {
 
 					
         case 584:
+            FlxTween.tween(blackboxDown, {y: 600}, 0.2, {ease: FlxEase.quadInOut});
+            FlxTween.tween(blackboxUp, {y: - 900}, 0.2, {ease: FlxEase.quadInOut});
+            defaultCamZoom = 1;
 
             FlxG.camera.flash(FlxColor.WHITE, 0.4);
 
@@ -112,6 +127,7 @@ function beatHit(curBeat:Int) {
             bgGlitch.alpha = 0.8;
 
         case 680:
+            defaultCamZoom = 0.80;
 
             FlxG.camera.flash(FlxColor.WHITE, 0.4);
 
@@ -132,7 +148,10 @@ function beatHit(curBeat:Int) {
                 {ease: FlxEase.quadIn});
 
         case 728:
+            defaultCamZoom = 0.60;
 
+        FlxTween.tween(blackboxDown, {y: 900}, 0.2, {ease: FlxEase.quadInOut});
+        FlxTween.tween(blackboxUp, {y: - 1000}, 0.2, {ease: FlxEase.quadInOut});
             FlxG.camera.flash(FlxColor.WHITE, 3);
 
             dad.alpha = 0;
