@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 140,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -18047,
+	"displayName": "Ultraviolet",
+	"icon": "Vs Void/void",
+	"name": "ultraviolet",
+	"color": "#778899"
+}

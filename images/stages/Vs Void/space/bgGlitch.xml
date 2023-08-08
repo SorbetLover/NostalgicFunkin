@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgGlitch.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Glitch FX0000" x="0" y="0" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+	<SubTexture name="Glitch FX0001" x="2800" y="0" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+	<SubTexture name="Glitch FX0002" x="0" y="1800" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+	<SubTexture name="Glitch FX0003" x="2800" y="1800" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+	<SubTexture name="Glitch FX0004" x="0" y="3600" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+	<SubTexture name="Glitch FX0005" x="2800" y="3600" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+	<SubTexture name="Glitch FX0006" x="0" y="5400" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+	<SubTexture name="Glitch FX0007" x="2800" y="5400" width="2800" height="1800" frameX="0" frameY="0" frameWidth="2800" frameHeight="1800"/>
+</TextureAtlas>

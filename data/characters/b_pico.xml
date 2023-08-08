@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" icon="B Sides/pico" camx="-100" y="300" isGF="false" flipX="true" isPlayer="false" sprite="B Sides/Pico_FNF_assetss">
+	<anim x="-73" loop="false" y="27" fps="24" anim="Pico NOTE LEFT miss" name="singRIGHTmiss"/>
+	<anim x="191" loop="false" y="-81" fps="24" anim="Pico Down Note0" name="singDOWN"/>
+	<anim x="61" loop="false" y="49" fps="24" anim="Pico Note Right Miss" name="singLEFTmiss"/>
+	<anim x="-30" loop="false" y="23" fps="24" anim="pico Up note0" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Pico Idle Dance" name="idle"/>
+	<anim x="-82" loop="false" y="-10" fps="24" anim="Pico NOTE LEFT0" name="singRIGHT"/>
+	<anim x="185" loop="false" y="-45" fps="24" anim="Pico Down Note MISS" name="singDOWNmiss"/>
+	<anim x="58" loop="false" y="0" fps="24" anim="Pico Note Right0" name="singLEFT"/>
+	<anim x="-20" loop="false" y="58" fps="24" anim="pico Up note miss" name="singUPmiss"/>
+</character>

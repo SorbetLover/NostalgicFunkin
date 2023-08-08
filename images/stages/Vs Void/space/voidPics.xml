@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voidPics.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Void Normal instance 10000" x="0" y="0" width="500" height="498"/>
+	<SubTexture name="Void Normal instance 10001" x="0" y="500" width="500" height="498"/>
+	<SubTexture name="Void Normal instance 10002" x="0" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Normal instance 10003" x="0" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Smug instance 10000" x="500" y="0" width="500" height="498"/>
+	<SubTexture name="Void Smug instance 10001" x="500" y="500" width="500" height="498"/>
+	<SubTexture name="Void Smug instance 10002" x="500" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Smug instance 10003" x="500" y="1000" width="500" height="498"/>
+        <SubTexture name="Void Umm instance 10000" x="1000" y="0" width="500" height="498"/>
+	<SubTexture name="Void Umm instance 10001" x="1000" y="500" width="500" height="498"/>
+	<SubTexture name="Void Umm instance 10002" x="1000" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Umm instance 10003" x="1000" y="1000" width="500" height="498"/>
+        <SubTexture name="Void Worn Out instance 10000" x="1500" y="0" width="500" height="498"/>
+	<SubTexture name="Void Worn Out instance 10001" x="1500" y="500" width="500" height="498"/>
+	<SubTexture name="Void Worn Out instance 10002" x="1500" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Worn Out instance 10003" x="1500" y="1000" width="500" height="498"/>
+        <SubTexture name="Void Mad instance 10000" x="2000" y="0" width="500" height="498"/>
+	<SubTexture name="Void Mad instance 10001" x="2000" y="500" width="500" height="498"/>
+	<SubTexture name="Void Mad instance 10002" x="2000" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Mad instance 10003" x="2000" y="1000" width="500" height="498"/>
+        <SubTexture name="Void Rage instance 10000" x="2500" y="0" width="500" height="498"/>
+	<SubTexture name="Void Rage instance 10001" x="2500" y="500" width="500" height="498"/>
+	<SubTexture name="Void Rage instance 10002" x="2500" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Rage instance 10003" x="2500" y="1000" width="500" height="498"/>
+        <SubTexture name="Void Crazy instance 10000" x="3000" y="0" width="500" height="498"/>
+	<SubTexture name="Void Crazy instance 10001" x="3000" y="500" width="500" height="498"/>
+	<SubTexture name="Void Crazy instance 10002" x="3000" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Crazy instance 10003" x="3000" y="1000" width="500" height="498"/>
+        <SubTexture name="Void Dark instance 10000" x="3500" y="0" width="500" height="498"/>
+	<SubTexture name="Void Dark instance 10001" x="3500" y="500" width="500" height="498"/>
+	<SubTexture name="Void Dark instance 10002" x="3500" y="1000" width="500" height="498"/>
+	<SubTexture name="Void Dark instance 10003" x="3500" y="1000" width="500" height="498"/>
+</TextureAtlas>

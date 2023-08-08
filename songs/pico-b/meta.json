@@ -1,6 +1,6 @@
 {
-	"opponentModeAllowed": false,
-	"coopAllowed": false,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
 	"bpm": 163,
@@ -10,9 +10,9 @@
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -7376387,
+	"parsedColor": -7572995,
 	"displayName": "Pico",
-	"icon": "B SIDEs/b_pico",
+	"icon": "B SIDEs/pico",
 	"name": "pico-b",
-	"color": "#8978CC"
+	"color": "#8C71FD"
 }

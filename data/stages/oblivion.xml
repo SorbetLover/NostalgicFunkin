@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.60" name="A.C VOID" folder="stages/Vs Void/space/">
+	<sprite name="bg" x="-500" y="0" sprite="tintedSpaceBG" scroll="0.1" scale="1.7"/>
+	<sprite name="obv1" x="-360" y="-45" sprite="OblivionDark1" scroll="0.1" scale="1.25"/>
+	<sprite name="obv2" x="-360" y="-45" sprite="OblivionDark2" scroll="0.22" scale="1.4"/>
+	<sprite name="obv3" x="-360" y="-45" sprite="OblivionDark3" scroll="0.35" scale="1.6"/>
+	<sprite name="brokeHolo" x="-450" y="-35" sprite="holoBroken" scroll="0.45" scale="1.4"/>
+	<sprite name="bgGlitch" x="-820" y="-680" sprite="bgGlitch" scroll="0.3" scale="1.1" fps="10" alpha="0.0001"/>
+	<sprite name="neoBops" x="-540" y="-240" sprite="neoBop" scroll="0.5" scale="1.2"/>
+	<sprite name="stage" x="-500" y="-330" sprite="spacestage" scroll="1" scale="1.2"/>
+
+
+	<girlfriend x="250" y="50" scroll= "1" />
+	<dad x="-400" y="-30" />
+	<boyfriend x="575" y="10" />
+	<sprite name="cam" x="-300" y="-200" sprite="camTint" scroll="0" scale="1.44"/>
+
+
+</stage>

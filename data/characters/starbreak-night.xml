@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" icon="Vs Void/star" y="-75" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Void/starbreakNight">
+	<anim x="0" loop="false" y="0" fps="24" anim="Star Idle" name="idle"/>
+	<anim x="4" loop="false" y="-3" fps="24" anim="Star Right Note Sing" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-1" fps="24" anim="Star Down Note Sing" name="singDOWN"/>
+	<anim x="2" loop="false" y="1" fps="24" anim="Star Up Note Sing" name="singUP"/>
+	<anim x="3" loop="false" y="0" fps="24" anim="Star Left Note Sing" name="singLEFT"/>
+</character>

@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75" name="star" folder="stages/Vs Void/space/">
+	<girlfriend scroll= "1" />
+	<dad />
+	<boyfriend />
+
+</stage>

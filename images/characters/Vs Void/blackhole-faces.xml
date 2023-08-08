@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blackhole faces.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="right0000" x="0" y="0" width="150" height="150"/>
+	<SubTexture name="right0001" x="0" y="150" width="150" height="150"/>
+	<SubTexture name="right0002" x="0" y="300" width="150" height="150"/>
+	<SubTexture name="right0003" x="0" y="450" width="150" height="150"/>
+	<SubTexture name="left0000" x="150" y="0" width="150" height="90"/>
+	<SubTexture name="left0001" x="150" y="90" width="150" height="90"/>
+	<SubTexture name="left0002" x="150" y="180" width="150" height="90"/>
+	<SubTexture name="left0003" x="150" y="270" width="150" height="90"/>
+	<SubTexture name="down0000" x="300" y="0" width="115" height="70"/>
+	<SubTexture name="down0001" x="300" y="70" width="115" height="70"/>
+	<SubTexture name="down0002" x="300" y="140" width="115" height="70"/>
+	<SubTexture name="down0003" x="300" y="210" width="115" height="70"/>
+	<SubTexture name="up0000" x="415" y="0" width="130" height="130"/>
+	<SubTexture name="up0001" x="415" y="130" width="130" height="130"/>
+	<SubTexture name="up0002" x="415" y="260" width="130" height="130"/>
+	<SubTexture name="up0003" x="415" y="390" width="130" height="130"/>
+	<SubTexture name="brr0000" x="0" y="600" width="71" height="136"/>
+	<SubTexture name="brr0001" x="71" y="600" width="71" height="136"/>
+	<SubTexture name="brr0002" x="142" y="600" width="71" height="136"/>
+	<SubTexture name="brr0003" x="213" y="600" width="71" height="136"/>
+	<SubTexture name="brr0004" x="284" y="600" width="71" height="136"/>
+	<SubTexture name="brr0005" x="355" y="600" width="71" height="136"/>
+</TextureAtlas>

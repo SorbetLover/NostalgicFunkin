@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" icon="Vs Void/security" y="-75" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Void/accretion_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="Accretions Idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Accretions Cough" name="cough"/>
+	<anim x="4" loop="false" y="-3" fps="24" anim="Accretions Right Note" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-1" fps="24" anim="Accretions Down Note" name="singDOWN"/>
+	<anim x="2" loop="false" y="1" fps="24" anim="Accretions Up Note" name="singUP"/>
+	<anim x="3" loop="false" y="0" fps="24" anim="Accretions Left Note" name="singLEFT"/>
+</character>

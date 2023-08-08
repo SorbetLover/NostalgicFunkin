@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.60" name="space" folder="stages/Vs Void/space/">
+	<sprite name="bg" x="-500" y="0" sprite="spaceBG" scroll="0.1" scale="1.7"/>
+	<sprite name="boppers" x="-325" y="-140" sprite="holoBop" scroll="0.2" scale="1.15"/>
+	<sprite name="bgGlitch" x="-820" y="-680" sprite="bgGlitch" scroll="0.3" scale="1.1" fps="10" alpha="0.0001"/>
+	<sprite name="rocks" x="-540" y="-240" sprite="spacerocks" scroll="0.4" scale="1.2"/>
+	<sprite name="stage" x="-500" y="-330" sprite="spacestage" scroll="1" scale="1.2"/>
+
+
+	<girlfriend x="250" y="50" scroll= "1" />
+	<dad x="-400" y="-30" />
+	<boyfriend x="575" y="10" />
+	<sprite name="rock" x="-1620" y="-160" sprite="spacerocksFG" scroll="1.6" scale="1.3"/>
+	<sprite name="flash" x="-300" y="-180" sprite="coolflash" scroll="0" scale="1.4"/>
+
+
+</stage>

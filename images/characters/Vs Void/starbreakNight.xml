@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starbreakNight.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Star Idle0000" x="0" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0001" x="0" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0002" x="750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0003" x="750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0004" x="1500" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0005" x="1500" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0006" x="2250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0007" x="2250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0008" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0009" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0010" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0011" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0012" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Idle0013" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Idle0014" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Sing0000" x="0" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Sing0001" x="750" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Sing0002" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Sing0003" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0004" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0005" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0006" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0007" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0008" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0009" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0010" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0011" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0012" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+        <SubTexture name="Star Down Note Sing0013" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Sing0014" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0000" x="3000" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0001" x="3750" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0002" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0003" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0004" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0005" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0006" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0007" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0008" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0009" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0010" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0011" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0012" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0013" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Down Note Play0014" x="5250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0000" x="0" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0001" x="750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0002" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0003" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0004" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0005" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0006" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0007" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0008" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0009" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0010" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0011" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0012" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0013" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Sing0014" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0000" x="3000" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0001" x="3750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0002" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0003" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0004" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0005" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0006" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0007" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0008" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0009" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0010" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0011" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0012" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0013" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Left Note Play0014" x="5250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0000" x="0" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0001" x="750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0002" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0003" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0004" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0005" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0006" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0007" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0008" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0009" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0010" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0011" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0012" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0013" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Sing0014" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0000" x="3000" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0001" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0002" x="4500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0003" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0004" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0005" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0006" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0007" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0008" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0009" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0010" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0011" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0012" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0013" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Right Note Play0014" x="5250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0000" x="0" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0001" x="750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0002" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0003" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0004" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0005" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0006" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0007" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0008" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0009" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0010" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0011" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0012" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0013" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Sing0014" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0000" x="3000" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0001" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0002" x="4500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0003" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0004" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0005" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0006" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0007" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0008" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0009" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0010" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0011" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0012" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0013" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Star Up Note Play0014" x="5250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+</TextureAtlas>

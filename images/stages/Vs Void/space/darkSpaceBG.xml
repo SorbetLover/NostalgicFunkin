@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darkSpaceBG.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bg Bloop0000" x="0" y="0" width="1729" height="720"/>
+        <SubTexture name="Bg Bloop0001" x="1729" y="0" width="1729" height="720"/>
+        <SubTexture name="Bg Bloop0002" x="0" y="720" width="1729" height="720"/>
+        <SubTexture name="Bg Bloop0003" x="1729" y="720" width="1729" height="720"/>
+        <SubTexture name="Bg Bloop0004" x="0" y="1440" width="1729" height="720"/>
+        <SubTexture name="Bg Bloop0005" x="1729" y="1440" width="1729" height="720"/>
+</TextureAtlas>

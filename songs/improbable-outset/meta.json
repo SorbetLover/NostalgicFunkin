@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 185.0,
+	"difficulties": [
+        "EASY",
+        "NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -12513415,
+	"displayName": "Improbable Outset",
+	"icon": "Vs Tricky/trickyMask",
+	"name": "improbable-outset",
+	"color": "#410F79"
+}

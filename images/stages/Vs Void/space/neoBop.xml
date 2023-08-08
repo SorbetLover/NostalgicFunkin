@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neoBop.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Neo Boppin0000" x="0" y="0" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0001" x="2000" y="0" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0002" x="2000" y="0" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0003" x="0" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0004" x="0" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0005" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0006" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0007" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0008" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0009" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0010" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0011" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0012" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+	<SubTexture name="Neo Boppin0013" x="2000" y="1100" width="2000" height="1100" frameX="0" frameY="0" frameWidth="2000" frameHeight="1100"/>
+</TextureAtlas>

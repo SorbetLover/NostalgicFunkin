@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="accretion_assets.png">
+	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Accretions Idle0000" x="0" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0001" x="0" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0002" x="1500" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0003" x="1500" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0004" x="3000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0005" x="3000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0006" x="4500" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0007" x="4500" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0008" x="6000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0009" x="6000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0010" x="6000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0011" x="6000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0012" x="6000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Idle0013" x="6000" y="0" width="1500" height="1000"/>
+        <SubTexture name="Accretions Idle0014" x="6000" y="0" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0000" x="0" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0001" x="1500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0002" x="3000" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0003" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0004" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0005" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0006" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0007" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0008" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0009" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0010" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0011" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0012" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0013" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Down Note0014" x="4500" y="4000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0000" x="0" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0001" x="1500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0002" x="3000" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0003" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0004" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0005" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0006" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0007" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0008" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0009" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0010" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0011" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0012" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0013" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Left Note0014" x="4500" y="3000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0000" x="0" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0001" x="1500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0002" x="3000" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0003" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0004" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0005" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0006" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0007" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0008" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0009" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0010" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0011" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0012" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0013" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Right Note0014" x="4500" y="2000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0000" x="0" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0001" x="1500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0002" x="3000" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0003" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0004" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0005" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0006" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0007" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0008" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0009" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0010" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0011" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0012" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0013" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Up Note0014" x="4500" y="1000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0000" x="0" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0001" x="1500" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0002" x="3000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0003" x="4500" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0004" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0005" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0006" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0007" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0008" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0009" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0010" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0011" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0012" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0013" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0014" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0015" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0016" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0017" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0018" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0019" x="6000" y="5000" width="1500" height="1000"/>
+	<SubTexture name="Accretions Cough0020" x="6000" y="5000" width="1500" height="1000"/>
+</TextureAtlas>

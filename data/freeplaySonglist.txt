@@ -4,6 +4,9 @@ fresh-b
 dadbattle-b
 spookeez-b
 south-b
+pico-b
+philly-b
+blammed-b
 
 lo-fight
 overhead
@@ -44,3 +47,15 @@ reminisce
 salvation
 tetris
 Mamigation
+
+asteroids
+weightless
+event-horizon
+ultraviolet
+gravity
+singularity
+security
+stardust
+
+improbable-outset
+madness
