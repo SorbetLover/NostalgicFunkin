@@ -1,7 +1,8 @@
 {
 	"opponentModeAllowed": true,
 	"difficulties": [
-		"BUSHWHACK"
+		"BUSHWHACK",
+		"test"
 	],
 	"icon": "CableCrow",
 	"parsedColor": -8943463,

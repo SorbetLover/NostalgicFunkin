@@ -34,8 +34,9 @@ function postCreate() {
 }
 
 function postUpdate() {
-    for (bleh in weeks)
-        trace(weeks[bleh]);
+    // for (bleh in weeks)
+    //     trace(weeks[bleh]);
+    // CoolUtil.loadAnimatedGraphic(bgr, Paths.image("menus/freeplay/square"));
     CoolUtil.loadAnimatedGraphic(bg, Paths.image("menus/freeplay/" + weekBg));
     freeplayText.text = "Current week: " + currentWeek;
     // trace(songs[curSelected].name + " || " + currentWeek);
@@ -48,7 +49,7 @@ function postUpdate() {
     // }
 
     switch(songs[curSelected].name) {
-        case "tutorial-b" | "bopeebo-b" | "fresh-b" | "dadbattle-b" | "spookeez-b" | "south-b":
+        case "tutorial-b" | "bopeebo-b" | "fresh-b" | "dadbattle-b" | "spookeez-b" | "south-b" | "pico-b" | "philly-b" | "blammed-b":
             currentWeek = "B Sides";
             weekBg = "default";
 
@@ -76,8 +77,8 @@ function postUpdate() {
 }
 
 function update(elapsed:Float) {
-    if (FlxG.mouse.overlaps(freeplayText))
-        {
-            trace("scheduled");
-        }
+    // if (FlxG.mouse.overlaps(freeplayText))
+    //     {
+    //         trace("scheduled");
+    //     }
 }
