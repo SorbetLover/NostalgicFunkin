@@ -23,7 +23,7 @@
     </high-memory>
 
     <dad x="550" y="430"/>
-    <gf x="1300" y="450" scroll="0.95"/>
+    <gf x="1300" y="450"/>
     <boyfriend x="1680" y="770"/>
     <sprite name="overlayingsticks" x="0" y="0" sprite="overlayingsticks" scroll="1" scale="1"/>
 </stage>
