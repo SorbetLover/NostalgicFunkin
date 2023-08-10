@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bf-zar",
 		"events": [],
-		"gfVersion": "gf",
+		"gfVersion": "nogf",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -20507,11 +20507,11 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "Zardy Dark",
+		"player2": "zardy-dark old",
 		"player3": null,
 		"splashSkin": "noteSplashes",
-		"song": "Bushwhack",
-		"stage": "bushwack",
+		"song": "Bushwhack Old",
+		"stage": "bushwhack",
 		"needsVoices": true,
 		"validScore": true,
 		"arrowSkin": "",

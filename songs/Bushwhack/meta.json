@@ -1,8 +1,7 @@
 {
 	"opponentModeAllowed": true,
 	"difficulties": [
-		"BUSHWHACK",
-		"test"
+		"BUSHWHACK"
 	],
 	"icon": "CableCrow",
 	"parsedColor": -8943463,
@@ -13,5 +12,5 @@
 	"displayName": "Bushwhack",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 100
+	"bpm": 193
 }
