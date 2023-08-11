@@ -3,56 +3,65 @@ var hand:FlxSprite;
 var otherHand:FlxSprite;
 
 function postCreate() {
-    strumLines.members[0].characters[1].visible = false;
+    // Whoever came up with this is a genius
+    strumLines.members[0].characters[1].visible = false; // hide cablecrow
 }
 
-function postUpdate(elapsed:Float) {
-    // for (d in cpuStrums)
-    //     d.alpha -= 0.001;
+function cameraStatic() {
+    if (curBeat >= 480 && curBeat <= 484 && curCameraTarget == 1) {
+        camFollow.setPosition(400, 500); // cam before mic grab
+    } else {
+        return false;
+    }
 }
+
+function postUpdate(elapsed:Float) {cameraStatic();}
 
 function cableSpawn(){
         trace("cable boy");
 
         FlxTween.tween(camGame,{zoom: 1.6},1);
         
-        FlxTween.tween(dad,{x: defaultX},1);
+        FlxTween.tween(strumLines.members[0].characters[1],{x: dad.x, y: dad.y + 20},1);
         mic.alpha = 1;
-        mic.x = dad.x;
+        mic.x = strumLines.members[0].characters[1].x;
         remove(otherHand);
-        FlxG.sound.play(Paths.sound("micfuckinhit","Vs Zardy"));
-        FlxTween.tween(mic,{x: mic.x + 3400},2,{
+        FlxG.sound.play(Paths.sound("Vs Zardy/micfuckinhit"));
+        FlxTween.tween(mic,{x: mic.x + 3400},2,{ /**mic go weeeeeeeeeeee**/
         onUpdate: function(tw) {
-            if (mic.overlaps(boyfriend) && grabbed && health != 0)
-            {
-                FlxG.sound.play(Paths.sound("bf_mic_hit","Vs Zardy"));
-                health = 0;
-                lastGrab = Conductor.songPosition;
-                FlxG.camera.flash(FlxColor.RED,1,null,true);
-                boyfriend.playAnim("dead");
+            // FOR GIMMICK SHIT
 
-                if (FlxG.sound.music != null)
-                {
-                    FlxG.sound.music.stop();
-                    vocals.stop();
-                }
-            }
+            // if (mic.overlaps(boyfriend) && grabbed && health != 0)
+            // {
+            //     FlxG.sound.play(Paths.sound("bf_mic_hit","Vs Zardy"));
+            //     health = 0;
+            //     lastGrab = Conductor.songPosition;
+            //     FlxG.camera.flash(FlxColor.RED,1,null,true);
+            //     boyfriend.playAnim("dead");
+
+            //     if (FlxG.sound.music != null)
+            //     {
+            //         FlxG.sound.music.stop();
+            //         vocals.stop();
+            //     }
+            // }
             mic.angle += 4;
         },
         onComplete: function(tw) {
             remove(mic);
             if (health != 0)
             {
-                stopMoving = false;
-                FlxTween.tween(camGame,{zoom: Stage.camZoom},0.4);
+                FlxTween.tween(camGame,{zoom: defaultCamZoom},0.4);
                 remove(iconP2);
-                iconP2 = new HealthIcon(dad.curCharacter,false);
-                iconP2.y = healthBar.y - (iconP2.height / 2);
-                iconP2.setGraphicSize(Std.int(FlxMath.lerp(150, iconP2.width, 0.50)));
+                iconP2 = new HealthIcon("cableCrow", false);
+                iconP2.y = healthBar.y - (iconP2.height / 1.5);
+                iconP2.cameras =  [camHUD];
+                iconP2.updateHitbox();
+                iconP2.health = health;
+                insert(members.indexOf(healthBar)+1, iconP2);
                 iconP2.alpha = 0;
-                iconP2.cameras = [camHUD];
-                add(iconP2);
                 FlxTween.tween(iconP2,{alpha:1},0.3);
+                this.update(0);
             }
         }});
 }
@@ -60,16 +69,17 @@ function cableSpawn(){
 function stepHit() {
     if (curStep == 1910)
         {
-            FlxTween.tween(dad,{alpha:0},0.3);
+            FlxTween.tween(dad,{alpha:0},0.3); // Brrraaaaaghh - Zardy
             FlxTween.tween(iconP2,{alpha:0},0.3);
-            mic = new FlxSprite(dad.x+ 300,dad.y - 100).loadGraphic(Paths.image("stages/Bushwhack/Mic"));
+            mic = new FlxSprite(dad.x + 200,dad.y - 100).loadGraphic(Paths.image("stages/Bushwhack/Mic"));
             mic.alpha = 0;
 
             mic.setGraphicSize(Std.int(mic.width * 0.4));
 
             mic.antialiasing = true;
 
-            hand = new FlxSprite(mic.x - hand.width,mic.y).loadGraphic(Paths.image("stages/Bushwhack/Arm0"));
+            hand = new FlxSprite(0,mic.y).loadGraphic(Paths.image("stages/Bushwhack/Arm0"));
+            hand.x = mic.x - hand.width;
             hand.y += 40;
 
             hand.alpha = 0;
@@ -88,48 +98,29 @@ function stepHit() {
             add(mic);
         }
 
-        if (curStep == 1920)
-        {
+        if (curStep == 1920){
             // cable crow stuff
-            remove(dad);
+            remove( strumLines.members[0].characters[0]);
 
-            stopMoving = true;
-            var newX = dad.x - 1300;
-            var newY = dad.y - 135;
-            dad.destroy();
-            dad = new Character(newX,newY,"cableCrowPog");
-            add(dad);
+            strumLines.members[0].characters[1].visible = true; // show cable crow
+            strumLines.members[0].characters[1].x = dad.x - 1300;
+            strumLines.members[0].characters[1].y = dad.y - 135;
 
             hand.alpha = 1;
 
             FlxTween.tween(hand,
                 {x: mic.x - 2600},1,{onComplete: function (tw) {
                 remove(hand);
-                FlxG.sound.play(Paths.sound("cable_claw_impact","Vs Zardy"));
+                FlxG.sound.play(Paths.sound("Vs Zardy/cable_claw_impact"));
                 otherHand.x = hand.x - 335;
                 otherHand.y = hand.y;
                 otherHand.alpha = 1;
                 mic.alpha = 0;
-                FlxG.sound.play(Paths.sound("cable_claw_retract","Vs Zardy"));
-                FlxTween.tween(otherHand,{x: dad.x - 2700},0.8, {onComplete: function (fuck:FlxTween) {
+                FlxG.sound.play(Paths.sound("Vs Zardy/cable_claw_retract"));
+                FlxTween.tween(otherHand,{x: /*it's my turn now*/ strumLines.members[0].characters[1].x - 2700},0.8, {onComplete: function (fuck:FlxTween) {
                     cableSpawn();
                 }});
             }});
 
         }
 }
-
-// function beatHit(curBeat) {
-//     if (curBeat == 160) {
-//         // remove(iconP2);
-//         // iconP2.destroy();
-//         // iconP2 = new HealthIcon("cableCrow", false);
-//         // iconP2.y = healthBar.y - (iconP2.height / 1.5);
-//         // iconP2.offset.set(500);
-//         // iconP2.updateHitbox();
-//         // iconP2.cameras =  [camHUD];
-//         // iconP2.health = health;
-//         // add(iconP2);
-//         // this.update(0);
-//     }
-// }

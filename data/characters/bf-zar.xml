@@ -4,7 +4,7 @@
 	<anim x="5" loop="false" y="21" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
 	<anim x="-23" loop="false" y="-50" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
 	<anim x="-39" loop="false" y="23" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
-	<anim x="-43" loop="false" y="28" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="-52" loop="false" y="28" fps="24" anim="BF NOTE UP0" name="singUP"/>
 	<anim x="-40" loop="false" y="-34" fps="24" anim="bf pre attack" name="fall"/>
 	<anim x="217" loop="false" y="176" fps="24" anim="Holding Axe 1" indices="19,20,21,22,23,24" name="axe"/>
 	<anim x="-51" loop="true" y="55" fps="24" anim="BF hit 1" indices="4,5,6,7,8,9,10,11,12,13,14,15,16,17,18" name="heldByVine"/>
@@ -13,7 +13,7 @@
 	<anim x="-4" loop="false" y="7" fps="24" anim="BF HEY" name="hey"/>
 	<anim x="-4" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
 	<anim x="-29" loop="false" y="-16" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
-	<anim x="7" loop="false" y="-4" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
-	<anim x="-45" loop="false" y="-5" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+	<anim x="-34" loop="false" y="-4" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-4" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
 	<anim x="-44" loop="false" y="28" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
 </character>
