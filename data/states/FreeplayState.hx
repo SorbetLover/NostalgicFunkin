@@ -21,7 +21,7 @@ function create() {
     boxPage = new FlxSprite(scoreText.x - 7, 100).makeGraphic(600, 600, 0xFF000000);
     boxPage.updateHitbox();
     boxPage.alpha = 0.6;
-    add(boxPage);
+    // add(boxPage);
 }
 
 function postCreate() {

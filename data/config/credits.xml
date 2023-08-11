@@ -44,6 +44,7 @@
 	<credit name="Jads" desc="Vocal Samples" icon="" size="130" url="https://gamebanana.com/members/1767622"/>
 	<credit name="Sugarratio" desc="Animator/Artist for Zardy REMASTERED" icon="" size="130" url="https://gamebanana.com/members/1771573"/>
 	<credit name="DestrioSZ" desc="Artist/Animator for Cablecrow REMASTERED" icon="" size="130" url="https://gamebanana.com/members/2080836"/>
+	<credit name="Pumpsuki" desc="Psych Engine Porter, and Charter for Bushwhack used in the port" icon="" size="130" url="https://gamebanana.com/members/2098002"/>
 </menu>
 
 <!-- VS KAPI -->
@@ -54,7 +55,7 @@
 	<credit name="MikeGeno" desc="The song Hairball" icon="" size="130" url="https://www.youtube.com/channel/UCyDQKOgEjuIiuPXctcuQKlg"/>
 </menu>
 
-<!-- PORTERS -->
+<!-- PORTERS/Scripts -->
 
 <menu name="Nostalgic Funkin" desc="The ones who ported the mods. (includes scripts' credits)">
 	<credit name="NULL" desc="Started the idea, ported Vs Whitty and Vs Carol. Minor porting help with Vs Tabi." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
