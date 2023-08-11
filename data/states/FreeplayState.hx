@@ -49,7 +49,7 @@ function postUpdate() {
     // }
 
     switch(songs[curSelected].name) {
-        case "tutorial-b" | "bopeebo-b" | "fresh-b" | "dadbattle-b" | "spookeez-b" | "south-b" | "pico-b" | "philly-b" | "blammed-b":
+        case "tutorial-b" | "bopeebo-b" | "fresh-b" | "dadbattle-b" | "spookeez-b" | "south-b" | "pico-b" | "philly-b" | "blammed-b" | "satin-panties-b" | "high-b" | "milf-b":
             currentWeek = "B Sides";
             weekBg = "default";
 

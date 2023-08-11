@@ -14,5 +14,7 @@ function postUpdate() {
 }
 
 function beatHit(curBeat) {
-    FlxTween.tween(logoBump.scale, {x: 1.32, y: 1.32}, Conductor.crochet / 2000, {ease: FlxEase.cubeInOut,  type: FlxTween.BACKWARD});
+    if (curBeat % 2 == 0) {
+        FlxTween.tween(logoBump.scale, {x: 1.32, y: 1.32}, Conductor.crochet / 2000, {ease: FlxEase.cubeInOut,  type: FlxTween.BACKWARD});
+    }
 }

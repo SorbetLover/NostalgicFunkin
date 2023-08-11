@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="B Sides/mom" y="0" isGF="false" isPlayer="false" sprite="B Sides/Week 4/momCar">
+	<anim x="0" loop="false" y="0" fps="24" anim="Mom Idle" name="idle"/>
+	<anim x="14" loop="false" y="71" fps="24" anim="Mom Up Pose" name="singUP"/>
+	<anim x="20" loop="false" y="-160" fps="24" anim="MOM DOWN POSE" name="singDOWN"/>
+	<anim x="250" loop="false" y="-23" fps="24" anim="Mom Left Pose" name="singLEFT"/>
+	<anim x="10" loop="false" y="-60" fps="24" anim="Mom Pose Left" name="singRIGHT"/>
+</character>
