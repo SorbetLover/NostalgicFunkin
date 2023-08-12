@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 190,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -10897665,
+	"displayName": "Thorns",
+	"icon": "B Sides/spirit",
+	"name": "thorns-b",
+	"color": "#59B6FF"
+}
