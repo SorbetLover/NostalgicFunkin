@@ -3,14 +3,6 @@ import flixel.util.FlxAxes;
 import flixel.text.FlxTextBorderStyle;
 
 var boxPage:FlxSprite;
-var currentPage:Int = 1;
-var weeks:Array<String> = [
-    "B Sides",
-    "Vs Whitty",
-    "Vs Carol",
-    "Vs Tabi",
-    "Vs Foolhardy"
-];
 
 var weekBg:String = "default";
 var currentWeek:String;
@@ -18,10 +10,18 @@ var freeplayText:FlxText;
 // var indexs:Array = [5, 9, 15];
 
 function create() {
-    boxPage = new FlxSprite(scoreText.x - 7, 100).makeGraphic(600, 600, 0xFF000000);
-    boxPage.updateHitbox();
-    boxPage.alpha = 0.6;
+    // boxPage = new FlxSprite(scoreText.x - 7, 100).makeGraphic(600, 600, 0xFF000000);
+    // boxPage.updateHitbox();
+    // boxPage.alpha = 0.6;
     // add(boxPage);
+    //     for (i in 0...weeks.length) {
+    //     var text:FlxText = new FlxText(scoreText.x - 7, i * 40, 200, weeks[i] + " ");
+    //     text.setFormat("fonts/freeplay.ttf", 25, FlxColor.WHITE, "CENTER");
+    //     text.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 2);
+    //     text.antialiasing = true;
+    //     add(text);
+    // }
+
 }
 
 function postCreate() {
@@ -30,23 +30,13 @@ function postCreate() {
     freeplayText.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 2);
     freeplayText.antialiasing = true;
     add(freeplayText);
-    FlxG.mouse.visible = true;
 }
 
 function postUpdate() {
-    // for (bleh in weeks)
-    //     trace(weeks[bleh]);
-    // CoolUtil.loadAnimatedGraphic(bgr, Paths.image("menus/freeplay/square"));
+    // trace(songs[curSelected].name + " || " + currentWeek);
+
     CoolUtil.loadAnimatedGraphic(bg, Paths.image("menus/freeplay/" + weekBg));
     freeplayText.text = "Current week: " + currentWeek;
-    // trace(songs[curSelected].name + " || " + currentWeek);
-    
-    // if (currentWeek != null) {
-    //         FlxTween.tween(bg, {alpha: 1}, 0.1);
-    // }
-    //     bg.alpha = FlxMath.lerp(0, 1, 1);
-    //     // trace('dsa"');
-    // }
 
     switch(songs[curSelected].name) {
         case "tutorial-b" | "bopeebo-b" | "fresh-b" | "dadbattle-b" | "spookeez-b" | "south-b" | "pico-b" | "philly-b" | "blammed-b" | "satin-panties-b" | "high-b" | "milf-b":
@@ -73,12 +63,12 @@ function postUpdate() {
             currentWeek = "some other week";
             weekBg = "default";
     }
+    // if (FlxG.keys.justPressed.E && curSelected != null) {
+    //     changeSelection(3);
+    // }
 
-}
-
-function update(elapsed:Float) {
-    // if (FlxG.mouse.overlaps(freeplayText))
-    //     {
-    //         trace("scheduled");
-    //     }
+    // else if (FlxG.keys.justPressed.Q && curSelected != null) {
+    //     changeSelection(-3);
+    // }
+    changeSelection( (FlxG.keys.justPressed.Q ? -3 : 0) + (FlxG.keys.justPressed.E ? 3 : 0) );
 }
