@@ -4,7 +4,7 @@ var otherHand:FlxSprite;
 
 function postCreate() {
     // Whoever came up with this is a genius
-    strumLines.members[0].characters[1].visible = false; // hide cablecrow
+    strumLines.members[0].characters[1].alpha = 0.0001; // hide cablecrow
 }
 
 function cameraStatic() {
@@ -31,20 +31,19 @@ function cableSpawn(){
         onUpdate: function(tw) {
             // FOR GIMMICK SHIT
 
-            // if (mic.overlaps(boyfriend) && grabbed && health != 0)
-            // {
-            //     FlxG.sound.play(Paths.sound("bf_mic_hit","Vs Zardy"));
-            //     health = 0;
-            //     lastGrab = Conductor.songPosition;
-            //     FlxG.camera.flash(FlxColor.RED,1,null,true);
-            //     boyfriend.playAnim("dead");
+            if (mic.overlaps(boyfriend) && grabbed && health != 0)
+            {
+                FlxG.sound.play(Paths.sound("bf_mic_hit","Vs Zardy"));
+                health = -1;
+                lastGrab = Conductor.songPosition;
+                FlxG.camera.flash(FlxColor.RED,1,null,true);
 
-            //     if (FlxG.sound.music != null)
-            //     {
-            //         FlxG.sound.music.stop();
-            //         vocals.stop();
-            //     }
-            // }
+                if (FlxG.sound.music != null)
+                {
+                    FlxG.sound.music.stop();
+                    vocals.stop();
+                }
+            }
             mic.angle += 4;
         },
         onComplete: function(tw) {
@@ -54,12 +53,12 @@ function cableSpawn(){
                 FlxTween.tween(camGame,{zoom: defaultCamZoom},0.4);
                 remove(iconP2);
                 iconP2 = new HealthIcon("cableCrow", false);
+                iconP2.alpha = 0;
                 iconP2.y = healthBar.y - (iconP2.height / 1.5);
                 iconP2.cameras =  [camHUD];
-                iconP2.updateHitbox();
+                // iconP2.updateHitbox();
                 iconP2.health = health;
                 insert(members.indexOf(healthBar)+1, iconP2);
-                iconP2.alpha = 0;
                 FlxTween.tween(iconP2,{alpha:1},0.3);
                 this.update(0);
             }
@@ -102,7 +101,7 @@ function stepHit() {
             // cable crow stuff
             remove( strumLines.members[0].characters[0]);
 
-            strumLines.members[0].characters[1].visible = true; // show cable crow
+            strumLines.members[0].characters[1].alpha = 1; // show cable crow
             strumLines.members[0].characters[1].x = dad.x - 1300;
             strumLines.members[0].characters[1].y = dad.y - 135;
 
