@@ -4,7 +4,7 @@ var otherHand:FlxSprite;
 
 function postCreate() {
     // Whoever came up with this is a genius
-    strumLines.members[0].characters[1].alpha = 0.0001; // hide cablecrow
+    strumLines.members[0].characters[1].visible = false; // hide cablecrow
 }
 
 function cameraStatic() {
@@ -33,16 +33,10 @@ function cableSpawn(){
 
             if (mic.overlaps(boyfriend) && grabbed && health != 0)
             {
-                FlxG.sound.play(Paths.sound("bf_mic_hit","Vs Zardy"));
+                FlxG.sound.play(Paths.sound("Vs Zardy/bf_mic_hit"));
                 health = -1;
                 lastGrab = Conductor.songPosition;
                 FlxG.camera.flash(FlxColor.RED,1,null,true);
-
-                if (FlxG.sound.music != null)
-                {
-                    FlxG.sound.music.stop();
-                    vocals.stop();
-                }
             }
             mic.angle += 4;
         },
@@ -101,7 +95,7 @@ function stepHit() {
             // cable crow stuff
             remove( strumLines.members[0].characters[0]);
 
-            strumLines.members[0].characters[1].alpha = 1; // show cable crow
+            strumLines.members[0].characters[1].visible = true; // show cable crow
             strumLines.members[0].characters[1].x = dad.x - 1300;
             strumLines.members[0].characters[1].y = dad.y - 135;
 

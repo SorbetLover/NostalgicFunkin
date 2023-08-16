@@ -6,6 +6,8 @@ public var grabbed:Bool = false;
 public var grabInput = false;
 
 function postCreate() {
+	if (PlayState.opponentMode || FlxG.save.data.bushNote)
+		disableScript();
 	vine = new FlxSprite(250, 470);
 	vine.antialiasing = true;
 	// load these once so it doesn't lag when we load em
@@ -195,11 +197,29 @@ function update(elapsed:Float) {
 			generateAndShowRandomNotes(4);
 		}
 	}
+}
 
+function beatHit(curBeat) {
 	switch (curBeat) {
 		case 96:
 			grabThatMF();
 		case 160:
+			grabThatMF();
+		case 192:
+			grabThatMF();
+		case 288:
+			grabThatMF();
+		case 384:
+			grabThatMF();
+		case 476:
+			grabThatMF();
+		case 628:
+			grabThatMF();
+		case 709:
+			grabThatMF();
+		case 792:
+			grabThatMF();
+		case 1084:
 			grabThatMF();
 	}
 }
