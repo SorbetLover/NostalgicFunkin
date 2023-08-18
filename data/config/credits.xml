@@ -42,9 +42,6 @@
 	<credit name="Charriii5" desc="Additional Art and Animation" icon="" size="130" url="https://www.youtube.com/channel/UC1wWQb7GYP6d_FdrNts-DpQ"/>
 	<credit name="Turvie" desc="Menu backgrounds" icon="" size="130" url="https://twitter.com/turvs6"/>
 	<credit name="Jads" desc="Vocal Samples" icon="" size="130" url="https://gamebanana.com/members/1767622"/>
-	<credit name="Sugarratio" desc="Animator/Artist for Zardy REMASTERED" icon="" size="130" url="https://gamebanana.com/members/1771573"/>
-	<credit name="DestrioSZ" desc="Artist/Animator for Cablecrow REMASTERED" icon="" size="130" url="https://gamebanana.com/members/2080836"/>
-	<credit name="Pumpsuki" desc="Psych Engine Porter, and Charter for Bushwhack used in the port" icon="" size="130" url="https://gamebanana.com/members/2098002"/>
 </menu>
 
 <!-- VS KAPI -->
@@ -57,12 +54,13 @@
 
 <!-- PORTERS/Scripts -->
 
-<menu name="Nostalgic Funkin" desc="The ones who ported the mods. (includes scripts' credits)">
-	<credit name="NULL" desc="Started the idea, ported Vs Whitty and Vs Carol. Minor porting help with Vs Tabi." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
-	<credit name="Tsaku" desc="Ported Vs Kapi, foolhardy mod stage files and characters files. Minor porting help with foolhardy re-port. Ported Vs AGOTI." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
-	<credit name="MAZ" desc="Ported Vs Tabi entirely, Re-ported like 80% of foolhardy, recharted Genocide, minor porter help on Vs Kapi, Vs Whitty." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
-	<credit name="bambamlol" desc="modchart porter for the foolhardy song." icon="" size="130" url="https://www.youtube.com/channel/UCAokRr88PQnhMJdwbrEtGKQ"/>
-	<credit name="mr.Wifi7" desc="Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
-	<credit name="Ne_Eo" desc="Shaky window script and help with code." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
-	<credit name="yashermania" desc="Noteskin script." icon="" size="130" url="https://github.com/YasherMania"/>
+<menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
+	<credit name="NULL" desc="• Started the idea, ported Vs Whitty and Vs Carol.&#xA;• Minor porting help with Vs Tabi." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
+	<credit name="Tsaku" desc="• Ported Vs Kapi, foolhardy mod stage files and raw characters files.&#xA;• Minor porting help with foolhardy re-port. Ported Vs AGOTI." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
+	<credit name="MAZ" desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.&#xA;• recharted Genocide, minor porting help on Vs Kapi and Vs Whitty." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
+	<credit name="bambamlol" desc="• Modchart porter for the foolhardy song." icon="" size="130" url="https://www.youtube.com/channel/UCAokRr88PQnhMJdwbrEtGKQ"/>
+	<credit name="mr.Wifi7" desc="• Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
+	<credit name="Ne_Eo" desc="• Shaky window script and help with code." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
+	<credit name="yashermania" desc="• Noteskin script." icon="" size="130" url="https://github.com/YasherMania"/>
+	<credit name="Pumpsuki" desc="• Vs Zardy Psych Engine Porter, and Charter for Bushwhack used in the port." icon="" size="130" url="https://gamebanana.com/members/2098002"/>
 </menu>

@@ -201,25 +201,7 @@ function update(elapsed:Float) {
 
 function beatHit(curBeat) {
 	switch (curBeat) {
-		case 96:
-			grabThatMF();
-		case 160:
-			grabThatMF();
-		case 192:
-			grabThatMF();
-		case 288:
-			grabThatMF();
-		case 384:
-			grabThatMF();
-		case 476:
-			grabThatMF();
-		case 628:
-			grabThatMF();
-		case 709:
-			grabThatMF();
-		case 792:
-			grabThatMF();
-		case 1084:
+		case 96 | 160 | 192 | 288 | 384 | 476 | 628 | 709 | 792 | 1084:
 			grabThatMF();
 	}
 }

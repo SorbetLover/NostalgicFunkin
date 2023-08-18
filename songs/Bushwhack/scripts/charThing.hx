@@ -22,7 +22,7 @@ function cableSpawn(){
 
         FlxTween.tween(camGame,{zoom: 1.6},1);
         
-        FlxTween.tween(strumLines.members[0].characters[1],{x: dad.x, y: dad.y + 20},1);
+        FlxTween.tween(strumLines.members[0].characters[1],{x: dad.x, y: dad.y + 10},1);
         mic.alpha = 1;
         mic.x = strumLines.members[0].characters[1].x;
         remove(otherHand);
