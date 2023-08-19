@@ -14,8 +14,8 @@ A ton of mods see below of whats currently work in progress or still needs start
 - [ ] Vs. Hex (Maybe Weekand Update)
 - [ ] Vs. Kapi
 - [x] Vs. Carol | "Needs recharting ngl" - MAZ ⭐
-- [ ] Vs. Hatsune Miku
-- [x] Vs. Zardy | Finished without Modcharts and Bushwhack gimmick ⭐
+- [ ] Vs. Hatsune Miku V2
+- [x] Vs. Zardy | Finished without dialogue ⭐
 - [ ] Vs. Garcello
 - [ ] Vs. Annie
 - [ ] Vs. Tricky (The Full ASS Mod)
@@ -24,7 +24,7 @@ A ton of mods see below of whats currently work in progress or still needs start
 - [ ] Vs. Sunday
 - [x] Vs. Tabi | Finished without dialogue ⭐
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught]
-- [ ] Vs. Shaggy
+- [x] Vs. Shaggy | Handled by Wizard, bromaster, and Ne_Eo
 - [ ] vs neon
 - [ ] vs cg5
 - [ ] parappa mod
@@ -35,6 +35,9 @@ A ton of mods see below of whats currently work in progress or still needs start
 - [ ] vs imposter v?
 - [ ] StarCatcher
 - [ ] Static Memories
+- [ ] Vs Void
+- [ ] Vs QT
+- [ ] Vs Mami
 
 
 # [Credits!](https://github.com/AceThePan/NostalgicFunkin/blob/main/data/config/credits.xml)
