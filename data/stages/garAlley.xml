@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="garAlley" folder="stages/SEOS/">
+	<sprite name="bg"               x="-500" y="-170"   sprite="garStagebgAlt"       scroll="0.7" />
+	<sprite name="bgAlley"               x="-500" y="-200"   sprite="garStagealt"       scroll="0.9" />
+</stage>
