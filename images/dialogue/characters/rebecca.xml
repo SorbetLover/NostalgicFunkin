@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="rebecca1.png">
+<TextureAtlas imagePath="rebecca.png">
 	<!-- Created with Adobe Animate version 21.0.3.38773 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Rebecca30000" x="0" y="0" width="325" height="477" frameX="0" frameY="0" frameWidth="327" frameHeight="477"/>
