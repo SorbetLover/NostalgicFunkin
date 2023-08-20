@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character holdTime="6.1" sprite="starving artist/rebecca_asset" icon="starving artist/rebecca" isPlayer="false" flipX="false">
+	<anim x="0" loop="false" y="50" fps="24" anim="rebecca idle dance" name="idle"/>
+
+	<anim x="-23" loop="false" y="78" fps="24" anim="rebecca Sing Note UP" name="singUP"/>
+
+	<anim x="156" loop="false" y="-65" fps="24" anim="rebecca Sing Note LEFT" name="singLEFT"/>
+
+	<anim x="-40" loop="false" y="-93" fps="24" anim="rebecca Sing Note RIGHT" name="singRIGHT"/>
+
+	<anim x="-40" loop="false" y="-260" fps="24" anim="rebecca Sing Note DOWN" name="singDOWN"/>
+
+</character>
