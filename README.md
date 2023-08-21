@@ -10,13 +10,14 @@ Nostalgic Funkin is a modpack made with Codename Engine. Want to play most of th
 A ton of mods see below of whats currently work in progress or still needs start.
 
 - [x] Vs. Whitty (Legacy) | Finished without ballistic cutscene ⭐
-- [ ] Vs. AGOTI (the classic one)
+- [x] Vs. AGOTI (the classic one) | Finished without dialogue ⭐
 - [ ] Vs. Hex (Maybe Weekand Update)
-- [ ] Vs. Kapi
+- [x] Vs. Kapi |Finished but definitely needs revisiting - MAZ ⭐
 - [x] Vs. Carol | "Needs recharting ngl" - MAZ ⭐
 - [ ] Vs. Hatsune Miku V2
 - [x] Vs. Zardy | Finished without dialogue ⭐
-- [x] Vs. Garcello
+- [x] Starving Artist | Finished entirely ⭐
+- [x] Vs. Garcello | Finished entirely ⭐
 - [ ] Vs. Annie
 - [ ] Vs. Tricky (The Full ASS Mod)
 - [ ] Vs. Monika (No, not DDTO!!)

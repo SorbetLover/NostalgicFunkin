@@ -1,5 +1,6 @@
 <!DOCTYPE codename-engine-week>
-<week name="STARVING ARTIST" difficulties="normal" chars="rebecca,bf,gf" sprite="starving">
+<week name="STARVING ARTIST" chars="rebecca,bf,gf" sprite="starving">
+<difficulty name="normal"/>
 	<song>hunger</song>
 	<song>aspirer</song>
 	<song>crybaby</song>
