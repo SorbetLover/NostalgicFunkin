@@ -1,14 +1,8 @@
 <!DOCTYPE codename-engine-dialogue-box>
-<dialoguebox x="-20" y="90">
-	<!--
-		Node containing all text settings
-	 -->
-	<text font="vcr.ttf" x="107" y="170" width="1053" color="#000000" size="40"/>
+<dialoguebox x="-20" y="0"> <!--please have a scale attribute-->
+	<text font="BribagSans-Regular.ttf" x="210" y="170" width="1053" color="#010101" size="60"/>
 
-	<!--
-		All positions for characters
-	-->
-	<charpos name="left" x="-500" y="184" />
+	<charpos name="left" x="-400" y="184" />
 
-	<anim name="normal" anim="Textbox0" fps="24" loop="true" x="-30"/>
+	<anim name="normal" anim="textBox" fps="5" loop="true" x="-30"/>
 </dialoguebox>
