@@ -16,7 +16,7 @@ A ton of mods see below of whats currently work in progress or still needs start
 - [x] Vs. Carol | "Needs recharting ngl" - MAZ ⭐
 - [ ] Vs. Hatsune Miku V2
 - [x] Vs. Zardy | Finished without dialogue ⭐
-- [ ] Vs. Garcello
+- [x] Vs. Garcello
 - [ ] Vs. Annie
 - [ ] Vs. Tricky (The Full ASS Mod)
 - [ ] Vs. Monika (No, not DDTO!!)
