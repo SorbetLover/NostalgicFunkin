@@ -66,9 +66,10 @@
 
 <menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
 	<credit name="NULL" desc="• Started the idea, ported Vs Whitty and Vs Carol.&#xA;• Minor porting help with Vs Tabi." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
-	<credit name="Tsaku" desc="• Ported Vs Kapi, foolhardy mod stage files and raw characters files.&#xA;• Minor porting help with foolhardy re-port. Ported Vs AGOTI." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
-	<credit name="MAZ" desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.&#xA;• recharted Genocide, minor porting help on Vs Kapi and Vs Whitty." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
+	<credit name="Tsaku" desc="• Ported Vs Kapi, foolhardy mod stage files and raw characters files.&#xA;• Minor porting help with foolhardy re-port.&#xA;• Ported Vs AGOTI." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
+	<credit name="MAZ" desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.&#xA;• recharted Genocide.&#xA;• minor porting help on Vs Kapi and Vs Whitty.&#xA;• Ported Starving Artist (I'm so tired...)." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
 	<credit name="bambamlol" desc="• Modchart porter for the foolhardy song.&#xA;• Ported Vs Garcello." icon="" size="130" url="https://www.youtube.com/channel/UCAokRr88PQnhMJdwbrEtGKQ"/>
+	<credit name="notbeep" desc="• Ported Vs Mami.&#xA;• partially ported Vs Tricky.&#xA;• Ported Vs Void." icon="" size="130" url="https://www.youtube.com/@not_beep-.-656"/>
 	<credit name="mr.Wifi7" desc="• Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
 	<credit name="Ne_Eo" desc="• Shaky window script and help with code." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
 	<credit name="lunarcleint" desc="• Play animation event." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>

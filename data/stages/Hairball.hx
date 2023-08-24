@@ -1,37 +1,42 @@
-// import flixel.util.FlxColor;
+var upperBoppers:FlxSprite;
+var littleGuys:FlxSprite;
+var lights:FlxSprite;
 
-// function onStartCountdown(event)
-// 	event.cancel();
+function postCreate() {
+    lights = new FlxSprite(-600, -200);
+    lights.frames = Paths.getSparrowAtlas('stages/week1/lights');
+    lights.animation.addByPrefix('light', "lightblink1", 1, false);
+    lights.antialiasing = true;
+    lights.scrollFactor.set(0.9, 0.9);
+    lights.setGraphicSize(Std.int(lights.width * 1));
+    lights.updateHitbox();
+    insert(members.indexOf(gf) - 1, lights);
 
-// function postCreate() {
-// 	isStoryMode = true; // delete if you have ported the week
-// 	// lights.framerate = 3;
+    upperBoppers = new FlxSprite(-600, -200);
+    upperBoppers.frames = Paths.getSparrowAtlas('stages/week1/upperBop');
+    upperBoppers.animation.addByPrefix('bop', "Upper Crowd Bob", 24, false);
+    upperBoppers.antialiasing = true;
+    upperBoppers.scrollFactor.set(1.05, 1.05);
+    upperBoppers.setGraphicSize(Std.int(upperBoppers.width * 1));
+    upperBoppers.updateHitbox();
+    add(upperBoppers);
+     
+    littleGuys = new FlxSprite(25, 200);
+    littleGuys.frames = Paths.getSparrowAtlas('stages/week1/littleguys');
+    littleGuys.animation.addByPrefix('bop', 'Bottom Level Boppers', 24, false);
+    littleGuys.antialiasing = true;
+    littleGuys.scrollFactor.set(0.9, 0.9);
+    littleGuys.setGraphicSize(Std.int(littleGuys.width * 1));
+    littleGuys.updateHitbox();
+    insert(members.indexOf(lights) + 1, littleGuys);
+}
 
-// 	if (isStoryMode) {
-// 		var blackScreen:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-// 		add(blackScreen);
-// 		camHUD.visible = false;
-
-// 		new FlxTimer().start(0.1, function(tmr:FlxTimer){
-// 			remove(blackScreen);
-// 			FlxG.sound.play(Paths.sound('brokenpad'));
-// 			FlxG.camera.zoom = 1.1;
-// 			new FlxTimer().start(0.2, function(tmr:FlxTimer){dad.playAnim('meow', true);
-// 		});
-
-// 			new FlxTimer().start(0.6, function(tmr:FlxTimer){
-// 				camHUD.visible = true;
-// 				remove(blackScreen);
-// 				FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 2.5, {
-// 					ease: FlxEase.quadInOut,
-// 					onComplete: function(twn:FlxTween){
-// 						// startCountdown();
-// 						// startDialogue();
-// 						playCutscenes = true;
-// 						// I didn't test this but use startDialogue()
-// 					}
-// 				});
-// 			});
-// 		});
-// 	}
-// }
+function beatHit(curBeat) {
+    switch (curBeat % 2) {
+        case 0:
+            littleGuys.animation.play('bop', true);
+        case 1:
+            upperBoppers.animation.play('bop', true);
+    }
+    lights.animation.frameIndex += 1; // Why is it sometimes offbeat in the original?
+}
