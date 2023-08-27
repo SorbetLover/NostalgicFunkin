@@ -72,7 +72,7 @@
 	<credit name="notbeep" desc="• Ported Vs Mami.&#xA;• partially ported Vs Tricky.&#xA;• Ported Vs Void." icon="" size="130" url="https://www.youtube.com/@not_beep-.-656"/>
 	<credit name="mr.Wifi7" desc="• Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
 	<credit name="Ne_Eo" desc="• Shaky window script and help with code." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
-	<credit name="lunarcleint" desc="• Play animation event." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
-	<credit name="inkybox" desc="• change character event." icon="" size="130" url="https://github.com/YasherMania"/>
+	<credit name="lunarcleint" desc="• Play animation event." icon="" size="130" url="https://github.com/lunarcleint"/>
+	<credit name="inkybox" desc="• Change character event." icon="" size="130" url="https://github.com/kittstone"/>
 	<credit name="Pumpsuki" desc="• Vs Zardy Psych Engine Porter, and Charter for Bushwhack used in the port." icon="" size="130" url="https://gamebanana.com/members/2098002"/>
 </menu>

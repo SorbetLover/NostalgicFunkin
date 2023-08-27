@@ -1,5 +1,5 @@
 {
-	"opponentModeAllowed": false,
+	"opponentModeAllowed": true,
 	"icon": "kapi",
 	"difficulties": [
 		"EASY",
@@ -10,7 +10,7 @@
 	"parsedColor": -3172116,
 	"color": "#CF98EC",
 	"name": "hairball",
-	"coopAllowed": false,
+	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"displayName": "hairball",
 	"beatsPerMesure": 4,

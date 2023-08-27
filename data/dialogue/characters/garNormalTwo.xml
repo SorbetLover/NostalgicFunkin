@@ -1,4 +1,4 @@
 <!DOCTYPE codename-engine-dialogue-character>
 <character x="50" y="20">
-	<anim name="normal" anim="gar Dippy" fps="24" />
+	<anim name="normal" anim="garNormalTwo" fps="24" />
 </character>

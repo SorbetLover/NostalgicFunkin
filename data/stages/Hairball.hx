@@ -38,5 +38,5 @@ function beatHit(curBeat) {
         case 1:
             upperBoppers.animation.play('bop', true);
     }
-    lights.animation.frameIndex += 1; // Why is it sometimes offbeat in the original?
+    lights.animation.frameIndex += FlxG.random.int(1, 4); // offbeat because the original had it so fuck it
 }
