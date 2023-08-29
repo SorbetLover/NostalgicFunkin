@@ -1,6 +1,6 @@
-var mic:FlxSprite;
-var hand:FlxSprite;
-var otherHand:FlxSprite;
+var mic:FlxSprite = new FlxSprite(dad.x + 200,dad.y - 100).loadGraphic(Paths.image("stages/Bushwhack/Mic"));
+var hand:FlxSprite = new FlxSprite(0,mic.y).loadGraphic(Paths.image("stages/Bushwhack/Arm0"));
+var otherHand:FlxSprite = new FlxSprite(hand.x,hand.y).loadGraphic(Paths.image("stages/Bushwhack/Grab"));
 
 function postCreate() {
     // Whoever came up with this is a genius
@@ -64,24 +64,18 @@ function stepHit() {
         {
             FlxTween.tween(dad,{alpha:0},0.3); // Brrraaaaaghh - Zardy
             FlxTween.tween(iconP2,{alpha:0},0.3);
-            mic = new FlxSprite(dad.x + 200,dad.y - 100).loadGraphic(Paths.image("stages/Bushwhack/Mic"));
+
             mic.alpha = 0;
-
             mic.setGraphicSize(Std.int(mic.width * 0.4));
-
             mic.antialiasing = true;
 
-            hand = new FlxSprite(0,mic.y).loadGraphic(Paths.image("stages/Bushwhack/Arm0"));
             hand.x = mic.x - hand.width;
             hand.y += 40;
-
             hand.alpha = 0;
-
             hand.setGraphicSize(Std.int(hand.width * 0.4));
 
             add(hand);
 
-            otherHand = new FlxSprite(hand.x,hand.y).loadGraphic(Paths.image("stages/Bushwhack/Grab"));
             otherHand.setGraphicSize(Std.int(otherHand.width * 0.4));
             otherHand.alpha = 0;
             add(otherHand);
@@ -93,7 +87,7 @@ function stepHit() {
 
         if (curStep == 1920){
             // cable crow stuff
-            remove( strumLines.members[0].characters[0]);
+            remove(strumLines.members[0].characters[0]);
 
             strumLines.members[0].characters[1].visible = true; // show cable crow
             strumLines.members[0].characters[1].x = dad.x - 1300;
