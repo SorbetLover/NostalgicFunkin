@@ -5,40 +5,43 @@ Nostalgic Funkin is a modpack made with Codename Engine. Want to play most of th
 
 --------------------
 
-## Whats planned?
+## What's planned?
 
-A ton of mods see below of whats currently work in progress or still needs start.
+Here are our planned ones so far. Might get extended later down the road.
 
 - [x] Vs. Whitty (Legacy) | Finished without ballistic cutscene ⭐
 - [x] Vs. AGOTI (the classic one) | Finished without dialogue ⭐
-- [ ] Vs. Hex (Maybe Weekand Update)
-- [x] Vs. Kapi |Finished but definitely needs revisiting - MAZ ⭐
-- [x] Vs. Carol | "Needs recharting ngl" - MAZ ⭐
-- [ ] Vs. Hatsune Miku V2
 - [x] Vs. Zardy | Finished without dialogue ⭐
 - [x] Starving Artist | Finished entirely ⭐
-- [x] Vs. Garcello | Finished entirely ⭐
+- [x] Vs. Garcello | Finished without dialogue ⭐
+- [x] Vs. Kapi | Mostly Finished (without dialogue) - MAZ ⭐
+- [x] Vs. Carol | "Needs recharting ngl" - MAZ ⭐
+- [x] Vs. Shaggy | Handled by Wizard, bromaster, and Ne_Eo
+- [x] Vs. Tabi | Finished without dialogue ⭐
+- [x] Vs Void | Finished without dialogue ⭐
+- [x] Vs QT | Finished without dialogue, mechanics, modcharts ⭐
+- [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno) ⭐
+- [x] b-sides | WIP currently
+- [ ] Vs. Hex (Maybe Weekand Update)
+- [ ] Vs. Hatsune Miku V2 | WIP
 - [ ] Vs. Annie
 - [ ] Vs. Tricky (The Full ASS Mod)
 - [ ] Vs. Monika (No, not DDTO!!)
 - [ ] Starlight Mayhem
 - [ ] Vs. Sunday
-- [x] Vs. Tabi | Finished without dialogue ⭐
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught]
-- [x] Vs. Shaggy | Handled by Wizard, bromaster, and Ne_Eo
 - [ ] vs neon
 - [ ] vs cg5
 - [ ] parappa mod
 - [ ] vs sky
 - [ ] vs sonic.exe 1.5
 - [ ] vs ron
-- [ ] b-sides
-- [ ] vs imposter v?
+- [ ] vs Imposter V3
+- [ ] vs Imposter V5
 - [ ] StarCatcher
+- [ ] Vs Tord (and probably most BBpanzu mods lol) 
 - [ ] Static Memories
-- [ ] Vs Void
-- [ ] Vs QT
-- [ ] Vs Mami
+
 
 
 # [Credits!](https://github.com/AceThePan/NostalgicFunkin/blob/main/data/config/credits.xml)

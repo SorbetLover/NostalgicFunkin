@@ -52,7 +52,7 @@ function cableSpawn(){
                 iconP2.cameras =  [camHUD];
                 // iconP2.updateHitbox();
                 iconP2.health = health;
-                insert(members.indexOf(healthBar)+1, iconP2);
+                insert(members.indexOf(iconP1)+1, iconP2);
                 FlxTween.tween(iconP2,{alpha:1},0.3);
                 this.update(0);
             }

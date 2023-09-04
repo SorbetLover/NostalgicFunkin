@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bf-kapi-dead" y="100" isGF="false" flipX="true" isPlayer="true" sprite="Vs Kapi/bf-kapi-dead">
+	<anim x="37" loop="false" y="11" fps="12" anim="die" name="firstDeath"/>
+	<anim x="37" loop="false" y="5" fps="12" anim="dead loop" name="deathLoop"/>
+	<anim x="37" loop="false" y="69" fps="12" anim="dead confirm" name="deathConfirm"/>
+</character>

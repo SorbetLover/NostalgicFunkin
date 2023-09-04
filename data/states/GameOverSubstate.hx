@@ -8,15 +8,16 @@ var zardyScareSpr:FlxSprite = new FlxSprite();
 var cableScareSpr:FlxSprite = new FlxSprite();
 
 function create() {
-    if (PlayState.SONG.meta.name == "foolhardy" || PlayState.SONG.meta.name == "Bushwhack") {
-        lossSFXName = "Vs Zardy/jumpscare_sound";
-        FlxG.camera.flash(FlxColor.WHITE, 0.3);
-        FlxG.camera.zoom = 0.73;
-        new FlxTimer().start(1.625, function(a:FlxTimer) {
-            FlxG.camera.flash(FlxColor.RED, 0.5);
-            FlxG.camera.zoom = 0.85;
-        });
-    } else {}
+    switch (PlayState.SONG.meta.name) {
+        case "foolhardy" | "Bushwhack":
+            lossSFXName = "Vs Zardy/jumpscare_sound";
+            FlxG.camera.flash(FlxColor.WHITE, 0.3);
+            FlxG.camera.zoom = 0.73;
+            new FlxTimer().start(1.625, function(a:FlxTimer) {
+                FlxG.camera.flash(FlxColor.RED, 0.5);
+                FlxG.camera.zoom = 0.85;
+            });
+    }
 	zardyScareSpr.antialiasing = true;
     zardyScareSpr.scrollFactor.set(0, 0);
 	zardyScareSpr.frames = Paths.getFrames("gameover assets/foolhardy/zardyScare");
@@ -34,13 +35,9 @@ function update() {
     switch (PlayState.SONG.meta.name) {
         case "foolhardy":
             mrBeastScare = true;
-            trace("zardy");
+
         case "Bushwhack":
             mrCableBeastScare = true;
-        default:
-            mrBeastScare = false;
-            mrCableBeastScare = false;
-            // trace("not zardy");
     }
 
 

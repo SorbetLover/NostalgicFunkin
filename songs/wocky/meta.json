@@ -3,7 +3,7 @@
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 100,
+	"bpm": 174,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
@@ -12,7 +12,7 @@
 	"needsVoices": true,
 	"parsedColor": -7372858,
 	"displayName": "wocky",
-	"icon": "Kapi",
+	"icon": "Vs Kapi/Kapi",
 	"name": "wocky",
 	"color": "#8F7FC6"
 }
