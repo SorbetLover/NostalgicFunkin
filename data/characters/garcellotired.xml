@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="Vs Garcello/garcellotire" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Garcello/garcellotired_assets">
+<character x="0" color="#643072" icon="Vs Garcello/garcellotire" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Garcello/garcellotired_assets">
 	<anim x="0" loop="false" y="0" fps="24" anim="garcellotired idle dance" name="idle"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="garcellotired cough" name="singDOWN-alt"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="garcellotired Sing Note RIGHT" name="singRIGHT"/>

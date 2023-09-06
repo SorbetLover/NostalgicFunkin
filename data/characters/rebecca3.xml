@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" holdTime="6.1" y="-40" sprite="starving artist/rebecca_asset3" icon="starving artist/rebecca3" isPlayer="false" flipX="false">
+<character color="#4869a6" x="0" holdTime="6.1" y="-40" sprite="starving artist/rebecca_asset3" icon="starving artist/rebecca3" isPlayer="false" flipX="false">
 	<anim x="0" loop="false" y="0" fps="24" anim="V2rebecca idle dance" name="idle"/>
 
 	<anim x="5" loop="false" y="32" fps="24" anim="V2rebecca Sing Note UP" name="singUP"/>
