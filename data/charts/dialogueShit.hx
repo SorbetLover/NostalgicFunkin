@@ -1,23 +1,15 @@
-function postCreate() {
-    if (playCutscenes) {
-        // iconP1.alpha = 0;
-        // iconP2.alpha = 0;
-        for (d in [cpuStrums, playerStrums])
-            d.visible = true;
+import funkin.game.cutscenes.DialogueCutscene;
+import flixel.util.FlxColor;
+
+var cameraExists = false;
+
+function postUpdate(elapsed) {
+    if (subState != null) {
+        cameraExists = true;
+        // if (subState.dialogueCamera != null) subState.dialogueCamera.bgColor = FlxColor.fromRGBFloat(255, 255, 255, 0.5);
+        camHUD.alpha = 0;
     } else {
-        finishDialogue();
-        // trace("dsad");
+        camHUD.alpha = 1;
     }
-}
-
-function finishDialogue() {
-    iconP1.alpha = 1;
-    iconP2.alpha = 1;
-    playerStrums.forEach(function(strum:StrumNote) {
-        FlxTween(strum, {alpha: 1}, 0.5);
-    });
-
-    cpuStrums.forEach(function(strum:StrumNote) {
-        FlxTween(strum, {alpha: 1}, 0.5);
-    });
+    // trace("Camera exists: " + cameraExists);
 }
