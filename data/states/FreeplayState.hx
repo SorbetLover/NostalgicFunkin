@@ -8,12 +8,17 @@ var modBg_img_name:String = "default";
 var currentWeek:String;
 
 var modBg:FlxSprite = new FlxSprite();
+
+var modBgPrev:FlxSprite = new FlxSprite();
 var modTitle:FlxText;
 
 function postCreate() {
     modBg.antialiasing = true;
     modBg.blend ="overlay";
     insert(members.indexOf(bg) + 1, modBg);
+    insert(members.indexOf(bg) + 1, modBgPrev);
+    modBgPrev.alpha = 0;
+    switchBG("default");
 
 
     CoolUtil.loadAnimatedGraphic(bg, Paths.image("menus/squrefreeplaybg"));
@@ -42,37 +47,50 @@ function postCreate() {
     // FlxTween.tween(modBg, {alpha: 0.7}, 1);
 }
 
-function postUpdate() {
-    modBg.loadGraphic(Paths.image("menus/freeplay/" + modBg_img_name));
-    // trace(songs[curSelected].name + " || " + currentWeek);
+function onChangeSelection(a) {
 
     modTitle.text = "Current week: " + currentWeek;
 
-    switch(songs[curSelected].name) {
-        case "tutorial-b" | "bopeebo-b" | "fresh-b" | "dadbattle-b" | "spookeez-b" | "south-b" | "pico-b" | "philly-b" | "blammed-b" | "satin-panties-b" | "high-b" | "milf-b":
+    switch(songs[a.value].name) {
+        case "tutorial-b" | "bopeebo-b" | "fresh-b" | "dadbattle-b" | "spookeez-b" | "south-b" | "pico-b" | "philly-b" | "blammed-b" | "satin-panties-b" | "high-b" | "milf-b" | "cocoa-b" | "eggnog-b" | "winter-horrorland-b" | "senpai-b" | "roses-b" | "thorns-b":
             currentWeek = "B Sides";
-            modBg_img_name = "default";
+            switchBG("default");
 
         case "lo-fight" | "overhead" | "ballistic" | "remorse":
             currentWeek = "Vs Whitty";
-            modBg_img_name = "whitty";
+            switchBG("whitty");
 
         case "carol-roll" | "body" | "boogie":
             currentWeek = "Vs Carol";
-            modBg_img_name = "default";
+            switchBG("default");
 
         case "my-battle" | "last-chance" | "genocide":
             currentWeek = "Vs Tabi";
-            modBg_img_name = "tabi";
+            switchBG("tabi");
 
         case "foolhardy" | "Bushwhack":
             currentWeek = "Vs Foolhardy";
-            modBg_img_name = "foolhardy";
+            switchBG("foolhardy");
 
         default:
             currentWeek = "some other week";
-            modBg_img_name = "default";
+            switchBG("default");
     }
 
+}
+
+function postUpdate() {
+    // trace(songs[curSelected].name + " || " + currentWeek);
+    modBgPrev.color = modBg.color;
     changeSelection( (FlxG.keys.justPressed.Q ? -3 : 0) + (FlxG.keys.justPressed.E ? 3 : 0) );
+}
+
+function switchBG(bgName:String) {
+    modBgPrev.loadGraphic(Paths.image("menus/freeplay/" + modBg_img_name));
+    modBgPrev.alpha = 1;
+    modBg.alpha = 0;
+    FlxTween.tween(modBgPrev, { alpha: 0 }, 0.3, { ease: FlxEase.circOut });
+    FlxTween.tween(modBg, { alpha: 1 }, 0.3, { ease: FlxEase.circIn });
+    modBg_img_name = bgName;
+    modBg.loadGraphic(Paths.image("menus/freeplay/" + bgName));
 }
