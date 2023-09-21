@@ -8,6 +8,7 @@ b6
 whitmore
 carol
 curse
+kapi
 qt
 seos
 rebecca
