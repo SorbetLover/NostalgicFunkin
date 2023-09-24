@@ -1,5 +1,5 @@
 # Nostalgic Funkin
-[![nf.png](https://github.com/NULLSonic/NostalgicFunkin/blob/main/images/menus/titlescreen/nf.png](https://github.com/NULLSonic/NostalgicFunkin/blob/main/images/menus/titlescreen/nf.png)
+
 ## What the funk is Nostalgic Funkin???
 
 Nostalgic Funkin is a modpack made with Codename Engine. Want to play most of the OLD mods from the late 2020 up to the end of 2021 and you don't want to download the game 100 times again and again?? Well this modpack is for you! Currently being developed by ***5 People!!***
