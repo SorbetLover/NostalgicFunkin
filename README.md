@@ -21,7 +21,7 @@ Here are our planned ones so far. Might get extended later down the road.
 - [x] Vs Void | Finished without dialogue ⭐
 - [x] Vs QT | Finished without dialogue, mechanics, modcharts ⭐
 - [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno) ⭐
-- [x] b-sides | WIP currently
+- [x] B-sides | Fully finished
 - [ ] Vs. Hex (Maybe Weekand Update)
 - [ ] Vs. Hatsune Miku V2 | WIP
 - [ ] Vs. Annie
