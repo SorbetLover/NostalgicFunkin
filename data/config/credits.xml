@@ -1,4 +1,12 @@
 <!DOCTYPE codename-mod-credits>
+<!-- B SIDES -->
+<menu name="B Sides" desc="B Sides creators' crdits.">
+	<credit name="Rozebud" 		desc="Song Composer, Artist and Charter" 	icon="" size="130" url="https://twitter.com/helpme_thebigt"/>
+	<credit name="JADS" 		desc="Song Composer and Charter" 			icon="" size="130" url="https://twitter.com/Aw3somejds"/>
+	<credit name="CVAL" 		desc="Charter and Additional Assistance" 	icon="" size="130" url="https://twitter.com/cval_brown"/>
+	<credit name="fluffyhairs" 	desc="Song Composer"						icon="" size="130" url="https://twitter.com/fluffyhairslol?s=20&t=FXqBUIB8f7YUYh34sCmKEA"/>
+</menu>
+
 <!-- VS WHITTY -->
 <menu name="Vs Whitty" desc="Vs Whitty creators' credits.">
 	<credit name="Sock.clip" desc="Artist and Song Composer." icon="" size="130" url="https://www.instagram.com/sock.clip/"/>
