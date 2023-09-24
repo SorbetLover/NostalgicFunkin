@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="150" icon="B Sides/senpai" camx="100" y="360" isGF="false" scale="6" isPlayer="false" antialiasing="false" sprite="B Sides/Week 6/senpai">
+<character x="150" icon="B Sides/weeb/senpai" camx="100" y="360" isGF="false" scale="6" isPlayer="false" antialiasing="false" sprite="B Sides/Week 6/senpai">
 	<anim x="0" loop="false" y="0" fps="24" anim="Angry Senpai Idle" name="idle"/>
 	<anim x="7" loop="false" y="0" fps="24" anim="Angry Senpai LEFT NOTE" name="singLEFT"/>
 	<anim x="2" loop="false" y="0" fps="24" anim="Angry Senpai DOWN NOTE" name="singDOWN"/>

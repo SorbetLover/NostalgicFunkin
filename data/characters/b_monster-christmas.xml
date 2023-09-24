@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="B Sides/monster/monster" y="130" isGF="false" isPlayer="false" sprite="B Sides/Week 5/monsterChristmas">
+	<anim x="0" loop="false" y="0" fps="24" anim="monster idle" name="idle"/>
+	<anim x="-20" loop="false" y="50" fps="24" anim="monster up note" name="singUP"/>
+	<anim x="-30" loop="false" y="0" fps="24" anim="Monster left note" name="singRIGHT"/>
+	<anim x="-51" loop="false" y="0" fps="24" anim="Monster Right note" name="singLEFT"/>
+	<anim x="-40" loop="false" y="-94" fps="24" anim="monster down" name="singDOWN"/>
+</character>

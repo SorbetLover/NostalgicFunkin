@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 166,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -8913039,
+	"displayName": "Winter Horrorland",
+	"icon": "B Sides/monster/monster",
+	"name": "winter-horrorland-b",
+	"color": "#77FF71"
+}

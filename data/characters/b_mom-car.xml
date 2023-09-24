@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="B Sides/mom" y="0" isGF="false" isPlayer="false" sprite="B Sides/Week 4/momCar">
+<character x="0" icon="B Sides/dearests/mom" y="0" isGF="false" isPlayer="false" sprite="B Sides/Week 4/momCar">
 	<anim x="0" loop="false" y="0" fps="24" anim="Mom Idle" name="idle"/>
 	<anim x="14" loop="false" y="71" fps="24" anim="Mom Up Pose" name="singUP"/>
 	<anim x="20" loop="false" y="-160" fps="24" anim="MOM DOWN POSE" name="singDOWN"/>
