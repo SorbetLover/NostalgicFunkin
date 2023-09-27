@@ -1,11 +1,12 @@
 <!DOCTYPE codename-mod-options>
 <menu name="Nostalgic Funkin" desc="Options for Nostalgic Funkin. Includes options for indievidual mods.">
 	<menu name="Nostalgic Funkin" desc="General Options for all mods!">
-		<checkbox id="shaderShit" desc="Disables shaders in the port." name="Disable shaders" />
-		<checkbox id="shakeShit" desc="Disables shaking in the port." name="Disable shaking"/>
+		<checkbox id="oldLogo"		desc="Use the Old Nostalgic Funkin Logo."	name="Use old Logo"/>
+		<checkbox id="shaderShit" 	desc="Disables shaders in the port." 		name="Disable shaders" />
+		<checkbox id="shakeShit" 	desc="Disables shaking in the port." 		name="Disable shaking"/>
 	</menu>
 
 	<menu name="Vs Zardy" desc="Options specific to Vs Zardy mod">
-		<checkbox id="bushNote" desc="Disables bushwhack mechanic." name="no bushwhack mechanic"/>
+		<checkbox id="bushNote" 	desc="Disables bushwhack mechanic." 		name="no bushwhack mechanic"/>
 	</menu>
 </menu>

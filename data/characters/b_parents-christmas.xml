@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-500" icon="B Sides/dearests/parents" y="0" isGF="false" isPlayer="false" sprite="B Sides/Week 5/parents">
+	<anim x="0" loop="false" y="0" fps="24" anim="Parent Christmas Idle" name="idle"/>
+	<anim x="-47" loop="false" y="24" fps="24" anim="Parent Up Note Dad" name="singUP"/>
+	<anim x="-31" loop="false" y="-29" fps="24" anim="Parent Down Note Dad" name="singDOWN"/>
+	<anim x="-30" loop="false" y="16" fps="24" anim="Parent Left Note Dad" name="singLEFT"/>
+	<anim x="-1" loop="false" y="-23" fps="24" anim="Parent Right Note Dad" name="singRIGHT"/>
+	<anim x="-47" loop="false" y="24" fps="24" anim="Parent Up Note Mom" name="singUP-alt"/>
+	<anim x="-30" loop="false" y="-27" fps="24" anim="Parent Down Note Mom" name="singDOWN-alt"/>
+	<anim x="-30" loop="false" y="15" fps="24" anim="Parent Left Note Mom" name="singLEFT-alt"/>
+	<anim x="-1" loop="false" y="-24" fps="24" anim="Parent Right Note Mom" name="singRIGHT-alt"/>
+</character>

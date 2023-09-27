@@ -1,6 +1,7 @@
-# NostalgicFunkin
-[![nf.png](https://i.postimg.cc/YCFPbpny/nf.png)](https://postimg.cc/TKRQPXXr)
+# Nostalgic Funkin
+
 ## What the funk is Nostalgic Funkin???
+
 Nostalgic Funkin is a modpack made with Codename Engine. Want to play most of the OLD mods from the late 2020 up to the end of 2021 and you don't want to download the game 100 times again and again?? Well this modpack is for you! Currently being developed by ***5 People!!***
 
 --------------------
@@ -21,7 +22,7 @@ Here are our planned ones so far. Might get extended later down the road.
 - [x] Vs Void | Finished without dialogue ⭐
 - [x] Vs QT | Finished without dialogue, mechanics, modcharts ⭐
 - [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno) ⭐
-- [x] b-sides | WIP currently
+- [x] B-sides | Fully finished
 - [ ] Vs. Hex (Maybe Weekand Update)
 - [ ] Vs. Hatsune Miku V2 | WIP
 - [ ] Vs. Annie
@@ -44,4 +45,4 @@ Here are our planned ones so far. Might get extended later down the road.
 
 
 
-# [Credits!](https://github.com/AceThePan/NostalgicFunkin/blob/main/data/config/credits.xml)
+# [Credits!](https://github.com/NULLSonic/NostalgicFunkin/blob/main/data/config/credits.xml)
