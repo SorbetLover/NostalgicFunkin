@@ -10,21 +10,21 @@ Nostalgic Funkin is a modpack made with Codename Engine. Want to play most of th
 
 Here are our planned ones so far. Might get extended later down the road.
 
-- [x] Vs. Whitty (Legacy) | Finished without ballistic cutscene ⭐
-- [x] Vs. AGOTI (the classic one) | Finished without dialogue ⭐
-- [x] Vs. Zardy | Finished without dialogue ⭐
+- [x] Vs. Zardy | Fully finished ⭐
 - [x] Starving Artist | Finished entirely ⭐
-- [x] Vs. Garcello | Finished without dialogue ⭐
-- [x] Vs. Kapi | Mostly Finished (without dialogue) - MAZ ⭐
-- [x] Vs. Carol | "Needs recharting ngl" - MAZ ⭐
+- [x] B-sides | Fully finished (kinda. still missing cutscenes) ⭐
+- [x] Vs. Whitty (Legacy) | Finished without ballistic cutscene
+- [x] Vs. AGOTI (the classic one) | Finished without dialogue
+- [x] Vs. Garcello | Finished without dialogue and story menu
+- [x] Vs. Kapi | Mostly Finished (without dialogue and a bit of bugs) - MAZ
+- [x] Vs. Carol | "Needs recharting ngl" - MAZ
 - [x] Vs. Shaggy | Handled by Wizard, bromaster, and Ne_Eo
-- [x] Vs. Tabi | Finished without dialogue ⭐
-- [x] Vs Void | Finished without dialogue ⭐
-- [x] Vs QT | Finished without dialogue, mechanics, modcharts ⭐
-- [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno) ⭐
-- [x] B-sides | Fully finished
-- [ ] Vs. Hex (Maybe Weekand Update)
-- [ ] Vs. Hatsune Miku V2 | WIP
+- [x] Vs. Tabi | Finished without dialogue
+- [x] Vs Void | Finished without dialogue
+- [x] Vs QT | Finished without dialogue, mechanics, modcharts
+- [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno)
+- [ ] Vs. Hex (V1 only maybe)
+- [ ] Vs. Hatsune Miku V2
 - [ ] Vs. Annie
 - [ ] Vs. Tricky (The Full ASS Mod)
 - [ ] Vs. Monika (No, not DDTO!!)
