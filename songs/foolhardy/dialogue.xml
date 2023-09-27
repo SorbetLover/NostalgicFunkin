@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="zar">
+	<!-- All characters -->
+	<char name="zardy" char="zardy" position="left" />
+
+	<!-- Lines -->
+	<line char="zardy">
+		Darn brats trespassing with their damn noise cannons...
+	</line>
+	<line char="zardy">
+		You should know it’s dangerous to wander in the dark...
+	</line>
+	<line char="zardy">
+		But if you want a show... I’ll give you a show!
+	</line>
+</dialogue>

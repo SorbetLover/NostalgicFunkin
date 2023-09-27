@@ -27,7 +27,7 @@ function grabThatMF() {
 	vine.animation.play("vine");
 	boyfriend.animation.finishCallback = function(name) {/**Nothing**/
 	};
-	trace("playin grab");
+	// trace("playin grab");
 	playerStrums.forEach(function(strum:StrumNote) {
 		FlxTween.tween(strum, {alpha: 0.5}, 0.3);
 	});
@@ -83,12 +83,12 @@ function update(elapsed:Float) {
 		if (vine.animation.frameIndex >= 35 && vine.animation.frameIndex <= 37 && boyfriend.animation.curAnim.name != "heldByVine") {
 			FlxG.sound.play(Paths.sound("Vs Zardy/bf_grabbed_by_vine"));
 			grabInput = true;
-			trace("I'm GRABBED!! - BF");
+			// trace("I'm GRABBED!! - BF");
 			boyfriend.playAnim("heldByVine", true);
 			generateAndShowRandomNotes(4);
 		}
 		if (vine.animation.frameIndex == 56 && !vine.animation.paused) {
-			trace("pause!");
+			// trace("pause!");
 			vine.animation.pause();
 		}
 	}
@@ -99,23 +99,6 @@ function update(elapsed:Float) {
 		if (i.mustPress && i.strumTime - Conductor.songPosition <= 3000 && i.strumTime - Conductor.songPosition >= -3000)
 			notesToHit = true;
 
-	FlxG.watch.addQuick("Grab time", lastGrab - Conductor.songPosition);
-	FlxG.watch.addQuick("Notes?", notesToHit);
-	FlxG.watch.addQuick("Grabbed?", grabbed);
-
-	// if (!notesToHit && lastGrab != -1 && lastGrab - Conductor.songPosition <= -20000 &&  !grabbed  && FlxG.sound.music.length - Conductor.songPosition > 6000 )
-	// {
-	//     boyfriend.playAnim("idle", true);
-	// strumLineNotes.forEach(function(spr:FlxSprite){
-	//         if (spr.animation.finished){
-	//             spr.animation.play('static');
-	//             spr.centerOffsets();
-	//         }
-	//     });
-
-	//     lastGrab = -1;
-	//     grabThatMF();
-	// }
 	if (grabbed && grabInput) {
 		var pressArray:Array<Bool> = [
 			controls.NOTE_LEFT_P,
@@ -181,7 +164,7 @@ function update(elapsed:Float) {
 				if (n == "axe") {
 					FlxG.sound.play(Paths.sound('Vs Zardy/bf_axe_chop'));
 					boyfriend.playAnim("dodge", true);
-					trace("IM FREE");
+					// trace("IM FREE");
 				}
 			};
 		}
@@ -201,7 +184,9 @@ function update(elapsed:Float) {
 
 function beatHit(curBeat) {
 	switch (curBeat) {
-		case 96 | 160 | 192 | 288 | 384 | 476 | 628 | 709 | 792 | 1084:
+		case 96 | 160 | 192 | 288 | 384 |
+				476 | 628 | 709 | 792 |
+				1084:
 			grabThatMF();
 	}
 }

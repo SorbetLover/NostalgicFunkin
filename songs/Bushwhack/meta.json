@@ -1,8 +1,5 @@
 {
 	"opponentModeAllowed": true,
-	"difficulties": [
-		"BUSHWHACK"
-	],
 	"icon": "cablecrow",
 	"parsedColor": -8943463,
 	"name": "Bushwhack",

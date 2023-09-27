@@ -8,6 +8,8 @@ b6
 whitmore
 carol
 curse
+foolhardy
+bushwhack
 kapi
 qt
 seos

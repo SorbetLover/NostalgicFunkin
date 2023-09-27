@@ -10,7 +10,7 @@ var currentWeek:String = null;
 var modBg:FlxSprite = new FlxSprite();
 
 var modBgPrev:FlxSprite = new FlxSprite();
-var modTitle:FlxText;
+var modTitle:FlxText = new FlxText(440, 5, 700);
 
 function postCreate() {
     modBg.antialiasing = true;
@@ -27,7 +27,6 @@ function postCreate() {
         a.alpha = 0.7;
     }
 
-    modTitle = new FlxText(440, 5, 700);
     modTitle.setFormat("fonts/freeplay.ttf", 25, FlxColor.WHITE, "CENTER");
     modTitle.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 2);
     modTitle.antialiasing = true;
@@ -50,7 +49,7 @@ function postCreate() {
 function onChangeSelection(a) {
     switch(songs[a.value].name) {
         // format:
-        // first ever song of the week/mod, last song of the mod inlcuding bonus songs
+        // first ever song of the week/mod, last song of the mod including bonus songs
         case "tutorial-b", "thorns-b": switchBG("default");
         case "lo-fight", "remorse": switchBG("whitty");
         case "carol-roll", "boogie": switchBG("default");
