@@ -1,0 +1,35 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="kapi">
+
+	<char name="kapi" char="kapi" position="left" />
+	<char name="kapiconfused" char="kapiconfused" position="left" />
+	<char name="wap" char="wap" position="left" />
+	<char name="kapicute" char="kapicute" position="left" />
+
+	<char name="bftalk" char="bftalk" position="right" />
+
+	<line char="kapiconfused">
+		Huh, the power turned back on...
+	</line>
+	<line char="kapi">
+		Oh hey, and look!
+	</line>
+	<line char="kapi">
+		The dance-pad still works!
+	</line>
+	<line char="kapi">
+		Listen, how about ONE more!?
+	</line>
+	<line char="bftalk">
+		But I just said that was the la-
+	</line>
+	<line char="kapicute">
+		Nope, this will be the last one.
+	</line>
+	<line char="bftalk">
+		Fine, but this has to be it.
+	</line>
+	<line char="wap">
+		Yeah, just do your best!
+	</line>
+</dialogue>

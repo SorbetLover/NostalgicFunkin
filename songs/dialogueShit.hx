@@ -1,19 +1,16 @@
 import funkin.game.cutscenes.DialogueCutscene;
-import flixel.util.FlxColor;
-
 var cameraExists = false;
+var colorBgAlpha:Float = 0.8;
 
-function postUpdate(elapsed) {
-    // if (subState != null) {
-    //     cameraExists = true;
-    //     // if (subState.dialogueCamera != null) subState.dialogueCamera.bgColor = FlxColor.fromRGBFloat(255, 255, 255, 0.5);
-    //     for (a in [iconP1, iconP2]) {
-    //         a.alpha = 0;
-    //     }
-    // } else {
-    //     for (a in [iconP1, iconP2]) {
-    //         FlxTween.tween(a, {alpha: 1}, 1, {ease: FlxEase.circOut});
-    //     }
-    // }
-    // trace("Camera exists: " + cameraExists);
+function update(elapsed) {
+    if (subState.dialogueCamera != null) cameraExists = true;
+    else cameraExists = false;
+
+    switch(cameraExists) {
+        case true: /* if dialogue camera exists */
+            if (subState.dialogueCamera != null /*|| !(buncha songs that use background images for the dialogue)*/ )  subState.dialogueCamera.bgColor = FlxColor.fromRGBFloat(255, 255, 255, colorBgAlpha);
+
+        case false: /* if dialogue camera doesn't exist */
+
+    }
 }

@@ -1,11 +1,8 @@
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.9" name="stage" folder="stages/week1/">
 	<sprite name="stagebackkapiold"               x="-600" y="-200"   sprite="closed"       scroll="0.9" />
-
 	<sprite name="stagefrontkapiold"               x="-500" y="640"   sprite="stagefrontkapiold"       scroll="0.9" />
-
 	<girlfriend y="-120"  x= "280" scroll="1"/>
-
 	<dad/>
 	<boyfriend/>
 </stage>

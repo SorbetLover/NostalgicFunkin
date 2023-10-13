@@ -1,12 +1,10 @@
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.9" name="stage" folder="stages/week1/">
-	<sprite name="stagebackkapiold"               x="-600" y="-200"   sprite="stagebackkapiold"       scroll="0.7" />
+	<sprite name="stagebackkapiold"               x="-600" y="-200"   sprite="stagebackkapiold"       scroll="0.9" />
 
-		<sprite name="lights"               x="-600" y="-200"   sprite="lights"       scroll="0.7" fps="1" />
+		<sprite name="littleguys"               x="0" y="200"   sprite="littleguys"       scroll="0.9" fps="12" />
 
-		<sprite name="littleguys"               x="0" y="200"   sprite="littleguys"       scroll="0.7" fps="12" />
-
-		<sprite name="stagefrontkapiold"               x="-500" y="640"   sprite="stagefrontkapiold"       scroll="1" />
+		<sprite name="stagefrontkapiold"               x="-500" y="640"   sprite="stagefrontkapiold"       scroll="0.9" />
 
 		<girlfriend y="-120"  x= "280" scroll="1"/>
 </stage>

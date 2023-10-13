@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 180,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7372858,
+	"displayName": "fuzzy distortion",
+	"icon": "Vs Kapi/Kapi",
+	"name": "fuzzy-distortion",
+	"color": "#8F7FC6"
+}

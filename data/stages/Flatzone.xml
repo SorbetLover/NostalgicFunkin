@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-stage>
-<stage zoom="0.9" name="stage" folder="stages/flatzone/">
+<stage zoom="1.05" name="stage" folder="stages/flatzone/">
 
 <girlfriend y="-120"  x= "280" scroll="1"/>
 	<sprite name="stagebackkapiold"               x="-200" y="-100"   sprite="city"       scroll="1" />

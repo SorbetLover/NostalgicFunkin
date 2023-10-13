@@ -1,7 +1,8 @@
 <!DOCTYPE codename-engine-week>
-<week name="will edit this later!!" chars="dad,bf,gf" sprite="starving">
+<week name="B-B-BREAK DOWN!" chars="arcade" sprite="kapi">
 	<song>wocky</song>
 	<song>Beathoven</song>
 	<song>Hairball</song>
 	<song>Nyaw</song>
+	<song hide="true">fuzzy-distortion</song>
 </week>

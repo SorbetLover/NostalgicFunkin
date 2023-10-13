@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arcade.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="arcade0000" x="0" y="0" width="2880" height="623" frameX="2" frameY="2" frameWidth="2880" frameHeight="619"/>
+</TextureAtlas>

@@ -80,7 +80,7 @@ function onChangeSelection(a) {
         case "foolhardy" | "Bushwhack":
             currentWeek = "Vs Foolhardy";
 
-        case "wocky" | "Beathoven" | "Hariball" | "Nyaw" | "Flatzone":
+        case "wocky" | "Beathoven" | "Hariball" | "fuzzy-distortion" | "Nyaw" | "Flatzone":
             currentWeek = "Vs Kapi";
     }
     if (currentWeek == null) currentWeek = "unknown week";

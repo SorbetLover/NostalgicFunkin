@@ -1,0 +1,47 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="kapi">
+	<!-- All characters -->
+	<char name="gflaugh" char="gflaugh" position="middle"/>
+
+	<char name="kapimad" char="kapimad" position="left"/>
+	<char name="kapistare" char="kapistare" position="left"/>
+	<char name="kapiconfused" char="kapiconfused" position="left"/>
+	<char name="kapicute" char="kapicute" position="left"/>
+	<char name="kapi" char="kapi" position="left"/>
+
+	<char name="bftalk" char="bftalk" position="right"/>
+
+	<line char="kapiconfused">
+		My dance-pad took quite the damage.
+	</line>
+	<line char="kapiconfused">
+		I should probably cool down a little.
+	</line>
+	<line char="gflaugh">
+		This is entertaining!
+	</line>
+	<line char="kapistare">
+		There's a lot more people...
+	</line>
+	<line char="kapiconfused">
+		And the arcade is closing soon.
+	</line>
+	<line char="bftalk">
+		How about one more song, Kapi?
+	</line>
+	<line char="kapiconfused" speed="0.02">
+		Uhh...
+	</line>
+	<line char="kapi">
+		Alright!
+	</line>
+	<line char="kapiconfused">
+		Hopefully I can impress her this time.
+	</line>
+	<line char="kapimad">
+		Let's settle this!
+	</line>
+	<line char="kapicute">
+		No holding back!
+	</line>
+</dialogue>

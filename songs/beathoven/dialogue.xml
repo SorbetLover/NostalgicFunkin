@@ -1,0 +1,28 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="kapi">
+
+	<char name="kapi" char="kapi" position="left" />
+	<char name="kapimad" char="kapimad" position="left" />
+	<char name="bfwhat" char="bfwhat" position="right" />
+	<char name="bfKapi" char="bfKapi" position="right" />
+	<char name="gfKapi" char="gfKapi" position="middle" />
+
+	<line char="gfKapi">
+		Not bad for a cat!
+	</line>
+	<line char="kapi">
+		See what did I tell ya, BF?
+	</line>
+	<line char="bfwhat">
+		That literally means nothing.
+	</line>
+	<line char="kapi">
+		Sure. Let's just move on.
+	</line>
+	<line char="kapimad">
+		Don't expect me to go easy...
+	</line>
+	<line char="bfKapi">
+		Beep di bop.
+	</line>
+</dialogue>
