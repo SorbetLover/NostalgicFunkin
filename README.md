@@ -11,12 +11,12 @@ Nostalgic Funkin is a modpack made with Codename Engine. Want to play most of th
 Here are our planned ones so far. Might get extended later down the road.
 
 - [x] Vs. Zardy | Fully finished ⭐
-- [x] Starving Artist | Finished entirely ⭐
+- [x] Starving Artist | Fully finished ⭐
+- [x] Vs. Kapi | Fully finished ⭐
 - [x] B-sides | Fully finished (kinda. still missing cutscenes) ⭐
 - [x] Vs. Whitty (Legacy) | Finished without ballistic cutscene
 - [x] Vs. AGOTI (the classic one) | Finished without dialogue
 - [x] Vs. Garcello | Finished without dialogue and story menu
-- [x] Vs. Kapi | Mostly Finished (without dialogue and a bit of bugs) - MAZ
 - [x] Vs. Carol | "Needs recharting ngl" - MAZ
 - [x] Vs. Shaggy | Handled by Wizard, bromaster, and Ne_Eo
 - [x] Vs. Tabi | Finished without dialogue
