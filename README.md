@@ -13,6 +13,7 @@ Here are our planned ones so far. Might get extended later down the road.
 - [x] Vs. Zardy | Fully finished ⭐
 - [x] Starving Artist | Fully finished ⭐
 - [x] Vs. Kapi | Fully finished ⭐
+- [x] Vs. Pompom | Fully finished ⭐
 - [x] B-sides | Fully finished (kinda. still missing cutscenes) ⭐
 - [x] Vs. Whitty (Legacy) | Finished without ballistic cutscene
 - [x] Vs. AGOTI (the classic one) | Finished without dialogue
