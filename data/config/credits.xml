@@ -39,6 +39,12 @@
 	<credit name="GENOX" desc="Carol UTAU." icon="" size="130" url="https://gamebanana.com/members/1771171"/>
 </menu>
 
+<!-- VS Pompom -->
+
+<menu name="Vs Pompom" desc="Vs Pompom creator's credits.">
+	<credit name="ArtCarrot_" desc="Artist, Animator, Programmer, Musician." icon="" size="130" url="https://gamebanana.com/members/1832353"/>
+</menu>
+
 <!-- VS ZARDY -->
 
 <menu name="Vs Zardy" desc="Vs Zardy creators' credits.">
@@ -77,7 +83,8 @@
 <menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
 	<credit name="NULL" desc="• Started the idea, ported Vs Whitty and Vs Carol.&#xA;• Minor porting help with Vs Tabi.&#xA;• Made the logos." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
 	<credit name="Tsaku" desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and raw characters files.&#xA;• Minor porting help with foolhardy re-port.&#xA;• Ported Vs AGOTI." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
-	<credit name="MAZ" desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.&#xA;• recharted Genocide.&#xA;• re-ported Vs Kapi code-wise and minor help on Vs Whitty.&#xA;• Ported Starving Artist.&#xA;• Minor menu coding." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
+	<credit name="MAZ" desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.&#xA;• recharted Genocide.&#xA;• re-ported Vs Kapi code-wise and minor help on Vs Whitty.&#xA;• Ported Starving Artist.&#xA;• Minor menu coding.&#xA;• Ported Vs Pompom story mode assets and cutscenes." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
+	<credit name="toni" desc="• Ported Vs Pompom and to-be-later-added-in Vs Monika Full Week Rebooted." url="https://github.com/SorbetLover"/>
 	<credit name="bambamlol" desc="• Modchart porter for the foolhardy song.&#xA;• Ported Vs Garcello." icon="" size="130" url="https://www.youtube.com/channel/UC7QEBfHKro8kccl41zbhSMQ"/>
 	<credit name="notbeep" desc="• Ported Vs Mami assets and charts.&#xA;• Ported Vs Tricky assets and charts.&#xA;• Ported Vs Void.&#xA;• Ported Vs Qt assets and charts." icon="" size="130" url="https://www.youtube.com/@not_beep-.-656"/>
 	<!--Misc-->
@@ -85,5 +92,5 @@
 	<credit name="Ne_Eo" desc="• Shaky window script and help with code." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
 	<credit name="lunarcleint" desc="• Play animation event." icon="" size="130" url="https://github.com/lunarcleint"/>
 	<credit name="inkybox" desc="• Change character event." icon="" size="130" url="https://github.com/kittstone"/>
-	<credit name="Pumpsuki" desc="• Vs Zardy Psych Engine Porter, and Charter for Bushwhack used in the port." icon="" size="130" url="https://gamebanana.com/members/2098002"/>
+	<credit name="Pumpsuki" desc="• Vs Zardy Psych Engine Porter and Charter for Bushwhack used in the port." icon="" size="130" url="https://gamebanana.com/members/2098002"/>
 </menu>
