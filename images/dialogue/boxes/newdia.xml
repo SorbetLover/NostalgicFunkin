@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newdia.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Text Box Appear0000" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1218" frameHeight="263"/>
+	<SubTexture name="Text Box Appear1000" x="0" y="0" width="1218" height="49" frameX="0" frameY="0" frameWidth="1218" frameHeight="263"/>
+	<SubTexture name="Text Box Appear2000" x="0" y="49" width="1218" height="130" frameX="0" frameY="0" frameWidth="1218" frameHeight="263"/>
+	<SubTexture name="Text Box Appear3000" x="0" y="179" width="1218" height="208" frameX="0" frameY="0" frameWidth="1218" frameHeight="263"/>
+	<SubTexture name="Text Box Appear4000" x="0" y="387" width="1218" height="263"/>
+</TextureAtlas>

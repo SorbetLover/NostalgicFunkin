@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Pompom/pompom" y="0" isGF="false" camy="100" isPlayer="false" holdTime="6.1" sprite="Vs Pompom/pompom">
+	<anim x="0" loop="false" y="0" fps="18" anim="pompom dance idle" name="idle"/>
+	<anim x="49" loop="false" y="15" fps="24" anim="pompom UP NOTE" name="singUP"/>
+	<anim x="30" loop="false" y="-135" fps="24" anim="pompom DOWN note" name="singDOWN"/>
+	<anim x="10" loop="false" y="-23" fps="24" anim="pompom sing right" name="singRIGHT"/>
+	<anim x="105" loop="false" y="-30" fps="24" anim="pompom left" name="singLEFT"/>
+</character>

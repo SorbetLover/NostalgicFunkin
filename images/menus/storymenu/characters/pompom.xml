@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="pompom.png" width="2058" height="503">
+	<SubTexture name="pomstory0001" x="1" y="1" width="326" height="476" frameX="-3" frameY="-17" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0003" x="330" y="1" width="320" height="476" frameX="-7" frameY="-17" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0000" x="653" y="1" width="314" height="478" frameX="-8" frameY="-15" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0011" x="970" y="1" width="359" height="499" frameX="-28" frameY="-5" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0008" x="1332" y="1" width="356" height="501" frameX="-28" frameY="-3" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0009" x="1691" y="1" width="366" height="501" frameX="-29" frameY="-3" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0002" x="1" y="1" width="326" height="476" frameX="-3" frameY="-17" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0004" x="330" y="1" width="320" height="476" frameX="-7" frameY="-17" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0005" x="330" y="1" width="320" height="476" frameX="-7" frameY="-17" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0006" x="330" y="1" width="320" height="476" frameX="-7" frameY="-17" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0007" x="330" y="1" width="320" height="476" frameX="-7" frameY="-17" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0010" x="1691" y="1" width="366" height="501" frameX="-29" frameY="-3" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0012" x="970" y="1" width="359" height="499" frameX="-28" frameY="-5" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0013" x="970" y="1" width="359" height="499" frameX="-28" frameY="-5" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0014" x="970" y="1" width="359" height="499" frameX="-28" frameY="-5" frameWidth="396" frameHeight="507"/>
+	<SubTexture name="pomstory0015" x="970" y="1" width="359" height="499" frameX="-28" frameY="-5" frameWidth="396" frameHeight="507"/>
+</TextureAtlas>

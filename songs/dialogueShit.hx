@@ -3,7 +3,7 @@ var cameraExists = false;
 var colorBgAlpha:Float = 0.8;
 
 function update(elapsed) {
-    if (subState.dialogueCamera != null) cameraExists = true;
+    if (subState != null) cameraExists = true;
     else cameraExists = false;
 
     switch(cameraExists) {

@@ -85,3 +85,7 @@ hunger
 aspirer
 crybaby
 empty
+
+sugar-cookie
+key-lime
+stomachache

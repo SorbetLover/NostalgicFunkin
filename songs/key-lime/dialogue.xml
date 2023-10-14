@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="newdia">
+	<char name="pompomDiaAhISee" char="pompomDiaAhISee" position="left" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<line char="pompomDiaAhISee" bubble="appear">
+		Sugar snaps! I lost...
+	</line>
+	<line>
+		Beep bep bop.
+	</line>
+	<line char="pompomDiaAhISee">
+		...One more?
+	</line>
+	<line>
+		Skdoo bep beep.
+	</line>
+	<line char="pompomDiaAhISee">
+		I swear I'll do better this time!
+	</line>
+</dialogue>

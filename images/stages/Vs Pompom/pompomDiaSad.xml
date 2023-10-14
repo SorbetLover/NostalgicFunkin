@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pompomDiaSad.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pompom dia sad0000" x="0" y="0" width="1068" height="328"/>
+	<SubTexture name="pompom dia sad0001" x="0" y="328" width="1058" height="328" frameX="-10" frameY="0" frameWidth="1068" frameHeight="328"/>
+	<SubTexture name="pompom dia sad0002" x="0" y="656" width="1048" height="328" frameX="-20" frameY="0" frameWidth="1068" frameHeight="328"/>
+	<SubTexture name="pompom dia sad0003" x="0" y="984" width="1038" height="328" frameX="-30" frameY="0" frameWidth="1068" frameHeight="328"/>
+</TextureAtlas>

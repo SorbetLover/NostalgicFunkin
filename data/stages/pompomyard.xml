@@ -1,0 +1,27 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="pompom" folder="stages/Vs Pompom/">
+	<sprite name="skye"               x="-860" y="-400"   sprite="pompombg"       scroll="1" />
+	<sprite name="citee" x="-400" y="200" sprite="pompomcity" scroll="1" zoomfactor="1">
+		<anim name="pompomcity" anim="pompomcity" loop="false" indices="0,1,2,3,4,5,6,7,8,9,10" fps="24"/>
+	</sprite>
+	<sprite name="mftree3"               x="-700" y="250"   sprite="pompombgtrees1"       scroll="1" />
+	<sprite name="moretrees"               x="350" y="-40"   sprite="pompomtreemid"       scroll="1" />
+	<sprite name="lahouse" x="-400" y="-70" sprite="pompomhouse" scroll="1" zoomfactor="1">
+		<anim name="pompomcity" anim="pompomcity" loop="false" indices="0,1,2,3,4,5,6,7,8,9,10" fps="24"/>
+	</sprite>
+	<sprite name="ground"               x="-600" y="-100"   sprite="pompomfg"       scroll="1" />
+
+	<sprite name="mftree2"               x="900" y="-130"   sprite="pompomfgtree2"       scroll="1" />
+	
+	<sprite name="mftree"               x="400" y="-300"   sprite="pompomtreefg"       scroll="1" />
+
+
+
+
+
+
+
+	<girlfriend x="400" scroll="1" y="30" />
+	<dad y="200" x="-50"/>
+	<boyfriend y="0" x="600"/>
+</stage>
