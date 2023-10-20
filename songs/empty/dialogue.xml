@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="starve">
+	<!-- All characters -->
+	<char name="rebeccaTearingup" char="rebeccaTearingup" position="left" />
+
+	<!-- Lines -->
+	<line char="rebeccaTearingup">
+		I...
+	</line>
+	<line char="rebeccaTearingup">
+		I have to...
+	</line>
+	<line char="rebeccaTearingup">
+		keep going...
+	</line>
+	<line char="rebeccaTearingup">
+		please...
+	</line>
+</dialogue>

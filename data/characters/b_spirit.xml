@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="70" icon="B Sides/weeb/spirit" camx="100" y="380" isGF="false" scale="6" isPlayer="false" antialiasing="false" sprite="B Sides/Week 6/spirit">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle spirit_" name="idle"/>
+	<anim x="3" loop="false" y="0" fps="24" anim="left_" name="singLEFT"/>
+	<anim x="65" loop="false" y="65" fps="24" anim="spirit down_" name="singDOWN"/>
+	<anim x="0" loop="false" y="7" fps="24" anim="up_" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="right_" name="singRIGHT"/>
+</character>

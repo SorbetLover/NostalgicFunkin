@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 140,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -29114,
+	"displayName": "Sugar Cookie",
+	"icon": "Vs Pompom/pompom",
+	"name": "sugar-cookie",
+	"color": "#FF8E46"
+}

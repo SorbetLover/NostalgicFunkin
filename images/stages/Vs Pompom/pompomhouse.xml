@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pompomhouse.png">
+<SubTexture name="house0000" x="0" y="0" width="806" height="608" frameX="0" frameY="-105" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0001" x="0" y="0" width="806" height="608" frameX="0" frameY="-105" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0002" x="0" y="0" width="806" height="608" frameX="0" frameY="-105" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0003" x="806" y="0" width="827" height="615" frameX="0" frameY="-98" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0004" x="806" y="0" width="827" height="615" frameX="0" frameY="-98" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0005" x="806" y="0" width="827" height="615" frameX="0" frameY="-98" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0006" x="0" y="615" width="819" height="600" frameX="0" frameY="-113" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0007" x="0" y="615" width="819" height="600" frameX="0" frameY="-113" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0008" x="0" y="615" width="819" height="600" frameX="0" frameY="-113" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0009" x="819" y="615" width="793" height="602" frameX="0" frameY="-111" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0010" x="819" y="615" width="793" height="602" frameX="0" frameY="-111" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0011" x="819" y="615" width="793" height="602" frameX="0" frameY="-111" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0012" x="0" y="1217" width="481" height="614" frameX="0" frameY="-99" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0013" x="0" y="1217" width="481" height="614" frameX="0" frameY="-99" frameWidth="827" frameHeight="713" />
+<SubTexture name="house0014" x="0" y="1217" width="481" height="614" frameX="0" frameY="-99" frameWidth="827" frameHeight="713" />
+</TextureAtlas>

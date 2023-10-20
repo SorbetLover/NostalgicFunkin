@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rebecca_asset4.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rebecca Sing Note DOWN0000" x="0" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0001" x="0" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0002" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0003" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0004" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0005" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0006" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0007" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0008" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0009" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0010" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0011" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0012" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note DOWN0013" x="405" y="0" width="405" height="662"/>
+	<SubTexture name="rebecca Sing Note LEFT0000" x="810" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0001" x="810" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0002" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0003" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0004" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0005" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0006" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0007" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0008" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0009" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0010" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0011" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0012" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note LEFT0013" x="1182" y="0" width="372" height="663"/>
+	<SubTexture name="rebecca Sing Note RIGHT0000" x="1554" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0001" x="1554" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0002" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0003" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0004" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0005" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0006" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0007" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0008" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0009" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0010" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0011" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0012" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note RIGHT0013" x="2033" y="0" width="479" height="657"/>
+	<SubTexture name="rebecca Sing Note UP0000" x="2512" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0001" x="2512" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0002" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0003" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0004" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0005" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0006" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0007" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0008" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0009" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0010" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0011" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0012" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca Sing Note UP0013" x="2904" y="0" width="392" height="694"/>
+	<SubTexture name="rebecca fall over0000" x="3296" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0001" x="3296" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0002" x="4212" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0003" x="4212" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0004" x="5128" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0005" x="5128" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0006" x="6044" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0007" x="6044" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0008" x="6960" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0009" x="6960" y="0" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0010" x="0" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0011" x="0" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0012" x="916" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0013" x="916" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0014" x="1832" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0015" x="1832" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0016" x="2748" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0017" x="2748" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0018" x="3664" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0019" x="3664" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0020" x="4580" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0021" x="4580" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0022" x="4580" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0023" x="5496" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0024" x="5496" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0025" x="6412" y="719" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0026" x="0" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0027" x="0" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0028" x="0" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0029" x="0" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0030" x="916" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0031" x="1832" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0032" x="2748" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0033" x="3664" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0034" x="4580" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0035" x="5496" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0036" x="6412" y="1438" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0037" x="0" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0038" x="916" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0039" x="1832" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0040" x="2748" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0041" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0042" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0043" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0044" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0045" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0046" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0047" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0048" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0049" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca fall over0050" x="3664" y="2157" width="916" height="719"/>
+	<SubTexture name="rebecca idle dance0000" x="4580" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0001" x="4972" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0002" x="5364" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0003" x="5756" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0004" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0005" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0006" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0007" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0008" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0009" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0010" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0011" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0012" x="6148" y="2157" width="392" height="662"/>
+	<SubTexture name="rebecca idle dance0013" x="6148" y="2157" width="392" height="662"/>
+</TextureAtlas>

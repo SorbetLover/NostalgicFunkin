@@ -1,0 +1,31 @@
+<!DOCTYPE codename-engine-character>
+<character x="110" camx="-80" y="362" isGF="false" icon="starving artist/bf-normal" camy="-180" flipX="true" isPlayer="true" sprite="starving artist/BOYFRIEND">
+	<anim loop="true" x="-4" anim="BF idle shaking" fps="24" y="0" name="scared"/>
+
+	<anim loop="false" x="-10" anim="BF NOTE DOWN0" fps="24" y="-50" name="singDOWN"/>
+
+	<anim loop="false" x="-44" anim="BF NOTE RIGHT MISS" fps="24" y="24" name="singRIGHTmiss"/>
+
+	<anim loop="false" x="-46" anim="BF NOTE UP0" fps="24" y="27" name="singUP"/>
+
+	<anim loop="false" x="0" anim="BF NOTE LEFT MISS" fps="24" y="21" name="singLEFTmiss"/>
+
+	<anim loop="false" x="-3" anim="BF HEY" fps="24" y="10" name="hey"/>
+
+	<anim loop="false" x="-6" anim="BF idle dance" fps="24" y="6" name="idle"/>
+
+	<anim loop="false" x="-48" anim="BF NOTE RIGHT0" fps="24" y="-6" name="singRIGHT"/>
+
+	<anim loop="false" x="-11" anim="BF NOTE DOWN MISS" fps="24" y="-19" name="singDOWNmiss"/>
+
+	<anim loop="false" x="-41" anim="BF NOTE UP MISS" fps="24" y="27" name="singUPmiss"/>
+
+	<anim loop="false" x="2" anim="BF NOTE LEFT0" fps="24" y="-6" name="singLEFT"/>
+
+	<anim x="37" loop="false" y="11" fps="24" anim="BF dies" name="firstDeath"/>
+
+	<anim x="37" loop="false" y="5" fps="24" anim="BF Dead Loop" name="deathLoop"/>
+
+	<anim x="37" loop="false" y="69" fps="24" anim="BF Dead confirm" name="deathConfirm"/>
+
+</character>

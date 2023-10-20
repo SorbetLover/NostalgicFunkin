@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" color="#643072" icon="Vs Garcello/garcello" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Garcello/garcello_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="garcello idle dance" name="idle"/>
+	<anim x="0" loop="false" y="-0" fps="24" anim="garcello Sing Note DOWN" name="singDOWN"/>
+	<anim x="0" loop="false" y="-0" fps="24" anim="garcello Sing Note RIGHT" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="garcello Sing Note UP" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="garcello Sing Note LEFT" name="singLEFT"/>
+</character>

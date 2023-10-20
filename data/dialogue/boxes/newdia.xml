@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-dialogue-box>
+<dialoguebox y="0">
+	<text font="vcr.ttf" x="107" y="206" width="1053" color="#000000" size="48"/>
+
+	<charpos name="left" x="-500" y="184" />
+	<!-- <charpos name="middle" x="0" y="184" /> -->
+	<charpos name="right" x="500" y="184" />
+
+	<anim name="normal" anim="Text Box Appear4" fps="24" loop="false"/>
+	<anim name="appear" anim="Text Box Appear" fps="24" loop="false"/>
+</dialoguebox>

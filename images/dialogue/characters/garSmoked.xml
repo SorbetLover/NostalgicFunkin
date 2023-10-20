@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garSmoked.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="garSmoked0000" x="0" y="0" width="314" height="399" frameX="2" frameY="2" frameWidth="310" frameHeight="395"/>
+</TextureAtlas>

@@ -1,8 +1,13 @@
 <!DOCTYPE codename-engine-character>
-<character x="-200" icon="cablecrow" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Zardy/cablecrow">
-	<anim x="0" loop="false" y="0" fps="24" anim="Idle" name="idle"/>
-	<anim x="-120" loop="false" y="-38" fps="24" anim="Right" name="singRIGHT"/>
-	<anim x="209" loop="false" y="57" fps="24" anim="Down" name="singDOWN"/>
-	<anim x="240" loop="false" y="84" fps="24" anim="Left" name="singLEFT"/>
-	<anim x="7" loop="false" y="19" fps="24" anim="Up" name="singUP"/>
+<character holdTime="6.1" x="-200" sprite="Vs Zardy/cablecrow" isGF="false" y="0" icon="cablecrow" isPlayer="false">
+	<anim loop="false" x="0" anim="Idle" fps="24" y="144" name="idle"/>
+
+	<anim loop="false" x="-160" anim="Sing Right" fps="24" y="127" name="singRIGHT"/>
+
+	<anim loop="false" x="-14" anim="Sing Down" fps="24" y="146" name="singDOWN"/>
+
+	<anim loop="false" x="-33" anim="Sing Left" fps="24" y="144" name="singLEFT"/>
+
+	<anim loop="false" x="-2" anim="Sing Up" fps="24" y="148" name="singUP"/>
+
 </character>

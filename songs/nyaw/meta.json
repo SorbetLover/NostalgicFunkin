@@ -5,14 +5,14 @@
 		"NORMAL",
 		"HARD"
 	],
-	"icon": "Kapi",
-	"parsedColor": -8943463,
+	"icon": "Vs Kapi/Kapi",
+	"parsedColor": -9145954,
 	"name": "Nyaw",
 	"coopAllowed": true,
-	"color": "#778899",
+	"color": "#74719E",
 	"stepsPerBeat": 4,
 	"displayName": "Nyaw",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 100
+	"bpm": 178
 }

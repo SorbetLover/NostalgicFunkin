@@ -1,6 +1,6 @@
 {
-	"opponentModeAllowed": false,
-	"coopAllowed": false,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
 	"bpm": 160,
@@ -12,7 +12,7 @@
 	"needsVoices": true,
 	"parsedColor": -3541864,
 	"displayName": "flatzone",
-	"icon": "GameWatch",
+	"icon": "Vs Kapi/GameWatch",
 	"name": "flatzone",
-	"color": "#C9F498"
+	"color": "#4c5408"
 }

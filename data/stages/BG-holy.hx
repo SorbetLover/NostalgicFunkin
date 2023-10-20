@@ -1,78 +1,57 @@
-//import flixel.addons.display.FlxBackdrop;
-//import openfl.geom.ColorTransform;
+// uhh yeah..
+import openfl.geom.ColorTransform;
 
-//var bgApple = new FlxSprite().makeGraphic(FlxG.width*200,FlxG.height*200,0xFFFFFF);
-//incase if needed
-/*function resetColor(sprite:FlxSprite) {
-    sprite.color = 0xFFffffff;
-    sprite.setColorTransform();
-    sprite.colorTransform.redMultiplier = 1;
-    sprite.colorTransform.blueMultiplier = 1;
-    sprite.colorTransform.greenMultiplier = 1;
-    sprite.colorTransform.alphaMultiplier = 1;
-    sprite.colorTransform.redOffset = 0;
-    sprite.colorTransform.blueOffset = 0;
-    sprite.colorTransform.greenOffset = 0;
-    sprite.colorTransform.alphaOffset = 0;
-    sprite.dirty = true;
-}*/
-//function badApple(choose:String/*, timer:String*///){
-    /*if (choose == "a"){
-    remove(gf);
-    remove(boyfriend);
-    remove(dad);
-    boyfriend.colorTransform.color = (0x000000);
-    dad.colorTransform.color = (0x000000);
-    gf.colorTransform.color = (0x000000);
-    sky.colorTransform.color = (0x000000);
-    train.colorTransform.color = (0xFFFFFF);
-    floor.colorTransform.color = (0x000000);
-    bgLamp.colorTransform.color = (0xFFFFFF);
-    floorLamps.colorTransform.color = (0x000000);
-    women.colorTransform.color = (0x000000);
-    Objects.colorTransform.color = (0x000000);
-    healthBar.colorTransform.color = (0x000000);
-    iconP1.colorTransform.color = (0x000000);
-    iconP2.colorTransform.color = (0x000000);
-    add(bgApple);
-    bgApple.screenCenter();
-    add(gf);
-    add(dad);
-    add(boyfriend);
-    }
-    if (choose == "b"){
-    remove(bgApple);
-    boyfriend.colorTransform = new ColorTransform();
-    dad.colorTransform = new ColorTransform();
-    gf.colorTransform = new ColorTransform();
-    sky.colorTransform = new ColorTransform();
-    train.colorTransform = new ColorTransform();
-    floor.colorTransform = new ColorTransform();
-    bgLamp.colorTransform = new ColorTransform();
-    floorLamps.colorTransform = new ColorTransform();
-    women.colorTransform = new ColorTransform();
-    Objects.colorTransform = new ColorTransform();
-    healthBar.colorTransform = new ColorTransform();
-    iconP1.colorTransform = new ColorTransform();
-    iconP2.colorTransform = new ColorTransform();
-    }
-}*/
+var whiteBG = new FlxSprite();
 function create(){
+
     sky.scale.set(1.1, 1);
     train.scale.set(1.4, 1.8);
     bgLamp.scale.set(1.1, 1.2);
     floorLamps.scale.set(1.1, 1.2);
+    
+    whiteBG.makeGraphic(8000, 8000, FlxColor.WHITE);
+	whiteBG.x = "-1000";
+	whiteBG.y = "-1000";
+    whiteBG.alpha = 0.0001;
+	insert(1, whiteBG);
+}
 
-	/*gunFront = new FlxBackdrop(Paths.image('stages/Vs Mami/HOLY_gunsfrontconstant'), 1, 1, true, true);
-	//gunFront.setPosition(316.67,133.33);
-    gunFront.cameras = [camHUD];
-	gunFront.scrollFactor.set();
-	gunFront.updateHitbox();
-	gunFront.velocity.set(90, 180);
-    gunFront.alpha = 1;
-	gunFront.antialiasing = true;
-	add(gunFront);*/
+function badApple(turn:String){
+    if (turn == "on"){
+        whiteBG.alpha = 1;
+        boyfriend.color = 0x0000000;
+        dad.color = 0x0000000;
+        iconP1.color = 0x0000000;
+        iconP2.color = 0x0000000;
+        gf.color = 0x0000000;
+        women.color = 0x0000000;
+        Objects.color = 0x0000000;
+        floor.color = 0x0000000;
+        bgLamp.color = 0x0000000;
 
+        sky.alpha = 0.0001;
+        train.alpha = 0.0001;
+        floorLamps.alpha = 0.0001;
+    }
+    if (turn == "off"){
+        whiteBG.alpha = 0.0001;
+        boyfriend.color = 0xFFFFFFF;
+        dad.color = 0xFFFFFFF;
+        iconP1.color = 0xFFFFFFF;
+        iconP2.color = 0xFFFFFFF;
+        gf.color = 0xFFFFFFF;
+        women.color = 0xFFFFFFF;
+        Objects.color = 0xFFFFFFF;
+        floor.color = 0xFFFFFFF;
+        bgLamp.color = 0xFFFFFFF;
+
+        sky.alpha = 1;
+        train.alpha = 1;
+        floorLamps.alpha = 1;
+    }
+}
+
+/*function postCreate(){
     gunFront1 = new FlxSprite();
 	gunFront1.loadGraphic(Paths.image('stages/Vs Mami/HOLY_gunsfrontconstant'));
 	gunFront1.scrollFactor.set(1,1);
@@ -210,16 +189,33 @@ function create(){
     gunFront16.alpha = gunFront1.alpha;
 	gunFront16.antialiasing = true;
 	add(gunFront16);
+
+    gunFront1.cameras = [camHUD];
+    gunFront2.camera = [camHUD];
+    gunFront3.camera = [camHUD];
+    gunFront4.camera = [camHUD];
+    gunFront5.camera = [camHUD];
+    gunFront6.camera = [camHUD];
+    gunFront7.camera = [camHUD];
+    gunFront8.camera = [camHUD];
+    gunFront9.camera = [camHUD];
+    gunFront10.camera = [camHUD];
+    gunFront11.camera = [camHUD];
+    gunFront12.camera = [camHUD];
+    gunFront13.camera = [camHUD];
+    gunFront14.camera = [camHUD];
+    gunFront15.camera = [camHUD];
+    gunFront16.camera = [camHUD];
 }
 
-var on:Bool;
+var on:Bool = false;
 function update(e) {
-    if (on == true){
+    if (on){
     gunFront1.alpha = 1;
-	FlxTween.tween(gunFront1, {x:-976}, 0.1, {ease: FlxEase.linear});
-	FlxTween.tween(gunFront1, {y:-2048}, 0.65, {ease: FlxEase.linear});
+	FlxTween.tween(gunFront1, {x:-976}, 0.02, {ease: FlxEase.linear});
+	FlxTween.tween(gunFront1, {y:-2048}, 0.04, {ease: FlxEase.linear});
     } 
-}
+}*/
 function beatHit(curBeat:Int) {
     if (curBeat % 2 == 0){
         women.animation.play("struggle", true);
@@ -227,34 +223,39 @@ function beatHit(curBeat:Int) {
     if (curSong == "salvation"){
     if (curBeat == 408){
         camHUD.flash();
-        on = true;
+        //on = true;
     }
     if (curBeat == 472){
         camHUD.flash();
-        on = false;
+        //on = false;
     }
     if (curBeat == 544){
-        //badApple("a");
+        badApple("on");
     }
     if (curBeat == 608){
         camHUD.flash();
-        //badApple("b");
+        badApple("off");
     }
     if (curBeat == 672){
         camHUD.flash();
-        on = true;
+        //on = true;
     }
     if (curBeat == 732){
         camHUD.flash();
-        on = false;
+        //on = false;
     }
     if (curBeat == 742){
         camHUD.flash();
-        //badApple("a");
+        badApple("on");
     }
     if (curBeat == 876){
         camHUD.flash();
-        //badApple("b");
-    }
+        badApple("off");
+    }}
 }
+function stepHit(curStep:Int){
+    if (curSong == "salvation"){
+    if (curStep > 1632 && curStep < 1888 || curStep > 2688 && curStep < 2928){
+        camHUD.shake(0.008, 0.04);
+    }}
 }

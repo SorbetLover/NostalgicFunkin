@@ -1,0 +1,25 @@
+<!DOCTYPE codename-engine-character>
+<character x="110" camx="-80" y="362" camy="-180" gameOverChar="bf-blue-sad-dead" sprite="starving artist/BOYFRIEND_blue" isGF="false" icon="starving artist/bf-blue-sad" isPlayer="true" flipX="true">
+	<anim loop="true" x="-4" anim="BF idle shaking" fps="24" y="0" name="scared"/>
+
+	<anim loop="false" x="-25" anim="BF NOTE DOWN0" fps="24" y="-47" name="singDOWN"/>
+
+	<anim loop="false" x="-43" anim="BF NOTE RIGHT MISS" fps="24" y="22" name="singRIGHTmiss"/>
+
+	<anim loop="false" x="-43" anim="BF NOTE UP0" fps="24" y="31" name="singUP"/>
+
+	<anim loop="false" x="0" anim="BF NOTE LEFT MISS" fps="24" y="21" name="singLEFTmiss"/>
+
+	<anim loop="false" x="-5" anim="BF HEY" fps="24" y="58" name="hey"/>
+
+	<anim loop="false" x="-5" anim="BF idle dance" fps="24" y="0" name="idle"/>
+
+	<anim loop="false" x="-48" anim="BF NOTE RIGHT0" fps="24" y="-6" name="singRIGHT"/>
+
+	<anim loop="false" x="-11" anim="BF NOTE DOWN MISS" fps="24" y="-19" name="singDOWNmiss"/>
+
+	<anim loop="false" x="-38" anim="BF NOTE UP MISS" fps="24" y="26" name="singUPmiss"/>
+
+	<anim loop="false" x="2" anim="BF NOTE LEFT0" fps="24" y="-7" name="singLEFT"/>
+
+</character>

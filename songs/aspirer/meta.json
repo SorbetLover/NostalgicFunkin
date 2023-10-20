@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 140,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -13669236,
+	"displayName": "aspirer",
+	"icon": "starving artist/rebecca2",
+	"name": "aspirer",
+	"color": "#2F6C8C"
+}

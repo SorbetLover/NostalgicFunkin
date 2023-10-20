@@ -1,0 +1,51 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="garcelloRelease" char="garcelloRelease" position="left" />
+	<char name="bfgarcello" char="bfgarcello" position="right" />
+
+	<!-- Lines -->
+	<line char="garcelloRelease">
+		Oh.
+	</line>
+	
+	<line char="garcelloRelease">
+		...
+	</line>
+	
+	<line char="garcelloRelease">
+		Would ya look at that.
+	</line>
+	
+	<line char="garcelloRelease">
+		I guess I overdid it, huh?
+	</line>
+	
+	<line char="garcelloRelease">
+		...
+	</line>
+	
+	<line char="garcelloRelease">
+		It's alright.
+	</line>
+	
+	<line char="garcelloRelease">
+		I'd rather it be me than you.
+	</line>
+	
+	<line char="garcelloRelease">
+		That hurt like hell, but it's probably better than what your girl's father was gonna do to me.
+	</line>
+	
+	<line char="garcelloRelease">
+		I can't stay like this for too long, but...
+	</line>
+	
+	<line char="garcelloRelease">
+		Even if our time was short...
+	</line>
+	
+	<line char="garcelloRelease">
+		Let's end things off with a bang, little man.
+	</line>
+</dialogue>

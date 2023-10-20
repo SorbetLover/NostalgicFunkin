@@ -1,0 +1,51 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="garcelloFading" char="garcelloFading" position="left" />
+	<char name="bfgarcello" char="bfgarcello" position="right" />
+
+	<!-- Lines -->
+	<line char="garcelloFading">
+		Man...
+	</line>
+	
+	<line char="garcelloFading">
+		Would ya look at that - the sun's rising and I won't be awake for once.
+	</line>
+	
+	<line char="garcelloFading">
+		...
+	</line>
+	
+	<line char="garcelloFading">
+		Hey.
+	</line>
+	
+	<line char="garcelloFading">
+		Sorry for dying.
+	</line>
+	
+	<line char="garcelloFading">
+		I didn't want this thing killin' ya. You're actually really cool.
+	</line>
+	
+	<line char="garcelloFading">
+		I would've loved to funk with ya more, but this is my fault.
+	</line>
+	
+	<line char="garcelloFading">
+		You two have a lot going on, and I don't want to add to it.
+	</line>
+	
+	<line char="garcelloFading">
+		...
+	</line>
+	
+	<line char="garcelloFading">
+		I've got enough time for one last send off, little man.
+	</line>
+	
+	<line char="garcelloFading">
+		You two stay safe, alright?
+	</line>
+</dialogue>

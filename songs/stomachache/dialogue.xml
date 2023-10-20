@@ -1,0 +1,36 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="newdia">
+	<char name="pompomDiaSad" char="pompomDiaSad" position="left" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<line char="pompomDiaSad" bubble="appear">
+		I-I lost again...!?
+	</line>
+	<line>
+		Beep--
+	</line>
+	<line char="pompomDiaSad">
+		Wait, wait, wait!
+	</line>
+	<line char="pompomDiaSad">
+		I swear I can do better!
+	</line>
+	<line>
+		Bep bobop sk-
+	</line>
+	<line char="pompomDiaSad">
+		No!
+	</line>
+	<line char="pompomDiaSad">
+		I'll show you!
+	</line>
+	<line char="pompomDiaSad">
+		Just...Let me think...!
+	</line>
+	<line char="pompomDiaSad">
+		...
+	</line>
+	<line char="pompomDiaSad">
+		Ugh! Just start the music!
+	</line>
+</dialogue>

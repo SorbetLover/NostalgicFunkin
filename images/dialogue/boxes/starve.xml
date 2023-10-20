@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starve.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="textBox0000" x="0" y="448" width="954" height="216" frameX="2" frameY="2" frameWidth="950" frameHeight="212"/>
+	<SubTexture name="textBox20000" x="0" y="0" width="954" height="227" frameX="2" frameY="2" frameWidth="950" frameHeight="223"/>
+	<SubTexture name="textBox30000" x="0" y="227" width="954" height="221" frameX="2" frameY="2" frameWidth="950" frameHeight="217"/>
+</TextureAtlas>

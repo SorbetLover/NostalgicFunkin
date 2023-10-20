@@ -2,8 +2,7 @@
 <titlestate>
 	<sprites folder="menus/titlescreen">
 		<sprite name="menuBG" sprite="menuBG" x="0" y="0" scale="1.38"/>
-		<!-- <sprite name="nfLogo" sprite="nf" x="200" y="50" scale="1.25"/> -->
-		<titleEnter sprite="titleEnter" x="-150" y="-100" />
+		<titleEnter sprite="titleEnter" x="-150" y="-100"/>
 	</sprites>
 
 	<intro length="16">

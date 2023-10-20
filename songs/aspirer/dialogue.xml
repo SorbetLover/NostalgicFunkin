@@ -1,0 +1,27 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="starve">
+	<!-- All characters -->
+	<char name="rebeccaUnhappy" char="rebeccaUnhappy" position="left" />
+
+	<!-- Lines -->
+	<line char="rebeccaUnhappy">
+		What I need the money for?
+	</line>
+	<line char="rebeccaUnhappy">
+		Well...
+	</line>
+	<line char="rebeccaUnhappy">
+		I have been working for four years 
+		on my own cartoon. 
+	</line>
+	<line char="rebeccaUnhappy">
+		As you can see, it doesn't pay the bills.
+	</line>
+	<line char="rebeccaUnhappy">
+		But don't worry about me. Sacrifices 
+		have to be made to get somewhere in life.
+	</line>
+	<line char="rebeccaUnhappy">
+		So let me earn my pay.
+	</line>
+</dialogue>

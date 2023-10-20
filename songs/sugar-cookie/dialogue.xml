@@ -1,0 +1,39 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="newdia">
+	<char name="pompomDia" char="pompomDia" position="left" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<line char="pompomDia" bubble="appear">
+		Oh, hiya!
+	</line>
+	<line>
+		Beep ba bo?
+	</line>
+	<line char="pompomDia">
+		This is my home!
+	</line>
+	<line char="pompomDia">
+		People usually don't come here.
+	</line>
+	<line char="pompomDia">
+		Wait...
+	</line>
+	<line char="pompomDia">
+		Is that a mic?
+	</line>
+	<line char="pompomDia">
+		Do you sing?
+	</line>
+	<line>
+		Bep.
+	</line>
+	<line char="pompomDia">
+		Just one song? Please?
+	</line>
+	<line>
+		Beep skedo.
+	</line>
+	<line char="pompomDia">
+		Really!? Okay!
+	</line>
+</dialogue>

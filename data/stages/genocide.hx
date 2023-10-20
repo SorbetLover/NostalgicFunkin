@@ -1,53 +1,18 @@
 import openfl.Lib;
+import flixel.addons.effects.FlxTrail;
 
 var chromaticAberration = new CustomShader("chromaticAberration");
 var bright = new CustomShader("bright");
-var enableFlxTrail = true;
-var tabi_left:FlxSprite;
-var tabi_down:FlxSprite;
-var tabi_up:FlxSprite;
-var tabi_right:FlxSprite;
 
 function create() {
 	camGame.addShader(chromaticAberration);
 	camHUD.addShader(chromaticAberration);
 	if (!PlayState.opponentMode) {camGame.addShader(bright);}
 	
-	// FlxTrail stuff
-	if (!PlayState.opponentMode) {
-		tabi_left = new FlxSprite(dad.x - 400, dad.y + 20);
-		tabi_left.frames =  Paths.getSparrowAtlas("characters/Vs Tabi/MadTabi");
-		tabi_left.animation.frameIndex = 23; // left
-		tabi_left.antialiasing = true;
-		insert(members.indexOf(dad), tabi_left);
-		tabi_left.alpha = 0.00001;
-	
-		tabi_down = new FlxSprite(dad.x - 10, dad.y + 65);
-		tabi_down.frames =  Paths.getSparrowAtlas("characters/Vs Tabi/MadTabi");
-		tabi_down.animation.frameIndex = 0; // down
-		tabi_down.antialiasing = true;
-		insert(members.indexOf(dad), tabi_down);
-		tabi_down.alpha = 0.0001;
-	
-		tabi_up = new FlxSprite(dad.x - 50, dad.y - 90);
-		tabi_up.frames =  Paths.getSparrowAtlas("characters/Vs Tabi/MadTabi");
-		tabi_up.animation.frameIndex = 41; // up
-		tabi_up.antialiasing = true;
-		insert(members.indexOf(dad), tabi_up);
-		tabi_up.alpha = 0.00001;
-	
-		tabi_right = new FlxSprite(550, dad.y + 10);
-		tabi_right.frames =  Paths.getSparrowAtlas("characters/Vs Tabi/MadTabi");
-		tabi_right.animation.frameIndex = 31; // right
-		tabi_right.antialiasing = true;
-		insert(members.indexOf(dad), tabi_right);
-		tabi_right.alpha = 0.00001;
-	} else {
-		tabi_down.visible = false;
-		tabi_up.visible = false;
-		tabi_right.visible = false;
-		tabi_left.visible = false;
-	}
+	var tabiTrail = new FlxTrail(dad, null, 4, 24, 0.6, 0.9);
+	tabiTrail.beforeCache = dad.beforeTrailCache;
+	tabiTrail.afterCache = dad.afterTrailCache;
+	insert(members.indexOf(overlayingsticks) - 1, tabiTrail);
 }
 
 // Shaky screen by Ne_Eo
@@ -77,41 +42,8 @@ function onPlayerHit(event:NoteHitEvent) {
 }
 
 function onDadHit(event:NoteHitEvent) {
-	if (!FlxG.fullscreen || !PlayState.opponentMode) {
+	if (!FlxG.fullscreen || !PlayState.opponentMode)
 		shakeWindow(1);
-	}
-	// FlxTrail shit
-	if (enableFlxTrail) {
-		switch(event.direction) {
-			case 0:
-				tabi_left.alpha = 0.5;
-				var bleh_left = new FlxTimer().start(0.5, function(singLEFT:FlxTimer){
-					// tabi_left.alpha = 0.00001;
-					FlxTween.tween(tabi_left, {alpha: 0.00001}, 0.1);
-				});
-			
-			case 1:
-				tabi_down.alpha = 0.5;
-				var bleh_down = new FlxTimer().start(0.5, function(singDOWN:FlxTimer){
-					// tabi_down.alpha = 0.00001;
-					FlxTween.tween(tabi_down, {alpha: 0.00001}, 0.1);
-				});
-			
-			case 2:
-				tabi_up.alpha = 0.5;
-				var bleh_up = new FlxTimer().start(0.5, function(singUP:FlxTimer){
-				// tabi_up.alpha = 0.00001;
-				FlxTween.tween(tabi_up, {alpha: 0.00001}, 0.1);
-			});
-
-			case 3:
-				tabi_right.alpha = 0.5;
-				var bleh_right = new FlxTimer().start(0.5, function(singRIGHT:FlxTimer){
-				// tabi_right.alpha = 0.00001;
-				FlxTween.tween(tabi_right, {alpha: 0.00001}, 0.1);
-			});
-		}
-	}
 }
 
 function update() {

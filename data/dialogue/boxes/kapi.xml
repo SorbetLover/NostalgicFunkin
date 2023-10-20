@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-dialogue-box>
+<dialoguebox scale="0.9" y="0" textSound="dialogue/text-kapi">
+	<text font="delfino.otf" x="182" y="197" width="1053" color="#ffffff" size="48"/>
+	<!-- <text font="delfino.otf" x="182" y="197" width="1053" color="#000000" size="48"/> can't add a dropText -->
+
+	<charpos name="left" x="-600" y="160"/>
+	<charpos name="middle" x="-270" y="230" />
+	<charpos name="right" x="60" y="155"/>
+
+	<anim name="normal" anim="Text Box Appear instance" fps="24" loop="true"/>
+</dialoguebox>

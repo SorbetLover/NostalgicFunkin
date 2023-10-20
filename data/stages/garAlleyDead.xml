@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="garAlleyDead" folder="stages/SEOS/">
+	<sprite name="bg"               x="-500" y="-170"   sprite="garStagebgAlt"       scroll="0.7" />
+    <sprite name="smoker"               x="0" y="-290"   sprite="garSmoke"       scroll="0.7"   alpha="0.3" scale="1.7"/>
+	<sprite name="bgAlley"               x="-500" y="-200"   sprite="garStagealt"       scroll="0.9" />
+	<sprite name="corpse"               x="-230" y="540"   sprite="gardead"       scroll="0.9" />
+</stage>

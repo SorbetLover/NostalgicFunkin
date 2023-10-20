@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="bf" y="350" isGF="false" flipX="true" isPlayer="false" holdTime="6.1" sprite="Vs Kapi/KAPIBOYFRIEND">
+<character x="0" icon="bf" y="350" isGF="false" flipX="true" isPlayer="false" holdTime="6.1" gameOverChar="bf-kapi-dead" sprite="Vs Kapi/KAPIBOYFRIEND">
 	<anim x="-16" loop="false" y="1" fps="24" anim="BF HEY" name="Nyaw"/>
 	<anim x="40" loop="false" y="18" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
 	<anim x="-18" loop="false" y="-49" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>

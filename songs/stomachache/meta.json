@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "Vs Pompom/pompomsad",
+	"parsedColor": -29114,
+	"coopAllowed": true,
+	"name": "stomachache",
+	"color": "#FF8E46",
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"displayName": "Stomachache",
+	"needsVoices": true,
+	"bpm": 125
+}

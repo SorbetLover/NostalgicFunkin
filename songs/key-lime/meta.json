@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"bpm": 145,
+	"needsVoices": true,
+	"parsedColor": -29114,
+	"displayName": "key-lime",
+	"icon": "Vs Pompom/pompom",
+	"name": "key-lime",
+	"color": "#FF8E46"
+}

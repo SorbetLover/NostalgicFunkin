@@ -1,6 +1,14 @@
 <!DOCTYPE codename-mod-credits>
+<!-- B SIDES -->
+<menu name="B Sides" desc="B Sides creators' crdits.">
+	<credit name="Rozebud" 		desc="Song Composer, Artist and Charter" 	icon="" size="130" url="https://twitter.com/helpme_thebigt"/>
+	<credit name="JADS" 		desc="Song Composer and Charter" 			icon="" size="130" url="https://twitter.com/Aw3somejds"/>
+	<credit name="CVAL" 		desc="Charter and Additional Assistance" 	icon="" size="130" url="https://twitter.com/cval_brown"/>
+	<credit name="fluffyhairs" 	desc="Song Composer"						icon="" size="130" url="https://twitter.com/fluffyhairslol?s=20&t=FXqBUIB8f7YUYh34sCmKEA"/>
+</menu>
+
 <!-- VS WHITTY -->
-<menu name="Vs Whitty" desc="Credits of the original devs who made Vs Whitty.">
+<menu name="Vs Whitty" desc="Vs Whitty creators' credits.">
 	<credit name="Sock.clip" desc="Artist and Song Composer." icon="" size="130" url="https://www.instagram.com/sock.clip/"/>
 	<credit name="Nate Anim8" desc="Note Charter, Secondary Animator and Play Tester." icon="" size="130" url="https://gamebanana.com/members/1778429"/>
 	<credit name="KadeDev" desc="Coder." icon="" size="130" url="https://gamebanana.com/members/1774971"/>
@@ -11,7 +19,7 @@
 
 <!-- VS TABI -->
 
-<menu name="Vs Tabi" desc="Credits of the original devs who made Vs Tabi.">
+<menu name="Vs Tabi" desc="Vs Tabi creators' credits.">
 	<credit name="Homskiy" desc="Owner Of Tabi V1 / Author Of lore / Leader of project." icon="" size="130" url="https://gamebanana.com/members/1803091"/>
 	<credit name="GWebDev" desc="Scripter." icon="" size="130" url="https://gamebanana.com/members/1799048"/>
 	<credit name="Brightfyre" desc="Second scripter / Updates." icon="" size="130" url="https://gamebanana.com/members/1800180"/>
@@ -26,14 +34,20 @@
 
 <!-- VS CAROL -->
 
-<menu name="Vs Carol" desc="Credits of the original devs who made Vs Carol.">
+<menu name="Vs Carol" desc="Vs Carol creators' credits.">
 	<credit name="bbpanzu" desc="Artist and Musician." icon="" size="130" url="https://gamebanana.com/members/1764067"/>
 	<credit name="GENOX" desc="Carol UTAU." icon="" size="130" url="https://gamebanana.com/members/1771171"/>
 </menu>
 
+<!-- VS Pompom -->
+
+<menu name="Vs Pompom" desc="Vs Pompom creator's credits.">
+	<credit name="ArtCarrot_" desc="Artist, Animator, Programmer, Musician." icon="" size="130" url="https://gamebanana.com/members/1832353"/>
+</menu>
+
 <!-- VS ZARDY -->
 
-<menu name="Vs Zardy" desc="Vs Kapi creators' credits.Vs Zardy.">
+<menu name="Vs Zardy" desc="Vs Zardy creators' credits.">
 	<credit name="KadeDev" desc="Programmer and Charter" icon="" size="130" url="https://gamebanana.com/members/1774971"/>
 	<credit name="SwankyBox" desc="Team Lead and Animator" icon="" size="130" url="https://www.youtube.com/user/SwankyBox"/>
 	<credit name="Rozebud" desc="Music Producer" icon="" size="130" url="https://www.youtube.com/channel/UCZsn8GXFKTdDB5TQtuR4FnA"/>
@@ -42,8 +56,6 @@
 	<credit name="Charriii5" desc="Additional Art and Animation" icon="" size="130" url="https://www.youtube.com/channel/UC1wWQb7GYP6d_FdrNts-DpQ"/>
 	<credit name="Turvie" desc="Menu backgrounds" icon="" size="130" url="https://twitter.com/turvs6"/>
 	<credit name="Jads" desc="Vocal Samples" icon="" size="130" url="https://gamebanana.com/members/1767622"/>
-	<credit name="Sugarratio" desc="Animator/Artist for Zardy REMASTERED" icon="" size="130" url="https://gamebanana.com/members/1771573"/>
-	<credit name="DestrioSZ" desc="Artist/Animator for Cablecrow REMASTERED" icon="" size="130" url="https://gamebanana.com/members/2080836"/>
 </menu>
 
 <!-- VS KAPI -->
@@ -52,15 +64,33 @@
 	<credit name="Paper Kitty" desc="Art, Animations, Misc. Scripting, Charting and Composing." icon="" size="130" url="https://gamebanana.com/members/1838959"/>
 	<credit name="BbPanzu" desc="For sitting down and saying meow 16 different times for me" icon="" size="130" url="https://gamebanana.com/members/1764067"/>
 	<credit name="MikeGeno" desc="The song Hairball" icon="" size="130" url="https://www.youtube.com/channel/UCyDQKOgEjuIiuPXctcuQKlg"/>
+	<credit name="ImToasty" desc="Scripted and Charted Fuzzy Distortion." icon="" size="130" url="https://gamebanana.com/members/1812925"/>
+	<credit name="Tenaxis" desc="The song 'Fuzzy Distortion'" icon="" size="130"/>
 </menu>
 
-<!-- PORTERS -->
+<!-- Starving Artist -->
 
-<menu name="Nostalgic Funkin" desc="The ones who ported the mods. (includes scripts' credits)">
-	<credit name="NULL" desc="Started the idea, ported Vs Whitty and Vs Carol. Minor porting help with Vs Tabi." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
-	<credit name="Tsaku" desc="Ported Vs Kapi and Vs Zardy (without modchart)." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
-	<credit name="MAZ" desc="Ported Vs Tabi entirely (except dialogue), recharted Genocide. Minor porting help with Vs Kapi, Vs Zardy, Vs Whitty." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
-	<credit name="mr.Wifi7" desc="Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
-	<credit name="Ne_Eo" desc="Shaky window script and help with code." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
-	<credit name="yashermania" desc="Noteskin script." icon="" size="130" url="https://github.com/YasherMania"/>
+<menu name="Starving Artist" desc="Starving Artist creators' credits.">
+	<credit name="Rebecca_Doodles" desc="Creator,Artist and Coder" icon="" size="130" url="https://gamebanana.com/members/1882773"/>
+	<credit name="Ash237" desc="Coder Assistant" icon="" size="130" url="https://gamebanana.com/members/1813477"/>
+	<credit name="Seberster" desc="Musician" icon="" size="130" url="https://gamebanana.com/members/1758688"/>
+	<credit name="Ghost1843318" desc="Musician" icon="" size="130" url="https://gamebanana.com/members/1843318"/>
+	<credit name="ninjamuffin99" desc="Cool engine maker" icon="" size="130" url="https://gamebanana.com/members/1811171"/>
+</menu>
+
+<!-- PORTERS/Scripts -->
+
+<menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
+	<credit name="NULL" desc="• Started the idea, ported Vs Whitty and Vs Carol.&#xA;• Minor porting help with Vs Tabi.&#xA;• Made the logos." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
+	<credit name="Tsaku" desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and raw characters files.&#xA;• Minor porting help with foolhardy re-port.&#xA;• Ported Vs AGOTI." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
+	<credit name="MAZ" desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.&#xA;• recharted Genocide.&#xA;• re-ported Vs Kapi code-wise and minor help on Vs Whitty.&#xA;• Ported Starving Artist.&#xA;• Minor menu coding.&#xA;• Ported Vs Pompom story mode assets and cutscenes." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
+	<credit name="toni" desc="• Ported Vs Pompom and to-be-later-added-in Vs Monika Full Week Rebooted." url="https://github.com/SorbetLover"/>
+	<credit name="bambamlol" desc="• Modchart porter for the foolhardy song.&#xA;• Ported Vs Garcello." icon="" size="130" url="https://www.youtube.com/channel/UC7QEBfHKro8kccl41zbhSMQ"/>
+	<credit name="notbeep" desc="• Ported Vs Mami assets and charts.&#xA;• Ported Vs Tricky assets and charts.&#xA;• Ported Vs Void.&#xA;• Ported Vs Qt assets and charts." icon="" size="130" url="https://www.youtube.com/@not_beep-.-656"/>
+	<!--Misc-->
+	<credit name="mr.Wifi7" desc="• Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
+	<credit name="Ne_Eo" desc="• Shaky window script and help with code." icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
+	<credit name="lunarcleint" desc="• Play animation event." icon="" size="130" url="https://github.com/lunarcleint"/>
+	<credit name="inkybox" desc="• Change character event." icon="" size="130" url="https://github.com/kittstone"/>
+	<credit name="Pumpsuki" desc="• Vs Zardy Psych Engine Porter and Charter for Bushwhack used in the port." icon="" size="130" url="https://gamebanana.com/members/2098002"/>
 </menu>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" folder="stages/hungryHippo2/" >
+	<sprite name="bg2" x="-800" y="-600" sprite="hungryhippo_bg2"/>
+
+	<gf x="250" y="-60" scroll="1"></gf>
+	<dad x="130" y="300"></dad>
+	<boyfriend y="300"></boyfriend>
+</stage>

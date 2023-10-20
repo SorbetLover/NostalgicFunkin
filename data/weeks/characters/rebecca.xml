@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-week-character>
+<char scale="1" x="150" y="-40">
+	<anim name="idle"       anim="rebecca menu asset"  fps="24"    loop="true" />
+</char>

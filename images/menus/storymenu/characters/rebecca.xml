@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rebecca.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rebecca menu asset0000" x="0" y="0" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0001" x="418" y="0" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0002" x="836" y="0" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0003" x="1254" y="0" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0004" x="0" y="303" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0005" x="418" y="303" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0006" x="836" y="303" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0007" x="1254" y="303" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0008" x="0" y="606" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0009" x="418" y="606" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0010" x="836" y="606" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0011" x="1254" y="606" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0012" x="0" y="909" width="418" height="303"/>
+	<SubTexture name="rebecca menu asset0013" x="0" y="0" width="418" height="303"/>
+</TextureAtlas>

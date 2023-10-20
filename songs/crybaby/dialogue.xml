@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="starve">
+	<!-- All characters -->
+	<char name="rebeccaDistressed" char="rebeccaDistressed" position="left" />
+
+	<!-- Lines -->
+	<line char="rebeccaDistressed">
+		Why are you stopping?
+	</line>
+	<line char="rebeccaDistressed">
+		...
+	</line>
+	<line char="rebeccaDistressed">
+		This?
+	</line>
+	<line char="rebeccaDistressed">
+		This is fine.
+	</line>
+	<line char="rebeccaDistressed">
+		It's cool, everytime i don't sleep enough,
+		this happens.
+	</line>
+	<line char="rebeccaDistressed">
+		Though sleep is for the weak.
+	</line>
+	<line char="rebeccaDistressed">
+		I need that money, 
+		so you better keep going!
+	</line>
+</dialogue>

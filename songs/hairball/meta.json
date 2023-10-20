@@ -1,18 +1,19 @@
 {
-	"opponentModeAllowed": false,
-	"coopAllowed": false,
-	"stepsPerBeat": 4,
-	"beatsPerMesure": 4,
-	"bpm": 113,
+	"opponentModeAllowed": true,
+	"icon": "Vs Kapi/kapi",
 	"difficulties": [
 		"EASY",
 		"NORMAL",
-		"HARD"
+		"HARD",
+		"HARD RECHART"
 	],
-	"needsVoices": true,
-	"parsedColor": -3172116,
-	"displayName": "hairball",
-	"icon": "kapi",
+	"parsedColor": -9145954,
+	"color": "#74719E",
 	"name": "hairball",
-	"color": "#CF98EC"
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "hairball",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 117
 }

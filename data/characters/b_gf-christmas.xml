@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="B Sides/global/gf" y="0" isGF="true" isPlayer="false" sprite="B Sides/GF/gfChristmas">
+	<anim x="0" loop="true" y="-17" fps="24" anim="GF FEAR" name="scared"/>
+	<anim x="0" loop="false" y="-20" fps="24" anim="GF Down Note" name="singDOWN"/>
+	<anim x="0" loop="false" y="-9" fps="24" anim="GF Dancing Beat" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" name="danceRight"/>
+	<anim x="0" loop="false" y="4" fps="24" anim="GF Up Note" name="singUP"/>
+	<anim x="0" loop="false" y="-9" fps="24" anim="GF Dancing Beat" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" name="danceLeft"/>
+	<anim x="0" loop="false" y="-9" fps="24" anim="GF Dancing Beat Hair blowing" indices="0,1,2,3" name="hairBlow"/>
+	<anim x="0" loop="false" y="-19" fps="24" anim="GF Right Note" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-9" fps="24" anim="GF Dancing Beat Hair Landing" indices="0,1,2,3,4,5,6,7,8,9,10,11" name="hairFall"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="GF Cheer" name="cheer"/>
+	<anim x="0" loop="false" y="-19" fps="24" anim="GF left note" name="singLEFT"/>
+	<anim x="-1" loop="true" y="-21" fps="24" anim="gf sad" indices="0,1,2,3,4,5,6,7,8,9,10,11,12" name="sad"/>
+</character>

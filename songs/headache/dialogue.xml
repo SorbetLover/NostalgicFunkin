@@ -1,0 +1,71 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="garcello" char="garcello" position="left" />
+	<char name="bfgarcello" char="bfgarcello" position="right" />
+
+	<!-- Lines -->
+	<line char="bfgarcello">
+		beep
+	</line>
+
+	<line char="garcello">
+		What's up, little man?
+	</line>
+
+	<line char="garcello">
+		Did the smoke catch your attention?
+	</line>
+
+	<line char="bfgarcello">
+		bee bop
+	</line>
+
+	<line char="garcello">
+		Yeah, it's pretty cool. You should try it out.
+	</line>
+
+	<line char="bfgarcello">
+		beep bo
+	</line>
+
+	<line char="garcello">
+		Are ya sure? Come on...
+	</line>
+
+	<line char="bfgarcello">
+		beep bo
+	</line>
+
+	<line char="garcello">
+		Hm...
+	</line>
+
+	<line char="garcello">
+		Tell you what.
+	</line>
+
+	<line char="garcello">
+		If you beat me in a friendly little rap battle, I'll get off your case.
+	</line>
+
+	<line char="garcello">
+		Sound cool, little man?
+	</line>
+
+	<line char="bfgarcello">
+		beep bo bop!
+	</line>
+
+	<line char="garcello">
+		Heh, that got you hyped up. It's settled then.
+	</line>
+
+	<line char="garcello">
+		As long as you don't mind me smoking a bit. 
+	</line>
+
+	<line char="garcello">
+		Helps calm the nerves, y'know?
+	</line>
+</dialogue>

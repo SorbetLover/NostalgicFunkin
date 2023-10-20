@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 140,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -9338228,
+	"displayName": "empty",
+	"icon": "starving artist/rebecca4",
+	"name": "empty",
+	"color": "#71828C"
+}

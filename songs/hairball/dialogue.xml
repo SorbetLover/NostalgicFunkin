@@ -1,0 +1,24 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="kapi">
+	<!-- All characters -->
+	<char name="gflaugh" char="gflaugh" position="middle"/>
+	<char name="kapimad" char="kapimad" position="left"/>
+	<char name="kapistare" char="kapistare" position="left"/>
+	<char name="bfwhat" char="bfwhat" position="right"/>
+
+	<line char="gflaugh">
+		Oh you boys...
+	</line>
+	<line char="kapimad">
+		C'mon. I obviously beat you.
+	</line>
+	<line char="bfwhat">
+		Haha, you're jokin'.
+	</line>
+	<line char="kapistare">
+		...
+	</line>
+	<line char="kapimad">
+		'Kay I'll show you up.
+	</line>
+</dialogue>
