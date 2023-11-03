@@ -1,12 +1,19 @@
 <!DOCTYPE codename-mod-options>
-<menu name="Nostalgic Funkin" desc="Options for Nostalgic Funkin. Includes options for indievidual mods.">
-	<menu name="Nostalgic Funkin" desc="General Options for all mods!">
-		<checkbox id="oldLogo"		desc="Use the Old Nostalgic Funkin Logo."	name="Use old Logo"/>
-		<checkbox id="shaderShit" 	desc="Disables shaders in the port." 		name="Disable shaders" />
-		<checkbox id="shakeShit" 	desc="Disables shaking in the port." 		name="Disable shaking"/>
+<menu name="Nostalgic Funkin'" desc="Options for Nostalgic Funkin. Includes options for indievidual mods.">
+	<menu name="Accessibility" desc="General Options for all mods!">
+		<checkbox id="shaderShit" desc="Disables shaders in the port." name="Disable shaders" />
+		<checkbox id="shakeShit" desc="Disables shaking in the port." name="Disable shaking"/>
+		<checkbox id="flashFX" desc="Disables flashing lights for mods like Tricky, Void, etc." name="Disable flashing lights"/>
+		<checkbox id="bushNote" desc="Disables Bushwhack mechanic." name="Disable bushwhack mechanic"/>
 	</menu>
 
-	<menu name="Vs Zardy" desc="Options specific to Vs Zardy mod">
-		<checkbox id="bushNote" 	desc="Disables bushwhack mechanic." 		name="no bushwhack mechanic"/>
+	<menu name="Kade Options" desc="Kade UI Options.">
+		<checkbox id="kadeUI" desc="Kade UI."	name="Enables Kade Engine UI."/>
+		<checkbox id="fastPress" desc="No description yet!!"	name="Faster note press"/>
+		<checkbox id="charToIdle" desc="Characters will immidately go to their idle animation after pressing/holding notes." name="Character sudden idle."/>
+	</menu>
+
+	<menu name="Misc" desc="Other options.">
+		<checkbox id="oldLogo" desc="Use the Old Nostalgic Funkin Logo." name="Use old Logo"/>
 	</menu>
 </menu>

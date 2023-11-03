@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character icon="Gf" isGF="true" isPlayer="false" sprite="Vs Tricky/gf-hell">
+	<anim x="0" loop="false" y="0" fps="24" anim="GF Dancing Beat" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" name="danceRight"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="GF Dancing Beat" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" name="danceLeft"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="gf sad" indices="0,1,2,3,4,5,6,7,8,9,10,11,12" name="sad"/>
+</character>
