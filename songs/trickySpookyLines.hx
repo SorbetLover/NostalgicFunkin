@@ -68,6 +68,8 @@ function createSpookyText(text:String, x:Float = -1111111111111, y:Float = -1111
         if (curStage == 'nevadaPh3') {
             spookyText.size = 200;
             spookyText.x -= 350;
+        } else {
+            spookyText.setPosition(dad.x - 220, dad.y - 100);
         }
 }
 
@@ -80,10 +82,11 @@ function postUpdate() {
         }
 }
 
-function noteMiss(e) {
-    if (e.character.curCharacter.toLowerCase().contains("tricky") && FlxG.random.bool(e.character.curCharacter == "tricky" ? 10 : 4) && !spookyRendered && curStage == "nevadaPh1" || curStage == "nevadaPh2") // create spooky text :flushed:
-        createSpookyText(TrickyLinesMiss[FlxG.random.int(0,TrickyLinesMiss.length)]);
-}
+// function onPlayerMiss(e) {
+//     if (e.character.curCharacter.toLowerCase().contains("tricky") && FlxG.random.bool(e.character.curCharacter == "tricky" ? 10 : 4) && !spookyRendered && curStage == "nevadaPh1" || curStage == "nevadaPh2" || curStage == "nevadaPh3") {
+//         createSpookyText(TrickyLinesMiss[FlxG.random.int(0,TrickyLinesMiss.length)]);
+//     }
+// }
 
 function onNoteHit(e) {
     switch(e.character.curCharacter) {
@@ -97,9 +100,10 @@ function onNoteHit(e) {
             
         case 'trickyPhase3': // 45% chance
             if (FlxG.random.bool(45) && !spookyRendered && !e.note.isSustainNote) {
-                createSpookyText(TrickyLinesSing[FlxG.random.int(0,TrickyLinesSing.length)]);
-                if (!FlxG.save.data.shakeShit) FlxG.camera.shake(0.02, 0.2); // Don't shaky screen when the option is disabled
+                    createSpookyText(TrickyLinesSing[FlxG.random.int(0,TrickyLinesSing.length)]);
                 }
+                
+            if (!FlxG.save.data.shakeShit) FlxG.camera.shake(0.02, 0.2); // Don't shaky screen when the option is disabled
         // case 'exTricky': // 60% chance
         //     if (FlxG.random.bool(60) && !spookyRendered && !note.isSustainNote) // create spooky text :flushed:
         //         {

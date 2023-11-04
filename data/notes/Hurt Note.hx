@@ -1,5 +1,5 @@
 function onPlayerHit(e) {
-    if (e.noteType == "Hurt Note" | e.noteType == "Invisible Hurt Note") {
+    if (e.noteType == "Hurt Note" || e.noteType == "Invisible Hurt Note") {
 			e.showSplash = true;
 			if (!e.note.isSustainNote) {
 				e.healthGain -= 0.45; // Same damage as the og mod

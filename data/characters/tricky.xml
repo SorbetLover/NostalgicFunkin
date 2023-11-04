@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="false" icon="Vs Tricky/tricky" flipX="false" x="0" y="0" holdTime="6.1" camy="56.8" sprite="Vs Tricky/tricky">
-    <anim name="idle"       anim="Idle"       fps="24"    loop="false" x="0" y="-75"/>
-    <anim name="singUP"     anim="Sing Up"     fps="24"    loop="false" x="93" y="-76"/>
-    <anim name="singLEFT"   anim="Sing Left"   fps="24"    loop="false" x="103" y="-72"/>
-    <anim name="singRIGHT"  anim="Sing Right"  fps="24"    loop="false" x="16" y="-176"/>
-    <anim name="singDOWN"   anim="Sing Down"   fps="24"    loop="false" x="6" y="-84"/>
+<character x="0" icon="Vs Tricky/tricky" y="0" isGF="false" camx="-350" camy="300" isPlayer="false" holdTime="6.1" sprite="Vs Tricky/tricky">
+	<anim x="0" loop="false" y="-75" fps="24" anim="Idle" name="idle"/>
+	<anim x="3" loop="false" y="-75" fps="24" anim="Sing Up" name="singUP"/>
+	<anim x="3" loop="false" y="-79" fps="24" anim="Sing Left" name="singLEFT"/>
+	<anim x="9" loop="false" y="-78" fps="24" anim="Sing Right" name="singRIGHT"/>
+	<anim x="3" loop="false" y="-74" fps="24" anim="Sing Down" name="singDOWN"/>
 </character>

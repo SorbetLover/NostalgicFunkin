@@ -3,7 +3,7 @@
     <sprite name="bg" x="-1000" y="-1000" sprite="bg" scroll="1"/>
     <sprite name="island_but_red" x="-2000" y="-440" sprite="island_but_red" scroll="1" scale="2.2"/>
     <sprite name="Hank" x="60" y="-170" sprite="Hank" scroll="1" scale="1.5"/>
-    <girlfriend scroll="1"/>
+    <girlfriend scroll="1" scale=".7"/>
     <dad x="-760" scroll="1"/>
-    <boyfriend scroll="1"/>
+    <boyfriend scroll="1" scale=".7"/>
 </stage>

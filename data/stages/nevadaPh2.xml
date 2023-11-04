@@ -1,9 +1,9 @@
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.75" name="nevadaPh2" folder="stages/Vs Tricky/phase 2/">
     <sprite name="red" x="-350" y="-300" sprite="red" scroll="1" scale="2"/>
-    <sprite name="island" x="-1100" y="-460" sprite="island" scroll="1"/>
+    <sprite name="island" x="-1100" y="-300" sprite="island" scroll="1"/>
     <sprite name="hue" x="-470" y="-150" sprite="hue" scroll="1.2" scale="2"/>
     <girlfriend/>
-    <dad x="-60"/>
+    <dad x="600" y="280"/>
     <boyfriend/>
 </stage>
