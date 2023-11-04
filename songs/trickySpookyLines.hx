@@ -81,7 +81,7 @@ function postUpdate() {
 }
 
 function noteMiss(e) {
-    if (e.character.curCharacter.toLowerCase().contains("tricky") && FlxG.random.bool(dad.curCharacter == "tricky" ? 10 : 4) && !spookyRendered && curStage == "nevadaPh1" || curStage == "nevadaPh2") // create spooky text :flushed:
+    if (e.character.curCharacter.toLowerCase().contains("tricky") && FlxG.random.bool(e.character.curCharacter == "tricky" ? 10 : 4) && !spookyRendered && curStage == "nevadaPh1" || curStage == "nevadaPh2") // create spooky text :flushed:
         createSpookyText(TrickyLinesMiss[FlxG.random.int(0,TrickyLinesMiss.length)]);
 }
 
