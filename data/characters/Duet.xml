@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="Duet" y="400" isGF="false" scale="6" color="#FBA2F0" isPlayer="false" antialiasing="false" holdTime="6.1" sprite="Duet">
+	<anim x="0" loop="false" y="0" fps="24" anim="Duet Idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Duet Monika UP NOTE" name="singUP"/>
+	<anim x="2" loop="false" y="0" fps="24" anim="Duet Senpai UP NOTE" name="singUP-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Duet Monika LEFT NOTE" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Duet Senpai LEFT NOTE" name="singLEFT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Duet Monika RIGHT NOTE" name="singRIGHT"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="Duet Senpai RIGHT NOTE" name="singRIGHT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Duet Monika DOWN NOTE" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Duet Senpai DOWN NOTE" name="singDOWN-alt"/>
+</character>

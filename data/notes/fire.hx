@@ -26,11 +26,11 @@ function onNoteCreation(e) {
 				if (PlayState.opponentMode && e.strumLineID >= 1) e.note.wasGoodHit = true;
 				if (!PlayState.opponentMode && e.strumLineID <= 0) e.note.wasGoodHit = true;
 				e.noteSprite = "game/notes/fire";
-				e.noteScale = 0.73;
+				e.noteScale += 0.1;
 				e.mustHit = false;
 				e.note.splash = "fire"; // Set the splash
 				e.note.updateHitbox();
-				e.note.earlyPressWindow = 0.1; // so you wouldn't hit it too early whilst also making it so you wouldn't hit it pixel perfect
+				e.note.earlyPressWindow = 0.15; // so you wouldn't hit it too early whilst also making it so you wouldn't hit it pixel perfect
 				e.note.latePressWindow = 0.2; // Same purpose as above
 		}
 }

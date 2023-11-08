@@ -27,7 +27,7 @@ function onNoteCreation(e) {
 				e.noteSprite = "game/notes/HURTNOTE";
 				e.mustHit = false;
 				e.note.updateHitbox();
-				e.note.earlyPressWindow = 0.1; // so you wouldn't hit it too early whilst also making it so you wouldn't hit it pixel perfect
+				e.note.earlyPressWindow = 0.15; // so you wouldn't hit it too early whilst also making it so you wouldn't hit it pixel perfect
 				e.note.latePressWindow = 0.2; // Same purpose as above
 		}
 }

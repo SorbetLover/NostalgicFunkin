@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="150" icon="senpai" camx="-100" y="360" isGF="false" scale="6" camy="100" color="#FFA97E" flipX="true" isPlayer="true" antialiasing="false" gameOverChar="playable-senpai" sprite="playable-senpai">
+	<anim x="0" loop="false" y="0" fps="24" anim="Senpai Idle" name="idle"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="SENPAI LEFT NOTE" name="singLEFT"/>
+	<anim x="2" loop="false" y="0" fps="24" anim="SENPAI DOWN NOTE" name="singDOWN"/>
+	<anim x="1" loop="false" y="6" fps="24" anim="SENPAI UP NOTE" name="singUP"/>
+	<anim x="4" loop="false" y="0" fps="24" anim="SENPAI RIGHT NOTE" name="singRIGHT"/>
+	<anim x="4" loop="false" y="1" fps="24" anim="miss Senpai LEFT NOTE" name="singLEFT-miss"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="miss Senpai RIGHT NOTE" name="singRIGHT-miss"/>
+	<anim x="2" loop="false" y="1" fps="24" anim="miss Senpai DOWN NOTE" name="singDOWN-miss"/>
+	<anim x="1" loop="false" y="6" fps="24" anim="miss Senpai UP NOTE" name="singUP-miss"/>
+	<anim x="-3" loop="false" y="-26" fps="24" anim="BF Dies pixel" name="firstDeath"/>
+	<anim x="-3" loop="true" y="-26" fps="24" anim="senpai retry" name="deathLoop"/>
+	<anim x="-3" loop="false" y="-26" fps="24" anim="RETRY CONFIRM" name="deathConfirm"/>
+</character>
