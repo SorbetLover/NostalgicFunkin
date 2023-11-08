@@ -1,0 +1,1 @@
+function postCreate() bg.scale.x = 2;

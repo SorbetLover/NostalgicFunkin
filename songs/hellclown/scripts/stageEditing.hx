@@ -1,1 +1,0 @@
-function postCreate() stage.getSprite("bg").scale.x = 2;
