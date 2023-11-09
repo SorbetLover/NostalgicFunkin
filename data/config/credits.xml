@@ -78,7 +78,7 @@
 	<credit name="ninjamuffin99" desc="Cool engine maker" icon="" size="130" url="https://gamebanana.com/members/1811171"/>
 </menu>
 
-<!-- PORTERS/Scripts/Contributors -->
+<!-- PORTERS/Scripters/Contributors/Misc -->
 
 <menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
 	<credit name="NULL" desc="• Started the idea, ported Vs Whitty and Vs Carol.&#xA;• Minor porting help with Vs Tabi.&#xA;• Made the logos." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
@@ -89,8 +89,9 @@
 	<credit name="notbeep" desc="• Ported Vs Mami assets and charts.&#xA;• Ported Vs Tricky assets and charts.&#xA;• Ported Vs Void.&#xA;• Ported Vs Qt assets and charts." icon="" size="130" url="https://www.youtube.com/@not_beep-.-656"/>
 
 	<credit name="mr.Wifi7" desc="• Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
+	<credit name="Daninnocent" desc="• Exported Week 6 pixel noteskin as a spritesheet." icon="" size="130" url="https://gamebanana.com/members/1897691"/>
 	<credit name="Rudy" desc="• Recharted Hellclown as a placeholder." icon="" size="130" url="https://github.com/Rudyrue"/>
-	<credit name="Ne_Eo" desc="• Shaky window script, help with code, fixed a texture atlas exportation bug" icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
+	<credit name="Ne_Eo" desc="• Shaky window script, help with code, fixed a texture atlas exportation bug.&#xA;• " icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
 	<credit name="lunarcleint" desc="• Play animation event." icon="" size="130" url="https://github.com/lunarcleint"/>
 	<credit name="inkybox" desc="• Change character event." icon="" size="130" url="https://github.com/kittstone"/>
 	<credit name="Pumpsuki" desc="• Re-charted Bushwhack with proper note syncing." icon="" size="130" url="https://gamebanana.com/members/2098002"/>
