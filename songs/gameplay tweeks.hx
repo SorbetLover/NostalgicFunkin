@@ -1,4 +1,4 @@
-function postUpdate(elapsed) {
+function create() {
     if (kadeUI) disableScript();
 }
 
