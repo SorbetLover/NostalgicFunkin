@@ -102,8 +102,6 @@ function onNoteHit(e) {
             if (FlxG.random.bool(45) && !spookyRendered && !e.note.isSustainNote) {
                     createSpookyText(TrickyLinesSing[FlxG.random.int(0,TrickyLinesSing.length)]);
                 }
-                
-            if (FlxG.save.data.shakeShit) FlxG.camera.shake(0.02, 0.2);
         // case 'exTricky': // 60% chance
         //     if (FlxG.random.bool(60) && !spookyRendered && !note.isSustainNote) // create spooky text :flushed:
         //         {
