@@ -1,98 +1,188 @@
 <!DOCTYPE codename-mod-credits>
 <!-- B SIDES -->
 <menu name="B Sides" desc="B Sides creators' crdits.">
-	<credit name="Rozebud" 		desc="Song Composer, Artist and Charter" 	icon="" size="130" url="https://twitter.com/helpme_thebigt"/>
-	<credit name="JADS" 		desc="Song Composer and Charter" 			icon="" size="130" url="https://twitter.com/Aw3somejds"/>
-	<credit name="CVAL" 		desc="Charter and Additional Assistance" 	icon="" size="130" url="https://twitter.com/cval_brown"/>
-	<credit name="fluffyhairs" 	desc="Song Composer"						icon="" size="130" url="https://twitter.com/fluffyhairslol?s=20&t=FXqBUIB8f7YUYh34sCmKEA"/>
+	<credit name="Rozebud" 		desc="Song Composer, Artist and Charter" 	url="https://twitter.com/helpme_thebigt"/>
+	<credit name="JADS" 		desc="Song Composer and Charter" 			url="https://twitter.com/Aw3somejds"/>
+	<credit name="CVAL" 		desc="Charter and Additional Assistance" 	url="https://twitter.com/cval_brown"/>
+	<credit name="fluffyhairs" 	desc="Song Composer"						url="https://twitter.com/fluffyhairslol?s=20&t=FXqBUIB8f7YUYh34sCmKEA"/>
 </menu>
 
 <!-- VS WHITTY -->
 <menu name="Vs Whitty" desc="Vs Whitty creators' credits.">
-	<credit name="Sock.clip" desc="Artist and Song Composer." icon="" size="130" url="https://www.instagram.com/sock.clip/"/>
-	<credit name="Nate Anim8" desc="Note Charter, Secondary Animator and Play Tester." icon="" size="130" url="https://gamebanana.com/members/1778429"/>
-	<credit name="KadeDev" desc="Coder." icon="" size="130" url="https://gamebanana.com/members/1774971"/>
-	<credit name="bbpanzu" desc="Secondary Coder." icon="" size="130" url="https://gamebanana.com/members/1764067"/>
-	<credit name="juliaa" desc="Main charter for the Definitive Edition (featured in the port)." icon="" size="130" url="https://gamebanana.com/members/1963089"/>
-	<credit name="The Only Volume" desc="Assistant charter for the Definitive Edition (featured in the port)." icon="" size="130" url="https://gamebanana.com/members/1822530"/>
+	<credit name="Sock.clip" desc="Artist and Song Composer." url="https://www.instagram.com/sock.clip/"/>
+	<credit name="Nate Anim8" desc="Note Charter, Secondary Animator and Play Tester." url="https://gamebanana.com/members/1778429"/>
+	<credit name="KadeDev" desc="Coder." url="https://gamebanana.com/members/1774971"/>
+	<credit name="bbpanzu" desc="Secondary Coder." url="https://gamebanana.com/members/1764067"/>
+	<credit name="juliaa" desc="Main charter for the Definitive Edition (featured in the port)." url="https://gamebanana.com/members/1963089"/>
+	<credit name="The Only Volume" desc="Assistant charter for the Definitive Edition (featured in the port)." url="https://gamebanana.com/members/1822530"/>
 </menu>
 
 <!-- VS TABI -->
 
 <menu name="Vs Tabi" desc="Vs Tabi creators' credits.">
-	<credit name="Homskiy" desc="Owner Of Tabi V1 / Author Of lore / Leader of project." icon="" size="130" url="https://gamebanana.com/members/1803091"/>
-	<credit name="GWebDev" desc="Scripter." icon="" size="130" url="https://gamebanana.com/members/1799048"/>
-	<credit name="Brightfyre" desc="Second scripter / Updates." icon="" size="130" url="https://gamebanana.com/members/1800180"/>
-	<credit name="Tenzubushi" desc="Music Composer / Art / Sprites Editor / Charter." icon="" size="130" url="https://gamebanana.com/members/1803333"/>
-	<credit name="DaDrawingLad" desc="My battle Charts." icon="" size="130" url="https://gamebanana.com/members/1775965"/>
-	<credit name="Angelattes" desc="Girlfriend VA." icon="" size="130" url="https://gamebanana.com/members/1822530"/>
-	<credit name="Cougar MacDowall" desc="Tabi VA." icon="" size="130" url="https://twitter.com/CougarMacDowal1"/>
-	<credit name="sock.clip" desc="FNF Styled Tabi Idle Sprite." icon="" size="130" url="https://www.instagram.com/sock.clip/"/>
-	<credit name="Sini" desc="First Version of Mad Tabi Sprites." icon="" size="130" url="https://twitter.com/Sini_Art_"/>
-	<credit name="RussianRatigan" desc="Background design." icon="" size="130" url="https://twitter.com/RussianRatigan"/>
+	<credit name="Homskiy" desc="Owner Of Tabi V1 / Author Of lore / Leader of project." url="https://gamebanana.com/members/1803091"/>
+	<credit name="GWebDev" desc="Scripter." url="https://gamebanana.com/members/1799048"/>
+	<credit name="Brightfyre" desc="Second scripter / Updates." url="https://gamebanana.com/members/1800180"/>
+	<credit name="Tenzubushi" desc="Music Composer / Art / Sprites Editor / Charter." url="https://gamebanana.com/members/1803333"/>
+	<credit name="DaDrawingLad" desc="My battle Charts." url="https://gamebanana.com/members/1775965"/>
+	<credit name="Angelattes" desc="Girlfriend VA." url="https://gamebanana.com/members/1822530"/>
+	<credit name="Cougar MacDowall" desc="Tabi VA." url="https://twitter.com/CougarMacDowal1"/>
+	<credit name="sock.clip" desc="FNF Styled Tabi Idle Sprite." url="https://www.instagram.com/sock.clip/"/>
+	<credit name="Sini" desc="First Version of Mad Tabi Sprites." url="https://twitter.com/Sini_Art_"/>
+	<credit name="RussianRatigan" desc="Background design." url="https://twitter.com/RussianRatigan"/>
 </menu>
 
 <!-- VS CAROL -->
 
 <menu name="Vs Carol" desc="Vs Carol creators' credits.">
-	<credit name="bbpanzu" desc="Artist and Musician." icon="" size="130" url="https://gamebanana.com/members/1764067"/>
-	<credit name="GENOX" desc="Carol UTAU." icon="" size="130" url="https://gamebanana.com/members/1771171"/>
+	<credit name="bbpanzu" desc="Artist and Musician." url="https://gamebanana.com/members/1764067"/>
+	<credit name="GENOX" desc="Carol UTAU." url="https://gamebanana.com/members/1771171"/>
 </menu>
 
 <!-- VS Pompom -->
 
 <menu name="Vs Pompom" desc="Vs Pompom creator's credits.">
-	<credit name="ArtCarrot_" desc="Artist, Animator, Programmer, Musician." icon="" size="130" url="https://gamebanana.com/members/1832353"/>
+	<credit name="ArtCarrot_" desc="Artist, Animator, Programmer, Musician." url="https://gamebanana.com/members/1832353"/>
+</menu>
+
+<!-- VS Monika Rebooted -->
+
+<menu name="Vs Monika Rebooted" desc="Vs Monika Rebooted creators' credits.">
+	<credit name="SirDusterBuster" desc="Sprite Art / Beatmap Help / Dialogue" url="https://twitter.com/SirDusterBuster"/>
+	<credit name="TokyoGalaxy" desc="Menu BG" url="https://gamebanana.com/members/1842857"/>
+	<credit name="SunSpirit" desc="Coding" url="https://gamebanana.com/members/1474592"/>
+	<credit name="FruityDaLei" desc="Remix Artist (High School Conflict + Your Demise" url="https://gamebanana.com/members/1782844"/>
+	<credit name="JACKALRUIN" desc="Remix Artist (Bara No Yume)0" url="https://gamebanana.com/members/1866932"/>
+	<credit name="Galactigal" desc="Additional Music Help" url="https://twitter.com/GGalactigal"/>
+	<credit name="Retro Gaming" desc="Additional Music Help" url="https://twitter.com/GGalactigal"/>
+	<credit name="Ash237" desc="Coding Help" url="https://gamebanana.com/members/1813477"/>
+	<credit name="Blantados" desc="Vocals/Charting for Bonus song" url="https://gamebanana.com/members/1775900"/>
+	<credit name="Cval" desc="Bara no Yume Charting" url="https://gamebanana.com/members/1744375"/>
+	<credit name="Dan Salvato" desc="Creator of Doki Doki Literature Club" url=""/>
+	<credit name="foomfs" desc="Mod Thumbnail" url="https://twitter.com/foomfs"/>
+	<credit name="J8khero" desc="Mod Video" url=""/>
+	<credit name="KadeDeveloper" desc="Creator of the Kade Engine" url="https://gamebanana.com/members/1774971"/>
+	<credit name="Lumitic" desc="Coding Help" url="https://gamebanana.com/members/1620132"/>
+	<credit name="Matt$" desc="Vocal Remasters" url="https://gamebanana.com/members/1852936"/>
+	<credit name="mewtek" desc="Bug Fixes / Coding Help" url="https://gamebanana.com/members/1619005"/>
+	<credit name="spacemonkey841" desc="Week 6 GF-less Speakers" url="https://gamebanana.com/members/1763051"/>
 </menu>
 
 <!-- VS ZARDY -->
 
 <menu name="Vs Zardy" desc="Vs Zardy creators' credits.">
-	<credit name="KadeDev" desc="Programmer and Charter" icon="" size="130" url="https://gamebanana.com/members/1774971"/>
-	<credit name="SwankyBox" desc="Team Lead and Animator" icon="" size="130" url="https://www.youtube.com/user/SwankyBox"/>
-	<credit name="Rozebud" desc="Music Producer" icon="" size="130" url="https://www.youtube.com/channel/UCZsn8GXFKTdDB5TQtuR4FnA"/>
-	<credit name="StarnyArt" desc="Art" icon="" size="130" url="https://starnyart.tumblr.com"/>
-	<credit name="SugarRatio" desc="Additional Art and Animation" icon="" size="130" url="https://www.youtube.com/channel/UCZsn8GXFKTdDB5TQtuR4FnA"/>
-	<credit name="Charriii5" desc="Additional Art and Animation" icon="" size="130" url="https://www.youtube.com/channel/UC1wWQb7GYP6d_FdrNts-DpQ"/>
-	<credit name="Turvie" desc="Menu backgrounds" icon="" size="130" url="https://twitter.com/turvs6"/>
-	<credit name="Jads" desc="Vocal Samples" icon="" size="130" url="https://gamebanana.com/members/1767622"/>
+	<credit name="KadeDev" desc="Programmer and Charter" url="https://gamebanana.com/members/1774971"/>
+	<credit name="SwankyBox" desc="Team Lead and Animator" url="https://www.youtube.com/user/SwankyBox"/>
+	<credit name="Rozebud" desc="Music Producer" url="https://www.youtube.com/channel/UCZsn8GXFKTdDB5TQtuR4FnA"/>
+	<credit name="StarnyArt" desc="Art" url="https://starnyart.tumblr.com"/>
+	<credit name="SugarRatio" desc="Additional Art and Animation" url="https://www.youtube.com/channel/UCZsn8GXFKTdDB5TQtuR4FnA"/>
+	<credit name="Charriii5" desc="Additional Art and Animation" url="https://www.youtube.com/channel/UC1wWQb7GYP6d_FdrNts-DpQ"/>
+	<credit name="Turvie" desc="Menu backgrounds" url="https://twitter.com/turvs6"/>
+	<credit name="Jads" desc="Vocal Samples" url="https://gamebanana.com/members/1767622"/>
 </menu>
 
 <!-- VS KAPI -->
 
 <menu name="Vs Kapi" desc="Vs Kapi creators' credits.">
-	<credit name="Paper Kitty" desc="Art, Animations, Misc. Scripting, Charting and Composing." icon="" size="130" url="https://gamebanana.com/members/1838959"/>
-	<credit name="BbPanzu" desc="For sitting down and saying meow 16 different times for me" icon="" size="130" url="https://gamebanana.com/members/1764067"/>
-	<credit name="MikeGeno" desc="The song Hairball" icon="" size="130" url="https://www.youtube.com/channel/UCyDQKOgEjuIiuPXctcuQKlg"/>
-	<credit name="ImToasty" desc="Scripted and Charted Fuzzy Distortion." icon="" size="130" url="https://gamebanana.com/members/1812925"/>
-	<credit name="Tenaxis" desc="The song 'Fuzzy Distortion'" icon="" size="130"/>
+	<credit name="Paper Kitty" desc="Art, Animations, Misc. Scripting, Charting and Composing." url="https://gamebanana.com/members/1838959"/>
+	<credit name="BbPanzu" desc="For sitting down and saying meow 16 different times for me" url="https://gamebanana.com/members/1764067"/>
+	<credit name="MikeGeno" desc="The song Hairball" url="https://www.youtube.com/channel/UCyDQKOgEjuIiuPXctcuQKlg"/>
+	<credit name="ImToasty" desc="Scripted and Charted Fuzzy Distortion." url="https://gamebanana.com/members/1812925"/>
+	<credit name="Tenaxis" desc="The song 'Fuzzy Distortion'" icon=""/>
 </menu>
 
 <!-- Starving Artist -->
 
 <menu name="Starving Artist" desc="Starving Artist creators' credits.">
-	<credit name="Rebecca_Doodles" desc="Creator,Artist and Coder" icon="" size="130" url="https://gamebanana.com/members/1882773"/>
-	<credit name="Ash237" desc="Coder Assistant" icon="" size="130" url="https://gamebanana.com/members/1813477"/>
-	<credit name="Seberster" desc="Musician" icon="" size="130" url="https://gamebanana.com/members/1758688"/>
-	<credit name="Ghost1843318" desc="Musician" icon="" size="130" url="https://gamebanana.com/members/1843318"/>
-	<credit name="ninjamuffin99" desc="Cool engine maker" icon="" size="130" url="https://gamebanana.com/members/1811171"/>
+	<credit name="Rebecca_Doodles" desc="Creator,Artist and Coder" url="https://gamebanana.com/members/1882773"/>
+	<credit name="Ash237" desc="Coder Assistant" url="https://gamebanana.com/members/1813477"/>
+	<credit name="Seberster" desc="Musician" url="https://gamebanana.com/members/1758688"/>
+	<credit name="Ghost1843318" desc="Musician" url="https://gamebanana.com/members/1843318"/>
+	<credit name="ninjamuffin99" desc="Cool engine maker" url="https://gamebanana.com/members/1811171"/>
 </menu>
 
 <!-- PORTERS/Scripters/Contributors/Misc -->
 
 <menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
-	<credit name="NULL" desc="• Started the idea, ported Vs Whitty and Vs Carol.&#xA;• Minor porting help with Vs Tabi.&#xA;• Made the logos." icon="" size="130" url="https://twitter.com/NULLSonicNULL"/>
-	<credit name="Tsaku" desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and raw characters files.&#xA;• Minor porting help with foolhardy re-port.&#xA;• Ported Vs AGOTI." icon="" size="130" url="https://gamebanana.com/members/2298631"/>
-	<credit name="MAZ" desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.&#xA;• recharted Genocide.&#xA;• re-ported Vs Kapi code-wise and minor help on Vs Whitty.&#xA;• Ported Starving Artist.&#xA;• Minor menu coding.&#xA;• Ported Vs Pompom story mode assets and cutscenes." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
-	<credit name="toni" desc="• Ported majority of Vs Pompom and to-be-later-added-in Vs Monika Full Week Rebooted and Static Memories week 1." url="https://github.com/SorbetLover"/>
-	<credit name="bambamlol" desc="• Modchart porter for the foolhardy song.&#xA;• Ported Vs Garcello." icon="" size="130" url="https://www.youtube.com/channel/UC7QEBfHKro8kccl41zbhSMQ"/>
-	<credit name="notbeep" desc="• Ported Vs Mami assets and charts.&#xA;• Ported Vs Tricky assets and charts.&#xA;• Ported Vs Void.&#xA;• Ported Vs Qt assets and charts." icon="" size="130" url="https://www.youtube.com/@not_beep-.-656"/>
+	<credit
+	name="NULL"
+	desc="• Started the idea, ported Vs Whitty and Vs Carol.
+	• Minor porting help with Vs Tabi.
+	• Made the logos."
+	url="https://twitter.com/NULLSonicNULL"
+	/>
+	<credit
+	name="Tsaku"
+	desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and raw characters files.
+	• Minor porting help with foolhardy re-port.
+	• Ported Vs AGOTI."
+	url="https://gamebanana.com/members/2298631"
+	/>
+	<credit
+	name="MAZ"
+	desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.
+	• recharted Genocide, Your Demise, Hairball.
+	• re-ported Vs Kapi code-wise and minor help on Vs Whitty.
+	• Ported Starving Artist.
+	• Minor menu coding.
+	• Ported Vs Pompom story mode assets and cutscenes.
+	• Re-coded Vs Tricky songs, stages, and optimization."
+	url="https://gamebanana.com/members/2059336"
+	/>
+	<credit 
+	name="toni" 
+	desc="• Ported the majority of Vs Pompom and Vs Monika Rebooted + Static Memories week 1."
+	url="https://github.com/SorbetLover"
+	/>
+	<credit 
+	name="bambamlol"
+	desc="• Modchart porter for the foolhardy song.
+	• Ported Vs Garcello."
+	url="https://www.youtube.com/channel/UC7QEBfHKro8kccl41zbhSMQ"
+	/>
+	<credit 
+	name="notbeep"
+	desc="• Ported Vs Mami assets and charts.
+	• Ported Vs Tricky assets and charts.
+	• Ported Vs Void.
+	• Ported Vs Qt assets and charts."
+	url="https://www.youtube.com/@not_beep-.-656"
+	/>
 
-	<credit name="mr.Wifi7" desc="• Made Chromatic Aberration shader." icon="" size="130" url="https://gamebanana.com/tools/12082"/>
-	<credit name="Daninnocent" desc="• Exported Week 6 pixel noteskin as a spritesheet." icon="" size="130" url="https://gamebanana.com/members/1897691"/>
-	<credit name="Rudy" desc="• Recharted Hellclown as a placeholder." icon="" size="130" url="https://github.com/Rudyrue"/>
-	<credit name="Ne_Eo" desc="• Shaky window script, help with code, fixed a texture atlas exportation bug.&#xA;• " icon="" size="130" url="https://twitter.com/Ne_Eo_Twitch"/>
-	<credit name="lunarcleint" desc="• Play animation event." icon="" size="130" url="https://github.com/lunarcleint"/>
-	<credit name="inkybox" desc="• Change character event." icon="" size="130" url="https://github.com/kittstone"/>
-	<credit name="Pumpsuki" desc="• Re-charted Bushwhack with proper note syncing." icon="" size="130" url="https://gamebanana.com/members/2098002"/>
+
+	<credit
+	name="mr.Wifi7"
+	desc="• Made Chromatic Aberration shader."
+	url="https://gamebanana.com/tools/12082"
+	/>
+	<credit 
+	name="Daninnocent" 
+	desc="• Exported Week 6 pixel noteskin as a spritesheet." 
+	url="https://gamebanana.com/members/1897691"
+	/>
+	<credit
+	name="Rudy"
+	desc="• Recharted Hellclown as a placeholder."
+	url="https://github.com/Rudyrue"
+	/>
+	<credit
+	name="Ne_Eo"
+	desc="• Shaky window script, help with code, fixed a texture atlas exportation bug."
+	url="https://twitter.com/Ne_Eo_Twitch"
+	/>
+	<credit
+	name="lunarcleint" 
+	desc="• Play animation event." 
+	url="https://github.com/lunarcleint"
+	/>
+	<credit
+	name="inkybox" 
+	desc="• Change character event." 
+	url="https://github.com/kittstone"
+	/>
+	<credit
+	name="Pumpsuki" 
+	desc="• Re-charted Bushwhack with proper note syncing." 
+	url="https://gamebanana.com/members/2098002"
+	/>
 </menu>

@@ -1,5 +1,5 @@
 function postUpdate(elapsed) {
-    if (FlxG.save.data.kadeU) disableScript(); // Might delete this later
+    if (kadeUI) disableScript();
 }
 
 function onPostNoteCreation(e) {

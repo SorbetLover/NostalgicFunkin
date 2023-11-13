@@ -17,7 +17,7 @@ function create() {
 
 // Shaky screen by Ne_Eo
 function shakeWindow(magnitude:Float){
-	if (FlxG.save.data.shakeShit || PlayState.opponentMode) {
+	if (!FlxG.save.data.shakeShit || PlayState.opponentMode) {
 		return false;
 	} else {
 		var randX:Bool = FlxG.random.bool(50);
@@ -46,7 +46,7 @@ function onDadHit(event:NoteHitEvent) {
 
 function update() {
     // sprite.alpha = health / 1;
-    if (health / 2.8 - 1 && !FlxG.save.data.shaderShit) {
+    if (health / 2.8 - 1 && FlxG.save.data.shaderShit) {
         bright.iTime = 2 / 32;
         bright.contrast = 2 / 8;
     } else {
@@ -54,7 +54,7 @@ function update() {
         bright.contrast = health / 2.8;
     }	
 
-	if (!FlxG.save.data.shakeShit)
+	if (FlxG.save.data.shakeShit)
     	camHUD.shake(0.005, (60 / Conductor.bpm), null, true, FlxAxes.X);
 }
 
@@ -65,7 +65,7 @@ function postUpdate(elapsed:Float) {
 
 	switch (curCameraTarget) {
 		case 0:
-			if (FlxG.save.data.shakeShit || !PlayState.opponentMode) {
+			if (!FlxG.save.data.shakeShit || !PlayState.opponentMode) {
 				camGame.shake(0, 0, null, false);
 			} else {
 				camGame.shake(0.01, 0.01, null, true);
@@ -81,6 +81,7 @@ function postUpdate(elapsed:Float) {
        		FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, 0.95);
 	}
 
-	if (FlxG.save.data.shaderShit)
-		chromaticAberration.iTime = 0;
+	if (!FlxG.save.data.shaderShit) chromaticAberration.iTime = 0;
 }
+
+function onDestroy() chromaticAberration.iTime = 0;

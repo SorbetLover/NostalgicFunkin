@@ -33,7 +33,7 @@ function postCreate() {
     TrickyLinesMiss = CoolUtil.coolTextFile('data/trickySpookyLines/trickyMissStrings.txt');
     ExTrickyLinesSing = CoolUtil.coolTextFile('data/trickySpookyLines/trickyExSingStrings.txt');
 
-    if (FlxG.save.data.flashFX) disableScript();
+    if (!FlxG.save.data.flashFX) disableScript();
 
     switch(curStage) {
         case "nevadaPh1", "nevadaPh2", "nevadaPh3":
@@ -103,7 +103,7 @@ function onNoteHit(e) {
                     createSpookyText(TrickyLinesSing[FlxG.random.int(0,TrickyLinesSing.length)]);
                 }
                 
-            if (!FlxG.save.data.shakeShit) FlxG.camera.shake(0.02, 0.2); // Don't shaky screen when the option is disabled
+            if (FlxG.save.data.shakeShit) FlxG.camera.shake(0.02, 0.2);
         // case 'exTricky': // 60% chance
         //     if (FlxG.random.bool(60) && !spookyRendered && !note.isSustainNote) // create spooky text :flushed:
         //         {
