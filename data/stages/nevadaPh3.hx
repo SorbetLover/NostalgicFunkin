@@ -1,1 +1,1 @@
-function postCreate() bg.scale.x = 2;
+function postCreate() bg.scale.x = 2.2;

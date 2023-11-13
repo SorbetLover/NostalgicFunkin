@@ -1,12 +1,20 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="bf" y="350" isGF="false" flipX="true" isPlayer="true" gameOverChar="signDeath" sprite="Vs Tricky/bf-hell">
-	<anim x="-20" loop="false" y="-50" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
-	<anim x="2" loop="false" y="19" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
-	<anim x="-47" loop="false" y="27" fps="24" anim="BF NOTE UP0" name="singUP"/>
-	<anim x="-39" loop="false" y="20" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
-	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
-	<anim x="-1" loop="false" y="-6" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
-	<anim x="-11" loop="false" y="-19" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
-	<anim x="-41" loop="false" y="27" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
-	<anim x="-46" loop="false" y="-5" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+<character gameOverChar="signDeath" x="0" sprite="Vs Tricky/bf-hell" isGF="false" y="350" icon="bf" isPlayer="true" flipX="true">
+	<anim loop="false" x="-20" anim="BF NOTE DOWN0" fps="24" y="-50" name="singDOWN"/>
+
+	<anim loop="false" x="-41" anim="BF NOTE RIGHT MISS" fps="24" y="21" name="singRIGHTmiss"/>
+
+	<anim loop="false" x="-47" anim="BF NOTE UP0" fps="24" y="27" name="singUP"/>
+
+	<anim loop="false" x="1" anim="BF NOTE LEFT MISS" fps="24" y="20" name="singLEFTmiss"/>
+
+	<anim loop="false" x="-5" anim="BF idle dance" fps="24" y="0" name="idle"/>
+
+	<anim loop="false" x="-46" anim="BF NOTE RIGHT0" fps="24" y="-7" name="singRIGHT"/>
+
+	<anim loop="false" x="-11" anim="BF NOTE DOWN MISS" fps="24" y="-21" name="singDOWNmiss"/>
+
+	<anim loop="false" x="-41" anim="BF NOTE UP MISS" fps="24" y="27" name="singUPmiss"/>
+
+	<anim loop="false" x="2" anim="BF NOTE LEFT0" fps="24" y="-9" name="singLEFT"/>
 </character>
