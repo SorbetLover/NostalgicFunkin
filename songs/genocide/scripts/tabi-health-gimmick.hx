@@ -1,7 +1,4 @@
-// Hscript version of ExtendedCentral's Tabi health gimmick Lua script
-// Plus some color flash thing that was in KE
-import flixel.util.FlxColor;
-
+// Manually converted version of ExtendedCentral's Tabi health gimmick Lua script by MAZ
 var tabiHealthBar = true;
 var drainHealth = true;
 var moveBar = true;
@@ -12,7 +9,8 @@ function create() {
         @:bypassAccessor maxHealth += 0.8;
 }
 function postCreate() {
-	health += 1.1;
+    if (PlayState.opponentMode) disableScript(); // will fix opponent mode later
+	health += 1.11;
 
     samShit = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.WHITE);
 	samShit.alpha = 0.05;
@@ -51,19 +49,7 @@ function onPlayerHit(event) {
 }
 
 function onDadHit(event:NoteHitEvent) {
-    // I know this code looks dogshit but "it just works" - Tod
-    var randomActivate = FlxG.random.int(0, 10);
-    function colorFlashThing() {
-        if (randomActivate <= 5) {
-            // trace(randomActivate);
-            samShit.visible = true;
-        } else {
-            samShit.visible = false;
-        }
-    }
-
-    colorFlashThing();
-    
+    samShit.visible = FlxG.random.bool(50) ? true : false;
     samShit.color = FlxG.random.color(FlxColor.BLACK, FlxColor.WHITE);
 
     if (tabiHealthBar) {
@@ -74,14 +60,12 @@ function onDadHit(event:NoteHitEvent) {
     }
 
     if (drainHealth == true && healthBar.x > 343.2 || healthBarBG.x > 343.2) {
-        health -= 0.03; //0.03
+        health -= 0.03;
     }
 
     if (event.note.isSustainNote) {
         health -= 0.0005;
-        // trace("Yo Hold note");
     }
 
-	if (!FlxG.save.data.shakeShit)
-    	camGame.shake(0.03, 0.02, null, true);
+	if (!FlxG.save.data.shakeShit) camGame.shake(0.03, 0.02, null, true);
 }
