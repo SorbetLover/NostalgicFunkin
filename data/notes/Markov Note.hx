@@ -28,7 +28,7 @@ function onNoteCreation(e) {
 				e.noteScale += 4.3; // 5
 				e.mustHit = false;
 				// e.note.updateHitbox();
-				// e.note.antialiasing = false;
+				e.note.antialiasing = false;
 				e.note.earlyPressWindow = 0.15;
 				e.note.latePressWindow = 0.2; 
 		}
