@@ -25,9 +25,8 @@ function onNoteCreation(e) {
 				if (PlayState.opponentMode && e.strumLineID >= 1) e.note.wasGoodHit = true;
 				if (!PlayState.opponentMode && e.strumLineID <= 0) e.note.wasGoodHit = true;
 				e.noteSprite = "game/notes/Markov Note";
-				e.noteScale += 4.3; // 5
+				e.noteScale -= 0.1;
 				e.mustHit = false;
-				// e.note.updateHitbox();
 				e.note.antialiasing = false;
 				e.note.earlyPressWindow = 0.15;
 				e.note.latePressWindow = 0.2; 

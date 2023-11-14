@@ -1,7 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="Markov Note.png">
-<SubTexture name="purple0000" x="0" y="0" width="21" height="21" frameX="0" frameY="0" frameWidth="21" frameHeight="21" />
-<SubTexture name="blue0000" x="21" y="0" width="21" height="21" frameX="0" frameY="0" frameWidth="21" frameHeight="21" />
-<SubTexture name="green0000" x="0" y="21" width="21" height="21" frameX="0" frameY="0" frameWidth="21" frameHeight="21" />
-<SubTexture name="red0000" x="21" y="21" width="21" height="21" frameX="0" frameY="0" frameWidth="21" frameHeight="21" />
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+	Image resized/ported by Toni/SorbetLover
+-->
+<TextureAtlas imagePath="Markov Note.png" width="172" height="691">
+	<SubTexture name="blue0000" x="1" y="1" width="170" height="170" frameX="-0" frameY="-0" frameWidth="170" frameHeight="170"/>
+	<SubTexture name="green0000" x="1" y="174" width="170" height="170" frameX="-0" frameY="-0" frameWidth="170" frameHeight="170"/>
+	<SubTexture name="purple0000" x="1" y="347" width="170" height="170" frameX="-0" frameY="-0" frameWidth="170" frameHeight="170"/>
+	<SubTexture name="red000" x="1" y="520" width="170" height="170" frameX="-0" frameY="-0" frameWidth="170" frameHeight="170"/>
 </TextureAtlas>
