@@ -4,15 +4,16 @@
 	"difficulties": [
 		"EASY",
 		"NORMAL",
-		"HARD"
+		"HARD",
+		"Rechart"
 	],
 	"parsedColor": -327680,
 	"color": "#FB0000",
-	"name": "ballistic",
+	"name": "ballistic-old",
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"displayName": "ballistic",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 210.5
+	"bpm": 210
 }
