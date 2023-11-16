@@ -12,6 +12,10 @@ function postUpdate(elapsed) {
     }
 }
 
+function onDadHit(e) {
+    e.preventStrumGlow();
+}
+
 function onPostStrumCreation(e) {
 
     // More of a personal thing but bascially bigger frames for pressing notes to mimick botplay's sudden note presses
@@ -22,6 +26,6 @@ function onPostStrumCreation(e) {
     // Characters will immidately go to their idle animation after pressing/holding notes.
     if (kadeUI) {
         boyfriend.holdTime = 0.5;
-        dad.holdTime = 0.5;
+        dad.holdTime = 0.8;
     }
 }
