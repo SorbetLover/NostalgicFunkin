@@ -12,12 +12,22 @@ function postUpdate(elapsed) {
 
 function onDadHit(e) e.preventStrumGlow();
 
+function onNoteCreation(e) {
+    // e.note.animation.getByName("hold").y -= 80;
+    // var notesShitcheckforsustain = [prevNote, nextNote, nextSustain];
+    if (e.note.isSustainNote) {
+        e.note.height += 80;
+        e.note.scale.y = 0.5;
+    }
+}
+
 function onPostStrumCreation(e) {
 
     // More of a personal thing but bascially bigger frames for pressing notes to mimick botplay's sudden note presses
     // Will be changed later probably
     if (kadeUI && FlxG.save.data.fastPress) e.strum.animation.addByIndices("confirm", e.animPrefix + " confirm", [0, 1, 2, 3], "", 60, false);
     e.strum.animation.addByIndices("pressed", e.animPrefix + " press", [0, 1, 2, 3], "", 12, false); // 12 frames when pressing (pretty minor detail :shrug:)
+    e.strum.animation.getByName("");
 
     // Characters will immidately go to their idle animation after pressing/holding notes.
     boyfriend.holdTime = 0.5;
