@@ -1,7 +1,9 @@
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.9" name="alley" folder="stages/Vs Whitty/alley/">
-	<sprite name="stage" 	x="-600" y="-200"   sprite="alleyCrazy"       scroll="0.9">
-		<anim name="idle" anim="Background Whitty Moving" indices="" fps="24" loop="true"/>
+	<sprite name="stage" 	x="-600" y="-200"   sprite="alleyCrazy"       scroll="1">
+		<anim name="bgAfterBreak" anim="Background Whitty Moving" indices="" fps="24" loop="true"/>
+		<anim name="bgBeforeBreak" anim="Background Whitty Start" indices="" fps="24" loop="false"/>
+		<anim name="bgDuringBreak" anim="Background Whitty Startup" indices="" fps="24" loop="false"/>
 	</sprite>
 	<girlfriend />
 	<dad x="-50"/>

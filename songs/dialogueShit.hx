@@ -1,6 +1,6 @@
 import funkin.game.cutscenes.DialogueCutscene;
 var cameraExists = false;
-var colorBgAlpha:Float = 0.8;
+public var colorBgAlpha:Float = 0.8;
 
 function update(elapsed) {
     if (subState != null) cameraExists = true;
