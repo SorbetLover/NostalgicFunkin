@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 144,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -875013,
+	"displayName": "bara-no-yume",
+	"icon": "duet",
+	"name": "bara-no-yume",
+	"color": "#F2A5FB"
+}

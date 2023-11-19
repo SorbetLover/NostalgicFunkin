@@ -17,7 +17,7 @@ function create() {
 
 // Shaky screen by Ne_Eo
 function shakeWindow(magnitude:Float){
-	if (FlxG.save.data.shakeShit || PlayState.opponentMode) {
+	if (!FlxG.save.data.shakeShit || PlayState.opponentMode) {
 		return false;
 	} else {
 		var randX:Bool = FlxG.random.bool(50);
@@ -37,18 +37,16 @@ function shakeWindow(magnitude:Float){
 }
 
 function onPlayerHit(event:NoteHitEvent) {
-	if (!FlxG.fullscreen || PlayState.opponentMode)
-		shakeWindow(0);
+	if (!FlxG.fullscreen || PlayState.opponentMode) shakeWindow(0);
 }
 
 function onDadHit(event:NoteHitEvent) {
-	if (!FlxG.fullscreen || !PlayState.opponentMode)
-		shakeWindow(1);
+	if (!FlxG.fullscreen || !PlayState.opponentMode) shakeWindow(1);
 }
 
 function update() {
     // sprite.alpha = health / 1;
-    if (health / 2.8 - 1 && !FlxG.save.data.shaderShit) {
+    if (health / 2.8 - 1 && FlxG.save.data.shaderShit) {
         bright.iTime = 2 / 32;
         bright.contrast = 2 / 8;
     } else {
@@ -56,7 +54,7 @@ function update() {
         bright.contrast = health / 2.8;
     }	
 
-	if (!FlxG.save.data.shakeShit)
+	if (FlxG.save.data.shakeShit)
     	camHUD.shake(0.005, (60 / Conductor.bpm), null, true, FlxAxes.X);
 }
 
@@ -67,7 +65,7 @@ function postUpdate(elapsed:Float) {
 
 	switch (curCameraTarget) {
 		case 0:
-			if (FlxG.save.data.shakeShit || !PlayState.opponentMode) {
+			if (!FlxG.save.data.shakeShit || !PlayState.opponentMode) {
 				camGame.shake(0, 0, null, false);
 			} else {
 				camGame.shake(0.01, 0.01, null, true);
@@ -83,75 +81,7 @@ function postUpdate(elapsed:Float) {
        		FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, 0.95);
 	}
 
-	if (FlxG.save.data.shaderShit)
-		chromaticAberration.iTime = 0;
+	if (!FlxG.save.data.shaderShit) chromaticAberration.iTime = 0;
 }
 
-// Script by yashermania for changing noteskin
-
-function onNoteCreation(event) {
-	event.cancel();
-	var note = event.note;
-	
-	if (!event.cancel) {
-		switch (event.noteType) {
-			default:
-				note.frames = Paths.getFrames('game/notes/TabiNote');
-			switch (event.strumID % 4 ) {
-				case 0:
-					note.animation.addByPrefix('scroll', 'purple0');
-					note.animation.addByPrefix('hold', 'purple hold piece');
-					note.animation.addByPrefix('holdend', 'pruple end hold');
-				case 1:
-					note.animation.addByPrefix('scroll', 'blue0');
-					note.animation.addByPrefix('hold', 'blue hold piece');
-					note.animation.addByPrefix('holdend', 'blue hold end');
-				case 2:
-					note.animation.addByPrefix('scroll', 'green0');
-					note.animation.addByPrefix('hold', 'green hold piece');
-					note.animation.addByPrefix('holdend', 'green hold end');
-				case 3:
-					note.animation.addByPrefix('scroll', 'red0');
-					note.animation.addByPrefix('hold', 'red hold piece');
-					note.animation.addByPrefix('holdend', 'red hold end');
-			}
-			note.scale.set(0.7, 0.7);
-			note.updateHitbox();
-		}
-	}
-}
-
-function onStrumCreation(event) {
-	event.cancel();
-	var strum = event.strum;
-
-	if (!event.cancel) {
-		strum.frames = Paths.getFrames('game/notes/TabiNote');
-		strum.animation.addByPrefix('green', 'arrowUP');
-		strum.animation.addByPrefix('blue', 'arrowDOWN');
-		strum.animation.addByPrefix('purple', 'arrowLEFT');
-		strum.animation.addByPrefix('red', 'arrowRIGHT');
-		strum.antialiasing = true;
-		strum.scale.set(0.7,0.7);
-		
-		switch (event.strumID % 4) {
-			case 0:
-				strum.animation.addByPrefix("static", 'arrowLEFT0');
-				strum.animation.addByPrefix("pressed", 'left press', 12, false);
-				strum.animation.addByPrefix("confirm", 'left confirm', 24, false);
-			case 1:
-				strum.animation.addByPrefix("static", 'arrowDOWN0');
-				strum.animation.addByPrefix("pressed", 'down press', 12, false);
-				strum.animation.addByPrefix("confirm", 'down confirm', 24, false);
-			case 2:
-				strum.animation.addByPrefix("static", 'arrowUP0');
-				strum.animation.addByPrefix("pressed", 'up press', 12, false);
-				strum.animation.addByPrefix("confirm", 'up confirm', 24, false);
-			case 3:
-				strum.animation.addByPrefix("static", 'arrowRIGHT0');
-				strum.animation.addByPrefix("pressed", 'right press', 12, false);
-				strum.animation.addByPrefix("confirm", 'right confirm', 24, false);
-		}	
-		strum.updateHitbox();
-	}
-}
+function onDestroy() chromaticAberration.iTime = 0;

@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" folder="stages/monikaroom/" >	
+	<sprite name="BG" x="-80" y="0" sprite="FinaleBG"
+		antialiasing="false" scale="2" scrollx="1" scrolly="1" updateHitbox="true"/>
+
+	<sprite name="desk" x="300" y="158" sprite="FinaleFG"
+		antialiasing="false" scale="1.1" scroll="1" updateHitbox="true" type="loop"/>
+
+    <boyfriend y="50" x="1190"/>
+    <dad y="381" x="900"/>
+</stage>

@@ -9,6 +9,8 @@ function postCreate() {
     lights.setGraphicSize(Std.int(lights.width * 1));
     lights.updateHitbox();
     insert(members.indexOf(gf) - 1, lights);
+    stagebackkapiold.blend = "add";
+    stagefrontkapiold.blend = "add";
 }
 
 function beatHit(curBeat)

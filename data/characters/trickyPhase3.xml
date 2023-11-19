@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Tricky/icon-helltricky" y="0" isGF="false" isPlayer="false" sprite="Vs Tricky/trickyPhase3">
+	<anim x="883" loop="false" y="1824" fps="24" anim="idle" name="idle"/>
+	<anim x="-140" loop="false" y="-90" fps="24" anim="Proper Left" name="singLEFT"/>
+	<anim x="-105" loop="false" y="10" fps="24" anim="Proper Right" name="singRIGHT"/>
+	<anim x="-40" loop="false" y="175" fps="24" anim="Proper Up" name="singUP"/>
+	<anim x="-255" loop="false" y="102" fps="24" anim="Proper Down" name="singDOWN"/>
+</character>

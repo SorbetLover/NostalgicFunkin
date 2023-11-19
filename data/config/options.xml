@@ -1,12 +1,18 @@
 <!DOCTYPE codename-mod-options>
-<menu name="Nostalgic Funkin" desc="Options for Nostalgic Funkin. Includes options for indievidual mods.">
-	<menu name="Nostalgic Funkin" desc="General Options for all mods!">
-		<checkbox id="oldLogo"		desc="Use the Old Nostalgic Funkin Logo."	name="Use old Logo"/>
-		<checkbox id="shaderShit" 	desc="Disables shaders in the port." 		name="Disable shaders" />
-		<checkbox id="shakeShit" 	desc="Disables shaking in the port." 		name="Disable shaking"/>
+<menu name="Nostalgic Funkin'" desc="Options for Nostalgic Funkin. Includes options for indievidual mods.">
+	<menu name="Accessibility" desc="General Options for all mods!">
+		<checkbox id="shaderShit" desc="Disables shaders in the port." name="Shaders" />
+		<checkbox id="shakeShit" desc="Disables shaking in the port." name="Shaking effects"/>
+		<checkbox id="flashFX" desc="Disables flashing lights for mods like Tricky, Void (notbeep support this pls), etc." name="Flashing Lights"/>
+		<checkbox id="bushNote" desc="Disables Bushwhack mechanic." name="Bushwhack Mechanic"/>
 	</menu>
 
-	<menu name="Vs Zardy" desc="Options specific to Vs Zardy mod">
-		<checkbox id="bushNote" 	desc="Disables bushwhack mechanic." 		name="no bushwhack mechanic"/>
+	<menu name="Kade Options" desc="Kade UI Options.">
+		<checkbox id="kadeUI" desc="Changes the UI into an older version Kade Engine."	name="Kade Engine UI"/>
+		<checkbox id="fastPress" desc="Gives the strum notes higher frames to mimick KE's bot note presses. Kade Engine UI option must be enabled for this to work!" name="Faster note press"/>
+	</menu>
+
+	<menu name="Misc" desc="Other options.">
+		<checkbox id="oldLogo" desc="Use the Old Nostalgic Funkin Logo." name="Old Logo"/>
 	</menu>
 </menu>

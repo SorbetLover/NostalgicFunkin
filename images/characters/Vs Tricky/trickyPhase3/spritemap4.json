@@ -1,0 +1,38 @@
+﻿{"ATLAS": {"SPRITES":[ 
+{"SPRITE" : {"name": "0000","x":2008,"y":0,"w":20,"h":23,"rotated": false}},
+{"SPRITE" : {"name": "0010","x":1836,"y":937,"w":192,"h":141,"rotated": false}},
+{"SPRITE" : {"name": "0027","x":1281,"y":0,"w":514,"h":463,"rotated": false}},
+{"SPRITE" : {"name": "0049","x":2028,"y":0,"w":18,"h":17,"rotated": false}},
+{"SPRITE" : {"name": "0050","x":544,"y":0,"w":737,"h":370,"rotated": false}},
+{"SPRITE" : {"name": "0052","x":0,"y":1062,"w":591,"h":273,"rotated": false}},
+{"SPRITE" : {"name": "0053","x":0,"y":740,"w":609,"h":322,"rotated": false}},
+{"SPRITE" : {"name": "0054","x":544,"y":370,"w":633,"h":370,"rotated": false}},
+{"SPRITE" : {"name": "0058","x":1177,"y":463,"w":356,"h":623,"rotated": false}},
+{"SPRITE" : {"name": "0065","x":872,"y":1295,"w":387,"h":283,"rotated": false}},
+{"SPRITE" : {"name": "0078","x":1795,"y":325,"w":95,"h":99,"rotated": false}},
+{"SPRITE" : {"name": "0084","x":2028,"y":17,"w":18,"h":16,"rotated": false}},
+{"SPRITE" : {"name": "0085","x":324,"y":1557,"w":324,"h":81,"rotated": false}},
+{"SPRITE" : {"name": "0086","x":0,"y":1555,"w":324,"h":89,"rotated": false}},
+{"SPRITE" : {"name": "0089","x":1259,"y":1401,"w":325,"h":197,"rotated": false}},
+{"SPRITE" : {"name": "0096","x":1584,"y":1401,"w":235,"h":174,"rotated": false}},
+{"SPRITE" : {"name": "0110","x":1935,"y":325,"w":90,"h":370,"rotated": false}},
+{"SPRITE" : {"name": "0111","x":1533,"y":463,"w":402,"h":474,"rotated": false}},
+{"SPRITE" : {"name": "0112","x":0,"y":575,"w":418,"h":143,"rotated": false}},
+{"SPRITE" : {"name": "0118","x":2008,"y":23,"w":17,"h":16,"rotated": false}},
+{"SPRITE" : {"name": "0121","x":872,"y":1086,"w":545,"h":209,"rotated": false}},
+{"SPRITE" : {"name": "0129","x":1533,"y":937,"w":303,"h":464,"rotated": false}},
+{"SPRITE" : {"name": "0142","x":609,"y":740,"w":436,"h":339,"rotated": false}},
+{"SPRITE" : {"name": "0150","x":1795,"y":0,"w":213,"h":325,"rotated": false}},
+{"SPRITE" : {"name": "0157","x":0,"y":1335,"w":393,"h":220,"rotated": false}},
+{"SPRITE" : {"name": "0168","x":0,"y":0,"w":544,"h":575,"rotated": false}},
+{"SPRITE" : {"name": "0169","x":591,"y":1079,"w":281,"h":478,"rotated": false}}
+]},
+"meta": {
+"app": "Adobe Animate",
+"version": "22.0.5.191",
+"image": "spritemap4.png",
+"format": "RGBA8888",
+"size": {"w":2046,"h":1644},
+"resolution": "1"
+}
+}

@@ -6,8 +6,7 @@ public var grabbed:Bool = false;
 public var grabInput = false;
 
 function postCreate() {
-	if (PlayState.opponentMode || FlxG.save.data.bushNote)
-		disableScript();
+	if (PlayState.opponentMode || !FlxG.save.data.bushNote) disableScript();
 	vine = new FlxSprite(250, 470);
 	vine.antialiasing = true;
 	// load these once so it doesn't lag when we load em

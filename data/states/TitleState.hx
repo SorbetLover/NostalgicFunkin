@@ -1,12 +1,9 @@
-var logoBump:FlxSprite;
+var logoBump:FlxSprite = new FlxSprite().loadGraphic(Paths.image("menus/titlescreen/nf")).screenCenter();
 
 function postCreate() {
-    logoBump = new FlxSprite().loadGraphic(Paths.image("menus/titlescreen/nf"));
-    if (FlxG.save.data.oldLogo)
-        logoBump.loadGraphic(Paths.image("menus/titlescreen/nfOld"));
+    if (FlxG.save.data.oldLogo) logoBump.loadGraphic(Paths.image("menus/titlescreen/nfOld"));
     logoBump.scale.set(1.25, 1.25);
     logoBump.antialiasing = true;
-    logoBump.screenCenter();
 }
 
 function postUpdate() {

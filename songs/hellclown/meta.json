@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"beatsPerMesure": 5,
+	"stepsPerBeat": 4,
+	"bpm": 197,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -288833,
+	"displayName": "hellclown",
+	"icon": "Vs Tricky/icon-helltricky"
+}
+	

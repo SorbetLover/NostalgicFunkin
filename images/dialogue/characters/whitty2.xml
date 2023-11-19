@@ -3,9 +3,4 @@
 	<!-- Created with MY OWN FUCKING HANDS -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Normal" x="45" y="47" width="302" height="299"/>
-	<SubTexture name="Angry" x="403" y="47" width="302" height="299"/>
-	<SubTexture name="Crazy0000" x="761" y="47" width="310" height="299"/>
-	<SubTexture name="Crazy0001" x="1093" y="47" width="310" height="299"/>
-	<SubTexture name="Crazy0002" x="1415" y="47" width="310" height="299"/>
-	<SubTexture name="Crazy0003" x="1747" y="47" width="310" height="299"/>
 </TextureAtlas>

@@ -1,0 +1,1 @@
+function onPlaySingAnim() if (FlxG.save.data.shakeShit) FlxG.camera.shake(0.02, 0.2);

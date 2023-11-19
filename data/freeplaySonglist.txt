@@ -25,7 +25,8 @@ thorns-b
 
 lo-fight
 overhead
-ballistic
+ballistic-old
+ballistic-new
 remorse
 
 carol-roll
@@ -75,6 +76,7 @@ stardust
 
 improbable-outset
 madness
+hellclown
 
 headache
 nerves
@@ -89,3 +91,8 @@ empty
 sugar-cookie
 key-lime
 stomachache
+
+high-school-conflict
+bara-no-yume
+your-demise
+your-reality

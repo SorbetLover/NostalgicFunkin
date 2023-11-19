@@ -9,10 +9,8 @@ function create(){
     bgLamp.scale.set(1.1, 1.2);
     floorLamps.scale.set(1.1, 1.2);
     
-    whiteBG.makeGraphic(8000, 8000, FlxColor.WHITE);
-	whiteBG.x = "-1000";
-	whiteBG.y = "-1000";
-    whiteBG.alpha = 0.0001;
+    whiteBG.makeSolid(FlxG.width * 3, FlxG.height * 3, FlxColor.WHITE).alpha = 0.0001;
+	whiteBG.x = whiteBG.y = -1000;
 	insert(1, whiteBG);
 }
 
@@ -217,45 +215,21 @@ function update(e) {
     } 
 }*/
 function beatHit(curBeat:Int) {
-    if (curBeat % 2 == 0){
-        women.animation.play("struggle", true);
-    }
+    if (curBeat % 2 == 0) women.animation.play("struggle", true);
     if (curSong == "salvation"){
-    if (curBeat == 408){
-        camHUD.flash();
-        //on = true;
+        switch (curBeat) {
+            case 408, 472, 672, 732: camHUD.flash();
+            case 544, 742: 
+                camHUD.flash();
+                badApple("on");
+
+            case 608, 876:
+                camHUD.flash(); 
+                badApple("off");
+        }
     }
-    if (curBeat == 472){
-        camHUD.flash();
-        //on = false;
-    }
-    if (curBeat == 544){
-        badApple("on");
-    }
-    if (curBeat == 608){
-        camHUD.flash();
-        badApple("off");
-    }
-    if (curBeat == 672){
-        camHUD.flash();
-        //on = true;
-    }
-    if (curBeat == 732){
-        camHUD.flash();
-        //on = false;
-    }
-    if (curBeat == 742){
-        camHUD.flash();
-        badApple("on");
-    }
-    if (curBeat == 876){
-        camHUD.flash();
-        badApple("off");
-    }}
 }
 function stepHit(curStep:Int){
-    if (curSong == "salvation"){
-    if (curStep > 1632 && curStep < 1888 || curStep > 2688 && curStep < 2928){
-        camHUD.shake(0.008, 0.04);
-    }}
+    if (curSong == "salvation")
+        if (curStep > 1632 && curStep < 1888 || curStep > 2688 && curStep < 2928) camHUD.shake(0.008, 0.04);
 }

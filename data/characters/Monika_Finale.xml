@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Monika_Finale" y="0" camy="100" camx="-200" isGF="false" scale="6" color="#67BBFF" isPlayer="false" antialiasing="false" holdTime="6.1" sprite="Monika_Finale">
+	<anim x="0" loop="false" y="0" fps="24" anim="IDLE" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="UP NOTE0" name="singUP"/>
+	<anim x="10" loop="false" y="-1" fps="24" anim="UP GLITCH" name="singUP-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="LEFT NOTE" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="LEFT GLITCH" name="singLEFT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RIGHT NOTE" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RIGHT GLITCH" name="singRIGHT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="DOWN NOTE" name="singDOWN"/>
+	<anim x="10" loop="false" y="-1" fps="24" anim="DOWN GLITCH" name="singDOWN-alt"/>
+</character>

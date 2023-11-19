@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 100,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -1866753,
+	"displayName": "your-reality",
+	"icon": "monika",
+	"name": "your-reality",
+	"color": "#E383FF"
+}

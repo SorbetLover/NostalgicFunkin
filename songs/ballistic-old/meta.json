@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "Vs Whitty/whittyCrazy",
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"Rechart"
+	],
+	"parsedColor": -327680,
+	"color": "#FB0000",
+	"name": "ballistic-old",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "ballistic",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 210
+}
