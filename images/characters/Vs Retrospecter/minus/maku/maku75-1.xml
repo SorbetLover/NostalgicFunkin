@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="maku75-1.png" width="3628" height="4447">
+  <SubTexture name="m-saku-wink0006.png" x="4" y="4"  width="552" height="893" frameX="-101" frameY="-0" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0007.png" x="564" y="4"  width="552" height="893" frameX="-101" frameY="-0" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0004.png" x="4" y="905"  width="577" height="885" frameX="-86" frameY="-8" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0005.png" x="589" y="905"  width="577" height="885" frameX="-86" frameY="-8" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0021.png" x="1124" y="4"  width="586" height="882" frameX="-80" frameY="-11" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0022.png" x="1174" y="894"  width="586" height="882" frameX="-80" frameY="-11" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0023.png" x="4" y="1798"  width="586" height="880" frameX="-80" frameY="-13" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0024.png" x="598" y="1798"  width="586" height="880" frameX="-80" frameY="-13" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0020.png" x="1192" y="1784"  width="648" height="880" frameX="-80" frameY="-13" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0002.png" x="1718" y="4"  width="612" height="879" frameX="-66" frameY="-14" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0003.png" x="1768" y="891"  width="612" height="879" frameX="-66" frameY="-14" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0015.png" x="1848" y="1778"  width="768" height="876" frameX="-0" frameY="-17" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0016.png" x="4" y="2686"  width="742" height="876" frameX="-3" frameY="-17" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0017.png" x="754" y="2686"  width="742" height="876" frameX="-3" frameY="-17" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0014.png" x="1504" y="2672"  width="753" height="873" frameX="-4" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0000.png" x="2265" y="2662"  width="618" height="873" frameX="-68" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0009.png" x="2338" y="4"  width="711" height="873" frameX="-16" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0010.png" x="2891" y="885"  width="733" height="873" frameX="-9" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0011.png" x="2891" y="1766"  width="733" height="873" frameX="-9" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0001.png" x="2891" y="2647"  width="618" height="873" frameX="-68" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0013.png" x="4" y="3570"  width="753" height="873" frameX="-4" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0012.png" x="765" y="3570"  width="753" height="873" frameX="-4" frameY="-20" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0008.png" x="1526" y="3553"  width="702" height="872" frameX="-19" frameY="-21" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0018.png" x="2236" y="3553"  width="664" height="870" frameX="-54" frameY="-23" frameWidth="768" frameHeight="893"/>
+  <SubTexture name="m-saku-wink0019.png" x="2908" y="3528"  width="669" height="868" frameX="-54" frameY="-25" frameWidth="768" frameHeight="893"/>
+</TextureAtlas>

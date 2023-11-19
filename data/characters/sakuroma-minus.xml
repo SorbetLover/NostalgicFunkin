@@ -1,0 +1,26 @@
+<!DOCTYPE codename-engine-character>
+<character x="480" sprite="Vs Retrospecter/minus/minus_sakuroma_assets_full" icon="Vs Retrospecter/sakuroma" y="260" flipX="false" isPlayer="false">
+	<anim loop="false" anim="m saku cheer" fps="24" name="cheer" indices="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"/>
+
+	<anim loop="false" name="wink" anim="m saku wink" fps="24"/>
+
+	<anim loop="false" name="idle" anim="m saku idle" fps="24"/>
+
+	<anim loop="false" x="169" anim="m saku left" fps="24" y="50" indices="1,2,3,4,5,6,7,8,9,10" name="singLEFT"/>
+
+	
+	<anim loop="false" x="30" anim="m saku down" fps="24" y="-140" indices="1,2,3,4,5,6,7,8,9,10" name="singDOWN"/>
+
+	<anim loop="false" x="54" anim="m saku up" fps="24" y="241" name="singUP"/>
+
+	<anim loop="false" x="-63" anim="m saku right" fps="24" y="230" name="singRIGHT"/>
+
+	
+	<anim loop="false" x="34" anim="m saku up alt" fps="24" y="320" name="singUP-alt"/>
+
+	<anim loop="false" x="110" anim="m saku down alt" fps="24" y="-10" name="singDOWN-alt"/>
+
+	<anim loop="false" x="5" anim="m saku left alt" fps="24" y="-30" name="singLEFT-alt"/>
+
+	<anim loop="false" x="13" anim="m saku right alt" fps="24" y="-22" name="singRIGHT-alt"/>
+</character>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bop-middle.png" width="2178" height="4455">
+  <SubTexture name="head bops center0001.png" x="3" y="3"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+  <SubTexture name="head bops center0002.png" x="3" y="3"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+  <SubTexture name="head bops center0003.png" x="3" y="894"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+  <SubTexture name="head bops center0004.png" x="3" y="1785"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+  <SubTexture name="head bops center0005.png" x="3" y="2676"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+  <SubTexture name="head bops center0006.png" x="3" y="2676"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+  <SubTexture name="head bops center0007.png" x="3" y="3567"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+  <SubTexture name="head bops center0008.png" x="3" y="3567"  width="2172" height="885" frameX="-0" frameY="-0" frameWidth="2172" frameHeight="885"/>
+</TextureAtlas>

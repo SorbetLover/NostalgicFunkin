@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 140,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HELL"
+	],
+	"needsVoices": true,
+	"parsedColor": -1310586,
+	"displayName": "preppy",
+	"icon": "Vs Retrospecter/sakuroma",
+	"name": "preppy",
+	"color": "#EC0086"
+}

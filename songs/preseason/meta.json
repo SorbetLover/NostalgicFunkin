@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 170,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HELL"
+	],
+	"needsVoices": true,
+	"parsedColor": -16727329,
+	"displayName": "preseason",
+	"icon": "Vs Retrospecter/retro",
+	"name": "preseason",
+	"color": "#00C2DF"
+}

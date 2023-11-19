@@ -1,0 +1,37 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs RetroSpecter/minus/images/" name="minus_sigma" zoom="0.5">
+	<sprite x="-1213" y="-1243" sprite="background_preseason" name="bg"/>
+	<sprite x="279.5" name="minus_back_characters_top" sprite="minus_back_characters_top" y="-842.25"/>
+	<sprite x="-177.75" sprite="mics" y="-817.8" updateHitbox="true" scale="0.95" name="mics">
+		
+		
+		<anim loop="true" name="day" anim="Day" fps="0"/>
+		
+	
+	</sprite>
+	<sprite x="-253" name="Flag" sprite="Flag" y="-355">
+		
+		
+		<anim loop="true" name="day" anim="Flag Wave Day" fps="12"/>
+		
+	
+	</sprite>
+	<sprite x="-337.94" sprite="minus_back_characters_middle" y="-362.45" updateHitbox="true" scale="1.04" name="bg_chars_middle"/>
+	<sprite x="-1212.86" sprite="minus_back_characters_left" y="-577.97" updateHitbox="true" scale="1.04" name="bg_chars_left"/>
+	<sprite x="2283.22" sprite="minus_back_characters_right" y="-652.69" updateHitbox="true" scale="1.04" name="bg_chars_right"/>
+
+	<sprite x="-693.8" updateHitbox="true" y="82.8" sprite="maku-bg" name="maku">
+		<anim loop="false" anim="m-saku-idle" fps="24" indices="17,18,19,20,21,22,23,24,25,26,27,28,29" name="danceRight"/>
+		<anim loop="false" anim="m-saku-idle" fps="24" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" name="danceLeft"/>
+	</sprite>
+	
+	<sprite x="-750" updateHitbox="true" y="192" sprite="maku-bg" type="none" name="makuCheer" alpha="0.0001">
+		<anim loop="false" name="cheer" anim="m saku cheer" fps="24"/>
+	</sprite>
+	
+	<gf x="150" scroll="1"/>
+	<dad x="-149" y="241.5" camyoffset="-100"/>
+	<bf x="1078.5" y="266" camyoffset="-200"/>
+	<combo/>
+	<sprite x="-1211.75" y="-1247.5" sprite="overlay1" name="overlay1"/>
+</stage>

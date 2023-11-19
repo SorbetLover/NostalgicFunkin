@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Metro BG.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Minus Retro BG dumb0000" x="10" y="10" width="738" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0001" x="10" y="10" width="738" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0002" x="10" y="10" width="738" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0003" x="10" y="10" width="738" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0004" x="10" y="10" width="738" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0005" x="758" y="10" width="742" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0006" x="1510" y="10" width="742" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0007" x="2262" y="10" width="757" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0008" x="3029" y="10" width="764" height="908" frameX="-10" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0009" x="3803" y="10" width="759" height="908" frameX="-10" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0010" x="4572" y="10" width="769" height="903" frameX="0" frameY="-4" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0011" x="5351" y="10" width="768" height="903" frameX="0" frameY="-4" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0012" x="6129" y="10" width="767" height="899" frameX="-1" frameY="-7" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0013" x="6906" y="10" width="758" height="899" frameX="-1" frameY="-7" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0014" x="10" y="928" width="758" height="893" frameX="-1" frameY="-13" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0015" x="778" y="928" width="776" height="893" frameX="-1" frameY="-13" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0016" x="1564" y="928" width="776" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0017" x="2350" y="928" width="745" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0018" x="2350" y="928" width="745" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0019" x="3105" y="928" width="746" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0020" x="3105" y="928" width="746" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0021" x="3105" y="928" width="746" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0022" x="3861" y="928" width="746" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0023" x="3861" y="928" width="746" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0024" x="3861" y="928" width="746" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0025" x="4617" y="928" width="745" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0026" x="4617" y="928" width="745" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0027" x="5372" y="928" width="756" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0028" x="6138" y="928" width="756" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0029" x="6904" y="928" width="776" height="895" frameX="-1" frameY="-11" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0030" x="10" y="1833" width="767" height="896" frameX="-10" frameY="-12" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0031" x="787" y="1833" width="749" height="896" frameX="-10" frameY="-12" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0032" x="1546" y="1833" width="742" height="901" frameX="-17" frameY="-7" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0033" x="2298" y="1833" width="751" height="901" frameX="-17" frameY="-7" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0034" x="3059" y="1833" width="751" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0035" x="3820" y="1833" width="757" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0036" x="4587" y="1833" width="757" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0037" x="758" y="10" width="742" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0038" x="758" y="10" width="742" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+	<SubTexture name="Minus Retro BG dumb0039" x="5354" y="1833" width="738" height="908" frameX="-17" frameY="0" frameWidth="777" frameHeight="908"/>
+</TextureAtlas>

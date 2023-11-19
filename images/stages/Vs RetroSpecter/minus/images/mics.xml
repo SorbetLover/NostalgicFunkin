@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mics.png">
+    <SubTexture name="Day0000" x="0" y="0" width="1930" height="328"/>
+    <SubTexture name="Evening0000" x="0" y="333" width="1930" height="328"/>
+    <SubTexture name="Night0000" x="0" y="666" width="1930" height="328"/>
+</TextureAtlas>

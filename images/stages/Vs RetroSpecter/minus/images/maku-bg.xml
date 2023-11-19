@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="maku-bg.png" width="4461" height="8188">
+  <SubTexture name="m saku cheer0001.png" x="4" y="4"  width="867" height="985" frameX="-0" frameY="-8" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0002.png" x="4" y="997"  width="867" height="985" frameX="-0" frameY="-8" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0004.png" x="4" y="1990"  width="825" height="992" frameX="-16" frameY="-1" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0003.png" x="4" y="2990"  width="825" height="992" frameX="-16" frameY="-1" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0006.png" x="4" y="3990"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0007.png" x="4" y="4991"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0008.png" x="4" y="5992"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0009.png" x="4" y="6993"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0010.png" x="829" y="3990"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0011.png" x="837" y="1990"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0012.png" x="879" y="4"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0013.png" x="829" y="4991"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0014.png" x="829" y="5992"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0015.png" x="829" y="6993"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0016.png" x="1654" y="2991"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0017.png" x="1662" y="1005"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0018.png" x="1704" y="4"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0019.png" x="1654" y="3992"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0020.png" x="1654" y="4993"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m saku cheer0005.png" x="1654" y="5994"  width="817" height="993" frameX="-19" frameY="-0" frameWidth="867" frameHeight="993"/>
+  <SubTexture name="m-saku-idle0001.png" x="879" y="1005"  width="701" height="879" frameX="-0" frameY="-1" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0000.png" x="837" y="2991"  width="701" height="877" frameX="-0" frameY="-3" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0021.png" x="1662" y="2006"  width="685" height="880" frameX="-30" frameY="-0" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0020.png" x="2355" y="2006"  width="685" height="880" frameX="-30" frameY="-0" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0019.png" x="2487" y="1005"  width="685" height="880" frameX="-30" frameY="-0" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0018.png" x="2529" y="4"  width="685" height="880" frameX="-30" frameY="-0" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0017.png" x="1654" y="6995"  width="681" height="879" frameX="-31" frameY="-1" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0002.png" x="2343" y="6995"  width="642" height="879" frameX="-39" frameY="-1" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0003.png" x="2479" y="2894"  width="642" height="879" frameX="-39" frameY="-1" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0005.png" x="3048" y="1893"  width="626" height="876" frameX="-50" frameY="-4" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0004.png" x="3180" y="892"  width="626" height="876" frameX="-50" frameY="-4" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0015.png" x="3222" y="4"  width="618" height="877" frameX="-55" frameY="-3" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0016.png" x="2479" y="3781"  width="618" height="877" frameX="-55" frameY="-3" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0029.png" x="2479" y="4666"  width="618" height="874" frameX="-55" frameY="-6" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0028.png" x="2479" y="5548"  width="618" height="874" frameX="-55" frameY="-6" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0007.png" x="2993" y="6430"  width="618" height="873" frameX="-55" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0006.png" x="2993" y="7311"  width="618" height="873" frameX="-55" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0008.png" x="3105" y="3781"  width="618" height="873" frameX="-55" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0027.png" x="3129" y="2777"  width="614" height="873" frameX="-57" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0026.png" x="3682" y="1776"  width="614" height="873" frameX="-57" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0024.png" x="3814" y="889"  width="609" height="873" frameX="-59" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0025.png" x="3848" y="4"  width="609" height="873" frameX="-59" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0009.png" x="3105" y="4662"  width="599" height="873" frameX="-64" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0010.png" x="3105" y="5543"  width="599" height="873" frameX="-64" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0012.png" x="3619" y="6424"  width="594" height="873" frameX="-66" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0011.png" x="3619" y="7305"  width="594" height="873" frameX="-66" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0013.png" x="3712" y="4662"  width="591" height="873" frameX="-68" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0023.png" x="3712" y="5543"  width="590" height="873" frameX="-68" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0022.png" x="3731" y="3658"  width="590" height="873" frameX="-68" frameY="-7" frameWidth="715" frameHeight="880"/>
+  <SubTexture name="m-saku-idle0014.png" x="3751" y="2657"  width="590" height="873" frameX="-68" frameY="-7" frameWidth="715" frameHeight="880"/>
+</TextureAtlas>

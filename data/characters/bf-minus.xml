@@ -1,0 +1,23 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Retrospecter/bf-minus" sprite="Vs Retrospecter/minus/minus_bf" y="300" isPlayer="true" flipX="true">
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+
+	<anim x="-46" loop="false" y="13" fps="24" anim="BF NOTE UP0" name="singUP"/>
+
+	<anim x="2" loop="false" y="2" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+
+	<anim x="-53" loop="false" y="1" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+
+	<anim x="-4" loop="false" y="-60" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+
+	<anim x="-45" loop="false" y="13" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
+
+	<anim x="4" loop="false" y="0" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+
+	<anim x="-50" loop="false" y="1" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+
+	<anim x="-1" loop="false" y="-59" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF HEY!!" name="hey"/>
+
+</character>

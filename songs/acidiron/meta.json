@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 180,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HELL"
+	],
+	"needsVoices": true,
+	"parsedColor": -15271169,
+	"displayName": "acidiron",
+	"icon": "Vs Retrospecter/retro",
+	"name": "acidiron",
+	"color": "#16FAFF"
+}

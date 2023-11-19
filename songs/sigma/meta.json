@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 140,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"HELL"
+	],
+	"needsVoices": true,
+	"parsedColor": -15359815,
+	"displayName": "sigma",
+	"icon": "Vs Retrospecter/retro",
+	"name": "sigma",
+	"color": "#15A0B9"
+}

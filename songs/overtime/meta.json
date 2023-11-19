@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 210,
+	"difficulties": [
+		"HARD",
+		"HELL"
+	],
+	"needsVoices": true,
+	"parsedColor": -7508559,
+	"displayName": "Overtime",
+	"icon": "Vs Retrospecter/metro-saku-duo",
+	"name": "overtime",
+	"color": "#8D6DB1"
+}

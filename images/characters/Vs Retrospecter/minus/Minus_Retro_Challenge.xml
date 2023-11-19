@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minus Retro Challenge.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Minus Retro screams among us0000" x="10" y="10" width="671" height="899" frameX="-8" frameY="-17" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0001" x="10" y="10" width="671" height="899" frameX="-8" frameY="-17" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0002" x="691" y="10" width="663" height="898" frameX="-15" frameY="-18" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0003" x="691" y="10" width="663" height="898" frameX="-15" frameY="-18" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0004" x="1364" y="10" width="667" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0005" x="2041" y="10" width="667" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0006" x="2718" y="10" width="683" height="905" frameX="0" frameY="-11" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0007" x="3411" y="10" width="683" height="905" frameX="0" frameY="-11" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0008" x="4104" y="10" width="680" height="905" frameX="-3" frameY="-11" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0009" x="4104" y="10" width="680" height="905" frameX="-3" frameY="-11" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0010" x="4794" y="10" width="670" height="901" frameX="-9" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0011" x="4794" y="10" width="670" height="901" frameX="-9" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0012" x="5474" y="10" width="662" height="901" frameX="-13" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0013" x="5474" y="10" width="662" height="901" frameX="-13" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0014" x="6146" y="10" width="667" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0015" x="6146" y="10" width="667" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0016" x="6823" y="10" width="667" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0017" x="6823" y="10" width="667" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0018" x="7500" y="10" width="667" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0019" x="10" y="925" width="675" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0020" x="695" y="925" width="675" height="901" frameX="-8" frameY="-15" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0021" x="1380" y="925" width="831" height="910" frameX="-132" frameY="0" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0022" x="2221" y="925" width="831" height="910" frameX="-132" frameY="0" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0023" x="3062" y="925" width="829" height="902" frameX="-109" frameY="-8" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0024" x="3901" y="925" width="829" height="902" frameX="-109" frameY="-8" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0025" x="4740" y="925" width="824" height="907" frameX="-114" frameY="-3" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0026" x="5574" y="925" width="824" height="907" frameX="-114" frameY="-3" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0027" x="5574" y="925" width="824" height="907" frameX="-114" frameY="-3" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0028" x="6408" y="925" width="824" height="907" frameX="-114" frameY="-3" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0029" x="6408" y="925" width="824" height="907" frameX="-114" frameY="-3" frameWidth="963" frameHeight="916"/>
+	<SubTexture name="Minus Retro screams among us0030" x="7242" y="925" width="824" height="907" frameX="-114" frameY="-3" frameWidth="963" frameHeight="916"/>
+</TextureAtlas>

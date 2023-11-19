@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bop-top.png" width="3806" height="316">
+  <SubTexture name="head bops center matro mozirc lol0001.png" x="3" y="3"  width="762" height="310" frameX="-53" frameY="-35" frameWidth="860" frameHeight="366"/>
+  <SubTexture name="head bops center matro mozirc lol0002.png" x="3" y="3"  width="762" height="310" frameX="-53" frameY="-35" frameWidth="860" frameHeight="366"/>
+  <SubTexture name="head bops center matro mozirc lol0003.png" x="771" y="3"  width="756" height="310" frameX="-56" frameY="-35" frameWidth="860" frameHeight="366"/>
+  <SubTexture name="head bops center matro mozirc lol0004.png" x="1533" y="3"  width="756" height="310" frameX="-56" frameY="-32" frameWidth="860" frameHeight="366"/>
+  <SubTexture name="head bops center matro mozirc lol0005.png" x="2295" y="3"  width="753" height="310" frameX="-57" frameY="-29" frameWidth="860" frameHeight="366"/>
+  <SubTexture name="head bops center matro mozirc lol0006.png" x="2295" y="3"  width="753" height="310" frameX="-57" frameY="-29" frameWidth="860" frameHeight="366"/>
+  <SubTexture name="head bops center matro mozirc lol0007.png" x="3054" y="3"  width="749" height="309" frameX="-59" frameY="-26" frameWidth="860" frameHeight="366"/>
+  <SubTexture name="head bops center matro mozirc lol0008.png" x="3054" y="3"  width="749" height="309" frameX="-59" frameY="-26" frameWidth="860" frameHeight="366"/>
+</TextureAtlas>

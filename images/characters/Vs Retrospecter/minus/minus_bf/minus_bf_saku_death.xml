@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="minus bf saku death" width="5401" height="5004">
+  <SubTexture name="BF dies Saku0001" x="4" y="4"  width="791" height="458" frameX="-0" frameY="-8" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0060" x="4" y="470"  width="749" height="500" frameX="-42" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0070" x="803" y="4" width="505" height="727" rotated="true"  frameX="-64" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0003" x="4" y="978"  width="713" height="466" frameX="-78" frameY="-0" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0068" x="761" y="739" width="505" height="700" rotated="true"  frameX="-91" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0072" x="1316" y="4" width="505" height="695" rotated="true"  frameX="-96" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0074" x="1316" y="707" width="505" height="661" rotated="true"  frameX="-130" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0075" x="4" y="1452"  width="661" height="505" frameX="-130" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0076" x="673" y="1452"  width="626" height="505" frameX="-165" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0066" x="1829" y="4" width="505" height="604" rotated="true"  frameX="-194" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0067" x="1829" y="616" width="505" height="603" rotated="true"  frameX="-194" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0005" x="1829" y="1227" width="458" height="585" rotated="true"  frameX="-206" frameY="-8" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0078" x="1307" y="1376" width="505" height="560" rotated="true"  frameX="-231" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0089" x="4" y="1965"  width="559" height="505" frameX="-232" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0087" x="571" y="1965"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0091" x="1137" y="1965"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0092" x="1820" y="1820" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0093" x="2342" y="4" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0094" x="2342" y="570" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0095" x="2342" y="1136" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0096" x="2333" y="1702" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0097" x="4" y="2478"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0098" x="570" y="2478"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0099" x="1136" y="2478"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0100" x="1702" y="2478"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0101" x="2333" y="2268" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0102" x="2855" y="4" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0103" x="2855" y="570" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0104" x="2855" y="1136" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0105" x="2846" y="1702" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0106" x="2846" y="2268" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0107" x="4" y="2991"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0108" x="570" y="2991"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0109" x="1136" y="2991"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0110" x="1702" y="2991"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0111" x="2268" y="2834" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0112" x="2781" y="2834"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0113" x="3368" y="4" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0114" x="3368" y="570" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0115" x="3368" y="1136" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0116" x="3359" y="1702" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF Dead Loop Saku0000" x="3359" y="2268" width="506" height="557" rotated="true"  frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0001" x="3359" y="2833" width="506" height="557" rotated="true"  frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0003" x="4" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0005" x="569" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0007" x="1134" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0008" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0023" x="2264" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead confirm Saku0000" x="2829" y="3347" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0001" x="3343" y="3398" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0002" x="3881" y="4" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0003" x="3881" y="569" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0004" x="3881" y="1134" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0005" x="3881" y="1699" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0006" x="3873" y="2264" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0007" x="3873" y="2829" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0008" x="3873" y="3394" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0009" x="2829" y="3912" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0010" x="4" y="4018"  width="557" height="506" frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0011" x="569" y="4018"  width="557" height="506" frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0012" x="1134" y="4018"  width="557" height="506" frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0013" x="1699" y="4018"  width="557" height="506" frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0014" x="2264" y="4018"  width="557" height="506" frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0015" x="3343" y="3963" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0016" x="3857" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0017" x="4395" y="4" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0018" x="4395" y="569" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0019" x="4395" y="1134" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0020" x="4395" y="1699" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0021" x="4387" y="2264" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0022" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF dies Saku0085" x="4387" y="2829" width="505" height="550" rotated="true"  frameX="-241" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0084" x="4387" y="3387"  width="513" height="505" frameX="-278" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0064" x="4" y="4532" width="505" height="468" rotated="true"  frameX="-323" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0065" x="2829" y="4477" width="505" height="475" rotated="true"  frameX="-323" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0080" x="4909" y="4"  width="488" height="505" frameX="-303" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0082" x="4885" y="3900" width="505" height="479" rotated="true"  frameX="-312" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0061" x="4885" y="4387" width="504" height="444" rotated="true"  frameX="-360" frameY="-13" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0062" x="517" y="4532" width="504" height="444" rotated="true"  frameX="-360" frameY="-13" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0063" x="1029" y="4532" width="504" height="444" rotated="true"  frameX="-360" frameY="-13" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0020" x="1541" y="4532" width="500" height="438" rotated="true"  frameX="-353" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0023" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0053" x="3342" y="4528" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0056" x="3850" y="4528" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0058" x="4358" y="4524" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0007" x="4909" y="517"  width="464" height="449" frameX="-327" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0009" x="4909" y="974" width="449" height="416" rotated="true"  frameX="-376" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0011" x="4909" y="1398" width="449" height="416" rotated="true"  frameX="-376" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0012" x="4909" y="1822" width="449" height="416" rotated="true"  frameX="-375" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0014" x="4909" y="2246" width="449" height="416" rotated="true"  frameX="-375" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0016" x="4908" y="2670" width="449" height="416" rotated="true"  frameX="-375" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0018" x="4908" y="3094" width="449" height="424" rotated="true"  frameX="-367" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0002" x="4" y="4"  width="791" height="458" frameX="-0" frameY="-8" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0004" x="4" y="978"  width="713" height="466" frameX="-78" frameY="-0" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0006" x="1829" y="1227" width="458" height="585" rotated="true"  frameX="-206" frameY="-8" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0008" x="4909" y="517"  width="464" height="449" frameX="-327" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0010" x="4909" y="974" width="449" height="416" rotated="true"  frameX="-376" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0013" x="4909" y="1822" width="449" height="416" rotated="true"  frameX="-375" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0015" x="4909" y="2246" width="449" height="416" rotated="true"  frameX="-375" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0017" x="4908" y="2670" width="449" height="416" rotated="true"  frameX="-375" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0019" x="4908" y="3094" width="449" height="424" rotated="true"  frameX="-367" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0021" x="1541" y="4532" width="500" height="438" rotated="true"  frameX="-353" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0022" x="1541" y="4532" width="500" height="438" rotated="true"  frameX="-353" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0024" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0025" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0026" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0027" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0028" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0029" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0030" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0031" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0032" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0033" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0034" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0035" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0036" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0037" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0038" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0039" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0040" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0041" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0042" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0043" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0044" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0045" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0046" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0047" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0048" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0049" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0050" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0051" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0052" x="2049" y="4532" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0054" x="3342" y="4528" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0055" x="3342" y="4528" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0057" x="3850" y="4528" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0059" x="4358" y="4524" width="500" height="431" rotated="true"  frameX="-360" frameY="-17" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0069" x="761" y="739" width="505" height="700" rotated="true"  frameX="-91" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0071" x="803" y="4" width="505" height="727" rotated="true"  frameX="-64" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0073" x="1316" y="4" width="505" height="695" rotated="true"  frameX="-96" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0077" x="673" y="1452"  width="626" height="505" frameX="-165" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0079" x="1307" y="1376" width="505" height="560" rotated="true"  frameX="-231" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0081" x="4909" y="4"  width="488" height="505" frameX="-303" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0083" x="4885" y="3900" width="505" height="479" rotated="true"  frameX="-312" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0086" x="4387" y="2829" width="505" height="550" rotated="true"  frameX="-241" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0088" x="571" y="1965"  width="558" height="505" frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0090" x="4" y="1965"  width="559" height="505" frameX="-232" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0117" x="3359" y="1702" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0118" x="3359" y="1702" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0119" x="3359" y="1702" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF dies Saku0120" x="3359" y="1702" width="505" height="558" rotated="true"  frameX="-233" frameY="-12" frameWidth="812" frameHeight="517"/>
+  <SubTexture name="BF Dead Loop Saku0017" x="3359" y="2268" width="506" height="557" rotated="true"  frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0002" x="3359" y="2833" width="506" height="557" rotated="true"  frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0018" x="3359" y="2833" width="506" height="557" rotated="true"  frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0019" x="3359" y="2833" width="506" height="557" rotated="true"  frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0004" x="4" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0020" x="4" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0021" x="4" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0006" x="569" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0022" x="569" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0009" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0010" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0011" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0012" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0013" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0014" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0015" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0016" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0024" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0025" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0026" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0027" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0028" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0029" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0030" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0031" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0032" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead Loop Saku0033" x="1699" y="3504"  width="557" height="506" frameX="-1" frameY="-6" frameWidth="560" frameHeight="512"/>
+  <SubTexture name="BF Dead confirm Saku0023" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0024" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0025" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0026" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0027" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0028" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0029" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0030" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0031" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0032" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+  <SubTexture name="BF Dead confirm Saku0033" x="4371" y="3959" width="506" height="557" rotated="true"  frameX="-1" frameY="-10" frameWidth="566" frameHeight="516"/>
+</TextureAtlas>

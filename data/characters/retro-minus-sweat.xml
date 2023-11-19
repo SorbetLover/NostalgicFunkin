@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" sprite="Vs Retrospecter/minus/Sweatro_Assets" icon="Vs Retrospecter/retro" y="-90" flipX="false" isPlayer="false">
+	<anim loop="false" name="idle" anim="Minus Retro Sweat Idle" fps="24"/>
+
+	<anim loop="false" x="19" anim="Minus Retro Sweat Up" fps="24" y="118" name="singUP"/>
+
+	<anim loop="false" x="156" anim="Minus Retro Sweat Down" fps="24" y="-130" name="singDOWN"/>
+
+	<anim loop="false" x="337" anim="Minus Retro Sweat Left" fps="24" y="32" name="singLEFT"/>
+
+	<anim loop="false" x="-110" anim="Minus Retro Sweat Right" fps="24" y="40" name="singRIGHT"/>
+</character>

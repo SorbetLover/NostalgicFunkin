@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Maku_Miss_Sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="maku down alt miss0001.png"	x="0"	y="1678"	width="690"	height="496" frameX="-2" frameY="-19" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0002.png"	x="0"	y="3164"	width="661"	height="494" frameX="-9" frameY="-0" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0003.png"	x="0"	y="3164"	width="661"	height="494" frameX="-9" frameY="-0" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0004.png"	x="0"	y="2178"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0005.png"	x="0"	y="2178"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0006.png"	x="0"	y="2671"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0007.png"	x="0"	y="2671"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0008.png"	x="0"	y="2178"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0009.png"	x="0"	y="2178"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0010.png"	x="0"	y="2671"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0011.png"	x="0"	y="2671"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0012.png"	x="0"	y="2178"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0013.png"	x="0"	y="2178"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down alt miss0014.png"	x="0"	y="2671"	width="679"	height="489" frameX="-0" frameY="-5" frameWidth="692" frameHeight="515"/>
+	<SubTexture name="maku down miss0001.png"	x="0"	y="0"	width="898"	height="493" frameX="-0" frameY="-0" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0002.png"	x="0"	y="497"	width="884"	height="403" frameX="-2" frameY="-89" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0003.png"	x="0"	y="497"	width="884"	height="403" frameX="-2" frameY="-89" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0004.png"	x="0"	y="904"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0005.png"	x="0"	y="904"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0006.png"	x="0"	y="1291"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0007.png"	x="0"	y="1291"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0008.png"	x="0"	y="904"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0009.png"	x="0"	y="904"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0010.png"	x="0"	y="1291"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0011.png"	x="0"	y="1291"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0012.png"	x="0"	y="904"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0013.png"	x="0"	y="904"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku down miss0014.png"	x="0"	y="1291"	width="884"	height="383" frameX="-2" frameY="-108" frameWidth="898" frameHeight="493"/>
+	<SubTexture name="maku left alt miss0001.png"	x="888"	y="1151"	width="604"	height="730" frameX="-0" frameY="-0" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0002.png"	x="2098"	y="0"	width="528"	height="572" frameX="-52" frameY="-155" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0003.png"	x="2098"	y="0"	width="528"	height="572" frameX="-52" frameY="-155" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0004.png"	x="2486"	y="2502"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0005.png"	x="2486"	y="2502"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0006.png"	x="2458"	y="3237"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0007.png"	x="2458"	y="3237"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0008.png"	x="2486"	y="2502"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0009.png"	x="2486"	y="2502"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0010.png"	x="2458"	y="3237"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0011.png"	x="2458"	y="3237"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0012.png"	x="2486"	y="2502"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0013.png"	x="2486"	y="2502"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left alt miss0014.png"	x="2458"	y="3237"	width="527"	height="573" frameX="-46" frameY="-154" frameWidth="604" frameHeight="730"/>
+	<SubTexture name="maku left miss0001.png"	x="888"	y="497"	width="609"	height="650" frameX="-0" frameY="-0" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0002.png"	x="2683"	y="601"	width="523"	height="597" frameX="-73" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0003.png"	x="2683"	y="601"	width="523"	height="597" frameX="-73" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0004.png"	x="2496"	y="1824"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0005.png"	x="2496"	y="1824"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0006.png"	x="2630"	y="0"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0007.png"	x="2630"	y="0"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0008.png"	x="2496"	y="1824"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0009.png"	x="2496"	y="1824"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0010.png"	x="2630"	y="0"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0011.png"	x="2630"	y="0"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0012.png"	x="2496"	y="1824"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0013.png"	x="2496"	y="1824"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku left miss0014.png"	x="2630"	y="0"	width="523"	height="597" frameX="-64" frameY="-47" frameWidth="609" frameHeight="650"/>
+	<SubTexture name="maku right alt miss0001.png"	x="3017"	y="2425"	width="507"	height="797" frameX="-51" frameY="-0" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0002.png"	x="1501"	y="0"	width="593"	height="712" frameX="-0" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0003.png"	x="1501"	y="0"	width="593"	height="712" frameX="-0" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0004.png"	x="1496"	y="1151"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0005.png"	x="1496"	y="1151"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0006.png"	x="1307"	y="1885"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0007.png"	x="1307"	y="1885"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0008.png"	x="1496"	y="1151"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0009.png"	x="1496"	y="1151"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0010.png"	x="1307"	y="1885"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0011.png"	x="1307"	y="1885"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0012.png"	x="1496"	y="1151"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0013.png"	x="1496"	y="1151"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right alt miss0014.png"	x="1307"	y="1885"	width="596"	height="712" frameX="-7" frameY="-84" frameWidth="603" frameHeight="797"/>
+	<SubTexture name="maku right miss0001.png"	x="683"	y="2178"	width="620"	height="650" frameX="-24" frameY="-0" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0002.png"	x="2096"	y="716"	width="583"	height="633" frameX="-0" frameY="-14" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0003.png"	x="2096"	y="716"	width="583"	height="633" frameX="-0" frameY="-14" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0004.png"	x="1897"	y="2601"	width="585"	height="632" frameX="-5" frameY="-15" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0005.png"	x="1897"	y="2601"	width="585"	height="632" frameX="-5" frameY="-15" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0006.png"	x="1907"	y="1867"	width="585"	height="631" frameX="-5" frameY="-16" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0007.png"	x="1907"	y="1867"	width="585"	height="631" frameX="-5" frameY="-16" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0008.png"	x="1897"	y="2601"	width="585"	height="632" frameX="-5" frameY="-15" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0009.png"	x="1897"	y="2601"	width="585"	height="632" frameX="-5" frameY="-15" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0010.png"	x="1907"	y="1867"	width="585"	height="631" frameX="-5" frameY="-16" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0011.png"	x="1907"	y="1867"	width="585"	height="631" frameX="-5" frameY="-16" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0012.png"	x="1897"	y="2601"	width="585"	height="632" frameX="-5" frameY="-15" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0013.png"	x="1897"	y="2601"	width="585"	height="632" frameX="-5" frameY="-15" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku right miss0014.png"	x="1907"	y="1867"	width="585"	height="631" frameX="-5" frameY="-16" frameWidth="644" frameHeight="650"/>
+	<SubTexture name="maku up alt miss0001.png"	x="1291"	y="2832"	width="602"	height="775" frameX="-0" frameY="-0" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0002.png"	x="2989"	y="3226"	width="462"	height="635" frameX="-95" frameY="-139" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0003.png"	x="2989"	y="3226"	width="462"	height="635" frameX="-95" frameY="-139" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0004.png"	x="3023"	y="1202"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0005.png"	x="3023"	y="1202"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0006.png"	x="3210"	y="0"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0007.png"	x="3210"	y="0"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0008.png"	x="3023"	y="1202"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0009.png"	x="3023"	y="1202"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0010.png"	x="3210"	y="0"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0011.png"	x="3210"	y="0"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0012.png"	x="3023"	y="1202"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0013.png"	x="3023"	y="1202"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up alt miss0014.png"	x="3210"	y="0"	width="462"	height="645" frameX="-95" frameY="-129" frameWidth="602" frameHeight="775"/>
+	<SubTexture name="maku up miss0001.png"	x="665"	y="3164"	width="622"	height="616" frameX="-0" frameY="-0" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0002.png"	x="902"	y="0"	width="557"	height="462" frameX="-64" frameY="-126" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0003.png"	x="902"	y="0"	width="557"	height="462" frameX="-64" frameY="-126" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0004.png"	x="1897"	y="3237"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0005.png"	x="1897"	y="3237"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0006.png"	x="2096"	y="1353"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0007.png"	x="2096"	y="1353"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0008.png"	x="1897"	y="3237"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0009.png"	x="1897"	y="3237"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0010.png"	x="2096"	y="1353"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0011.png"	x="2096"	y="1353"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0012.png"	x="1897"	y="3237"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0013.png"	x="1897"	y="3237"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+	<SubTexture name="maku up miss0014.png"	x="2096"	y="1353"	width="557"	height="467" frameX="-64" frameY="-121" frameWidth="622" frameHeight="616"/>
+</TextureAtlas>

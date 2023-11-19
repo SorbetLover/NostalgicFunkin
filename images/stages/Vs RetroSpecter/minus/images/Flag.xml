@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Flag.png">
+    <SubTexture name="Flag Wave Day0000" x="0" y="0" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Day0001" x="0" y="164" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Day0002" x="0" y="328" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Evening0000" x="0" y="492" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Evening0001" x="0" y="656" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Evening0002" x="0" y="820" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Night0000" x="0" y="984" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Night0001" x="0" y="1148" width="2104" height="164"/>
+    <SubTexture name="Flag Wave Night0002" x="0" y="1312" width="2104" height="164"/>
+</TextureAtlas>

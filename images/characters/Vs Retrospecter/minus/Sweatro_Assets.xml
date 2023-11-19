@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sweatro Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Minus Retro Sweat Down Note0000" x="10" y="10" width="842" height="738" frameX="0" frameY="-4" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0001" x="10" y="10" width="842" height="738" frameX="0" frameY="-4" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0002" x="862" y="10" width="835" height="740" frameX="-3" frameY="-3" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0003" x="862" y="10" width="835" height="740" frameX="-3" frameY="-3" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0004" x="1707" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0005" x="1707" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0006" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0007" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0008" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0009" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0010" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0011" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0012" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Down Note0013" x="2546" y="10" width="829" height="743" frameX="-6" frameY="0" frameWidth="842" frameHeight="743"/>
+	<SubTexture name="Minus Retro Sweat Grunt0000" x="3385" y="10" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0001" x="3385" y="10" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0002" x="4058" y="10" width="671" height="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0003" x="4058" y="10" width="671" height="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0004" x="4739" y="10" width="671" height="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0005" x="4739" y="10" width="671" height="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0006" x="5420" y="10" width="671" height="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0007" x="5420" y="10" width="671" height="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0008" x="6101" y="10" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899"/>
+	<SubTexture name="Minus Retro Sweat Grunt0009" x="6101" y="10" width="663" height="898" frameX="-7" frameY="-1" frameWidth="671" frameHeight="899"/>
+	<SubTexture name="Minus Retro Sweat Idle0000" x="6774" y="10" width="689" height="895" frameX="-1" frameY="-11" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0001" x="6774" y="10" width="689" height="895" frameX="-1" frameY="-11" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0002" x="7473" y="10" width="688" height="895" frameX="0" frameY="-12" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0003" x="7473" y="10" width="688" height="895" frameX="0" frameY="-12" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0004" x="10" y="919" width="676" height="901" frameX="-10" frameY="-7" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0005" x="10" y="919" width="676" height="901" frameX="-10" frameY="-7" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0006" x="696" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0007" x="696" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0008" x="1373" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0009" x="1373" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0010" x="2050" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0011" x="2050" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0012" x="1373" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Idle0013" x="1373" y="919" width="667" height="908" frameX="-17" frameY="0" frameWidth="690" frameHeight="908"/>
+	<SubTexture name="Minus Retro Sweat Left Note0000" x="2727" y="919" width="1022" height="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0001" x="2727" y="919" width="1022" height="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0002" x="3759" y="919" width="985" height="921" frameX="-35" frameY="-1" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0003" x="3759" y="919" width="985" height="921" frameX="-35" frameY="-1" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0004" x="4754" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0005" x="4754" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0006" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0007" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0008" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0009" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0010" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0011" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0012" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Left Note0013" x="5714" y="919" width="950" height="920" frameX="-68" frameY="-2" frameWidth="1022" frameHeight="922"/>
+	<SubTexture name="Minus Retro Sweat Right Note0000" x="6674" y="919" width="896" height="960" frameX="-28" frameY="0" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0001" x="6674" y="919" width="896" height="960" frameX="-28" frameY="0" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0002" x="10" y="1889" width="895" height="955" frameX="-14" frameY="-5" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0003" x="10" y="1889" width="895" height="955" frameX="-14" frameY="-5" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0004" x="915" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0005" x="915" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0006" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0007" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0008" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0009" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0010" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0011" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0012" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Right Note0013" x="1820" y="1889" width="895" height="950" frameX="0" frameY="-10" frameWidth="924" frameHeight="960"/>
+	<SubTexture name="Minus Retro Sweat Up Note0000" x="2725" y="1889" width="820" height="1031" frameX="0" frameY="0" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0001" x="2725" y="1889" width="820" height="1031" frameX="0" frameY="0" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0002" x="3555" y="1889" width="825" height="1019" frameX="0" frameY="-12" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0003" x="3555" y="1889" width="825" height="1019" frameX="0" frameY="-12" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0004" x="4390" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0005" x="4390" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0006" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0007" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0008" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0009" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0010" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0011" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0012" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0013" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+	<SubTexture name="Minus Retro Sweat Up Note0014" x="5236" y="1889" width="836" height="1008" frameX="0" frameY="-22" frameWidth="836" frameHeight="1031"/>
+</TextureAtlas>

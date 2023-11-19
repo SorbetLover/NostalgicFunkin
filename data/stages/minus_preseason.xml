@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs RetroSpecter/minus/images/" name="minus_preseason" zoom="0.5">
+	<sprite x="-1213" y="-1243" sprite="background_preseason" name="bg"/>
+	
+	<sprite x="-177.75" sprite="mics" y="-817.8" updateHitbox="true" scale="0.95" name="mics">
+		<anim loop="true" name="day" anim="Day" fps="0"/>
+	</sprite>
+
+	<sprite x="-253" name="Flag" sprite="Flag" y="-355">
+		<anim loop="true" name="day" anim="Flag Wave Day" fps="12"/>
+	</sprite>
+
+	<gf x="150" scroll="1" alpha="0.0001"/>
+	<dad x="-149" camyoffset="-100" y="241.5"/>
+	<bf x="1078.5" camyoffset="-200" y="266"/>
+	<combo/>
+
+	<sprite x="-1211.75" y="-1247.5" sprite="overlay1" name="overlay1"/>
+</stage>

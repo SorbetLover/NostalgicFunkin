@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bop-right.png" width="1831" height="907">
+  <SubTexture name="headbops right0001.png" x="3" y="3"  width="363" height="892" frameX="-47" frameY="-49" frameWidth="414" frameHeight="947"/>
+  <SubTexture name="headbops right0002.png" x="3" y="3"  width="363" height="892" frameX="-47" frameY="-49" frameWidth="414" frameHeight="947"/>
+  <SubTexture name="headbops right0003.png" x="372" y="3"  width="361" height="892" frameX="-49" frameY="-49" frameWidth="414" frameHeight="947"/>
+  <SubTexture name="headbops right0004.png" x="739" y="3"  width="361" height="895" frameX="-49" frameY="-46" frameWidth="414" frameHeight="947"/>
+  <SubTexture name="headbops right0005.png" x="1106" y="3"  width="359" height="898" frameX="-51" frameY="-43" frameWidth="414" frameHeight="947"/>
+  <SubTexture name="headbops right0006.png" x="1106" y="3"  width="359" height="898" frameX="-51" frameY="-43" frameWidth="414" frameHeight="947"/>
+  <SubTexture name="headbops right0007.png" x="1471" y="3"  width="357" height="901" frameX="-53" frameY="-40" frameWidth="414" frameHeight="947"/>
+  <SubTexture name="headbops right0008.png" x="1471" y="3"  width="357" height="901" frameX="-53" frameY="-40" frameWidth="414" frameHeight="947"/>
+</TextureAtlas>

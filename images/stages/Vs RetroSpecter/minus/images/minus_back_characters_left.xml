@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bop-left.png" width="2497" height="708">
+  <SubTexture name="head bops left0001.png" x="3" y="3"  width="497" height="694" frameX="-4" frameY="-27" frameWidth="543" frameHeight="736"/>
+  <SubTexture name="head bops left0002.png" x="3" y="3"  width="497" height="694" frameX="-4" frameY="-27" frameWidth="543" frameHeight="736"/>
+  <SubTexture name="head bops left0003.png" x="506" y="3"  width="494" height="694" frameX="-4" frameY="-27" frameWidth="543" frameHeight="736"/>
+  <SubTexture name="head bops left0004.png" x="1006" y="3"  width="494" height="697" frameX="-4" frameY="-24" frameWidth="543" frameHeight="736"/>
+  <SubTexture name="head bops left0005.png" x="1506" y="3"  width="493" height="700" frameX="-4" frameY="-21" frameWidth="543" frameHeight="736"/>
+  <SubTexture name="head bops left0006.png" x="1506" y="3"  width="493" height="700" frameX="-4" frameY="-21" frameWidth="543" frameHeight="736"/>
+  <SubTexture name="head bops left0007.png" x="2005" y="3"  width="489" height="702" frameX="-4" frameY="-18" frameWidth="543" frameHeight="736"/>
+  <SubTexture name="head bops left0008.png" x="2005" y="3"  width="489" height="702" frameX="-4" frameY="-18" frameWidth="543" frameHeight="736"/>
+</TextureAtlas>
