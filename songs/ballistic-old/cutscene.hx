@@ -30,6 +30,7 @@ function create() {
     focusOn(game.dad);
 
     // This goes from the first action/event that happens in the cutscene to the last in order
+    // Kade ver source code was so hard to read so I used the Lua one 
     new FlxTimer().start(52/24, function() {
         mBreak.play(); // Whitty breaking the mic sound
         game.camGame.shake(0.004, 0.2);
