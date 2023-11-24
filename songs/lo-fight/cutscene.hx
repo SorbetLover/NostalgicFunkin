@@ -23,8 +23,11 @@ function create() {
     whittyCut.animation.play('play');
     whittyCut.antialiasing = true;
     add(whittyCut);
-    if (whittyCut.animation.finished) whittyCut.animation.finish();
+    if (whittyCut.animation.finished) whittyCut.animation.finish();// checks if the animation is finished, then it freezes
 
+
+    new FlxTimer().start(34/24, function() rip.play());
+    new FlxTimer().start(41/24, function() fire.play());
 
     new FlxTimer().start(224/24, function() {
         remove(whittyCut);
@@ -33,13 +36,6 @@ function create() {
         dialogueBgAlpha = 0.5;
         game.startCutscene(null, function() close());
         city.fadeOut();
-    });
-
-    new FlxTimer().start(34/24, function() {
-        rip.play();
-    });
-    new FlxTimer().start(41/24, function() {
-        fire.play();
     });
     new FlxTimer().start(147/24, function() {
         beepboop.play();
