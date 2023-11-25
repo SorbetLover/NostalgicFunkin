@@ -11,6 +11,7 @@ function postCreate() {
     insert(members.indexOf(gf) - 1, lights);
     stagebackkapiold.blend = "add";
     stagefrontkapiold.blend = "add";
+    if (Options.lowMemoryMode) remove(lights);
 }
 
 function beatHit(curBeat)

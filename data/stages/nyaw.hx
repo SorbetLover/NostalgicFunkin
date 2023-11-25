@@ -19,6 +19,10 @@ function postCreate() {
 	bottomBoppers.setGraphicSize(Std.int(bottomBoppers.width * 1));
 	bottomBoppers.updateHitbox();
 	insert(members.indexOf(gf) - 1, bottomBoppers);
+	if (Options.lowMemoryMode) {
+		remove(upperBoppers);
+		remove(bottomBoppers);
+	} 
 }
 
 function beatHit(curBeat) {

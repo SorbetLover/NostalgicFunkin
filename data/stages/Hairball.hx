@@ -29,6 +29,11 @@ function postCreate() {
     littleGuys.setGraphicSize(Std.int(littleGuys.width * 1));
     littleGuys.updateHitbox();
     insert(members.indexOf(lights) + 1, littleGuys);
+    if (Options.lowMemoryMode) {
+        remove(upperBoppers);
+        remove(littleGuys);
+        remove(lights);
+    }
 }
 
 function beatHit(curBeat) {
