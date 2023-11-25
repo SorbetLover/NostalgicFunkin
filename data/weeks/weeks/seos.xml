@@ -3,5 +3,5 @@
 	<song>headache</song>
 	<song>nerves</song>
 	<song>release</song>
-	<song>fading</song>
+	<song hide="true">fading</song>
 </week>
