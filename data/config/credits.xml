@@ -125,7 +125,7 @@
 	/>
 	<credit
 	name="Tsaku"
-	desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and raw characters files.
+	desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and characters files.
 	• Minor porting help with foolhardy re-port.
 	• Ported Vs AGOTI."
 	url="https://gamebanana.com/members/2298631"
@@ -166,6 +166,11 @@
 	name="mr.Wifi7"
 	desc="• Made Chromatic Aberration shader."
 	url="https://gamebanana.com/tools/12082"
+	/>
+	<credit
+	name="whatify"
+	desc="• Helped turning the release song cutscene spritesheet into a video!"
+	url="https://www.twitch.tv/quoteowo"
 	/>
 	<credit 
 	name="Daninnocent" 

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="285" y="65">
+	<anim name="normal" anim="BF Portrait Enter instance 10000" fps="24" />
+</character>
