@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs Neon/" zoom="0.85">
+	<sprite antialiasing="false" x="-1900" updateHitbox="true" y="-2260" sprite="bg" scale="10" name="bg"/>
+	<gf/>
+	<dad x="23.5" y="22"/>
+	<bf x="911.5" y="96.5"/>
+	<combo/>
+</stage>
