@@ -5,6 +5,13 @@ function create() {
 	thefunnyeffect.screenCenter();
 	thefunnyeffect.cameras = [camHUD];
 	add(thefunnyeffect);
+
+	gf.playAnim("scared");
+
+	if (!PlayState.isStoryMode) {
+		stage.animation.remove('bgDuringBreak');
+		stage.animation.remove('bgBeforeBreak');
+	}
 }
 
 function postUpdate() {

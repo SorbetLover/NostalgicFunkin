@@ -1,71 +1,72 @@
 <!DOCTYPE codename-engine-dialogue>
 <dialogue box="default">
 	<!-- All characters -->
-	<char name="garcello" char="garcello" position="left" />
-	<char name="bfgarcello" char="bfgarcello" position="right" />
+	<char name="garNormal" char="garNormal" position="left" />
+	<char name="garNormalTwo" char="garNormalTwo" position="left" />
+	<char name="bf_norm" char="bf_norm" position="right" />
 
 	<!-- Lines -->
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		beep
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal">
 		What's up, little man?
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal" stay="true">
 		Did the smoke catch your attention?
 	</line>
 
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		bee bop
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal">
 		Yeah, it's pretty cool. You should try it out.
 	</line>
 
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		beep bo
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal">
 		Are ya sure? Come on...
 	</line>
 
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		beep bo
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal">
 		Hm...
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal" stay="true">
 		Tell you what.
 	</line>
 
-	<line char="garcello">
+	<line char="garNormalTwo" stay="true">
 		If you beat me in a friendly little rap battle, I'll get off your case.
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal" stay="true">
 		Sound cool, little man?
 	</line>
 
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		beep bo bop!
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal">
 		Heh, that got you hyped up. It's settled then.
 	</line>
 
-	<line char="garcello">
+	<line char="garNormalTwo" stay="true">
 		As long as you don't mind me smoking a bit. 
 	</line>
 
-	<line char="garcello">
+	<line char="garNormal" stay="true">
 		Helps calm the nerves, y'know?
 	</line>
 </dialogue>

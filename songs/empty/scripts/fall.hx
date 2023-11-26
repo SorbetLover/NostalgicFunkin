@@ -1,3 +1,5 @@
+function create() importScript("data/scrollSpeed toggle");
+
 function beatHit() {
     switch (curBeat) {
         case 240:

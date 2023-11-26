@@ -9,6 +9,7 @@ function postCreate() {
     lights.setGraphicSize(Std.int(lights.width * 1));
     lights.updateHitbox();
     insert(members.indexOf(gf) - 1, lights);
+    if (Options.lowMemoryMode) remove(lights);
 }
 
 function beatHit(curBeat) {
@@ -24,18 +25,10 @@ function beatHit(curBeat) {
         lights.animation.frameIndex += FlxG.random.int(1, 4); // offbeat because the original had it so fuck it
 
         switch (curBeat) {
-            case 31:
-                dad.playAnim('meow', true);
-            case 135:
-                dad.playAnim('meow', true);
-            case 203:
-                dad.playAnim('meow', true);
-            case 282:
-                FlxTween.tween(FlxG.camera, {zoom: 1}, 0.5, { ease: FlxEase.quadInOut});
-            case 283:
-                boyfriend.playAnim('hey', true);
-            case 363:
-                dad.playAnim('meow', true);
+            case 31, 135, 203: dad.playAnim('meow', true);
+            case 282: FlxTween.tween(FlxG.camera, {zoom: 1}, 0.5, { ease: FlxEase.quadInOut});
+            case 283: boyfriend.playAnim('hey', true);
+            case 363: dad.playAnim('meow', true);
             case 434:
                 dad.playAnim('stare', true);
                 new FlxTimer().start(1.1, function(tmr:FlxTimer){

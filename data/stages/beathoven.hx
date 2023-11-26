@@ -9,6 +9,7 @@ function postCreate() {
     lights.setGraphicSize(Std.int(lights.width * 1));
     lights.updateHitbox();
     insert(members.indexOf(gf) - 1, lights);
+    if (Options.lowMemoryMode) remove(lights);
 }
 
 function beatHit(curBeat)

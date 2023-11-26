@@ -1,55 +1,55 @@
 <!DOCTYPE codename-engine-dialogue>
 <dialogue box="default">
 	<!-- All characters -->
-	<char name="garcelloNerves" char="garcelloNerves" position="left" />
-	<char name="bfgarcello" char="bfgarcello" position="right" />
+	<char name="garSmoked" char="garSmoked" position="left" />
+	<char name="bf_norm" char="bf_norm" position="right" />
 
 	<!-- Lines -->
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		beep bop!
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked">
 		Hhh...
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked" stay="true">
 		Hey.
 	</line>
 
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		ski boop?
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked">
 		That was fun, but... my chest is starting to feel funny.
 	</line>
 
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		beep...?
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked">
 		I-I'm not giving up just yet though. You've got some tight bars, little man.
 	</line>
 
-	<line char="bfgarcello">
+	<line char="bf_norm">
 		bee bo ski bop!
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked">
 		Oh? You want me to keep going?
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked" stay="true">
 		F-fine by me. I'm enjoying this actually.
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked" stay="true">
 		One more couldn't hurt... 
 	</line>
 
-	<line char="garcelloNerves">
+	<line char="garSmoked" stay="true">
 		...Right?
 	</line>
 </dialogue>

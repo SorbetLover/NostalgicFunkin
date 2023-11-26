@@ -1,5 +1,9 @@
 <!DOCTYPE codename-engine-week>
 <week name="Back Alley Blitz" chars="whitmore,bf,gf" sprite="bonusWeek">
+<difficulty name="easy"/>
+<difficulty name="normal"/>
+<difficulty name="hard"/>
+<difficulty name="rechart"/>
 	<song>lo-fight</song>
 	<song>overhead</song>
 	<song>ballistic-old</song>

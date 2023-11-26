@@ -1,18 +1,19 @@
 {
 	"opponentModeAllowed": true,
-	"icon": "Vs Whitty/whitty",
 	"difficulties": [
 		"EASY",
 		"NORMAL",
-		"HARD"
+		"HARD",
+		"Rechart"
 	],
+	"icon": "Vs Whitty/whitty",
 	"parsedColor": -15726294,
-	"color": "#10092A",
-	"name": "overhead",
 	"coopAllowed": true,
+	"name": "overhead",
+	"color": "#10092A",
 	"stepsPerBeat": 4,
-	"displayName": "overhead",
 	"beatsPerMesure": 4,
+	"displayName": "overhead",
 	"needsVoices": true,
 	"bpm": 180.5
 }

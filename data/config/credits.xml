@@ -1,4 +1,16 @@
 <!DOCTYPE codename-mod-credits>
+<!--
+	Putting this here so I don't fuckin forget.
+	- TO-DOS:
+		- Vs Mami
+		- Vs Tricky
+		- Vs Void
+		- Vs QT
+		- Vs Garcello
+		- Vs Agoti
+		- Vs Retrospecter
+-->
+
 <!-- B SIDES -->
 <menu name="B Sides" desc="B Sides creators' crdits.">
 	<credit name="Rozebud" 		desc="Song Composer, Artist and Charter" 	url="https://twitter.com/helpme_thebigt"/>
@@ -113,7 +125,7 @@
 	/>
 	<credit
 	name="Tsaku"
-	desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and raw characters files.
+	desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and characters files.
 	• Minor porting help with foolhardy re-port.
 	• Ported Vs AGOTI."
 	url="https://gamebanana.com/members/2298631"
@@ -121,8 +133,8 @@
 	<credit
 	name="MAZ"
 	desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.
-	• recharted Genocide, Your Demise, Hairball.
-	• re-ported Vs Kapi code-wise and minor help on Vs Whitty.
+	• recharted Genocide, Your Demise, Hairball, Whitty week except ballistic.
+	• re-ported Vs Kapi code-wise and minor help on Vs Whitty's cutscenes.
 	• Ported Starving Artist.
 	• Minor menu coding.
 	• Ported Vs Pompom story mode assets and cutscenes.
@@ -155,6 +167,11 @@
 	desc="• Made Chromatic Aberration shader."
 	url="https://gamebanana.com/tools/12082"
 	/>
+	<credit
+	name="whatify"
+	desc="• Helped turning the release song cutscene spritesheet into a video!"
+	url="https://www.twitch.tv/quoteowo"
+	/>
 	<credit 
 	name="Daninnocent" 
 	desc="• Exported Week 6 pixel noteskin as a spritesheet." 
@@ -176,13 +193,18 @@
 	url="https://github.com/lunarcleint"
 	/>
 	<credit
+	name="Sol" 
+	desc="• Ballistic-old Recharter." 
+	url="https://www.youtube.com/@Vosian"
+	/>
+	<credit
 	name="inkybox" 
 	desc="• Change character event." 
 	url="https://github.com/kittstone"
 	/>
 	<credit
 	name="Pumpsuki" 
-	desc="• Re-charted Bushwhack with proper note syncing." 
+	desc="• Recharted Bushwhack with proper note syncing." 
 	url="https://gamebanana.com/members/2098002"
 	/>
 </menu>
