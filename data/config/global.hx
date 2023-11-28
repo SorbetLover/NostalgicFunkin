@@ -1,4 +1,4 @@
-function postGameStart() {
+function update() {
     if (FlxG.save.data.shaderShit == null) FlxG.save.data.shaderShit = true;
     if (FlxG.save.data.shakeShit == null) FlxG.save.data.shakeShit = true;
     if (FlxG.save.data.flashFX == null) FlxG.save.data.flashFX = true;

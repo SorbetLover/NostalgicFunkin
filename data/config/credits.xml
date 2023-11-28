@@ -6,9 +6,9 @@
 		- Vs Tricky
 		- Vs Void
 		- Vs QT
-		- Vs Garcello
 		- Vs Agoti
 		- Vs Retrospecter
+		- Vs Neon
 -->
 
 <!-- B SIDES -->
@@ -49,6 +49,13 @@
 <menu name="Vs Carol" desc="Vs Carol creators' credits.">
 	<credit name="bbpanzu" desc="Artist and Musician." url="https://gamebanana.com/members/1764067"/>
 	<credit name="GENOX" desc="Carol UTAU." url="https://gamebanana.com/members/1771171"/>
+</menu>
+
+<!-- Smoke 'Em Out Struggle | Vs Garcello -->
+
+<menu name="Vs Garcello" desc="Vs Garcello creators' credits.">
+	<credit name="atsuover" desc="Art, Music, Coding." url="https://gamebanana.com/members/1792259"/>
+	<credit name="Rageminer" desc="Art, Music, Coding." url="https://gamebanana.com/members/1789102"/>
 </menu>
 
 <!-- VS Pompom -->
