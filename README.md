@@ -24,6 +24,7 @@ Here are our planned ones so far. Might get extended later down the road.
 - [x] Vs Void | Finished without dialogue
 - [x] Vs QT | Finished without dialogue, mechanics, modcharts
 - [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno)
+- [x] vs neon | Finished without dialogue and cutscene
 - [ ] Vs. Hex (V1 only maybe)
 - [ ] Vs. Hatsune Miku V2
 - [ ] Vs. Annie
@@ -32,7 +33,6 @@ Here are our planned ones so far. Might get extended later down the road.
 - [ ] Starlight Mayhem
 - [ ] Vs. Sunday
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught]
-- [ ] vs neon
 - [ ] vs cg5
 - [ ] parappa mod
 - [ ] vs sky
