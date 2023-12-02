@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bob/original/bob-mad" y="0" isGF="false" flipX="true" isPlayer="false" holdTime="6.1" sprite="bob/original/you-good-dude">
+	<anim x="0" loop="true" y="0" fps="24" anim="bobismad" name="idle"/>
+</character>

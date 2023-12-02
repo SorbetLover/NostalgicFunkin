@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 120,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -5592406,
+	"displayName": "withered",
+	"icon": "bob/original/bob-annoyed",
+	"name": "withered",
+	"color": "#AAAAAA"
+}

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage>
+	<sprite sprite="stages/bob/grass rainy/bg" name="stages/bob/grass rainy/bg"/>
+	<sprite x="-304.5" y="-207.5" sprite="stages/bob/grass rainy/ground" name="stages/bob/grass rainy/ground"/>
+	<gf x="578.5" y="63"/>
+	<dad x="200.5" y="248.5"/>
+	<bf x="936" y="-38"/>
+	<combo x="729" y="416"/>
+</stage>

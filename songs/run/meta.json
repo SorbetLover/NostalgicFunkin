@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 200,
+	"difficulties": [
+		"EASY",
+		"HARD",
+		"NORMAL",
+		"VERY-EASY"
+	],
+	"needsVoices": true,
+	"parsedColor": -15856114,
+	"displayName": "run",
+	"icon": "bob/original/bob-mad",
+	"name": "run",
+	"color": "#0E0E0E"
+}

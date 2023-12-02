@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage>
+	<sprite scrolly="0.1" x="-100" sprite="stages/bob/hell/bg" name="bg" scrollx="0.1"/>
+	<sprite scrolly="0.3" x="-271" sprite="stages/bob/hell/organs" name="organs" scrollx="0.3"/>
+	<sprite scrolly="0.8" x="-60" y="60" sprite="stages/bob/hell/veins" scrollx="0.8" name="veins"/>
+	<sprite x="-537" y="-158" sprite="stages/bob/hell/ground" name="ground"/>
+	<gf x="486.5" y="162.75"/>
+	<dad x="319" y="431.75"/>
+	<bf x="814" y="89.75"/>
+	<combo/>
+</stage>
