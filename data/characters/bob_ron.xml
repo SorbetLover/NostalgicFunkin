@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bob/onslaught/ron" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="bob/onslaught/RONTHECOOLGUY">
+	<anim x="0" loop="false" y="0" fps="24" anim="Idle" name="idle"/>
+	<anim x="40" loop="false" y="-120" fps="24" anim="Sing Down" name="singDOWN"/>
+	<anim x="-89" loop="false" y="-51" fps="24" anim="Sing Right" name="singRIGHT"/>
+	<anim x="42" loop="false" y="38" fps="24" anim="Sing Up" name="singUP"/>
+	<anim x="98" loop="false" y="-27" fps="24" anim="Sing Left" name="singLEFT"/>
+	<anim x="71" loop="false" y="-40" fps="24" anim="Ugh" name="cheer"/>
+</character>
