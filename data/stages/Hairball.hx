@@ -38,10 +38,9 @@ function postCreate() {
 
 function beatHit(curBeat) {
     switch (curBeat % 2) {
-        case 0:
-            littleGuys.animation.play('bop', true);
-        case 1:
-            upperBoppers.animation.play('bop', true);
+        case 0: littleGuys.animation.play('bop', true);
+        case 1: upperBoppers.animation.play('bop', true);
     }
-    lights.animation.frameIndex += FlxG.random.int(1, 4); // offbeat because the original had it so fuck it
+    // lights.animation.frameIndex += FlxG.random.int(1, 4); if you want to go just like the original
+    lights.animation.frameIndex += 1;
 }

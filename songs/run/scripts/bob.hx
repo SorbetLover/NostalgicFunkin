@@ -40,7 +40,7 @@ function Bobismad()
 	bobsound.play();
 	bobsound.volume = 1;
 	isbobmad = false;
-	if (!FlxG.fullscreen) shakescreen();
+	if (!FlxG.fullscreen && FlxG.save.data.shakeShit) shakescreen();
 	new FlxTimer().start(0.5 , function(tmr:FlxTimer)
 	{
 		resetBobismad();

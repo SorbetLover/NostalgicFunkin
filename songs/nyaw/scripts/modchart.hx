@@ -22,7 +22,7 @@ function beatHit(curBeat) {
 			FlxG.camera.zoom += 0.02;
 			camHUD.zoom += 0.022;
 		}
-        lights.animation.frameIndex += FlxG.random.int(1, 4); // offbeat because the original had it so fuck it
+        lights.animation.frameIndex += 1;
 
         switch (curBeat) {
             case 31, 135, 203: dad.playAnim('meow', true);
@@ -32,9 +32,7 @@ function beatHit(curBeat) {
             case 434:
                 dad.playAnim('stare', true);
                 new FlxTimer().start(1.1, function(tmr:FlxTimer){
-                    var black:FlxSprite = new FlxSprite(-100, -100).makeSolid(FlxG.width * 2, FlxG.height * 2, FlxColor.BLACK);
-                    black.scrollFactor.set();
-                    add(black);
+                    camGame.fade(FlxColor.BLACK, 0);
                 });
         }
 }

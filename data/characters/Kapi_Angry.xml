@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="Vs Kapi/kapi angry" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Kapi/kapi_angry">
+<character x="50" icon="Vs Kapi/kapi angry" y="25" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Kapi/kapi_angry">
 	<anim x="0" loop="false" y="0" fps="24" anim="Dad meow" name="meow"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="Dad idle dance" name="idle"/>
 	<anim x="0" loop="false" y="-30" fps="24" anim="Dad Sing Note DOWN" name="singDOWN"/>

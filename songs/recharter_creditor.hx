@@ -37,6 +37,10 @@ function postCreate() {
 
     switch(PlayState.SONG.meta.displayName) {
         case "ballistic": if (this.difficulty == "Rechart") recharter.text = "Sol";
+        
+        case "hairball", "your demise", "overhead", "Lo Fight", "genocide":
+            if (this.difficulty == "Rechart") recharter.text = "MAZ";
+
         default: recharter.text = "";
     }
 }

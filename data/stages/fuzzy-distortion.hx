@@ -15,4 +15,4 @@ function postCreate() {
 }
 
 function beatHit(curBeat)
-    lights.animation.frameIndex += FlxG.random.int(1, 4); // offbeat because the original had it so fuck it
+    lights.animation.frameIndex += 1;
