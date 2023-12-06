@@ -20,8 +20,8 @@
         <sprite name="Destroyed_boombox" x="800" y="700" sprite="Destroyed_boombox" scroll="1" scale="1.2"/>
     </high-memory>
 
-    <dad x="550" y="430"/>
-    <gf x="1300" y="450"/>
-    <boyfriend x="1680" y="770"/>
+    <dad x="550" y="430" scroll="1"/>
+    <gf x="1300" y="450" scroll="1"/>
+    <boyfriend x="1680" y="770" scroll="1"/>
     <sprite name="overlayingsticks" x="0" y="0" sprite="overlayingsticks" scroll="1" scale="1"/>
 </stage>
