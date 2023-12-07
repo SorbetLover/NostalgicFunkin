@@ -1,14 +1,14 @@
 # Nostalgic Funkin
 
-## Acknowledgements
+## Acknowledgements/things to know
 
-*Keep in mind that these mods are ported by a couple of nerds with their own life and priorities who just want to contribute **for free.** Don't expect perfect code, performance, insane level of quality from a popular mod.*
+*Keep in mind that these mods are ported by a couple of nerds with their own lives and priorities who just want to contribute **for free.** Don't expect a perfect code, performance, and an insane level of quality from a popular mod.*
 
 *The team members don't necessarily research every mod in existence. Stop assuming we support criminals when our intention has nothing to do with it.*
 
-*Mods who have a big no-no stamp from the majorty of the community are **NOT** welcomed without discussion such as Bob and Bosip.*
+*Mods who have a big no-no stamp from the majorty of the community are **NOT** welcomed, such as Bob and Bosip.*
 
-*Nostalgic Funkin' is going semi separate the art from the artist (obviously with some exceptions such as Dreams of Roses from Monika Rebooted).*
+*Nostalgic Funkin' is going semi-separate the art from the artist (obviously with some exceptions such as Dreams of Roses from Monika Rebooted).*
 
 *We don't have plans on moving CNE to another engine at the moment.*
 
@@ -62,4 +62,5 @@ Here are our planned ones so far. Will get extended later down the road.
 # Contribution
 I'll add more to this later on, sorry!
 
-# [Credits!](https://github.com/NULLSonic/NostalgicFunkin/blob/main/data/config/credits.xml)
+#
+[Credits!](https://github.com/NULLSonic/NostalgicFunkin/blob/main/data/config/credits.xml)
