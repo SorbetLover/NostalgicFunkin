@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="lucian" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="lucian">
+<character x="0" icon="lucian" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="maginage/lucian">
 	<anim x="0" loop="false" y="0" fps="24" anim="Idle" name="idle"/>
 	<anim x="-36" loop="false" y="60" fps="24" anim="Up" name="singUP"/>
 	<anim x="5" loop="false" y="-45" fps="24" anim="Left" name="singLEFT"/>
