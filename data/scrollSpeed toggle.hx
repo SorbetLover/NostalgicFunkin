@@ -10,7 +10,6 @@ function postCreate() {
 
 function postUpdate() {
     scrollSpeedText.text = "Press E/Q to change the scroll speed.\nCurrent scroll speed:" + scrollSpeed;
-    if (FlxG.keys.justPressed.E && scrollSpeed < 6) scrollSpeed += 0.1;
-    if (FlxG.keys.justPressed.Q && scrollSpeed > 0.1) scrollSpeed -= 0.1;
-    else if (scrollSpeed < 0.1) scrollSpeed = 0.1;
+    if (FlxG.keys.justPressed.E && scrollSpeed < 4) scrollSpeed += 0.1; // Only increase the the scroll speed if it's less than 4
+    if (FlxG.keys.justPressed.Q && scrollSpeed > 0.2) scrollSpeed -= 0.1; /*Only decrease the the scroll speed if it's more than 0.2*/
 }

@@ -9,7 +9,7 @@
 import flixel.text.FlxTextBorderStyle;
 import flixel.text.FlxText.FlxTextAlign;
 
-var recharter:FunkinText;
+var recharter:FunkinText = null;
 var noteIco:Note;
 
 function postCreate() {
@@ -46,7 +46,7 @@ function postCreate() {
 }
 
 function update() {
-    if (recharter.text == "") noteIco.kill();
+    if (recharter.text == "" || recharter.text == null) noteIco.kill();
 }
 
 function beatHit(curBeat) {
