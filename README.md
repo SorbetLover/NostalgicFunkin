@@ -6,18 +6,18 @@
 
 *The team members don't necessarily research every mod in existence. Stop assuming we support criminals when our intention has nothing to do with it.*
 
-*Mods who have a big no-no stamp from the majorty of the community are **NOT** welcomed without discussion such as Bob and Bosip.*
+*Mods who have a big no-no stamp from the majorty of the community are **NOT** welcomed such as Bob and Bosip.*
 
-*Nostalgic Funkin' is going semi separate the art from the artist (obviously with some exceptions such as Dreams of Roses from Monika Rebooted).*
+*Nostalgic Funkin' is going semi-separate the art from the artist (obviously with some exceptions, such as Dreams of Roses from Monika Rebooted).*
 
 *We don't have plans on moving CNE to another engine at the moment.*
 
 ## What the funk is Nostalgic Funkin'???
 
-Nostalgic Funkin' is a mod pack aimed at porting most classic mods from three years ago or to be specific, mods from Kade Engine era that made an impact such as Vs Tricky, Vs Whitty, Vs Tabi, B sides, etc to a more modern engine this mod pack uses which is called Codename Engine.
+Nostalgic Funkin' is a mod pack aimed at porting most classic mods from three years ago or to be specific, mods from Kade Engine era (with a few exceptions such as Kou V3) that made an impact such as Vs Tricky, Vs Whitty, Vs Tabi, B sides, etc to a more modern engine this mod pack uses which is called Codename Engine.
 
 Main porters are:
-MAZ, Null, Tsaku, bambamlolo (Bam), Notbeep-,- (Itzbeepi77), SorbetLover (Toni).
+MAZ, Null, Tsaku, Bam (bambamlolo), Notbeep-,- (Itzbeepi77), SorbetLover (Toni).
 
 ---
 ## What's planned?
@@ -38,6 +38,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs QT | Finished without dialogue, mechanics, modcharts
 - [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno)
 - [x] vs neon | Finished without dialogue and cutscene
+- [ ] Literally every fnf mod ever (Vs Bob) [Onslaught]
 - [ ] Vs. Hex (V1 only maybe)
 - [ ] Vs. Hatsune Miku V2
 - [ ] Vs. Annie
@@ -45,18 +46,16 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Vs. Monika Rebooted | Finished without dialogue & cutscenes
 - [ ] Starlight Mayhem
 - [ ] Vs. Sunday
-- [ ] Literally every fnf mod ever (Vs Bob) [Onslaught]
 - [ ] vs cg5
 - [ ] parappa mod
 - [ ] vs sky
 - [ ] vs sonic.exe 1.5
 - [ ] vs Imposter V3
-- [ ] vs Imposter V5
 - [ ] StarCatcher
 - [ ] Vs Tord (and probably most BBpanzu mods lol)
 - [ ] Static Memories
 - [ ] Maginage Matches
-- [ ] Kyu
+- [ ] Kou V3
 ---
 
 # Contribution
