@@ -4,26 +4,26 @@
 	<char name="rebeccaDistressed" char="rebeccaDistressed" position="left" />
 
 	<!-- Lines -->
-	<line char="rebeccaDistressed">
+	<line char="rebeccaDistressed" stay="true">
 		Why are you stopping?
 	</line>
-	<line char="rebeccaDistressed">
+	<line char="rebeccaDistressed" stay="true">
 		...
 	</line>
-	<line char="rebeccaDistressed">
+	<line char="rebeccaDistressed" stay="true">
 		This?
 	</line>
-	<line char="rebeccaDistressed">
+	<line char="rebeccaDistressed" stay="true">
 		This is fine.
 	</line>
-	<line char="rebeccaDistressed">
+	<line char="rebeccaDistressed" stay="true">
 		It's cool, everytime i don't sleep enough,
 		this happens.
 	</line>
-	<line char="rebeccaDistressed">
+	<line char="rebeccaDistressed" stay="true">
 		Though sleep is for the weak.
 	</line>
-	<line char="rebeccaDistressed">
+	<line char="rebeccaDistressed" stay="true">
 		I need that money, 
 		so you better keep going!
 	</line>

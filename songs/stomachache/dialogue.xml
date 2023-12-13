@@ -12,7 +12,7 @@
 	<line char="pompomDiaSad">
 		Wait, wait, wait!
 	</line>
-	<line char="pompomDiaSad">
+	<line char="pompomDiaSad" stay="true">
 		I swear I can do better!
 	</line>
 	<line>
@@ -21,16 +21,16 @@
 	<line char="pompomDiaSad">
 		No!
 	</line>
-	<line char="pompomDiaSad">
+	<line char="pompomDiaSad" stay="true">
 		I'll show you!
 	</line>
-	<line char="pompomDiaSad">
+	<line char="pompomDiaSad" stay="true">
 		Just...Let me think...!
 	</line>
-	<line char="pompomDiaSad">
+	<line char="pompomDiaSad" stay="true">
 		...
 	</line>
-	<line char="pompomDiaSad">
+	<line char="pompomDiaSad" stay="true">
 		Ugh! Just start the music!
 	</line>
 </dialogue>

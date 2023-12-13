@@ -10,7 +10,7 @@
 	<line char="kapi">
 		Yo! Long time no see!
 	</line>
-	<line char="wap">
+	<line char="wap" stay="true">
 		Taking your new girl on a date?
 	</line>
 	<line char="bftalk">
@@ -19,7 +19,7 @@
 	<line char="wap">
 		She's way out of your league bro...
 	</line>
-	<line char="kapi">
+	<line char="kapi" stay="true">
 		She'd be perfect for someone like me!
 	</line>
 	<line char="gfwave">

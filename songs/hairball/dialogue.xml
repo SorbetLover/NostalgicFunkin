@@ -18,7 +18,7 @@
 	<line char="kapistare">
 		...
 	</line>
-	<line char="kapimad">
+	<line char="kapimad" stay="true">
 		'Kay I'll show you up.
 	</line>
 </dialogue>

@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-dialogue>
-<dialogue box="default">
+<dialogue box="garBox">
 	<!-- All characters -->
 	<char name="garNormal" char="garNormal" position="left" />
 	<char name="garNormalTwo" char="garNormalTwo" position="left" />

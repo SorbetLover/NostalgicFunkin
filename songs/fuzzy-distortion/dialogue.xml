@@ -11,13 +11,13 @@
 	<line char="kapiconfused">
 		Huh, the power turned back on...
 	</line>
-	<line char="kapi">
+	<line char="kapi" stay="true">
 		Oh hey, and look!
 	</line>
-	<line char="kapi">
+	<line char="kapi" stay="true">
 		The dance-pad still works!
 	</line>
-	<line char="kapi">
+	<line char="kapi" stay="true">
 		Listen, how about ONE more!?
 	</line>
 	<line char="bftalk">

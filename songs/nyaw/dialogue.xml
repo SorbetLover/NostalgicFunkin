@@ -14,7 +14,7 @@
 	<line char="kapiconfused">
 		My dance-pad took quite the damage.
 	</line>
-	<line char="kapiconfused">
+	<line char="kapiconfused" stay="true">
 		I should probably cool down a little.
 	</line>
 	<line char="gflaugh">
@@ -23,25 +23,25 @@
 	<line char="kapistare">
 		There's a lot more people...
 	</line>
-	<line char="kapiconfused">
+	<line char="kapiconfused" stay="true">
 		And the arcade is closing soon.
 	</line>
 	<line char="bftalk">
 		How about one more song, Kapi?
 	</line>
-	<line char="kapiconfused" speed="0.02">
+	<line char="kapiconfused" speed="0.01">
 		Uhh...
 	</line>
-	<line char="kapi">
+	<line char="kapi" stay="true">
 		Alright!
 	</line>
-	<line char="kapiconfused">
+	<line char="kapiconfused" stay="true">
 		Hopefully I can impress her this time.
 	</line>
-	<line char="kapimad">
+	<line char="kapimad" stay="true">
 		Let's settle this!
 	</line>
-	<line char="kapicute">
+	<line char="kapicute" stay="true">
 		No holding back!
 	</line>
 </dialogue>

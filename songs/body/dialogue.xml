@@ -6,10 +6,10 @@
 	<char name="bfCarol" char="bfCarol" position="right" />
 
 	<!-- Lines -->
-	<line char="carol" stay="true" >
+	<line char="carol">
 		hehe song was fire right?
 	</line>
-	<line char="bfCarol" stay="true" >
+	<line char="bfCarol">
 		beep poo bo
 	</line>
 	<line char="carol">

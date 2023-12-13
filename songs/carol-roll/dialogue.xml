@@ -6,22 +6,22 @@
 	<char name="bfCarol" char="bfCarol" position="right" />
 
 	<!-- Lines -->
-	<line char="carol" stay="true" >
+	<line char="carol">
 		yoo bestfriend wsup
 	</line>
-	<line char="gfCheer" stay="true" >
+	<line char="gfCheer">
 		hey, girly this my bf
 	</line>
 	<line char="carol">
 		he mad short ngl. 
 	</line>
-	<line char="carol">
+	<line char="carol" stay="true">
 		ayo peep this bop i whipped up
 	</line>
-	<line char="gfCheer" stay="true" >
+	<line char="gfCheer">
 		do it bang tho
 	</line>
-	<line char="bfCarol" stay="true" >
+	<line char="bfCarol">
 		beep opboobi
 	</line>
 	<line char="carol">

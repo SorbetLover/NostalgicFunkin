@@ -4,24 +4,24 @@
 	<char name="rebeccaUnhappy" char="rebeccaUnhappy" position="left" />
 
 	<!-- Lines -->
-	<line char="rebeccaUnhappy">
+	<line char="rebeccaUnhappy" stay="true">
 		What I need the money for?
 	</line>
-	<line char="rebeccaUnhappy">
+	<line char="rebeccaUnhappy" stay="true">
 		Well...
 	</line>
-	<line char="rebeccaUnhappy">
+	<line char="rebeccaUnhappy" stay="true">
 		I have been working for four years 
 		on my own cartoon. 
 	</line>
-	<line char="rebeccaUnhappy">
+	<line char="rebeccaUnhappy" stay="true">
 		As you can see, it doesn't pay the bills.
 	</line>
-	<line char="rebeccaUnhappy">
+	<line char="rebeccaUnhappy" stay="true">
 		But don't worry about me. Sacrifices 
 		have to be made to get somewhere in life.
 	</line>
-	<line char="rebeccaUnhappy">
+	<line char="rebeccaUnhappy" stay="true">
 		So let me earn my pay.
 	</line>
 </dialogue>
