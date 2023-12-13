@@ -10,6 +10,8 @@
 
 *Nostalgic Funkin' is going semi separate the art from the artist (obviously with some exceptions such as Dreams of Roses from Monika Rebooted).*
 
+*We credit the original creators for the sake for crediting their work, controversial or not. It doesn't directly mean we support said creators.*
+
 *We don't have plans on moving CNE to another engine at the moment.*
 
 ## What the funk is Nostalgic Funkin'???
@@ -32,14 +34,14 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Garcello | Finished without a dialogue box
 - [x] B-sides | Finished without cutscenes
 - [x] Vs. AGOTI (the classic one) | Finished without dialogue
-- [x] Vs. Shaggy | Handled by Wizard, bromaster, and Ne_Eo
+~~- [] Vs. Shaggy | Beyond our capabilities, sorry!~~
 - [x] Vs. Tabi | Finished without dialogue
 - [x] Vs Void | Finished without dialogue
 - [x] Vs QT | Finished without dialogue, mechanics, modcharts
 - [x] Vs Mami | Without dialogue? (Didn't play the og mod so I dunno)
 - [x] vs neon | Finished without dialogue and cutscene
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught]
-- [ ] Vs. Hex (V1 only maybe)
+- [ ] Vs. Hex V1
 - [ ] Vs. Hatsune Miku V2
 - [ ] Vs. Annie
 - [ ] Vs. Tricky (The Full ASS Mod)
