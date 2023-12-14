@@ -35,17 +35,17 @@ function postCreate() {
     noteIco.alpha = 0;
     recharter.alpha = 0;
 
-    switch(PlayState.SONG.meta.displayName) {
-        case "ballistic": if (this.difficulty == "Rechart") recharter.text = "Sol";
+    switch(PlayState.SONG.meta.name) {
+        case "ballistic-old": if (this.difficulty == "Rechart") recharter.text = "Sol";
         
-        case "hairball", "your demise", "overhead", "Lo Fight", "genocide":
+        case "hairball", "your-demise", "overhead", "lo-fight", "genocide":
             if (this.difficulty == "Rechart") recharter.text = "MAZ";
 
         default: recharter.text = "";
     }
 }
 
-function update() {
+function postUpdate() {
     if (recharter.text == "" || recharter.text == null) noteIco.kill();
 }
 

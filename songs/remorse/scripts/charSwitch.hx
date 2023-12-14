@@ -37,12 +37,16 @@ function stepHit()
     {
         case 896:
             FlxG.camera.flash(FlxColor.WHITE, 1);
+            stage.getSprite("wall").x -= 2790;
+            stage.getSprite("light").visible = false;
             switchChar('dad', 'updikeEdgy', 'updike');
             switchChar('bf', 'BFedgy', 'bf');
             switchChar('gf', 'gfEdgy', 'gf');
 
         case 1024:
             FlxG.camera.flash(FlxColor.WHITE, 1);
+            stage.getSprite("wall").x = -600;
+            stage.getSprite("light").visible = true;
             switchChar('dad', 'updike', 'updike');
             switchChar('bf', 'BFupdike', 'bf');
             switchChar('gf', 'gfUpdike', 'gf');
