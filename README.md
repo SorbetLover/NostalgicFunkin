@@ -37,7 +37,9 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Zardy | Fully finished but desperately needs recharts 
 - [x] B-sides | Finished without cutscenes and recharts
 - [x] Vs. AGOTI (the classic one) | Finished without dialogue
+
 ~~- [] Vs. Shaggy | Beyond our capabilities, sorry!~~
+
 - [x] Vs. Tabi | Finished without dialogue
 - [x] Vs Void | Finished without dialogue
 - [x] Vs QT | Finished without dialogue, mechanics, modcharts
