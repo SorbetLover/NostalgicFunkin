@@ -75,4 +75,5 @@ Like this one which is for character images:
 
 [![Juae4Pp.md.png](https://iili.io/Juae4Pp.md.png)](https://freeimage.host/i/Juae4Pp)
 
-# [Credits!](https://github.com/NULLSonic/NostalgicFunkin/blob/main/data/config/credits.xml)
+## [Credits!](https://github.com/NULLSonic/NostalgicFunkin/blob/main/data/config/credits.xml)
+### [Trello for what's being worked on](https://trello.com/b/2IyLXJck/nostalgic-funkin)
