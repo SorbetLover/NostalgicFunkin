@@ -25,14 +25,17 @@ MAZ, Null, Tsaku, Bam (bambamlolo), Notbeep-,- (Itzbeepi77), SorbetLover (Toni).
 ## What's planned?
 Here are our planned ones so far. Will get extended later down the road.
 
-- [x] Vs. Zardy | Fully finished (desperately needs recharts) ⭐
+`V1`
+---
 - [x] Starving Artist | Fully finished ⭐
 - [x] Vs. Kapi | Fully finished ⭐
 - [x] Vs. Pompom | Fully finished ⭐
 - [x] Vs. Carol | Fully finished ⭐
-- [x] Vs. Whitty Remastered | Remorse needs stage fixing
-- [x] Vs. Garcello | Finished without a dialogue box
-- [x] B-sides | Finished without cutscenes
+- [x] Vs. Whitty Remastered | Fully finished ⭐
+- [x] Vs. Garcello | Fully Finished ⭐
+---
+- [x] Vs. Zardy | Fully finished but desperately needs recharts 
+- [x] B-sides | Finished without cutscenes and recharts
 - [x] Vs. AGOTI (the classic one) | Finished without dialogue
 ~~- [] Vs. Shaggy | Beyond our capabilities, sorry!~~
 - [x] Vs. Tabi | Finished without dialogue
