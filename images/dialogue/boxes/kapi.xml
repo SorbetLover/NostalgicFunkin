@@ -1,6 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="kapi.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Text Box Appear instance0000" x="0" y="0" width="1280" height="720"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="kapi.png" width="990" height="249">
+	<SubTexture name="Text Box Appear instance0000" x="1" y="1" width="988" height="247" frameX="-144" frameY="-473" frameWidth="1280" frameHeight="720"/>
 </TextureAtlas>

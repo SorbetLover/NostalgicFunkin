@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="lights.png">
-	<!-- Created using the Spritesheet and XML generator -->
-	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="lightblink10000" x="0" y="312" width="823" height="156" frameX="-901" frameY="-350" frameWidth="2560" frameHeight="1400"/>
-	<SubTexture name="lightblink20000" x="0" y="468" width="823" height="156" frameX="-901" frameY="-350" frameWidth="2560" frameHeight="1400"/>
-	<SubTexture name="lightblink30000" x="0" y="156" width="823" height="156" frameX="-901" frameY="-350" frameWidth="2560" frameHeight="1400"/>
-	<SubTexture name="lightblink40000" x="0" y="0" width="823" height="156" frameX="-901" frameY="-350" frameWidth="2560" frameHeight="1400"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="lights.png" width="3287" height="154">
+	<SubTexture name="lightblink10000" x="1" y="1" width="819" height="152" frameX="-903" frameY="-352" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="lightblink20000" x="823" y="1" width="819" height="152" frameX="-903" frameY="-352" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="lightblink30000" x="1645" y="1" width="819" height="152" frameX="-903" frameY="-352" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="lightblink40000" x="2467" y="1" width="819" height="152" frameX="-903" frameY="-352" frameWidth="2560" frameHeight="1400"/>
 </TextureAtlas>

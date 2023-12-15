@@ -2,15 +2,15 @@
 <!--
 Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="garcello.png" width="325" height="5623">
-	<SubTexture name="garcello idle0000" x="1" y="1" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0001" x="1" y="704" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0002" x="1" y="1407" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0003" x="1" y="2110" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0004" x="1" y="2813" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0005" x="1" y="3516" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0006" x="1" y="4219" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0007" x="1" y="4922" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0008" x="1" y="2813" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
-	<SubTexture name="garcello idle0009" x="1" y="2813" width="323" height="700" frameX="-0" frameY="-0" frameWidth="323" frameHeight="700"/>
+<TextureAtlas imagePath="garcello.png" width="2420" height="642">
+	<SubTexture name="garcello idle0000" x="1" y="1" width="309" height="624" frameX="-4" frameY="-57" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0001" x="313" y="1" width="303" height="631" frameX="-8" frameY="-50" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0002" x="619" y="1" width="300" height="636" frameX="-10" frameY="-45" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0003" x="922" y="1" width="297" height="638" frameX="-12" frameY="-43" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0004" x="1222" y="1" width="297" height="640" frameX="-12" frameY="-41" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0005" x="1522" y="1" width="297" height="640" frameX="-12" frameY="-41" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0006" x="1822" y="1" width="297" height="640" frameX="-12" frameY="-41" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0007" x="2122" y="1" width="297" height="640" frameX="-12" frameY="-41" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0008" x="1222" y="1" width="297" height="640" frameX="-12" frameY="-41" frameWidth="323" frameHeight="700"/>
+	<SubTexture name="garcello idle0009" x="1222" y="1" width="297" height="640" frameX="-12" frameY="-41" frameWidth="323" frameHeight="700"/>
 </TextureAtlas>
