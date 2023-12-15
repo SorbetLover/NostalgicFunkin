@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FrontCrowd.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FrontCrowd_Cheer0000" x="3" y="3" width="3473" height="995" frameX="0" frameY="-68" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0001" x="3" y="1003" width="3359" height="1063" frameX="-57" frameY="0" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0002" x="3" y="1003" width="3359" height="1063" frameX="-57" frameY="0" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0003" x="3" y="1003" width="3359" height="1063" frameX="-57" frameY="0" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0004" x="3" y="1003" width="3359" height="1063" frameX="-57" frameY="0" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0005" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0006" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0007" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0008" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0009" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0010" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0011" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0012" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0013" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Cheer0014" x="3" y="2071" width="3404" height="1031" frameX="-34" frameY="-32" frameWidth="3473" frameHeight="1063"/>
+	<SubTexture name="FrontCrowd_Idle0002" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0003" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0004" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0005" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0006" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0007" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0008" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0009" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0010" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0011" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0012" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0013" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+	<SubTexture name="FrontCrowd_Idle0014" x="3" y="3107" width="3473" height="843" frameX="-6" frameY="0" frameWidth="3485" frameHeight="843"/>
+</TextureAtlas>
