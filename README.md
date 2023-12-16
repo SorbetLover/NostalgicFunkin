@@ -6,7 +6,7 @@
 
 *The team members don't necessarily research every mod in existence. Stop assuming we support criminals when our intention has nothing to do with it.*
 
-*Mods who have a big no-no stamp from the majority of the community are **NOT**, such as Bob and Bosip.*
+*Mods who have a big no-no stamp from the majority of the community are **NOT** welcome, such as Bob and Bosip.*
 
 *Nostalgic Funkin' is going to semi-separate the art from the artist (obviously with some exceptions, such as Dreams of Roses from Monika Rebooted).*
 
