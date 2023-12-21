@@ -1,6 +1,6 @@
 import funkin.game.cutscenes.DialogueCutscene;
 import flixel.util.FlxAxes;
-function create() importScript("data/scrollSpeed toggle");
+function create() importScript("data/scripts/scrollSpeed toggle");
 // var playedSound:Bool = false;
 
 function postCreate() {

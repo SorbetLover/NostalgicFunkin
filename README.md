@@ -65,7 +65,7 @@ Here are our planned ones so far. Will get extended later down the road.
 ---
 
 ## Contribution
-I can't explain Codename Engine itself as that needs a whole wiki, so I recommend you observe the files yourself.
+I can't explain Codename Engine itself as that needs a whole wiki, so I recommend you to observe the files yourself.
 
 But here are some cool stuff to make navigating stuff easier:
 
