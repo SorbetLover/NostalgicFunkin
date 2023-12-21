@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="5" folder="stages/loggo/">
+	<sprite name="bg"               x="0" y="200"   sprite="space"       scroll="0.8" scale="3" updateHitbox="false" antialiasing="false"/>
+	<sprite name="stageFront"       x="-650" y="600"    sprite="placeholder Hell"      scroll="0.9" scale="3" updateHitbox="true" antialiasing="false"/>
+	<sprite name="peopleloggo" x="150" y="1200" sprite="people" scale="3" scroll="0.9" updateHitbox="false" antialiasing="false">
+		<anim name="bop" anim="the guys" fps="24" type="none" />
+	</sprite>
+	<girlfriend alpha="0"/>
+	<dad x="0" y="1300"/>
+	<boyfriend x="570" y="1300"/>
+</stage>
