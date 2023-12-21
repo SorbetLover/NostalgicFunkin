@@ -35,19 +35,19 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Garcello | 🟢
 ---
 - [x] Vs. Pompom | 🟢
+- [x] Date mod | 🟡
 - [x] Vs. Zardy | 🟡 desperately needs recharts 
 - [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
 - [x] Vs. AGOTI (the classic one) | 🟡 without dialogue and recharts
 - [x] Vs. Tabi | 🟡 without dialogue and recharts
 - [x] Vs Void | 🟡 without dialogue and recharts
 - [x] Vs QT | 🟡 without dialogue, mechanics, modcharts
-- [x] Vs Mami | 🟡 Without dialogue? (Didn't play the og mod so I dunno)
+- [x] Vs Mami | 🟡 Without dialogue effect and mechanic (Didn't play the og mod so I dunno)
 - [x] vs neon | 🟡 without dialogue and cutscene
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught] | 🟡 Without cutscenes and recharts
 - [ ] Vs. Tricky (The Full ASS Mod) | 🟡 Without cutscenes and recharts and expurgation
 - [ ] Vs. Monika Rebooted | 🟡 without dialogue & cutscenes
 - [ ] Maginage Matches | 🟡 Nothing yet beyond a few character assets
-- [ ] Date mod | 🔴
 - [ ] Vs. Hex V1 | 🔴
 - [ ] Vs. Hatsune Miku V2 | 🔴
 - [ ] Vs. Annie | 🔴
