@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="carol" y="0" isGF="false" isPlayer="false" sprite="dateWeek/carol_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="carol idle" indices="0,1,2,3,4,5,6,7,8,9,10,11" name="danceLeft"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol idle" indices="12,13,14,15,16,17,18,19,20,21,22,23" name="danceRight"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol up" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol down" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol alt idle" indices="0,1,2,3,4,5,6,7,8,9,10,11" name="danceLeft-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol alt idle" indices="12,13,14,15,16,17,18,19,20,21,22,23" name="danceRight-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol alt up" name="singUP-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol alt down" name="singDOWN-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol alt left" name="singLEFT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol alt right" name="singRIGHT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol dance up" name="singUP-dance"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol dance down" name="singDOWN-dance"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol dance left" name="singLEFT-dance"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol dance right" name="singRIGHT-dance"/>
+</character>

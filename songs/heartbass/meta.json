@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 190,
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -317657,
+	"displayName": "Heartbass",
+	"icon": "CW",
+	"name": "heartbass",
+	"color": "#FB2727"
+}

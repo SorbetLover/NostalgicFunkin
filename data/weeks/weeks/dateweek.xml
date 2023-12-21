@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-week>
+<week name="date week <3" chars="bf,bf,gf" sprite="bonusWeek">
+<difficulty name="easy"/>
+<difficulty name="normal"/>
+<difficulty name="hard"/>
+	<song>whitroll</song>
+	<song>perfume</song>
+	<song>heartbass</song>
+</week>

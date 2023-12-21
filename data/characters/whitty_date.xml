@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="carol" y="0" isGF="false" flipX="true" isPlayer="true" sprite="dateWeek/whitty_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty up" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty down" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt idle" name="idle-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt up" name="singUP-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt down" name="singDOWN-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt left" name="singLEFT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt right" name="singRIGHT-alt"/>
+	<anim x="0" loop="false" y="127.15" fps="24" anim="whitty dance up" name="singUP-dance"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty dance down" name="singDOWN-dance"/>
+	<anim x="0" loop="false" y="30" fps="24" anim="whitty dance left" name="singLEFT-dance"/>
+	<anim x="0" loop="false" y="30" fps="24" anim="whitty dance right" name="singRIGHT-dance"/>
+</character>
