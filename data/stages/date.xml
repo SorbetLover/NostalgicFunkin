@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="date" folder="stages/date/">
+    <sprite name="sky_bg" x="-21" y="-236" sprite="sky_bg" scroll="0.1" scale="1"/>
+    <sprite name="skyscrapers" x="-122" y="68" sprite="skyscrapers" scroll="0.3" scale="1"/>
+    <sprite name="balc" x="-248" y="305" sprite="balc" scroll="0.9" scale="1"/>
+    <dad x="84.05" y="-5"/>
+    <boyfriend x="409" y="-5.75"/>
+    <gf x="0" y="-999"/>
+    <ratings x = "1000" y="500"/>
+</stage>

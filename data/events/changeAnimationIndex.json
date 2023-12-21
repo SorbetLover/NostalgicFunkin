@@ -1,0 +1,14 @@
+{
+    "params": [
+		{
+			"name": "Strumline",
+			"type": "StrumLine",
+			"defaultValue": 0
+		},
+        {
+            "name": "index",
+            "type": "String",
+            "defaultValue": ""
+        }
+    ]
+}
