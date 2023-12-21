@@ -1,43 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="specialAnim.png">
-	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Succ0000" x="0" y="0" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Succ0001" x="1000" y="0" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Succ0002" x="2000" y="0" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Succ0003" x="3000" y="0" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Succ0004" x="4000" y="0" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Succ0005" x="5000" y="0" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-        <SubTexture name="Defeat0000" x="0" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0001" x="750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0002" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0003" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0004" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0005" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0006" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0007" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0008" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0009" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0010" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0011" x="3000" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0012" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Defeat0013" x="0" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0014" x="750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0015" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0016" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0017" x="3000" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0018" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Defeat0019" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Wakey0000" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Wakey0001" x="3000" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Wakey0002" x="3750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Scream0000" x="0" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Scream0001" x="750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Scream0002" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Stunned0000" x="0" y="3400" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Stunned0001" x="1000" y="3400" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Stunned0002" x="2000" y="3400" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Stunned0003" x="3000" y="3400" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Stunned0004" x="4000" y="3400" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
-	<SubTexture name="Stunned0005" x="5000" y="3400" width="1000" height="850" frameX="0" frameY="0" frameWidth="1000" frameHeight="850"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="specials.png" width="3601" height="3921">
+	<SubTexture name="Succ0000" x="1" y="1463" width="917" height="737" frameX="-70" frameY="-109" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0001" x="935" y="932" width="731" height="917" rotated="true" frameX="-70" frameY="-111" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0002" x="1" y="732" width="931" height="728" frameX="-64" frameY="-118" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0003" x="1" y="1" width="932" height="728" frameX="-59" frameY="-114" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0004" x="1781" y="1" width="731" height="910" rotated="true" frameX="-64" frameY="-115" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Succ0005" x="936" y="1" width="842" height="928" rotated="true" frameX="-17" frameY="-0" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Defeat0000" x="3020" y="1202" width="580" height="566" frameX="-142" frameY="-257" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0001" x="671" y="3355" width="568" height="565" rotated="true" frameX="-146" frameY="-255" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0002" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0003" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0004" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0005" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0006" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0007" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0008" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0009" x="1" y="3357" width="570" height="563" rotated="true" frameX="-146" frameY="-253" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0010" x="1242" y="3355" width="568" height="564" rotated="true" frameX="-145" frameY="-255" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0011" x="2375" y="3344" width="564" height="567" rotated="true" frameX="-143" frameY="-259" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0012" x="1813" y="3344" width="559" height="568" rotated="true" frameX="-142" frameY="-264" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0013" x="2956" y="1771" width="573" height="550" frameX="-137" frameY="-273" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0014" x="2000" y="2745" width="647" height="492" frameX="-61" frameY="-335" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0015" x="2455" y="1343" width="498" height="649" rotated="true" frameX="-73" frameY="-329" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0016" x="921" y="2074" width="502" height="669" rotated="true" frameX="-74" frameY="-326" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0017" x="1426" y="2074" width="502" height="668" rotated="true" frameX="-74" frameY="-326" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0018" x="1931" y="2074" width="502" height="668" rotated="true" frameX="-74" frameY="-326" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Defeat0019" x="1931" y="2074" width="502" height="668" rotated="true" frameX="-74" frameY="-326" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Wakey0000" x="2515" y="1" width="502" height="668" rotated="true" frameX="-74" frameY="-326" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Wakey0001" x="2515" y="672" width="502" height="668" rotated="true" frameX="-74" frameY="-326" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Wakey0002" x="2436" y="2074" width="502" height="668" rotated="true" frameX="-74" frameY="-326" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Scream0000" x="1669" y="932" width="783" height="571" rotated="true" frameX="-86" frameY="-40" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Scream0001" x="1" y="2203" width="778" height="568" rotated="true" frameX="-87" frameY="-45" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Scream0002" x="1669" y="1506" width="781" height="565" rotated="true" frameX="-88" frameY="-42" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Stunned0000" x="1340" y="2746" width="657" height="580" frameX="-156" frameY="-238" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0001" x="671" y="2774" width="666" height="578" frameX="-145" frameY="-240" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0002" x="3020" y="603" width="573" height="596" rotated="true" frameX="-158" frameY="-245" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0003" x="3020" y="1" width="580" height="599" rotated="true" frameX="-153" frameY="-238" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0004" x="1" y="2774" width="667" height="580" frameX="-151" frameY="-238" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Stunned0005" x="2650" y="2745" width="581" height="596" rotated="true" frameX="-155" frameY="-237" frameWidth="1000" frameHeight="850"/>
 </TextureAtlas>

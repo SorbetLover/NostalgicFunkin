@@ -1,119 +1,83 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="animatedEvilSchool.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="background 2 instance 10000" x="0" y="0" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10001" x="0" y="0" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10002" x="523" y="0" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10003" x="1046" y="0" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10004" x="1046" y="0" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10005" x="1569" y="0" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10006" x="2092" y="0" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10007" x="2615" y="0" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10008" x="2615" y="0" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10009" x="3138" y="0" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10010" x="3138" y="0" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10011" x="0" y="522" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10012" x="0" y="522" width="513" height="512"/>
-	
-	
-	<SubTexture name="background 2 instance 10013" x="523" y="522" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10014" x="523" y="522" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10015" x="1046" y="522" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10016" x="1046" y="522" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10017" x="1569" y="522" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10018" x="1569" y="522" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10019" x="2092" y="522" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10020" x="2092" y="522" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10021" x="2615" y="522" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10022" x="2615" y="522" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10023" x="3138" y="522" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10024" x="3138" y="522" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10025" x="0" y="1044" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10026" x="0" y="1044" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10027" x="523" y="1044" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10028" x="523" y="1044" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10029" x="1046" y="1044" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10030" x="1046" y="1044" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10031" x="1569" y="1044" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10032" x="1569" y="1044" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10033" x="2092" y="1044" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10034" x="2092" y="1044" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10035" x="2615" y="1044" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10036" x="2615" y="1044" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10037" x="3138" y="1044" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10038" x="3138" y="1044" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10039" x="0" y="1566" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10040" x="0" y="1566" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10041" x="523" y="1566" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10042" x="523" y="1566" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10043" x="1046" y="1566" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10044" x="1046" y="1566" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10045" x="1569" y="1566" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10046" x="1569" y="1566" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10047" x="2092" y="1566" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10048" x="2092" y="1566" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10049" x="2615" y="1566" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10050" x="2615" y="1566" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10051" x="3138" y="1566" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10052" x="3138" y="1566" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10053" x="0" y="2088" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10054" x="0" y="2088" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10055" x="523" y="2088" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10056" x="523" y="2088" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10057" x="1046" y="2088" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10058" x="1046" y="2088" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10059" x="1569" y="2088" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10060" x="1569" y="2088" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10061" x="2092" y="2088" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10062" x="2092" y="2088" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10063" x="2615" y="2088" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10064" x="2615" y="2088" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10065" x="3138" y="2088" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10066" x="3138" y="2088" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10067" x="0" y="2610" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10068" x="0" y="2610" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10069" x="523" y="2610" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10070" x="523" y="2610" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10071" x="1046" y="2610" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10072" x="1046" y="2610" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10073" x="1569" y="2610" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10074" x="1569" y="2610" width="513" height="512"/>
-	
-	<SubTexture name="background 2 instance 10075" x="2092" y="2610" width="513" height="512"/>
-	<SubTexture name="background 2 instance 10076" x="2092" y="2610" width="513" height="512"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bg.png" width="7636" height="184">
+	<SubTexture name="background 2 instance 10000" x="1" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10001" x="1" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10002" x="6696" y="1" width="311" height="176" frameX="-101" frameY="-167" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10003" x="7010" y="1" width="311" height="176" frameX="-101" frameY="-166" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10004" x="7010" y="1" width="311" height="176" frameX="-101" frameY="-166" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10005" x="5754" y="1" width="311" height="169" frameX="-101" frameY="-172" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10006" x="6382" y="1" width="311" height="170" frameX="-101" frameY="-172" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10007" x="7324" y="1" width="311" height="182" frameX="-101" frameY="-165" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10008" x="7324" y="1" width="311" height="182" frameX="-101" frameY="-165" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10009" x="4496" y="1" width="311" height="166" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10010" x="4496" y="1" width="311" height="166" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10011" x="315" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10012" x="315" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10013" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10014" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10015" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10016" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10017" x="4810" y="1" width="311" height="168" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10018" x="4810" y="1" width="311" height="168" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10019" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10020" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10021" x="2298" y="1" width="311" height="162" frameX="-101" frameY="-175" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10022" x="2298" y="1" width="311" height="162" frameX="-101" frameY="-175" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10023" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10024" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10025" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10026" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10027" x="5124" y="1" width="313" height="168" frameX="-99" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10028" x="5124" y="1" width="313" height="168" frameX="-99" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10029" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10030" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10031" x="315" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10032" x="315" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10033" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10034" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10035" x="3868" y="1" width="311" height="165" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10036" x="3868" y="1" width="311" height="165" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10037" x="4810" y="1" width="311" height="168" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10038" x="4810" y="1" width="311" height="168" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10039" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10040" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10041" x="2612" y="1" width="311" height="162" frameX="-101" frameY="-175" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10042" x="2612" y="1" width="311" height="162" frameX="-101" frameY="-175" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10043" x="3240" y="1" width="311" height="164" frameX="-101" frameY="-173" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10044" x="3240" y="1" width="311" height="164" frameX="-101" frameY="-173" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10045" x="4182" y="1" width="311" height="165" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10046" x="4182" y="1" width="311" height="165" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10047" x="6068" y="1" width="311" height="169" frameX="-101" frameY="-175" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10048" x="6068" y="1" width="311" height="169" frameX="-101" frameY="-175" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10049" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10050" x="1257" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10051" x="2926" y="1" width="311" height="163" frameX="-101" frameY="-174" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10052" x="2926" y="1" width="311" height="163" frameX="-101" frameY="-174" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10053" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10054" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10055" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10056" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10057" x="4810" y="1" width="311" height="168" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10058" x="4810" y="1" width="311" height="168" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10059" x="1571" y="1" width="315" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10060" x="1571" y="1" width="315" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10061" x="315" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10062" x="315" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10063" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10064" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10065" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10066" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10067" x="1889" y="1" width="406" height="161" frameX="-6" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10068" x="1889" y="1" width="406" height="161" frameX="-6" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10069" x="3554" y="1" width="311" height="164" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10070" x="3554" y="1" width="311" height="164" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10071" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10072" x="629" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10073" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10074" x="943" y="1" width="311" height="161" frameX="-101" frameY="-176" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10075" x="5440" y="1" width="311" height="168" frameX="-101" frameY="-174" frameWidth="513" frameHeight="512"/>
+	<SubTexture name="background 2 instance 10076" x="5440" y="1" width="311" height="168" frameX="-101" frameY="-174" frameWidth="513" frameHeight="512"/>
 </TextureAtlas>

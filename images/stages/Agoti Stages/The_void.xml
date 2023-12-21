@@ -1,81 +1,82 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="The_void.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="VoidShift0000" x="0" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0001" x="1080" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0002" x="2160" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0003" x="3240" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0004" x="4320" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0005" x="5400" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0006" x="6480" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0007" x="0" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0008" x="1080" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0009" x="2160" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0010" x="3240" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0011" x="4320" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0012" x="5400" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0013" x="6480" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0014" x="0" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0015" x="1080" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0016" x="2160" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0017" x="3240" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0018" x="4320" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0019" x="5400" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0020" x="6480" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0021" x="0" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0022" x="1080" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0023" x="2160" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0024" x="3240" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0025" x="4320" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0026" x="5400" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0027" x="6480" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0028" x="0" y="2804" width="1080" height="701"/>
-	<SubTexture name="VoidShift0029" x="1080" y="2804" width="1080" height="701"/>
-	<SubTexture name="VoidShift0030" x="2160" y="2804" width="1080" height="701"/>
-	<SubTexture name="VoidShift0031" x="3240" y="2804" width="1080" height="701"/>
-	<SubTexture name="VoidShift0032" x="4320" y="2804" width="1080" height="701"/>
-	<SubTexture name="VoidShift0033" x="5400" y="2804" width="1080" height="701"/>
-	<SubTexture name="VoidShift0034" x="6480" y="2804" width="1080" height="701"/>
-	<SubTexture name="VoidShift0035" x="0" y="3505" width="1080" height="701"/>
-	<SubTexture name="VoidShift0036" x="1080" y="3505" width="1080" height="701"/>
-	<SubTexture name="VoidShift0037" x="2160" y="3505" width="1080" height="701"/>
-	<SubTexture name="VoidShift0038" x="3240" y="3505" width="1080" height="701"/>
-	<SubTexture name="VoidShift0039" x="4320" y="3505" width="1080" height="701"/>
-	<SubTexture name="VoidShift0040" x="5400" y="3505" width="1080" height="701"/>
-	<SubTexture name="VoidShift0041" x="6480" y="3505" width="1080" height="701"/>
-	<SubTexture name="VoidShift0042" x="0" y="4206" width="1080" height="701"/>
-	<SubTexture name="VoidShift0043" x="1080" y="4206" width="1080" height="701"/>
-	<SubTexture name="VoidShift0044" x="2160" y="4206" width="1080" height="701"/>
-	<SubTexture name="VoidShift0045" x="3240" y="4206" width="1080" height="701"/>
-	<SubTexture name="VoidShift0046" x="4320" y="4206" width="1080" height="701"/>
-	<SubTexture name="VoidShift0047" x="5400" y="4206" width="1080" height="701"/>
-	<SubTexture name="VoidShift0048" x="6480" y="4206" width="1080" height="701"/>
-	<SubTexture name="VoidShift0049" x="3240" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0050" x="0" y="4907" width="1080" height="701"/>
-	<SubTexture name="VoidShift0051" x="5400" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0052" x="6480" y="0" width="1080" height="701"/>
-	<SubTexture name="VoidShift0053" x="0" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0054" x="1080" y="4907" width="1080" height="701"/>
-	<SubTexture name="VoidShift0055" x="2160" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0056" x="3240" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0057" x="2160" y="4907" width="1080" height="701"/>
-	<SubTexture name="VoidShift0058" x="5400" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0059" x="6480" y="701" width="1080" height="701"/>
-	<SubTexture name="VoidShift0060" x="3240" y="4907" width="1080" height="701"/>
-	<SubTexture name="VoidShift0061" x="1080" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0062" x="2160" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0063" x="3240" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0064" x="4320" y="4907" width="1080" height="701"/>
-	<SubTexture name="VoidShift0065" x="5400" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0066" x="6480" y="1402" width="1080" height="701"/>
-	<SubTexture name="VoidShift0067" x="5400" y="4907" width="1080" height="701"/>
-	<SubTexture name="VoidShift0068" x="1080" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0069" x="2160" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0070" x="3240" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0071" x="6480" y="4907" width="1080" height="701"/>
-	<SubTexture name="VoidShift0072" x="5400" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0073" x="6480" y="2103" width="1080" height="701"/>
-	<SubTexture name="VoidShift0074" x="0" y="5608" width="1080" height="701"/>
-	<SubTexture name="VoidShift0075" x="1080" y="2804" width="1080" height="701"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="The_void.png" width="6497" height="6428">
+	<SubTexture name="VoidShift0000" x="1" y="1" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0001" x="1" y="644" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0002" x="1084" y="1" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0003" x="1084" y="644" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0004" x="1" y="1287" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0005" x="1084" y="1287" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0006" x="1" y="1930" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0007" x="1084" y="1930" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0008" x="2167" y="1" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0009" x="2167" y="643" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0010" x="2167" y="1285" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0011" x="2167" y="1927" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0012" x="2167" y="2569" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0013" x="1" y="3211" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0014" x="1084" y="2573" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0015" x="2167" y="3211" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0016" x="3250" y="1" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0017" x="3250" y="645" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0018" x="3250" y="1289" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0019" x="3250" y="1933" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0020" x="3250" y="2577" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0021" x="1084" y="3216" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0022" x="3250" y="3221" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0023" x="1" y="3854" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0024" x="2167" y="3854" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0025" x="4333" y="1" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0026" x="1084" y="3860" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0027" x="4333" y="644" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0028" x="4333" y="1286" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0029" x="4333" y="1928" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0030" x="4333" y="2571" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0031" x="4333" y="3214" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0032" x="4333" y="3857" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0033" x="1" y="4498" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0034" x="3250" y="3865" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0035" x="4333" y="4501" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0036" x="2167" y="4497" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0037" x="1084" y="4502" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0038" x="3250" y="4509" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0039" x="1" y="5142" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0040" x="4333" y="5145" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0041" x="2167" y="5141" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0042" x="1084" y="5146" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0043" x="5416" y="1" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0044" x="5416" y="643" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0045" x="5416" y="1286" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0046" x="5416" y="1929" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0047" x="5416" y="2572" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0048" x="5416" y="3215" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0049" x="1084" y="644" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0050" x="5416" y="3858" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0051" x="1084" y="1287" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0052" x="1" y="1930" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0053" x="1084" y="1930" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0054" x="5416" y="4501" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0055" x="2167" y="643" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0056" x="2167" y="1285" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0057" x="5416" y="5143" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0058" x="2167" y="2569" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0059" x="1" y="3211" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0060" x="3250" y="5153" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0061" x="2167" y="3211" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0062" x="3250" y="1" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0063" x="3250" y="645" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0064" x="1" y="5786" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0065" x="3250" y="1933" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0066" x="3250" y="2577" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0067" x="5416" y="5785" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0068" x="3250" y="3221" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0069" x="1" y="3854" width="1080" height="641" frameX="-0" frameY="-60" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0070" x="2167" y="3854" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0071" x="2167" y="5784" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0072" x="1084" y="3860" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0073" x="4333" y="644" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0074" x="4333" y="5788" width="1080" height="639" frameX="-0" frameY="-62" frameWidth="1080" frameHeight="701"/>
+	<SubTexture name="VoidShift0075" x="4333" y="1928" width="1080" height="640" frameX="-0" frameY="-61" frameWidth="1080" frameHeight="701"/>
 </TextureAtlas>

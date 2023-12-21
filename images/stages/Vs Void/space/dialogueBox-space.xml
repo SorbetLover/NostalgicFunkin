@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="dialogueBox-space.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Text Box Appear instance 10000" x="0" y="0" width="750" height="340"/>
-        <SubTexture name="Text Box Appear instance 10001" x="750" y="0" width="750" height="340"/>
-        <SubTexture name="Text Box Appear instance 10002" x="0" y="340" width="750" height="340"/>
-        <SubTexture name="Text Box Appear instance 10003" x="750" y="340" width="750" height="340"/>
-        <SubTexture name="Text Box Appear instance 10004" x="0" y="680" width="750" height="340"/>
-        <SubTexture name="Text Box Appear instance 10005" x="750" y="680" width="750" height="340"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="dialogueBox-space.png" width="699" height="847">
+	<SubTexture name="Text Box Appear instance 10000" x="641" y="353" width="47" height="195" rotated="true" frameX="-277" frameY="-145" frameWidth="750" frameHeight="340"/>
+	<SubTexture name="Text Box Appear instance 10001" x="1" y="1" width="697" height="178" frameX="-25" frameY="-80" frameWidth="750" frameHeight="340"/>
+	<SubTexture name="Text Box Appear instance 10002" x="1" y="182" width="659" height="168" frameX="-44" frameY="-85" frameWidth="750" frameHeight="340"/>
+	<SubTexture name="Text Box Appear instance 10003" x="1" y="353" width="637" height="163" frameX="-55" frameY="-87" frameWidth="750" frameHeight="340"/>
+	<SubTexture name="Text Box Appear instance 10004" x="1" y="519" width="636" height="162" frameX="-56" frameY="-88" frameWidth="750" frameHeight="340"/>
+	<SubTexture name="Text Box Appear instance 10005" x="1" y="684" width="636" height="162" frameX="-56" frameY="-88" frameWidth="750" frameHeight="340"/>
 </TextureAtlas>

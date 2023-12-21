@@ -1,50 +1,51 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="transform_cutscene.png">
-	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Init0000" x="0" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchA0000" x="700" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchA0001" x="1400" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchA0002" x="2100" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchA0003" x="0" y="700" width="700" height="700"/>
-	<SubTexture name="GlitchA0004" x="0" y="700" width="700" height="700"/>
-	<SubTexture name="GlitchA0005" x="0" y="700" width="700" height="700"/>
-	<SubTexture name="GlitchA0006" x="0" y="700" width="700" height="700"/>
-	<SubTexture name="GlitchA0007" x="700" y="700" width="700" height="700"/>
-	<SubTexture name="GlitchA0008" x="1400" y="700" width="700" height="700"/>
-	<SubTexture name="GlitchB0000" x="700" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchB0001" x="1400" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchB0002" x="2100" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchB0003" x="0" y="1400" width="700" height="700"/>
-	<SubTexture name="GlitchB0004" x="700" y="1400" width="700" height="700"/>
-	<SubTexture name="GlitchB0005" x="1400" y="1400" width="700" height="700"/>
-	<SubTexture name="GlitchC0000" x="700" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchC0001" x="1400" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchC0002" x="2100" y="0" width="700" height="700"/>
-	<SubTexture name="GlitchC0003" x="0" y="2100" width="700" height="700"/>
-	<SubTexture name="GlitchC0004" x="700" y="2100" width="700" height="700"/>
-	<SubTexture name="GlitchC0005" x="1400" y="2100" width="700" height="700"/>
-	<SubTexture name="Dead0000" x="0" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0001" x="700" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0002" x="1400" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0003" x="1400" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0004" x="1400" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0005" x="1400" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0006" x="1400" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0007" x="1400" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0008" x="1400" y="2800" width="700" height="700"/>
-	<SubTexture name="Dead0009" x="0" y="3500" width="700" height="700"/>
-	<SubTexture name="Dead0010" x="700" y="3500" width="700" height="700"/>
-	<SubTexture name="Dead0011" x="1400" y="3500" width="700" height="700"/>
-	<SubTexture name="Dead0012" x="2100" y="3500" width="700" height="700"/>
-	<SubTexture name="Dead0013" x="2800" y="3500" width="700" height="700"/>
-	<SubTexture name="Dead0014" x="3500" y="3500" width="700" height="700"/>
-	<SubTexture name="Gone0000" x="0" y="4200" width="700" height="700"/>
-	<SubTexture name="Gone0001" x="700" y="4200" width="700" height="700"/>
-	<SubTexture name="Gone0002" x="1400" y="4200" width="700" height="700"/>
-	<SubTexture name="Gone0003" x="2100" y="4200" width="700" height="700"/>
-	<SubTexture name="Scream0000" x="0" y="4900" width="700" height="700"/>
-	<SubTexture name="Scream0001" x="700" y="4900" width="700" height="700"/>
-	<SubTexture name="Scream0002" x="1400" y="4900" width="700" height="700"/>
-	<SubTexture name="Scream0003" x="2100" y="4900" width="700" height="700"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="transform_cutscene.png" width="3038" height="3090">
+	<SubTexture name="Init0000" x="1549" y="2465" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0000" x="1" y="625" width="455" height="616" frameX="-177" frameY="-72" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0001" x="1513" y="1233" width="440" height="613" frameX="-187" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0002" x="459" y="625" width="440" height="616" frameX="-188" frameY="-72" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0003" x="1549" y="617" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0004" x="1549" y="617" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0005" x="1549" y="617" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0006" x="1549" y="617" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0007" x="1" y="1860" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchA0008" x="420" y="1860" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchB0000" x="1" y="625" width="455" height="616" frameX="-177" frameY="-72" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchB0001" x="1513" y="1233" width="440" height="613" frameX="-187" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchB0002" x="459" y="625" width="440" height="616" frameX="-188" frameY="-72" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchB0003" x="420" y="1860" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchB0004" x="839" y="1860" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchB0005" x="1258" y="1849" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchC0000" x="1" y="625" width="455" height="616" frameX="-177" frameY="-72" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchC0001" x="1513" y="1233" width="440" height="613" frameX="-187" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchC0002" x="459" y="625" width="440" height="616" frameX="-188" frameY="-72" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchC0003" x="2065" y="1" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchC0004" x="1677" y="1849" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="GlitchC0005" x="1956" y="1233" width="416" height="613" frameX="-211" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0000" x="1968" y="2465" width="494" height="609" frameX="-134" frameY="-79" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0001" x="1054" y="1" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0002" x="1054" y="617" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0003" x="1054" y="617" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0004" x="1054" y="617" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0005" x="1054" y="617" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0006" x="1054" y="617" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0007" x="1054" y="617" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0008" x="1054" y="617" width="492" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0009" x="1" y="1244" width="493" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0010" x="497" y="1244" width="502" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0011" x="1002" y="1233" width="508" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0012" x="530" y="1" width="521" height="618" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0013" x="1" y="1" width="526" height="621" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Dead0014" x="1549" y="1" width="513" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Gone0000" x="1968" y="617" width="513" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Gone0001" x="1" y="2476" width="513" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Gone0002" x="517" y="2476" width="513" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Gone0003" x="1033" y="2476" width="513" height="613" frameX="-132" frameY="-75" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Scream0000" x="2484" y="1" width="553" height="602" frameX="-81" frameY="-53" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Scream0001" x="2465" y="1233" width="564" height="602" frameX="-81" frameY="-53" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Scream0002" x="2096" y="1849" width="556" height="602" frameX="-81" frameY="-53" frameWidth="700" frameHeight="700"/>
+	<SubTexture name="Scream0003" x="2465" y="2454" width="558" height="602" frameX="-81" frameY="-53" frameWidth="700" frameHeight="700"/>
 </TextureAtlas>
