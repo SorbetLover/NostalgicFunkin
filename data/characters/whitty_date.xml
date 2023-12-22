@@ -9,9 +9,13 @@
 	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt up" name="singUP-alt"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt down" name="singDOWN-alt"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt left" name="singLEFT-alt"/>
-	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt right" name="singRIGHT-alt"/>
 	<anim x="0" loop="false" y="127.15" fps="24" anim="whitty dance up" name="singUP-dance"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty alt right" name="singRIGHT-alt"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="whitty dance down" name="singDOWN-dance"/>
 	<anim x="0" loop="false" y="30" fps="24" anim="whitty dance left" name="singLEFT-dance"/>
 	<anim x="0" loop="false" y="30" fps="24" anim="whitty dance right" name="singRIGHT-dance"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty miss up" name="singUPmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty miss down" name="singDOWNmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty miss left" name="singLEFTmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty miss right" name="singRIGHTmiss"/>
 </character>

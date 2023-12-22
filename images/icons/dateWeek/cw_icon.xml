@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cw_icon.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cw_icon0000" x="0" y="0" width="152" height="152"/>
+	<SubTexture name="cw_icon0001" x="152" y="0" width="152" height="152"/>
+	<SubTexture name="cw_icon0002" x="304" y="0" width="152" height="152"/>
+	<SubTexture name="cw_icon0003" x="456" y="0" width="152" height="152"/>
+	<SubTexture name="cw_icon0004" x="608" y="0" width="152" height="152"/>
+	<SubTexture name="cw_icon0005" x="760" y="0" width="152" height="152"/>
+	<SubTexture name="cw_icon0006" x="0" y="152" width="152" height="152"/>
+	<SubTexture name="cw_icon0007" x="152" y="152" width="152" height="152"/>
+	<SubTexture name="cw_icon0008" x="304" y="152" width="152" height="152"/>
+	<SubTexture name="cw_icon0009" x="456" y="152" width="152" height="152"/>
+</TextureAtlas>
