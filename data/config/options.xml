@@ -1,10 +1,10 @@
 <!DOCTYPE codename-mod-options>
 <menu name="Nostalgic Funkin'" desc="Options for Nostalgic Funkin. Includes options for indievidual mods.">
 	<menu name="Accessibility" desc="General Options for all mods!">
-		<checkbox id="shaderShit" desc="Disables shaders in the port." name="Shaders" />
-		<checkbox id="shakeShit" desc="Disables shaking in the port." name="Shaking effects"/>
-		<checkbox id="flashFX" desc="Disables flashing lights for mods like Tricky, Void (notbeep support this pls), etc." name="Flashing Lights"/>
-		<checkbox id="bushNote" desc="Disables Bushwhack mechanic." name="Bushwhack Mechanic"/>
+		<checkbox id="shaderShit" name="Shaders" />
+		<checkbox id="shakeShit" name="Shaking effects"/>
+		<checkbox id="flashFX" desc="If unchecked, flashing lights for mods such as Vs Tricky, Vs Void (notbeep support this pls) etc will be disabled." name="Flashing Lights"/>
+		<checkbox id="bushNote" name="Bushwhack Mechanic"/>
 	</menu>
 
 	<menu name="Kade Options" desc="Kade UI Options.">

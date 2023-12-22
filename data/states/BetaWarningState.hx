@@ -5,7 +5,7 @@ var redText:FunkinText;
 function postCreate() {
     insert(0, bg);
 
-    redText = new FunkinText(16, disclaimer.y + 160, FlxG.width - 32, "FNF is never meant for kids. Player discretion is advised.", 34);
+    redText = new FunkinText(16, disclaimer.y + 160, FlxG.width - 32, "Player discretion is advised.", 34);
     redText.color = 0xFFFF4444;
     redText.bold = true;
     redText.alignment = "center";
