@@ -7,11 +7,11 @@
 	<anim x="-2" loop="false" y="2" fps="24" anim="sky annoyed left" name="singLEFT"/>
 
 	<anim x="-3" loop="true" y="-1" fps="24" anim="sky annoyed alt idle" name="idle-alt"/>
-	<anim x="-47" loop="false" y="24" fps="24" anim="Parent Up Note Mom" name="singUP-alt"/>
-	<anim x="15" loop="false" y="-2" fps="24" anim="sky annoyed alt up" name="singDOWN-alt"/>
+	<anim x="-47" loop="false" y="24" fps="24" anim="sky annoyed alt up" name="singUP-alt"/>
+	<anim x="15" loop="false" y="-2" fps="24" anim="sky annoyed alt down" name="singDOWN-alt"/>
 	<anim x="-4" loop="false" y="2" fps="24" anim="sky annoyed alt left" name="singLEFT-alt"/>
 	<anim x="-3" loop="false" y="-3" fps="24" anim="sky annoyed alt right" name="singRIGHT-alt"/>
-	
+
 	<anim x="0" loop="false" y="0" fps="24" anim="sky annoyed grr" name="grr"/>
 	<anim x="-1" loop="false" y="0" fps="24" anim="sky annoyed huh" name="huh"/>
 	<anim x="-3" loop="false" y="-1" fps="24" anim="sky annoyed manifesting" name="manifesting"/>
