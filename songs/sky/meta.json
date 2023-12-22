@@ -1,1 +1,17 @@
-null
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -8913039,
+	"displayName": "sky",
+	"icon": "Vs Sky/Sky normal",
+	"name": "sky",
+	"color": "#77FF71"
+}

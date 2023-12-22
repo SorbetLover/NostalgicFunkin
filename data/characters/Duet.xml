@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="200" icon="Duet" y="400" isGF="false" scale="6" color="#FBA2F0" isPlayer="false" antialiasing="false" holdTime="6.1" sprite="Duet">
+<character x="200" icon="Monika Rebooted/Duet" y="400" isGF="false" scale="6" color="#FBA2F0" isPlayer="false" antialiasing="false" sprite="Monika rebooted/Duet">
 	<anim x="0" loop="false" y="0" fps="24" anim="Duet Idle" name="idle"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="Duet Monika UP NOTE" name="singUP"/>
 	<anim x="2" loop="false" y="0" fps="24" anim="Duet Senpai UP NOTE" name="singUP-alt"/>
