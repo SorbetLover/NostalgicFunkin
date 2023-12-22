@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="-100" icon="Vs Sky/Sky normal" y="100" isGF="false" isPlayer="false" sprite="Vs Sky/sky_assets">
+<character x="-100" camy="60" icon="Vs Sky/Sky normal" y="120" isGF="false" isPlayer="false" sprite="Vs Sky/sky_assets">
 	<anim x="0" loop="true" y="0" fps="24" anim="sky idle" name="idle"/>
 	<anim x="11" loop="false" y="-1" fps="24" anim="sky down" name="singDOWN"/>
 	<anim x="19" loop="false" y="-1" fps="24" anim="sky right" name="singRIGHT"/>
