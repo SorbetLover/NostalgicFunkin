@@ -1,17 +1,15 @@
 <!DOCTYPE codename-engine-character>
-<character x="-100" camx="30" camy="60" icon="Vs Sky/Sky normal" y="120" isGF="false" isPlayer="false" sprite="Vs Sky/sky_annoyed_assets">
+<character x="-100" icon="Vs Sky/Sky normal" camx="30" y="120" isGF="false" camy="60" isPlayer="false" sprite="Vs Sky/sky_annoyed_assets">
 	<anim x="0" loop="true" y="0" fps="24" anim="sky annoyed idle" name="idle"/>
 	<anim x="11" loop="false" y="-1" fps="24" anim="sky annoyed down" name="singDOWN"/>
 	<anim x="-1" loop="false" y="-1" fps="24" anim="sky annoyed right" name="singRIGHT"/>
 	<anim x="15" loop="false" y="-4" fps="24" anim="sky annoyed up" name="singUP"/>
 	<anim x="-2" loop="false" y="2" fps="24" anim="sky annoyed left" name="singLEFT"/>
-
-	<anim x="-3" loop="true" y="-1" fps="24" anim="sky annoyed alt idle" name="idle-alt"/>
-	<anim x="-47" loop="false" y="24" fps="24" anim="sky annoyed alt up" name="singUP-alt"/>
-	<anim x="15" loop="false" y="-2" fps="24" anim="sky annoyed alt down" name="singDOWN-alt"/>
-	<anim x="-4" loop="false" y="2" fps="24" anim="sky annoyed alt left" name="singLEFT-alt"/>
-	<anim x="-3" loop="false" y="-3" fps="24" anim="sky annoyed alt right" name="singRIGHT-alt"/>
-
+	<anim x="0" loop="true" y="0" fps="24" anim="sky annoyed alt idle" name="idle-alt"/>
+	<anim x="2" loop="false" y="0" fps="24" anim="sky annoyed alt up" name="singUP-alt"/>
+	<anim x="0" loop="false" y="-1" fps="24" anim="sky annoyed alt down" name="singDOWN-alt"/>
+	<anim x="0" loop="false" y="-2" fps="24" anim="sky annoyed alt left" name="singLEFT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="sky annoyed alt right" name="singRIGHT-alt"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="sky annoyed grr" name="grr"/>
 	<anim x="-1" loop="false" y="0" fps="24" anim="sky annoyed huh" name="huh"/>
 	<anim x="-3" loop="false" y="-1" fps="24" anim="sky annoyed manifesting" name="manifesting"/>
