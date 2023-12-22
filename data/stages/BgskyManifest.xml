@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="BgSky" folder="stages/Vs Sky/">
+
+	<sprite name="The_void" x="-388.05" y="-232" sprite="bg_manifest" scroll="0.4" scale="1"/>
+
+	<sprite name="Floormanifest" x="-1053.1" y="-364.7" sprite="floorManifest" scroll="0.9" scale="1"/>
+
+
+</stage>
