@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="carol" y="0" isGF="false" flipX="true" isPlayer="true" sprite="dateWeek/whitty_assets">
+<character gameOverChar="whitty_dead" x="0" icon="carol" y="0" isGF="false" flipX="true" isPlayer="true" sprite="dateWeek/whitty_assets">
 	<anim x="0" loop="false" y="0" fps="24" anim="whitty idle" name="idle"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="whitty up" name="singUP"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="whitty down" name="singDOWN"/>
