@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-stage>
-<stage zoom="0.7" name="maginage" folder="stages/mag/">
+<stage zoom="0.7" name="maginage" folder="stages/maginage/">
 	<sprite name="bgshit"               x="-290" y="-530"   sprite="Schoolyard"         scale="1" />
 	<sprite name="Crowd1" x="650" y="1180" sprite="Crowd2" scroll="1" zoomfactor="1">
 		<anim name="shit" anim="Crowd2_Idle" loop="false" indices="0,1,2,3,4,5,6,7,8,9,10,11"  type="1"/>
