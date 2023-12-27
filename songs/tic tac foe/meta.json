@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+                "fixed"
+	],
+	"icon": "face",
+	"parsedColor": -7179779,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"displayName": "tic tac foe",
+	"needsVoices": true,
+	"bpm": 140,
+	"name": "tic tac foe"
+}
