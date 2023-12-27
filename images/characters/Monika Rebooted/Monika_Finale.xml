@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Monika_Finale.png" width="2695" height="132">
+	<SubTexture name="DOWN GLITCH0000" x="1" y="1" width="99" height="115" frameX="-18" frameY="-17" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0001" x="103" y="1" width="85" height="116" frameX="-27" frameY="-16" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0002" x="103" y="1" width="85" height="116" frameX="-27" frameY="-16" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0003" x="1169" y="1" width="96" height="121" frameX="-25" frameY="-11" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0004" x="1169" y="1" width="96" height="121" frameX="-25" frameY="-11" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0005" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0006" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0007" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0008" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0009" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0010" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0011" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0012" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0013" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0014" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN GLITCH0015" x="529" y="1" width="82" height="119" frameX="-29" frameY="-12" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="DOWN NOTE0000" x="191" y="1" width="82" height="116" frameX="-19" frameY="-16" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0001" x="191" y="1" width="82" height="116" frameX="-19" frameY="-16" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0002" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0003" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0004" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0005" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0006" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0007" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0008" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0009" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0010" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0011" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0012" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="DOWN NOTE0013" x="614" y="1" width="82" height="119" frameX="-19" frameY="-13" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0000" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0001" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0002" x="2517" y="1" width="82" height="130" frameX="-19" frameY="-2" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0003" x="2517" y="1" width="82" height="130" frameX="-19" frameY="-2" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0004" x="1515" y="1" width="83" height="124" frameX="-19" frameY="-8" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0005" x="1515" y="1" width="83" height="124" frameX="-19" frameY="-8" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0006" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0007" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0008" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0009" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0010" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0011" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0012" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0013" x="1691" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0014" x="2034" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0015" x="2034" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0016" x="1776" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0017" x="1776" y="1" width="82" height="128" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0018" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0019" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0020" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0021" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0022" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0023" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0024" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="IDLE0025" x="1949" y="1" width="82" height="129" frameX="-19" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT GLITCH0000" x="276" y="1" width="122" height="116" frameX="-1" frameY="-16" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0001" x="401" y="1" width="125" height="117" frameX="-6" frameY="-15" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0002" x="401" y="1" width="125" height="117" frameX="-6" frameY="-15" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0003" x="2119" y="1" width="96" height="129" frameX="-18" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0004" x="2119" y="1" width="96" height="129" frameX="-18" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0005" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0006" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0007" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0008" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0009" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0010" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0011" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0012" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0013" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0014" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT GLITCH0015" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="LEFT NOTE0000" x="1601" y="1" width="87" height="126" frameX="-14" frameY="-6" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0001" x="1601" y="1" width="87" height="126" frameX="-14" frameY="-6" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0002" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0003" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0004" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0005" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0006" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0007" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0008" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0009" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0010" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0011" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0012" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="LEFT NOTE0013" x="1861" y="1" width="85" height="128" frameX="-16" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT GLITCH0000" x="1404" y="1" width="108" height="123" frameX="-21" frameY="-8" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0001" x="2218" y="1" width="99" height="129" frameX="-27" frameY="-2" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0002" x="2218" y="1" width="99" height="129" frameX="-27" frameY="-2" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0003" x="2320" y="1" width="98" height="129" frameX="-27" frameY="-2" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0004" x="2320" y="1" width="98" height="129" frameX="-27" frameY="-2" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0005" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0006" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0007" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0008" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0009" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0010" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0011" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0012" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0013" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0014" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT GLITCH0015" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="RIGHT NOTE0000" x="2602" y="1" width="92" height="130" frameX="-23" frameY="-2" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0001" x="2602" y="1" width="92" height="130" frameX="-23" frameY="-2" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0002" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0003" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0004" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0005" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0006" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0007" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0008" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0009" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0010" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0011" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0012" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="RIGHT NOTE0013" x="2421" y="1" width="93" height="129" frameX="-23" frameY="-3" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP GLITCH0000" x="1268" y="1" width="133" height="122" frameX="-6" frameY="-0" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0001" x="699" y="1" width="120" height="119" frameX="-8" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0002" x="699" y="1" width="120" height="119" frameX="-8" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0003" x="822" y="1" width="89" height="119" frameX="-22" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0004" x="822" y="1" width="89" height="119" frameX="-22" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0005" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0006" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0007" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0008" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0009" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0010" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0011" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP GLITCH0012" x="914" y="1" width="82" height="119" frameX="-29" frameY="-3" frameWidth="140" frameHeight="134"/>
+	<SubTexture name="UP NOTE0000" x="1084" y="1" width="82" height="120" frameX="-19" frameY="-2" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0001" x="1084" y="1" width="82" height="120" frameX="-19" frameY="-2" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0002" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0003" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0004" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0005" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0006" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0007" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0008" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0009" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0010" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0011" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0012" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+	<SubTexture name="UP NOTE0013" x="999" y="1" width="82" height="119" frameX="-19" frameY="-4" frameWidth="116" frameHeight="132"/>
+</TextureAtlas>

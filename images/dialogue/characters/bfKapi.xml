@@ -1,6 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bfKapi.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Boyfriend portrait enter instance 10000" x="0" y="0" width="550" height="400"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bfKapi.png" width="345" height="317">
+	<SubTexture name="Boyfriend portrait enter instance 10000" x="1" y="1" width="343" height="315" frameX="-116" frameY="-85" frameWidth="550" frameHeight="400"/>
 </TextureAtlas>

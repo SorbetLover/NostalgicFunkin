@@ -1,132 +1,133 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="hurt_void_assets.png">
-	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Void Idle0000" x="0" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0001" x="0" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0002" x="750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0003" x="750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0004" x="1500" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0005" x="1500" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0006" x="2250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0007" x="2250" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0008" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0009" x="3000" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0010" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0011" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0012" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Idle0013" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Void Idle0014" x="3750" y="0" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0000" x="2250" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0001" x="3000" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0002" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0003" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0004" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0005" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0006" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0007" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0008" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0009" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0010" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0011" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0012" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Down Note Chill0013" x="3750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0000" x="0" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0001" x="750" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0002" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0003" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0004" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0005" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0006" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0007" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0008" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0009" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0010" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0011" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0012" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Left Note Chill0013" x="1500" y="1700" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0000" x="2250" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0001" x="3000" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0002" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0003" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0004" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0005" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0006" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0007" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0008" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0009" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0010" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0011" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0012" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Right Note Chill0013" x="3750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0000" x="0" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0001" x="750" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0002" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0003" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0004" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0005" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0006" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0007" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0008" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0009" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0010" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0011" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0012" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-	<SubTexture name="Void Up Note Chill0013" x="1500" y="850" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0000" x="0" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0001" x="750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0002" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0003" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0004" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0005" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0006" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0007" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0008" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0009" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0010" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0011" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0012" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch A0013" x="1500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0000" x="2250" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0001" x="3000" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0002" x="3750" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0003" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0004" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0005" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0006" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0007" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0008" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0009" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0010" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0011" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0012" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Flinch B0013" x="4500" y="2550" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0000" x="0" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0001" x="750" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0002" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0003" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0004" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0005" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0006" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0007" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0008" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0009" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0010" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0011" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0012" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap A0013" x="1500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0000" x="2250" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0001" x="3000" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0002" x="3750" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0003" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0004" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0005" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0006" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0007" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0008" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0009" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0010" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0011" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0012" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
-        <SubTexture name="Snap B0013" x="4500" y="3400" width="750" height="850" frameX="0" frameY="0" frameWidth="750" frameHeight="850"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hurt_void_assets.png" width="3138" height="3553">
+	<SubTexture name="Void Idle0000" x="494" y="2873" width="497" height="678" frameX="-195" frameY="-141" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0001" x="494" y="2873" width="497" height="678" frameX="-195" frameY="-141" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0002" x="994" y="2870" width="495" height="675" frameX="-196" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0003" x="994" y="2870" width="495" height="675" frameX="-196" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0004" x="2248" y="2105" width="490" height="685" frameX="-193" frameY="-134" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0005" x="2248" y="2105" width="490" height="685" frameX="-193" frameY="-134" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0006" x="877" y="2178" width="492" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0007" x="877" y="2178" width="492" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0008" x="1915" y="1411" width="494" height="691" frameX="-191" frameY="-128" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0009" x="1915" y="1411" width="494" height="691" frameX="-191" frameY="-128" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0010" x="1372" y="2175" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0011" x="1372" y="2175" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0012" x="1372" y="2175" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0013" x="1372" y="2175" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Idle0014" x="1372" y="2175" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0000" x="2741" y="2059" width="392" height="669" frameX="-193" frameY="-150" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0001" x="2741" y="1377" width="386" height="679" frameX="-193" frameY="-140" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0002" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0003" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0004" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0005" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0006" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0007" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0008" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0009" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0010" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0011" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0012" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Down Note Chill0013" x="2741" y="692" width="384" height="682" frameX="-193" frameY="-137" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0000" x="2276" y="695" width="374" height="686" frameX="-187" frameY="-133" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0001" x="1868" y="2143" width="377" height="689" frameX="-190" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0002" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0003" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0004" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0005" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0006" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0007" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0008" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0009" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0010" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0011" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0012" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Left Note Chill0013" x="1" y="2181" width="377" height="690" frameX="-190" frameY="-129" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0000" x="1917" y="697" width="356" height="691" frameX="-198" frameY="-128" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0001" x="1555" y="1447" width="357" height="693" frameX="-197" frameY="-126" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0002" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0003" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0004" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0005" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0006" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0007" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0008" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0009" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0010" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0011" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0012" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Right Note Chill0013" x="1557" y="716" width="357" height="692" frameX="-196" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0000" x="1190" y="1" width="368" height="712" frameX="-189" frameY="-107" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0001" x="589" y="1469" width="370" height="706" frameX="-191" frameY="-113" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0002" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0003" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0004" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0005" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0006" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0007" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0008" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0009" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0010" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0011" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0012" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Void Up Note Chill0013" x="1183" y="740" width="371" height="704" frameX="-191" frameY="-115" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0000" x="2470" y="2793" width="485" height="658" frameX="-201" frameY="-162" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0001" x="1983" y="2835" width="484" height="668" frameX="-200" frameY="-151" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0002" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0003" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0004" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0005" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0006" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0007" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0008" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0009" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0010" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0011" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0012" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch A0013" x="1492" y="2867" width="488" height="674" frameX="-200" frameY="-145" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0000" x="1" y="2874" width="490" height="678" frameX="-198" frameY="-141" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0001" x="2646" y="1" width="491" height="688" frameX="-193" frameY="-131" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0002" x="2150" y="1" width="493" height="691" frameX="-192" frameY="-128" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0003" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0004" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0005" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0006" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0007" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0008" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0009" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0010" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0011" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0012" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Flinch B0013" x="381" y="2181" width="493" height="689" frameX="-192" frameY="-130" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0000" x="622" y="1" width="565" height="736" frameX="-128" frameY="-83" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0001" x="1" y="743" width="586" height="723" frameX="-128" frameY="-96" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0002" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0003" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0004" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0005" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0006" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0007" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0008" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0009" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0010" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0011" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0012" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap A0013" x="590" y="743" width="590" height="721" frameX="-128" frameY="-98" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0000" x="1561" y="1" width="586" height="693" frameX="-135" frameY="-127" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0001" x="962" y="1467" width="590" height="705" frameX="-134" frameY="-114" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0002" x="1" y="1469" width="585" height="709" frameX="-133" frameY="-110" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0003" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0004" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0005" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0006" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0007" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0008" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0009" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0010" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0011" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0012" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
+	<SubTexture name="Snap B0013" x="1" y="1" width="618" height="739" frameX="-132" frameY="-111" frameWidth="750" frameHeight="850"/>
 </TextureAtlas>

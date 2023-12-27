@@ -7,10 +7,10 @@
 	<line char="zardy">
 		Darn brats trespassing with their damn noise cannons...
 	</line>
-	<line char="zardy">
+	<line char="zardy" stay="true">
 		You should know it’s dangerous to wander in the dark...
 	</line>
-	<line char="zardy">
+	<line char="zardy" stay="true">
 		But if you want a show... I’ll give you a show!
 	</line>
 </dialogue>

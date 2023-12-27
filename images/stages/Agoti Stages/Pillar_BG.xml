@@ -1,72 +1,73 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Pillar BG.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Pillar_BG0000" x="0" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0001" x="1087" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0002" x="2174" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0003" x="3261" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0004" x="4348" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0005" x="5435" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0006" x="6522" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0007" x="3261" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0008" x="4348" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0009" x="5435" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0010" x="6522" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0011" x="3261" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0012" x="4348" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0013" x="5435" y="0" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0014" x="0" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0015" x="1087" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0016" x="2174" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0017" x="3261" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0018" x="4348" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0019" x="5435" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0020" x="2174" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0021" x="3261" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0022" x="4348" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0023" x="5435" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0024" x="2174" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0025" x="6522" y="2383" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0026" x="0" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0027" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0028" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0029" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0030" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0031" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0032" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0033" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0034" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0035" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0036" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0037" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0038" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0039" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0040" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0041" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0042" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0043" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0044" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0045" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0046" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0047" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0048" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0049" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0050" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0051" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0052" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0053" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0054" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0055" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0056" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0057" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0058" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0059" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0060" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0061" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0062" x="4348" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0063" x="1087" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0064" x="2174" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0065" x="3261" y="4766" width="1087" height="2383"/>
-	<SubTexture name="Pillar_BG0066" x="4348" y="4766" width="1087" height="2383"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Pillar_BG.png" width="4186" height="4269">
+	<SubTexture name="Pillar_BG0000" x="2753" y="1649" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0025" x="1" y="1" width="952" height="2088" frameX="-0" frameY="-295" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0026" x="956" y="1" width="896" height="1684" frameX="-40" frameY="-307" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0029" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0030" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0017" x="2757" y="1" width="639" height="2088" frameX="-314" frameY="-295" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0019" x="1" y="2558" width="1840" height="722" rotated="true" frameX="-365" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0028" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0027" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0014" x="3399" y="1" width="723" height="1482" frameX="-363" frameY="-307" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0015" x="1" y="3283" width="1127" height="644" rotated="true" frameX="-365" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0016" x="1131" y="3465" width="1072" height="597" rotated="true" frameX="-355" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0018" x="2206" y="3465" width="963" height="573" rotated="true" frameX="-363" frameY="-307" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0001" x="1" y="3930" width="1000" height="205" rotated="true" frameX="-363" frameY="-758" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0005" x="2206" y="4041" width="1000" height="205" rotated="true" frameX="-357" frameY="-295" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0006" x="1004" y="4065" width="963" height="203" rotated="true" frameX="-363" frameY="-307" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0002" x="3172" y="3573" width="962" height="203" rotated="true" frameX="-365" frameY="-560" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0004" x="2544" y="1649" width="206" height="890" frameX="-355" frameY="-317" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0003" x="3172" y="3779" width="898" height="196" rotated="true" frameX="-365" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0007" x="3172" y="3779" width="898" height="196" rotated="true" frameX="-365" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0011" x="3172" y="3779" width="898" height="196" rotated="true" frameX="-365" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0008" x="2544" y="1649" width="206" height="890" frameX="-355" frameY="-317" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0012" x="2544" y="1649" width="206" height="890" frameX="-355" frameY="-317" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0009" x="2206" y="4041" width="1000" height="205" rotated="true" frameX="-357" frameY="-295" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0013" x="2206" y="4041" width="1000" height="205" rotated="true" frameX="-357" frameY="-295" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0010" x="1004" y="4065" width="963" height="203" rotated="true" frameX="-363" frameY="-307" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0020" x="1131" y="3465" width="1072" height="597" rotated="true" frameX="-355" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0024" x="1131" y="3465" width="1072" height="597" rotated="true" frameX="-355" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0021" x="2757" y="1" width="639" height="2088" frameX="-314" frameY="-295" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0022" x="2206" y="3465" width="963" height="573" rotated="true" frameX="-363" frameY="-307" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0023" x="1" y="2558" width="1840" height="722" rotated="true" frameX="-365" frameY="-302" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0031" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0035" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0039" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0043" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0047" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0051" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0055" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0059" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0063" x="3312" y="2092" width="873" height="1478" frameX="-73" frameY="-10" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0032" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0036" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0040" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0044" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0048" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0052" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0056" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0060" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0064" x="1844" y="2558" width="1465" height="904" rotated="true" frameX="-48" frameY="-34" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0033" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0037" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0041" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0045" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0049" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0053" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0057" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0061" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0065" x="1855" y="1" width="899" height="1645" frameX="-54" frameY="-0" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0034" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0038" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0042" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0046" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0050" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0054" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0058" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0062" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
+	<SubTexture name="Pillar_BG0066" x="956" y="1688" width="1585" height="867" rotated="true" frameX="-69" frameY="-19" frameWidth="1087" frameHeight="2383"/>
 </TextureAtlas>

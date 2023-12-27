@@ -1,35 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="garSmoke.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="smokey instance 0001" x="6912" y="3376" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0002" x="5632" y="3376" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0003" x="4352" y="3376" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0004" x="3072" y="3376" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0005" x="1792" y="3376" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0006" x="512" y="3376" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0007" x="6912" y="2656" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0008" x="5632" y="2656" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0009" x="4352" y="2656" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0010" x="3072" y="2656" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0011" x="1792" y="2656" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0012" x="512" y="2656" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0013" x="6912" y="1936" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0014" x="5632" y="1936" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0015" x="4352" y="1936" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0016" x="3072" y="1936" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0017" x="1792" y="1936" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0018" x="512" y="1936" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0019" x="6912" y="1216" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0020" x="5632" y="1216" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0021" x="4352" y="1216" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0022" x="3072" y="1216" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0023" x="1792" y="1216" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0024" x="512" y="1216" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0025" x="6912" y="496" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0026" x="5632" y="496" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0027" x="4352" y="496" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0028" x="3072" y="496" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0029" x="1792" y="496" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
-  <SubTexture name="smokey instance 0030" x="512" y="496" width="1280" height="720" frameX="-70" frameY="-120" frameWidth="1280" frameHeight="720"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="garSmoke.png" width="7487" height="3514">
+	<SubTexture name="smokey instance 0001" x="1" y="1" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0002" x="1249" y="1" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0003" x="2497" y="1" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0004" x="3745" y="1" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0005" x="4993" y="1" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0006" x="6241" y="1" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0007" x="1" y="704" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0008" x="1249" y="704" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0009" x="2497" y="704" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0010" x="3745" y="704" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0011" x="4993" y="704" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0012" x="6241" y="704" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0013" x="1" y="1407" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0014" x="1249" y="1407" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0015" x="2497" y="1407" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0016" x="3745" y="1407" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0017" x="4993" y="1407" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0018" x="6241" y="1407" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0019" x="1" y="2110" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0020" x="1249" y="2110" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0021" x="2497" y="2110" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0022" x="3745" y="2110" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0023" x="4993" y="2110" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0024" x="6241" y="2110" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0025" x="1" y="2813" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0026" x="1249" y="2813" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0027" x="2497" y="2813" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0028" x="3745" y="2813" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0029" x="4993" y="2813" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
+	<SubTexture name="smokey instance 0030" x="6241" y="2813" width="1245" height="700" frameX="-70" frameY="-120" frameWidth="1350" frameHeight="840"/>
 </TextureAtlas>

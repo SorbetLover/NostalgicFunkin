@@ -1,51 +1,49 @@
 <!DOCTYPE codename-engine-dialogue>
-<dialogue box="default">
+<dialogue box="garBox">
 	<!-- All characters -->
-	<char name="garcelloRelease" char="garcelloRelease" position="left" />
-	<char name="bfgarcello" char="bfgarcello" position="right" />
-
+	<char name="garRelease" char="garRelease" position="left" />
 	<!-- Lines -->
-	<line char="garcelloRelease">
+	<line char="garRelease">
 		Oh.
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		...
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		Would ya look at that.
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		I guess I overdid it, huh?
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		...
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		It's alright.
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		I'd rather it be me than you.
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		That hurt like hell, but it's probably better than what your girl's father was gonna do to me.
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		I can't stay like this for too long, but...
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		Even if our time was short...
 	</line>
 	
-	<line char="garcelloRelease">
+	<line char="garRelease" stay="true">
 		Let's end things off with a bang, little man.
 	</line>
 </dialogue>

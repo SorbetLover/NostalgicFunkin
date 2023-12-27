@@ -7,11 +7,11 @@
 	<line char="rebeccaNormal">
 		It's you.
 	</line>
-	<line char="rebeccaNormal">
+	<line char="rebeccaNormal" stay="true">
 		The kid that answered my
 		"I will do anything for money" ad.
 	</line>
-	<line char="rebeccaNormal">
+	<line char="rebeccaNormal" stay="true">
 		I have to warn you though...
 		I am not a good singer.
 	</line>

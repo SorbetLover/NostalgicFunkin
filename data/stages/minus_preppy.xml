@@ -1,27 +1,29 @@
 <!DOCTYPE codename-engine-stage>
-<stage folder="stages/Vs RetroSpecter/minus/images/" name="minus_preppy" zoom="0.5">
-	<sprite x="-1213" y="-1243" sprite="background_preppy" name="bg"/>
-	<sprite x="302" y="-842" sprite="minus_back_characters_top" name="minus_back_characters_top"/>
-
-	<sprite x="-177.75" sprite="mics" y="-817.8" updateHitbox="true" scale="0.95" name="mics">
-		<anim loop="true" name="day" anim="Evening" fps="0"/>
-	</sprite>
-
-	<sprite x="-253" name="Flag" sprite="Flag" y="-355">
-		<anim loop="true" name="day" anim="Flag Wave Evening" fps="12"/>
-	</sprite>
-
-	<sprite x="-342.44" sprite="minus_back_characters_middle" y="-366.2" updateHitbox="true" scale="1.04" name="bg_chars_middle"/>
-	<sprite x="-1219.36" sprite="minus_back_characters_left" y="-580.72" updateHitbox="true" scale="1.04" name="bg_chars_left"/>
-	<sprite x="2277.72" sprite="minus_back_characters_right" y="-664.44" updateHitbox="true" scale="1.04" name="bg_chars_right"/>
+<stage folder="stages/Vs RetroSpecter/minus/images/" zoom="0.4" name="minus_preppy">
+	<sprite x="-1213" name="bg" sprite="background_preppy" y="-1243"/>
+	<sprite x="302" name="minus_back_characters_top" sprite="minus_back_characters_top" y="-842"/>
+	<sprite x="-177.75" updateHitbox="true" y="-817.8" sprite="mics" scale="0.95" name="mics">
+		
+		
+		<anim loop="true" fps="0" anim="Evening" name="day"/>
+		
 	
-	<sprite x="-693.8" sprite="Metro_BG" y="100" updateHitbox="true" name="metro"/>
-
-	<gf x="150" scroll="1"/>
-	<dad x="-149" camyoffset="-75" y="241.5"/>
-	<bf x="1078.5" camyoffset="-200" y="266"/>
+	</sprite>
+	<sprite x="-253" y="-355" sprite="Flag" name="Flag">
+		
+		
+		<anim loop="true" fps="12" anim="Flag Wave Evening" name="day"/>
+		
+	
+	</sprite>
+	<sprite x="-342.44" updateHitbox="true" y="-366.2" sprite="minus_back_characters_middle" scale="1.04" name="bg_chars_middle"/>
+	<sprite x="-1219.36" updateHitbox="true" y="-580.72" sprite="minus_back_characters_left" scale="1.04" name="bg_chars_left"/>
+	<sprite x="2277.72" updateHitbox="true" y="-664.44" sprite="minus_back_characters_right" scale="1.04" name="bg_chars_right"/>
+	<sprite x="-693.8" updateHitbox="true" y="100" sprite="Metro_BG" name="metro"/>
+	<gf x="317" y="259.5" scroll="1"/>
+	<dad camxoffset="100" x="-149" y="241.5" camyoffset="-200"/>
+	<bf camxoffset="-200" x="1078.5" y="266" camyoffset="-400"/>
 	<combo/>
-
-	<sprite x="-1211.75" y="-1247.5" sprite="overlay1" name="overlay1"/>
-	<sprite x="-1216" y="-1254" sprite="background_evening_flare" name="overlyEve"/>
+	<sprite x="-1211.75" name="overlay1" sprite="overlay1" y="-1247.5"/>
+	<sprite x="-1216" name="overlyEve" sprite="background_evening_flare" y="-1254"/>
 </stage>

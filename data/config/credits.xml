@@ -6,9 +6,11 @@
 		- Vs Tricky
 		- Vs Void
 		- Vs QT
-		- Vs Garcello
 		- Vs Agoti
 		- Vs Retrospecter
+		- Vs Neon
+		- Vs Sky
+		- Date week
 -->
 
 <!-- B SIDES -->
@@ -49,6 +51,13 @@
 <menu name="Vs Carol" desc="Vs Carol creators' credits.">
 	<credit name="bbpanzu" desc="Artist and Musician." url="https://gamebanana.com/members/1764067"/>
 	<credit name="GENOX" desc="Carol UTAU." url="https://gamebanana.com/members/1771171"/>
+</menu>
+
+<!-- Smoke 'Em Out Struggle | Vs Garcello -->
+
+<menu name="Vs Garcello" desc="Vs Garcello creators' credits.">
+	<credit name="atsuover" desc="Art, Music, Coding." url="https://gamebanana.com/members/1792259"/>
+	<credit name="Rageminer" desc="Art, Music, Coding." url="https://gamebanana.com/members/1789102"/>
 </menu>
 
 <!-- VS Pompom -->
@@ -113,6 +122,15 @@
 	<credit name="ninjamuffin99" desc="Cool engine maker" url="https://gamebanana.com/members/1811171"/>
 </menu>
 
+<!-- Literally Every FNF Mod Ever | Vs Bob -->
+
+<menu name="literally every fnf mod ever (Vs Bob)" desc="Vs Bob creators' credits.">
+	<credit name="Wildy" desc="Coder, Animator And Kickstarted the project" url="https://gamebanana.com/members/1663640"/>
+	<credit name="Phlox" desc="Original concept, Mod helper and Asset maker." url="https://gamebanana.com/members/1800032"/>
+	<credit name="donney" desc="drawing pico dead on a stick / cutscene art." url="https://gamebanana.com/members/1934701"/>
+</menu>
+<!-- Too lazy to finish, gotta work on week 2 -->
+
 <!-- PORTERS/Scripters/Contributors/Misc -->
 
 <menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
@@ -125,7 +143,7 @@
 	/>
 	<credit
 	name="Tsaku"
-	desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and raw characters files.
+	desc="• Ported Vs Kapi assets and charts, foolhardy mod stage files and characters files.
 	• Minor porting help with foolhardy re-port.
 	• Ported Vs AGOTI."
 	url="https://gamebanana.com/members/2298631"
@@ -157,7 +175,9 @@
 	desc="• Ported Vs Mami assets and charts.
 	• Ported Vs Tricky assets and charts.
 	• Ported Vs Void.
-	• Ported Vs Qt assets and charts."
+	• Ported Vs Qt assets and charts.
+	• Ported Vs Retrospecter.
+	• Ported Vs Neon assets and charts."
 	url="https://www.youtube.com/@not_beep-.-656"
 	/>
 
@@ -166,6 +186,11 @@
 	name="mr.Wifi7"
 	desc="• Made Chromatic Aberration shader."
 	url="https://gamebanana.com/tools/12082"
+	/>
+	<credit
+	name="whatify"
+	desc="• Helped turning the release song cutscene spritesheet into a video!"
+	url="https://www.twitch.tv/quoteowo"
 	/>
 	<credit 
 	name="Daninnocent" 

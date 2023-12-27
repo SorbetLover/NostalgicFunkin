@@ -19,7 +19,7 @@
 	<line char="kapi">
 		Sure. Let's just move on.
 	</line>
-	<line char="kapimad">
+	<line char="kapimad" stay="true">
 		Don't expect me to go easy...
 	</line>
 	<line char="bfKapi">

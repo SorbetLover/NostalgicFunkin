@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="farris_wheel.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="farris_wheel0000" x="0" y="0" width="454" height="454" frameX="-3" frameY="-3" frameWidth="460" frameHeight="460"/>
+	<SubTexture name="farris_wheel0001" x="454" y="0" width="460" height="460"/>
+	<SubTexture name="farris_wheel0002" x="0" y="460" width="460" height="460"/>
+	<SubTexture name="farris_wheel0003" x="460" y="460" width="460" height="460"/>
+</TextureAtlas>

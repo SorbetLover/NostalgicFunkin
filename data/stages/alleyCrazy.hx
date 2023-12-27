@@ -9,6 +9,10 @@ function create() {
 	gf.playAnim("scared");
 
 	if (!PlayState.isStoryMode) {
+		/*
+			There's no preCreate function for stages,
+			so I can't really think of a way to fix this really.
+		*/
 		stage.animation.remove('bgDuringBreak');
 		stage.animation.remove('bgBeforeBreak');
 	}

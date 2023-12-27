@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="date" folder="stages/date/">
+    <sprite name="citycolor" x="-125" y="-150.75" sprite="citycolor" scrollx="0" scrolly="0.9" scale="1"/>
+    <sprite name="cityfarbg" x="525" y="132.3" sprite="cityfarbg" scrollx="0.2" scrolly="0.4" scale="1"/>
+    <sprite name="citybg" x="-182.8" y="-77.75" sprite="citybg" scroll="0.4" scale="1"/>
+    <sprite name="characters_walking2" x="22.15" y="60.05" sprite="characters_walking2" scroll="0.85" scale="1"/>
+    <sprite name="characters_walking" x="820" y="-60" sprite="characters_walking" scroll="0.9" scale="1"/>
+    <sprite name="wallbg" x="-208.05" y="-774.35" sprite="wallbg" scale="1"/>
+    <dad x="84.05" y="-5"/>
+    <boyfriend x="409" y="-5.75"/>
+    <gf x="0" y="-999"/>
+    <ratings x = "1000" y="500"/>
+</stage>

@@ -4,16 +4,16 @@
 	<char name="rebeccaTearingup" char="rebeccaTearingup" position="left" />
 
 	<!-- Lines -->
-	<line char="rebeccaTearingup">
+	<line char="rebeccaTearingup" stay="true">
 		I...
 	</line>
-	<line char="rebeccaTearingup">
+	<line char="rebeccaTearingup" stay="true">
 		I have to...
 	</line>
-	<line char="rebeccaTearingup">
+	<line char="rebeccaTearingup" stay="true">
 		keep going...
 	</line>
-	<line char="rebeccaTearingup">
+	<line char="rebeccaTearingup" stay="true">
 		please...
 	</line>
 </dialogue>

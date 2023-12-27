@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" icon="Vs Sky/sky manifest" y="170" isGF="false" isPlayer="false" sprite="Vs Sky/sky_mad_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="sky mad idle" name="idle"/>
+	<anim x="6" loop="false" y="-6" fps="24" anim="sky mad down" name="singDOWN"/>
+	<anim x="3" loop="false" y="0" fps="24" anim="sky mad right" name="singRIGHT"/>
+	<anim x="17" loop="false" y="-7" fps="24" anim="sky mad up" name="singUP"/>
+	<anim x="0" loop="false" y="1" fps="24" anim="sky mad left" name="singLEFT"/>
+</character>

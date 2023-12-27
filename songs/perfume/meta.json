@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 100,
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -12434840,
+	"displayName": "Perfume",
+	"icon": "dateWeek/CW",
+	"name": "perfume",
+	"color": "#424268"
+}

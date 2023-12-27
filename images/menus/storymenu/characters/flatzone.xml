@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="flatzone.png">
-	<!-- Created using the Spritesheet and XML generator -->
-	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="flatzone0000" x="0" y="0" width="2889" height="596" frameX="2" frameY="2" frameWidth="2889" frameHeight="592"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="flatzone.png" width="2016" height="594">
+	<SubTexture name="flatzone0000" x="1" y="1" width="2014" height="592" frameX="-0" frameY="-0" frameWidth="2889" frameHeight="594"/>
 </TextureAtlas>

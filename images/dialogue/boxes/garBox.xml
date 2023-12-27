@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="garBox.png">
+	<SubTexture name="Spirit Textbox spawn instance 10000" x="0" y="0" width="1154" height="274" frameX="2" frameY="2" frameWidth="1150" frameHeight="270"/>
+</TextureAtlas>

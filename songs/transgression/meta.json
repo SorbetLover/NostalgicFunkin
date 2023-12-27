@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 206,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"CRAZY"
+	],
+	"needsVoices": true,
+	"parsedColor": -8782079,
+	"displayName": "transgression",
+	"icon": "SuperNeon",
+	"name": "transgression",
+	"color": "#79FF01"
+}

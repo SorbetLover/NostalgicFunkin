@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="carol" y="0" isGF="false" flipX="true" isPlayer="true" gameOverChar="whitty-dead" sprite="dateWeek/whitty_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty death" name="firstDeath"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty death" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="whitty death" name="deathConfirm"/>
+</character>

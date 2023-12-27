@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boom.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 790000" x="0" y="0" width="1285" height="729"/>
+	<SubTexture name="Symbol 790001" x="0" y="0" width="1285" height="729"/>
+	<SubTexture name="Symbol 790002" x="1285" y="0" width="1285" height="729"/>
+	<SubTexture name="Symbol 790003" x="1285" y="0" width="1285" height="729"/>
+	<SubTexture name="Symbol 790004" x="2570" y="0" width="1285" height="729"/>
+	<SubTexture name="Symbol 790005" x="2570" y="0" width="1285" height="729"/>
+	<SubTexture name="Symbol 790006" x="0" y="729" width="1285" height="729"/>
+	<SubTexture name="Symbol 790007" x="0" y="729" width="1285" height="729"/>
+	<SubTexture name="Symbol 790008" x="1285" y="729" width="1285" height="729"/>
+	<SubTexture name="Symbol 790009" x="1285" y="729" width="1285" height="729"/>
+	<SubTexture name="Symbol 790010" x="2570" y="729" width="1285" height="729"/>
+	<SubTexture name="Symbol 790011" x="2570" y="729" width="1285" height="729"/>
+	<SubTexture name="Symbol 790012" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790013" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790014" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790015" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790016" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790017" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790018" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790019" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790020" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790021" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790022" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790023" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790024" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790025" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790026" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790027" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790028" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790029" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790030" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790031" x="0" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790032" x="1285" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790033" x="1285" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790034" x="1285" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790035" x="2570" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790036" x="2570" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790037" x="2570" y="1458" width="1285" height="729"/>
+	<SubTexture name="Symbol 790038" x="0" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790039" x="0" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790040" x="0" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790041" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790042" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790043" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790044" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790045" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790046" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790047" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790048" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790049" x="1285" y="2187" width="1285" height="729"/>
+	<SubTexture name="Symbol 790050" x="1285" y="2187" width="1285" height="729"/>
+</TextureAtlas>

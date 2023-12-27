@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="dialogueBox-pixel.png" width="199" height="98">
+	<SubTexture name="Text Box Appear instance 10000" x="1" y="93" width="121" height="4" frameX="-74" frameY="-104" frameWidth="249" frameHeight="144"/>
+	<SubTexture name="Text Box Appear instance 10001" x="1" y="86" width="195" height="4" frameX="-27" frameY="-104" frameWidth="249" frameHeight="144"/>
+	<SubTexture name="Text Box Appear instance 10002" x="1" y="57" width="195" height="26" frameX="-37" frameY="-84" frameWidth="249" frameHeight="144"/>
+	<SubTexture name="Text Box Appear instance 10003" x="1" y="1" width="197" height="53" frameX="-26" frameY="-72" frameWidth="249" frameHeight="144"/>
+	<SubTexture name="Text Box Appear instance 10004" x="1" y="1" width="197" height="53" frameX="-26" frameY="-72" frameWidth="249" frameHeight="144"/>
+</TextureAtlas>

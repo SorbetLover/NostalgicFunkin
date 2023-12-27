@@ -6,12 +6,12 @@
 	"bpm": 157,
 	"difficulties": [
 		"HARD",
-		"rechart"
+		"Rechart"
 	],
 	"needsVoices": true,
 	"parsedColor": -7376387,
-	"displayName": "your-demise",
-	"icon": "monika_finale",
+	"displayName": "your demise",
+	"icon": "Monika Rebooted/monika_finale",
 	"name": "your-demise",
 	"color": "#8F71FD"
 }

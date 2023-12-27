@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="-200" icon="bf" camx="350" y="380" isGF="false" camy="50" flipX="true" isPlayer="false" holdTime="6.1" sprite="VS Whitty/updike/bf">
+<character x="-200" icon="bf" camx="350" y="370" isGF="false" camy="-10" flipX="true" isPlayer="false" holdTime="6.1" sprite="VS Whitty/updike/bf">
 	<anim x="-20" loop="false" y="-50" fps="24" anim="BF NOTE DOWN edgy" name="singDOWN"/>
 	<anim x="45" loop="false" y="23" fps="24" anim="BF NOTE RIGHT MISS edgy" name="singLEFTmiss"/>
 	<anim x="-31" loop="false" y="18" fps="24" anim="BF NOTE LEFT MISS edgy" name="singRIGHTmiss"/>

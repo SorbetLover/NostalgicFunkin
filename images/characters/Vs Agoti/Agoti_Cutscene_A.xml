@@ -1,109 +1,110 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Agoti_Cutscene_A.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Agoti_Cut_A0000" x="0" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0001" x="0" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0002" x="1018" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0003" x="2036" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0004" x="3054" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0005" x="4072" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0006" x="5090" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0007" x="6108" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0008" x="7126" y="0" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0009" x="0" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0010" x="1018" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0011" x="2036" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0012" x="3054" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0013" x="3054" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0014" x="4072" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0015" x="4072" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0016" x="5090" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0017" x="5090" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0018" x="6108" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0019" x="6108" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0020" x="7126" y="868" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0021" x="0" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0022" x="1018" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0023" x="2036" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0024" x="3054" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0025" x="4072" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0026" x="5090" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0027" x="6108" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0028" x="7126" y="1736" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0029" x="0" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0030" x="1018" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0031" x="2036" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0032" x="3054" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0033" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0034" x="5090" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0035" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0036" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0037" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0038" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0039" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0040" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0041" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0042" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0043" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0044" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0045" x="4072" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0046" x="6108" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0047" x="6108" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0048" x="6108" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0049" x="7126" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0050" x="7126" y="2604" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0051" x="0" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0052" x="1018" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0053" x="2036" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0054" x="3054" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0055" x="4072" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0056" x="5090" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0057" x="6108" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0058" x="7126" y="3472" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0059" x="0" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0060" x="1018" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0061" x="2036" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0062" x="3054" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0063" x="4072" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0064" x="5090" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0065" x="6108" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0066" x="7126" y="4340" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0067" x="0" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0068" x="1018" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0069" x="2036" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0070" x="2036" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0071" x="3054" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0072" x="3054" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0073" x="4072" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0074" x="4072" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0075" x="5090" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0076" x="5090" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0077" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0078" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0079" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0080" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0081" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0082" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0083" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0084" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0085" x="6108" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0086" x="7126" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0087" x="7126" y="5208" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0088" x="0" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0089" x="0" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0090" x="1018" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0091" x="1018" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0092" x="2036" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0093" x="2036" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0094" x="3054" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0095" x="3054" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0096" x="4072" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0097" x="4072" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0098" x="5090" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0099" x="5090" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0100" x="5090" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0101" x="5090" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0102" x="5090" y="6076" width="1018" height="868"/>
-	<SubTexture name="Agoti_Cut_A0103" x="5090" y="6076" width="1018" height="868"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Agoti_Cutscene_A.png" width="4765" height="5103">
+	<SubTexture name="Agoti_Cut_A0000" x="3953" y="640" width="289" height="609" frameX="-514" frameY="-245" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0001" x="3953" y="640" width="289" height="609" frameX="-514" frameY="-245" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0002" x="4289" y="2529" width="289" height="609" frameX="-514" frameY="-245" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0003" x="3919" y="3141" width="371" height="609" frameX="-432" frameY="-245" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0004" x="4293" y="3141" width="406" height="609" frameX="-397" frameY="-245" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0005" x="1287" y="4321" width="608" height="406" rotated="true" frameX="-397" frameY="-246" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0006" x="2789" y="2074" width="594" height="665" frameX="-209" frameY="-189" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0007" x="1" y="2845" width="665" height="594" rotated="true" frameX="-209" frameY="-189" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0008" x="1471" y="1559" width="699" height="628" rotated="true" frameX="-175" frameY="-155" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0009" x="1435" y="2190" width="699" height="628" rotated="true" frameX="-175" frameY="-155" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0010" x="738" y="837" width="730" height="659" rotated="true" frameX="-144" frameY="-124" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0011" x="1" y="1503" width="730" height="659" rotated="true" frameX="-144" frameY="-124" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0012" x="1" y="837" width="734" height="663" rotated="true" frameX="-140" frameY="-120" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0013" x="1" y="837" width="734" height="663" rotated="true" frameX="-140" frameY="-120" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0014" x="738" y="1499" width="730" height="660" rotated="true" frameX="-143" frameY="-124" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0015" x="738" y="1499" width="730" height="660" rotated="true" frameX="-143" frameY="-124" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0016" x="1518" y="1" width="652" height="721" frameX="-151" frameY="-133" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0017" x="1518" y="1" width="652" height="721" frameX="-151" frameY="-133" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0018" x="722" y="2165" width="710" height="641" rotated="true" frameX="-162" frameY="-144" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0019" x="722" y="2165" width="710" height="641" rotated="true" frameX="-162" frameY="-144" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0020" x="2173" y="1" width="628" height="696" frameX="-175" frameY="-158" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0021" x="2173" y="700" width="628" height="696" frameX="-175" frameY="-158" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0022" x="2173" y="2091" width="613" height="679" frameX="-190" frameY="-175" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0023" x="2804" y="1" width="613" height="679" frameX="-190" frameY="-175" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0024" x="2137" y="2773" width="596" height="661" frameX="-207" frameY="-193" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0025" x="2736" y="2773" width="596" height="661" frameX="-207" frameY="-193" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0026" x="1" y="2165" width="718" height="677" rotated="true" frameX="-126" frameY="-136" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0027" x="1471" y="837" width="681" height="719" frameX="-126" frameY="-136" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0028" x="1" y="1" width="757" height="833" frameX="-50" frameY="-22" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0029" x="761" y="1" width="754" height="833" frameX="-50" frameY="-22" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0030" x="1924" y="3970" width="630" height="468" rotated="true" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0031" x="2557" y="3970" width="630" height="467" rotated="true" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0032" x="4297" y="1" width="467" height="630" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0033" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0034" x="4292" y="1266" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0035" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0036" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0037" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0038" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0039" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0040" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0041" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0042" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0043" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0044" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0045" x="4297" y="634" width="467" height="629" frameX="-336" frameY="-225" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0046" x="4292" y="1898" width="467" height="628" frameX="-336" frameY="-226" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0047" x="4292" y="1898" width="467" height="628" frameX="-336" frameY="-226" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0048" x="4292" y="1898" width="467" height="628" frameX="-336" frameY="-226" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0049" x="1" y="4501" width="609" height="601" frameX="-215" frameY="-249" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0050" x="1" y="4501" width="609" height="601" frameX="-215" frameY="-249" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0051" x="649" y="3442" width="643" height="523" frameX="-205" frameY="-325" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0052" x="1" y="3975" width="635" height="523" frameX="-213" frameY="-325" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0053" x="3757" y="3781" width="529" height="632" rotated="true" frameX="-217" frameY="-319" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0054" x="1295" y="3437" width="641" height="529" frameX="-208" frameY="-319" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0055" x="649" y="3968" width="635" height="530" frameX="-214" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0056" x="3224" y="3781" width="530" height="634" rotated="true" frameX="-215" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0057" x="3297" y="1352" width="647" height="530" frameX="-202" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0058" x="2583" y="3437" width="638" height="530" frameX="-211" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0059" x="1939" y="3437" width="641" height="530" frameX="-208" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0060" x="3420" y="1" width="530" height="650" rotated="true" frameX="-199" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0061" x="1" y="3442" width="645" height="530" frameX="-204" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0062" x="3386" y="1885" width="530" height="646" rotated="true" frameX="-203" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0063" x="1381" y="2821" width="654" height="530" frameX="-195" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0064" x="3386" y="2534" width="530" height="646" rotated="true" frameX="-203" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0065" x="3420" y="654" width="530" height="649" rotated="true" frameX="-200" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0066" x="722" y="2809" width="656" height="530" frameX="-193" frameY="-318" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0067" x="2804" y="683" width="525" height="666" rotated="true" frameX="-189" frameY="-323" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0068" x="2769" y="1399" width="525" height="672" rotated="true" frameX="-183" frameY="-323" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0069" x="1898" y="4441" width="513" height="605" rotated="true" frameX="-267" frameY="-343" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0070" x="1898" y="4441" width="513" height="605" rotated="true" frameX="-267" frameY="-343" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0071" x="2173" y="1399" width="593" height="689" rotated="true" frameX="-329" frameY="-272" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0072" x="2173" y="1399" width="593" height="689" rotated="true" frameX="-329" frameY="-272" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0073" x="2957" y="4440" width="541" height="597" frameX="-473" frameY="-268" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0074" x="2957" y="4440" width="541" height="597" frameX="-473" frameY="-268" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0075" x="613" y="4501" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0076" x="613" y="4501" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0077" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0078" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0079" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0080" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0081" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0082" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0083" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0084" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0085" x="2414" y="4441" width="540" height="598" frameX="-473" frameY="-267" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0086" x="3501" y="4418" width="538" height="592" frameX="-473" frameY="-273" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0087" x="3501" y="4418" width="538" height="592" frameX="-473" frameY="-273" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0088" x="1156" y="4730" width="596" height="365" rotated="true" frameX="-492" frameY="-272" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0089" x="1156" y="4730" width="596" height="365" rotated="true" frameX="-492" frameY="-272" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0090" x="1287" y="3969" width="634" height="349" rotated="true" frameX="-481" frameY="-230" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0091" x="1287" y="3969" width="634" height="349" rotated="true" frameX="-481" frameY="-230" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0092" x="3919" y="1943" width="345" height="632" frameX="-484" frameY="-232" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0093" x="3919" y="1943" width="345" height="632" frameX="-484" frameY="-232" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0094" x="3947" y="1306" width="342" height="634" frameX="-487" frameY="-230" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0095" x="3947" y="1306" width="342" height="634" frameX="-487" frameY="-230" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0096" x="3224" y="3437" width="636" height="341" rotated="true" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0097" x="3224" y="3437" width="636" height="341" rotated="true" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0098" x="3953" y="1" width="341" height="636" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0099" x="3953" y="1" width="341" height="636" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0100" x="3953" y="1" width="341" height="636" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0101" x="3953" y="1" width="341" height="636" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0102" x="3953" y="1" width="341" height="636" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
+	<SubTexture name="Agoti_Cut_A0103" x="3953" y="1" width="341" height="636" frameX="-488" frameY="-228" frameWidth="1018" frameHeight="868"/>
 </TextureAtlas>

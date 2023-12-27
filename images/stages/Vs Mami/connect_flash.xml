@@ -1,10 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="connect_flash.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BLU instance 1" x="2" y="2" width="1280" height="720"/>
-	<SubTexture name="GRN instance 1" x="1284" y="2" width="1280" height="720"/>
-	<SubTexture name="PNK instance 1" x="2566" y="2" width="1280" height="720"/>
-	<SubTexture name="RED instance 1" x="2" y="724" width="1280" height="720"/>
-	<SubTexture name="YEL instance 1" x="1284" y="724" width="1280" height="720"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="connect_flash.png" width="1284" height="709">
+	<SubTexture name="BLU instance 1" x="1" y="1" width="1278" height="707" frameX="-0" frameY="-11" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GRN instance 1" x="1282" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="PNK instance 1" x="1282" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="RED instance 1" x="1282" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="YEL instance 1" x="1282" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
 </TextureAtlas>

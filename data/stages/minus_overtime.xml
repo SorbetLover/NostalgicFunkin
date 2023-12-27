@@ -1,26 +1,37 @@
 <!DOCTYPE codename-engine-stage>
-<stage folder="stages/Vs RetroSpecter/minus/images/" zoom="0.5" name="minus_overtime">
+<stage folder="stages/Vs RetroSpecter/minus/images/" zoom="0.4" name="minus_overtime">
 	<sprite x="-1288" name="bg" sprite="background_night" y="-1393.25"/>
 	<sprite x="-906.5" name="bg_highlight" sprite="background_night_highlight" y="656.75"/>
 	<sprite x="232" name="minus_back_characters_top" sprite="minus_back_characters_top" y="-986"/>
-
 	<sprite x="-250.75" sprite="mics" y="-966.8" updateHitbox="true" scale="0.95" name="mics">
-		<anim name="night" anim="Night" fps="0" loop="false"/>
+		
+		
+		
+		
+		<anim loop="false" name="night" anim="Night" fps="0"/>
+		
+		
+	
+	
 	</sprite>
-
 	<sprite x="-324.5" name="Flag" sprite="Flag" y="-503.25">
-		<anim name="night" anim="Flag Wave Night" fps="12" loop="true"/>
+		
+		
+		
+		
+		<anim loop="true" name="night" anim="Flag Wave Night" fps="12"/>
+		
+		
+	
+	
 	</sprite>
-
 	<sprite x="-414.44" sprite="minus_back_characters_middle" y="-517.45" updateHitbox="true" scale="1.04" name="bg_chars_middle"/>
 	<sprite x="-1294.11" sprite="minus_back_characters_left" y="-728.72" updateHitbox="true" scale="1.04" name="bg_chars_left"/>
 	<sprite x="2203.97" sprite="minus_back_characters_right" y="-801.44" updateHitbox="true" scale="1.04" name="bg_chars_right"/>
-
-	<gf x="70" scroll="1" y="-9"/>
-	<dad x="-322" camyoffset="-100" y="90.5"/>
-	<bf x="1106.5" camyoffset="-200" y="95"/>
+	<gf x="242" scroll="1" y="92.5"/>
+	<dad x="-322" camxoffset="150" camyoffset="-200" y="90.5"/>
+	<bf x="1106.5" camxoffset="-300" camyoffset="-400" y="95"/>
 	<combo/>
-
 	<sprite x="-1287.5" name="bg_light_1" sprite="background_night_lightbeambig1" y="-1526.5"/>
 	<sprite x="-1375.25" name="bg_light_2" sprite="background_night_lightbeamsmall1" y="-1400"/>
 	<sprite x="-1287.5" sprite="background_night_lightbeambig1" y="-1526.5" flipX="true" name="bg_light_3"/>

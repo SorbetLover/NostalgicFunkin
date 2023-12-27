@@ -12,16 +12,16 @@
 	<line char="pompomDia">
 		This is my home!
 	</line>
-	<line char="pompomDia">
+	<line char="pompomDia" stay="true">
 		People usually don't come here.
 	</line>
-	<line char="pompomDia">
+	<line char="pompomDia" stay="true">
 		Wait...
 	</line>
-	<line char="pompomDia">
+	<line char="pompomDia" stay="true">
 		Is that a mic?
 	</line>
-	<line char="pompomDia">
+	<line char="pompomDia" stay="true">
 		Do you sing?
 	</line>
 	<line>

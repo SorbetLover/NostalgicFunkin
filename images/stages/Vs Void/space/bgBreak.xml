@@ -1,15 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bgBreak.png">
-	<!-- Lol I literally just edited this in Notepad. The original was created with Adobe Animate version 20.0.0.17400 tho -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Initial0000" x="0" y="0" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="1st Break0000" x="1500" y="0" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="1st Break0001" x="0" y="1000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="1st Break0002" x="1500" y="1000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="1st Break0003" x="0" y="2000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="2nd Break0000" x="1500" y="2000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="2nd Break0001" x="0" y="3000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="2nd Break0002" x="1500" y="3000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="2nd Break0003" x="0" y="4000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
-        <SubTexture name="2nd Break0004" x="1500" y="4000" width="1500" height="1000" frameX="0" frameY="0" frameWidth="1500" frameHeight="1000"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bgBreak.png" width="2308" height="2587">
+	<SubTexture name="Initial0000" x="1324" y="987" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="1st Break0000" x="1807" y="2323" width="217" height="151" frameX="-641" frameY="-511" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="1st Break0001" x="1807" y="1975" width="434" height="345" frameX="-540" frameY="-389" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="1st Break0002" x="1" y="1966" width="905" height="620" frameX="-301" frameY="-203" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="1st Break0003" x="909" y="1975" width="895" height="610" frameX="-306" frameY="-208" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="2nd Break0000" x="909" y="1975" width="895" height="610" frameX="-306" frameY="-208" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="2nd Break0001" x="1324" y="1324" width="975" height="648" frameX="-265" frameY="-181" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="2nd Break0002" x="1" y="1" width="1327" height="983" frameX="-93" frameY="-17" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="2nd Break0003" x="1" y="987" width="1320" height="976" frameX="-93" frameY="-24" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="2nd Break0004" x="1331" y="1" width="976" height="1320" rotated="true" frameX="-93" frameY="-24" frameWidth="1500" frameHeight="1000"/>
 </TextureAtlas>

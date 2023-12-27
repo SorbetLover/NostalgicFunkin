@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky_heartbass.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky_heartbass0000" x="0" y="0" width="1309" height="751"/>
+	<SubTexture name="sky_heartbass0001" x="1309" y="0" width="1309" height="751"/>
+	<SubTexture name="sky_heartbass0002" x="2618" y="0" width="1309" height="751"/>
+	<SubTexture name="sky_heartbass0003" x="0" y="751" width="1309" height="751"/>
+	<SubTexture name="sky_heartbass0004" x="1309" y="751" width="1309" height="751"/>
+</TextureAtlas>

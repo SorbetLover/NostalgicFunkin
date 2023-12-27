@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="G&W.png">
+<TextureAtlas imagePath="GW.png">
 	<!-- Created with Adobe Animate version 20.0.0.17400 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="note sing left0000" x="5400" y="0" width="850" height="600" frameX="210" frameY="40" frameWidth="564" frameHeight="700"/>

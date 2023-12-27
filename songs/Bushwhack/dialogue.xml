@@ -7,22 +7,22 @@
 	<line char="zardy_dark">
 		Oh… Silly boy! It’s you again!
 	</line>
-	<line char="zardy_dark">
+	<line char="zardy_dark" stay="true">
 		You shouldn’t have come here… I warned you before that it’s dangerous to wander in the dark.
 	</line>
-	<line char="zardy_dark">
+	<line char="zardy_dark" stay="true">
 		And yet you walked straight towards the center of the darkness. A foolhardy move, boy.
 	</line>
-	<line char="zardy_dark">
+	<line char="zardy_dark" stay="true">
 		But bravery has a funny way of betraying people… There’s a big difference between you and I.
 	</line>
-	<line char="zardy_dark">
+	<line char="zardy_dark" stay="true">
 		The dark makes your world small. It devours your senses and puts you on edge…
 	</line>
-	<line char="zardy_dark">
+	<line char="zardy_dark" stay="true">
 		But to us? Well… Let’s just say you couldn’t have walked into a worse situation.
 	</line>
-	<line char="zardy_dark">
+	<line char="zardy_dark" stay="true">
 		Your story ends here.
 	</line>
 </dialogue>

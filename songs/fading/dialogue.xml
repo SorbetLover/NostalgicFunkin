@@ -1,51 +1,50 @@
 <!DOCTYPE codename-engine-dialogue>
-<dialogue box="default">
+<dialogue box="garBox">
 	<!-- All characters -->
-	<char name="garcelloFading" char="garcelloFading" position="left" />
-	<char name="bfgarcello" char="bfgarcello" position="right" />
+	<char name="garFading" char="garFading" position="left" />
 
 	<!-- Lines -->
-	<line char="garcelloFading">
+	<line char="garFading">
 		Man...
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		Would ya look at that - the sun's rising and I won't be awake for once.
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		...
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		Hey.
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		Sorry for dying.
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		I didn't want this thing killin' ya. You're actually really cool.
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		I would've loved to funk with ya more, but this is my fault.
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		You two have a lot going on, and I don't want to add to it.
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		...
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		I've got enough time for one last send off, little man.
 	</line>
 	
-	<line char="garcelloFading">
+	<line char="garFading" stay="true">
 		You two stay safe, alright?
 	</line>
 </dialogue>

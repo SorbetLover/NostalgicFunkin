@@ -67,5 +67,5 @@ function onDadHit(event:NoteHitEvent) {
         health -= 0.0005;
     }
 
-	if (!FlxG.save.data.shakeShit) camGame.shake(0.03, 0.02, null, true);
+	if (FlxG.save.data.shakeShit) camGame.shake(0.03, 0.02, null, true);
 }

@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="date" folder="stages/date/">
+
+    <sprite name="sky_heartbass" x="-12" y="-10" sprite="sky_heartbass" scroll="0.1" scale="1">
+		<anim name="boom" anim="sky_heartbass" fps="24" loop="false"/>
+	</sprite>
+    <sprite name="bg_hb" x="-185.5" y="220" sprite="bg_hb" scroll="0.2" scale="1"/>
+    <sprite name="plane" x="1600" y="96.3" sprite="plane" scroll="0.2" scale="1"/>
+    <sprite name="midg" x="-20.5" y="120.1" sprite="midg" scroll="0.5" scale="1"/>
+
+    <sprite name="farris_wheel" x="6.75" y="-66.4" sprite="farris_wheel" scroll="0.6" scale="1">
+		<anim name="thing1" anim="farris_wheel" indices="0" fps="0" loop="false"/>
+		<anim name="thing2" anim="farris_wheel" indices="1" fps="0" loop="false"/>
+		<anim name="thing3" anim="farris_wheel" indices="2" fps="0" loop="false"/>
+		<anim name="thing4" anim="farris_wheel" indices="3" fps="0" loop="false"/>
+	</sprite>
+
+    <sprite name="characters_walking" x="820" y="-60" sprite="characters_walking" scroll="0.9" scale="1"/>
+    
+    <sprite name="backboppers" x="41.45" alpha="0.000001" y="-149.45" sprite="backboppers" scroll="0.9" scale="1"/>
+    <sprite name="frontboppers" alpha="0.000001" x="-54.65" y="-59.55" sprite="frontboppers" scroll="0.93" scale="1"/>
+    <sprite name="fair_gate" x="-335.3" y="-444.8" sprite="fair_gate" scroll="0.95" scale="1"/>
+    <sprite name="chairs" x="286.25" y="351.15" sprite="chairs" scale="1"/>
+    <sprite name="table" x="409" y="475.25" alpha="0.000001" sprite="table" scale="1"/>
+    <dad x="84.05" y="-5"/>
+    <boyfriend x="409" y="-5.75"/>
+    <gf x="0" y="-999"/>
+    <ratings x = "1000" y="500"/>
+</stage>

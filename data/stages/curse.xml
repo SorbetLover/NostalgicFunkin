@@ -2,7 +2,7 @@
 <stage zoom="0.8" name="normal_stage" folder="stages/Vs Tabi/normal_stage/">
 	<sprite name="normalStage" x="0" y="0" sprite="normal_stage" scroll="1" />
 
-	<girlfriend x="800" y="100" scale="1.1" />
+	<girlfriend x="800" y="100" scroll="1" scale="1.1" />
 	<dad x="450" y="368" />
 	<boyfriend x="1620" y="380" />
 

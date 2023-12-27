@@ -14,7 +14,7 @@
 	<line char="whitty">
 		oh, you two.
 	</line>
-	<line char="whitty">
+	<line char="whitty" stay="true">
 		Would both of you kindly leave me alone? I don't want anyone knowin' I'm here.
 	</line>
 	<line char="bfWhitty">

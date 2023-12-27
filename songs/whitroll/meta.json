@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 90,
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -12434840,
+	"displayName": "Whitroll",
+	"icon": "dateWeek/CW",
+	"name": "whitroll",
+	"color": "#424268"
+}

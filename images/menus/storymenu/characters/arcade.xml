@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="arcade.png">
-	<!-- Created using the Spritesheet and XML generator -->
-	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="arcade0000" x="0" y="0" width="2880" height="623" frameX="2" frameY="2" frameWidth="2880" frameHeight="619"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="arcade.png" width="1995" height="621">
+	<SubTexture name="arcade0000" x="1" y="1" width="1993" height="619" frameX="-0" frameY="-0" frameWidth="2880" frameHeight="621"/>
 </TextureAtlas>

@@ -82,6 +82,11 @@ function onChangeSelection(a) {
 
         case "wocky" | "Beathoven" | "Hariball" | "fuzzy-distortion" | "Nyaw" | "Flatzone":
             currentWeek = "Vs Kapi";
+
+        case "whitroll" | "perfume" | "heartbass":
+            currentWeek = "date week";
+        default:
+            currentWeek = "unknown week";
     }
     if (currentWeek == null) currentWeek = "unknown week";
 

@@ -8,7 +8,7 @@
 		"EASY",
 		"NORMAL",
 		"HARD",
-		"HARD-RECHART"
+		"Rechart"
 	],
 	"needsVoices": true,
 	"parsedColor": -24483,
