@@ -2,9 +2,23 @@ import flixel.animation.FlxAnimationController;
 
 // stage for Tic Tac Foe, Hit N' Strike(ugly ass song) and Acrimony.
 var crowd2:FlxSprite;
-
+var crowd1:FlxSprite;
+var boombox:FlxSprite;
 function postCreate(){
+     
+
 	//define bg anims becouse i cant make it STOP IF ITS ON THE XML FOR SOME REASON
+
+boombox = new FlxSprite(1300, 1800);
+boombox.frames = Paths.getSparrowAtlas("stages/maginage/boombox");
+boombox.scale.set(1.2,1.2);
+boombox.antialiasing = true;
+
+boombox.animation.addByPrefix('idle', 'boombox', 24, true, false,false);
+boombox.animation.stop();
+insert(members.indexOf(bgshit) +1, boombox);
+boombox.alpha = 1;
+
 
 crowd2 = new FlxSprite(500, 1200);
 crowd2.frames = Paths.getSparrowAtlas("stages/maginage/Crowd2");
@@ -48,6 +62,7 @@ function postUpdate(){
 function beatHit(curBeat){
 	crowd2.animation.play("idle");
 	crowd1.animation.play("idle");
+	boombox.animation.play("idle");
 
 // if(curBeat % 4 == 0){
 
