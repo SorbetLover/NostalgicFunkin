@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 170,
+	"difficulties": [
+		"EASY",
+		"FIXED",
+		"HARD",
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -29710,
+	"displayName": "hit n' strike",
+	"icon": "maginage/lucian",
+	"name": "hit n' strike",
+	"color": "#FF8BF2"
+}
