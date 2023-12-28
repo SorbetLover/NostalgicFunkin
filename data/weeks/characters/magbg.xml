@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-week-character>
+<char scale="1" x="490" y="15">
+	<anim name="idle"       anim="magbg idle"  fps="24"    loop="true" />
+	<anim name="confirm"    anim="magbg idle"             fps="24"    loop="false"/>
+</char>
