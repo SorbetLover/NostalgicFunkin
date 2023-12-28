@@ -1,5 +1,5 @@
 {
-	"opponentModeAllowed": false,
+	"opponentModeAllowed": true,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
@@ -8,7 +8,7 @@
 	],
 	"icon": "maginage/tac",
 	"parsedColor": -7179779,
-	"coopAllowed": false,
+	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
 	"displayName": "tic tac foe",
