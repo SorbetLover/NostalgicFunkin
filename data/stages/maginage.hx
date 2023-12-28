@@ -17,7 +17,7 @@ boombox.antialiasing = true;
 boombox.animation.addByPrefix('idle', 'boombox', 24, true, false,false);
 boombox.animation.stop();
 insert(members.indexOf(bgshit) +1, boombox);
-boombox.alpha = 1;
+boombox.alpha = 0;
 
 
 crowd2 = new FlxSprite(500, 1200);
@@ -42,6 +42,17 @@ crowd1.animation.stop();
 insert(members.indexOf(bgshit) + 1, crowd1);
 crowd1.alpha = 0;
 
+abbyT = new FlxSprite(0, 0);
+abbyT.frames = Paths.getSparrowAtlas("stages/maginage/abbyTransformation");
+abbyT.scale.set(1.3,1.3);
+abbyT.antialiasing = true;
+
+abbyT.animation.addByPrefix('idle', 'AbbyTransform', 24, true, false,false);
+abbyT.animation.stop();
+insert(members.indexOf(strumLines.members[0].characters[1]) + 1, abbyT);
+abbyT.alpha = 0;
+
+
 
 //bf shit
 boyfriend.scale.set(1.4,1.4);
@@ -50,14 +61,28 @@ boyfriend.y -= 80;
 
 //song char shit
 switch(PlayState.instance.curSong){
-	case "tic tac foe": dad.scale.set(1.4,1.4);  dad.y -= 190; dad.x -= 100; 
+	case "tic tac foe": dad.scale.set(1.4,1.4);  dad.y -= 190; dad.x -= 100; boombox.alpha = 1;
+    case "hit n' strike": dad.scale.set(1.2,1.2);  dad.y -= 300; dad.x -= 100; crowd1.alpha = 1; boombox.alpha = 1;
+    case "acrimony": dad.scale.set(1.3,1.3);  strumLines.members[0].characters[1].scale.set(1.3,1.3); dad.y -= 70; dad.x -= 100; crowd2.alpha = 1; boombox.alpha = 1;
+    
 }
+abbyT.x = strumLines.members[0].characters[0].x - 534;
+abbyT.y = strumLines.members[0].characters[0].y - 54;
+strumLines.members[0].characters[1].alpha = 0;
 }
 
 function postUpdate(){
 	if(crowd2.animation.curAnim.name == "cheer"){
 		crowd2.y = 1190;
 	}else{ crowd2.y = 1200; }
+    
+	switch(curCameraTarget){
+        case 1:
+            camGame.followLerp = 0.06;
+        case 0:
+            camGame.followLerp = 2;
+        
+    }
 }
 function beatHit(curBeat){
 	crowd2.animation.play("idle");
@@ -68,4 +93,21 @@ function beatHit(curBeat){
 
 // crowd2.animation.play("cheer");
 // }
+}
+
+function stepHit(curStep){
+	if(PlayState.instance.curSong == "acrimony"){
+
+		switch(curStep){
+			case 1048:
+			abbyT.alpha = 1;
+			strumLines.members[0].characters[0].alpha = 0;
+			abbyT.animation.play("idle", false);
+			new FlxTimer().start(5.0, function(Timer:FlxTimer)
+				{
+					abbyT.alpha = 0;
+					strumLines.members[0].characters[1].alpha = 1;
+			});		
+		}
+	}
 }
