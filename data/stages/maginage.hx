@@ -76,12 +76,13 @@ function postUpdate(){
 		crowd2.y = 1190;
 	}else{ crowd2.y = 1200; }
     
+	if(PlayState.instance.curSong == "acrimony"){
 	switch(curCameraTarget){
         case 1:
             camGame.followLerp = 0.06;
         case 0:
             camGame.followLerp = 2;
-        
+        }
     }
 }
 function beatHit(curBeat){
@@ -100,6 +101,9 @@ function stepHit(curStep){
 
 		switch(curStep){
 			case 1048:
+			new FlxTimer().start(2.0, function(Timer:FlxTimer)
+			{ FlxG.sound.play(Paths.sound("maginage/transitionmicbreak")); });
+
 			abbyT.alpha = 1;
 			strumLines.members[0].characters[0].alpha = 0;
 			abbyT.animation.play("idle", false);
