@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nametags.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="abby0000" x="3" y="3" width="225" height="100" frameX="-10" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="abby0001" x="233" y="3" width="225" height="100" frameX="-7" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="abby0002" x="463" y="3" width="225" height="100" frameX="-4" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="abby0003" x="693" y="3" width="225" height="100" frameX="0" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="bf0000" x="3" y="108" width="225" height="100" frameX="0" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="bf0001" x="233" y="108" width="225" height="100" frameX="-4" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="bf0002" x="463" y="108" width="225" height="100" frameX="-7" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="bf0003" x="693" y="108" width="225" height="100" frameX="-10" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="carol0000" x="3" y="213" width="225" height="100" frameX="-10" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="carol0001" x="233" y="213" width="225" height="100" frameX="-7" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="carol0002" x="463" y="213" width="225" height="100" frameX="-4" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="carol0003" x="693" y="213" width="225" height="100" frameX="0" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="gf0000" x="3" y="318" width="225" height="100" frameX="0" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="gf0001" x="233" y="318" width="225" height="100" frameX="-4" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="gf0002" x="463" y="318" width="225" height="100" frameX="-7" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="gf0003" x="693" y="318" width="225" height="100" frameX="-10" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="lucian0000" x="3" y="423" width="225" height="100" frameX="-10" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="lucian0001" x="233" y="423" width="225" height="100" frameX="-7" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="lucian0002" x="463" y="423" width="225" height="100" frameX="-4" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="lucian0003" x="693" y="423" width="225" height="100" frameX="0" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="tac0000" x="3" y="528" width="225" height="100" frameX="-10" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="tac0001" x="233" y="528" width="225" height="100" frameX="-7" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="tac0002" x="463" y="528" width="225" height="100" frameX="-4" frameY="0" frameWidth="235" frameHeight="100"/>
+	<SubTexture name="tac0003" x="693" y="528" width="225" height="100" frameX="0" frameY="0" frameWidth="235" frameHeight="100"/>
+</TextureAtlas>

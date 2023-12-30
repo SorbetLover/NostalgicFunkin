@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AbbyPunch.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AbbyPunch0000" x="0" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0001" x="0" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0002" x="627" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0003" x="1254" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0004" x="1881" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0005" x="2508" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0006" x="3135" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0007" x="3135" y="0" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0008" x="0" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0009" x="0" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0010" x="627" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0011" x="1254" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0012" x="1881" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0013" x="1881" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0014" x="1881" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0015" x="1881" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0016" x="1881" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0017" x="1881" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0018" x="1881" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0019" x="2508" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0020" x="3135" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0021" x="3135" y="605" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0022" x="0" y="1210" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0023" x="0" y="1210" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0024" x="627" y="1210" width="626" height="604"/>
+	<SubTexture name="AbbyPunch0025" x="627" y="1210" width="626" height="604"/>
+</TextureAtlas>

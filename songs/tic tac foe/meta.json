@@ -1,0 +1,14 @@
+{
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"fixed"
+	],
+	"needsVoices": true,
+	"parsedColor": -138639,
+	"displayName": "tic tac foe",
+	"icon": "maginage/tac",
+	"name": "tic tac foe",
+	"color": "#FDE271"
+}
