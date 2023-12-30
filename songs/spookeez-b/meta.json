@@ -7,7 +7,8 @@
 	"difficulties": [
 		"EASY",
 		"NORMAL",
-		"HARD"
+		"HARD",
+		"Hard with fewer longjacks"
 	],
 	"needsVoices": true,
 	"parsedColor": -5460820,
