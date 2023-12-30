@@ -72,10 +72,6 @@ strumLines.members[0].characters[1].alpha = 0;
 }
 
 function postUpdate(){
-	if(crowd2.animation.curAnim.name == "cheer"){
-		crowd2.y = 1190;
-	}else{ crowd2.y = 1200; }
-    
 	if(PlayState.instance.curSong == "acrimony"){
 	switch(curCameraTarget){
         case 1:
