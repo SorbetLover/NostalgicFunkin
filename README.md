@@ -47,7 +47,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught] | 🟡 Without cutscenes and recharts
 - [ ] Vs. Tricky (The Full ASS Mod) | 🟡 Without cutscenes and recharts and expurgation
 - [ ] Vs. Monika Rebooted | 🟡 without dialogue & cutscenes
-- [ ] Maginage Matches | 🟡 Nothing yet beyond a few character assets
+- [ ] Maginage Matches | 🟡 Without full dialogue implementation
 - [ ] Vs. Hex V1 | 🔴
 - [ ] Vs. Hatsune Miku V2 | 🔴
 - [ ] Vs. Annie | 🔴
