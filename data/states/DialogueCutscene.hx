@@ -71,10 +71,7 @@ function maginageMusic(arg1){
 public var acrimonyend:Bool = false;
 
 function update(){
-    if(FlxG.keys.justPressed.V){
-        acrimonyend = true;
-        endSong();
-    }
+    
     
     if(FlxG.keys.justPressed.Q){
         curDialogue -= 2;
@@ -314,7 +311,7 @@ if(PlayState.instance.curSong == "tic tac foe"){
             case 19:
                 img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-13")); 
             case 20:
-                FlxG.switchState(new FreeplayState());
+                FlxG.switchState(new MainMenuState());
 
             
         }
