@@ -13,7 +13,7 @@ function create(){
 
 
 // toni shit -------------------------------
-    if(PlayState.instance.curSong == "tic tac foe" || PlayState.instance.curSong == "hit n' strike"){
+    if(PlayState.instance.curSong == "tic tac foe" || PlayState.instance.curSong == "hit n' strike" || PlayState.instance.curSong == "acrimony" || acrimonyend == true){
         
     magbox = new FlxSprite().loadGraphic(Paths.image("dialogue/boxes/magDia"));
     img1 = new FlxSprite().loadGraphic(Paths.image("dialogue/characters/maginageimages/c1-1"));
@@ -60,15 +60,28 @@ function maginageMusic(arg1){
             if(playingmusic == false)  FlxG.sound.music.resume();
 
             playingmusic = true;
+        case "stop":
+            FlxG.sound.music.stop();
+
+            playingmusic = false;
 
     }
 }
 
+public var acrimonyend:Bool = false;
 
 function update(){
-
+    if(FlxG.keys.justPressed.V){
+        acrimonyend = true;
+        endSong();
+    }
+    
+    if(FlxG.keys.justPressed.Q){
+        curDialogue -= 2;
+    }
     if(FlxG.keys.justPressed.SPACE || FlxG.keys.justPressed.ENTER){
         curDialogue += 1;
+
         switch(PlayState.instance.curSong){ //////// DIALGOEU MUSIC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111111111111111111111111
         case "tic tac foe":
 
@@ -79,15 +92,38 @@ function update(){
             case 25:
                 maginageMusic("resume");
             case 27:
-                FlxG.music.stop();
+                maginageMusic("stop");
         case "hit n' strike":    
+            switch(curDialogue){
             case 29:
-                FlxG.music.stop();
+                maginageMusic("stop");
         }
+        case "acrimony":
+            if(PlayState.instance.curStep < 300){
+            switch(curDialogue){
+
+                case 1:
+                    maginageMusic("vindi");
+                case 24:
+                    maginageMusic("stop");
+
+            }
+            }
+
+            if(PlayState.instance.curStep > 1){
+                switch(curDialogue){
+    
+                    case 1:
+                        maginageMusic("bowout");
+                    case 20:
+                        maginageMusic("stop");
+    
+                }
+                }        }
     }
     }
  
-if(PlayState.instance.curSong == "tic tac foe" || PlayState.instance.curSong == "hit n' strike"){
+if(PlayState.instance.curSong == "tic tac foe" || PlayState.instance.curSong == "hit n' strike" || PlayState.instance.curSong == "acrimony"){
     dialogueBox.text.color = 0xFFFFFFFF;
     dialogueBox.text.scale.set(0.9,0.9);
     dialogueBox.alpha = 0;
@@ -203,5 +239,86 @@ if(PlayState.instance.curSong == "tic tac foe"){
         }
    
  }
+ if(PlayState.instance.curSong == "acrimony"){
+    switch(acrimonyend){
+    case false:
+    // if(acrimonyend == false){
+    switch(curDialogue){ 
+        ////// bg images
+        case 1:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-1")); 
+        case 2:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-2")); 
+        case 3:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-3")); 
+        case 4:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-4")); 
+        case 5:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-5")); 
+        case 6:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-6")); 
+        case 8:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-7")); 
+        case 9:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-8")); 
+        case 10:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-9")); 
+        case 11:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-10")); 
+        case 12:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-11")); 
+        case 13:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-12")); 
+        case 14:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-13")); 
+        case 15:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-14")); 
+        case 17:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-15")); 
+        case 19:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-16")); 
+        case 21:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-17")); 
+        case 23:
+            img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c3-18")); 
+    }
+    case true:
+    // if(acrimonyend == true ){
+        switch(curDialogue){ 
 
+            case 1:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-1")); 
+            case 2:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-2")); 
+            case 4:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-3")); 
+            case 7:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-4")); 
+            case 8:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-5")); 
+            case 9:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-6")); 
+            case 11:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-7")); 
+            case 14:
+                magbox.alpha = 0;
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-8")); 
+            case 15:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-9")); 
+            case 16:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-10")); 
+            case 17:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-11")); 
+            case 18:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-12")); 
+            case 19:
+                img1.loadGraphic(Paths.image("dialogue/characters/maginageimages/c4-13")); 
+            case 20:
+                FlxG.switchState(new FreeplayState());
+
+            
+        }
+    
+}
+}
 }
