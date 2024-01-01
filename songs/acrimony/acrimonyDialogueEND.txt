@@ -1,42 +1,42 @@
 :BG:c4-1
 :BGMUSIC:Bow Out
-:gf: Hey!
+                                                             1         :gf: Hey!
 :BG:c4-2
-:gf:What are you doing?
-:gf:It’s just a rap-battle, what are you getting so worked up for?
+                                                              2        :gf:What are you doing?
+                                                               3       :gf:It’s just a rap-battle, what are you getting so worked up for?
 :BG:c4-3
-:abby:Oh please, you don’t even know the full story.
-:abby:You’re only defending him because you think this blue-haired jerk is cool.
-:gf:Still, that doesn’t give you the right to hurt him!
+                                                               4       :abby:Oh please, you don’t even know the full story.
+                                                              5        :abby:You’re only defending him because you think this blue-haired jerk is cool.
+                                                               6       :gf:Still, that doesn’t give you the right to hurt him!
 :BG:c4-4
-:abby:Listen here you-
+                                                           7           :abby:Listen here you-
 :BG:c4-5
-:lucian:Abby, leave it.
+                                                            8          :lucian:Abby, leave it.
 :BG:c4-6
-:abby:But-!
-:lucian:I’m serious, break is almost over anyways...
+                                                             9         :abby:But-!
+                                                              10        :lucian:I’m serious, break is almost over anyways...
 :BG:c4-7
-:tac:Abby…
-:abby:...sigh
-:abby:Fine... let’s go.
+                                                          11            :tac:Abby…
+                                                            12          :abby:...sigh
+                                                              13        :abby:Fine... let’s go.
 :BG:c4-8
-:na:...
+                                                                14      :na:...
 :BG:c4-9
-:na:...
+                                                                 15    :na:...
 :BG:c4-10
-:na:...
+                                                                   16   :na:...
 :BG:c4-11
-:na:....
+                                                          17            :na:....
 :BG:c4-12
-:nb:
+                    18   :nb:
 :BG:c4-13
-:nb:
+                 19    :nb:
 :BG:credit1
 :BGMpause:
-:nb:
+                 20:nb:
 :BG:credit2
-:nb:
+                21:nb:
 :BG:credit3
-:nb:
+               22:nb:
 :BG:credit4
-:nb:
+              23:nb:
