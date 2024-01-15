@@ -1,0 +1,106 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+
+
+<char name="as" char="dad" position="left" />
+<char name="sa" char="boyfriend" position="right" />
+
+<line bubble="normal" char="gf"> 
+   Hey!
+</line>
+
+<line bubble="normal" char="gf"> 
+   What are you doing?
+</line>
+
+<line bubble="normal" char="gf"> 
+    It’s just a rap-battle, what are you getting so worked up for?
+</line>
+
+<line bubble="normal" char="abby"> 
+    Oh please, you don’t even know the full story.
+</line>
+
+<line bubble="normal" char="abby"> 
+    You’re only defending him because you think this blue-haired jerk is cool.
+</line>
+
+<line bubble="normal" char="gf"> 
+    Still, that doesn’t give you the right to hurt him!
+</line>
+
+<line bubble="normal" char="abby"> 
+    Listen here you-
+
+</line>
+
+<line bubble="normal" char="lucian"> 
+    Abby, leave it.
+</line>
+
+<line bubble="normal" char="abby"> 
+    But-!
+</line>
+
+<line bubble="normal" char="bf"> 
+    I’m serious, break is almost over anyways...
+</line>
+
+<line bubble="normal" char="tac"> 
+    Abby…
+</line>
+
+<line bubble="normal" char="abby"> 
+    ...sigh
+</line>
+
+<line bubble="normal" char="abby"> 
+    Fine... let’s go.
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+
+<line bubble="normal" char="bf"> 
+
+</line>
+<line bubble="normal" char="bf"> 
+
+</line>
+
+
+
+</dialogue>
