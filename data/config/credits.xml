@@ -164,10 +164,17 @@
 	desc="• Ported the majority of Vs Pompom and Vs Monika Rebooted + Static Memories week 1."
 	url="https://github.com/SorbetLover"
 	/>
+	<credit
+	name="7oltan" 
+	desc="• Ported the majority of Date week including the countdown
+	and the gameover screen + fully ported 1st song, 2nd song, 3nd song (assets)."
+	url="https://github.com/7oltan"
+	/>
 	<credit 
 	name="bambamlol"
 	desc="• Modchart porter for the foolhardy song.
-	• Ported Vs Garcello."
+	• Ported Vs Garcello.
+	• Ported Vs Bob week 1."
 	url="https://www.youtube.com/channel/UC7QEBfHKro8kccl41zbhSMQ"
 	/>
 	<credit 
