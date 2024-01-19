@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage zoom="0.7" name="maginage" folder="stages/maginage/">
-	<sprite name="bgshit"               x="-290" y="-530"   sprite="Schoolyard"         scale="1" />
-
-	<girlfriend                              y="-100"                                      scale="0.8" />
-	<dad                            x="800" y="1560"/>
-	<boyfriend                      x="1800" y="1380" scale="0.9"/>
-</stage>

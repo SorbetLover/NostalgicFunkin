@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="0" icon="maginage/abby" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="maginage/abbymad">
-	<anim x="0" loop="false" y="0" fps="24" anim="AbbyIDLE" name="idle"/>
-	<anim x="-16" loop="false" y="82" fps="24" anim="AbbyUP" name="singUP"/>
-	<anim x="50" loop="false" y="35" fps="24" anim="AbbyLEFT" name="singLEFT"/>
-	<anim x="30" loop="false" y="-28" fps="24" anim="AbbyRIGHT" name="singRIGHT"/>
-	<anim x="-40" loop="false" y="-25" fps="24" anim="AbbyDOWN" name="singDOWN"/>
-</character>
