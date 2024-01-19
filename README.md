@@ -17,13 +17,13 @@
 Nostalgic Funkin' is a mod pack aimed at porting most classic mods from three years ago or to be specific, mods from Kade Engine era that made an impact such as Vs Tricky, Vs Whitty, Vs Tabi, B sides, etc to a more modern engine this mod pack uses which is called Codename Engine.
 
 Main porters are:
-MAZ, Null, Tsaku, Bam (bambamlolo), Notbeep-,- (Itzbeepi77), SorbetLover (Toni).
+MAZ, Null, Tsaku, Notbeep-,- (Itzbeepi77), SorbetLover (Toni).
 
 ---
 ## What's planned?
 Here are our planned ones so far. Will get extended later down the road.
 🟢 - Completed completely :D
-🟡 - Bugged/unfinished/unpolished/still under construction/missed assets
+🟡 - Bugged/unfinished/unpolished/still under construction/missing assets
 🔴 - Not started yet/no one's on it/not in the build yet
 
 `V1`
@@ -34,11 +34,11 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Whitty Remastered | 🟢
 - [x] Vs. Garcello | 🟢
 ---
-- [x] Vs. Pompom | 🟢
-- [x] Date mod | 🟡
-- [x] Vs. Zardy | 🟡 desperately needs recharts 
+- [x] Vs. Pompom | 🟡 Missing Week 2 (including its cutscenes, story mode assets, dialogue, songs, etc) and missing stage assets
+- [x] Date mod | 🟡 Polish needed + 3rd song isn't implemented
+- [x] Vs. Zardy | 🟡 Bushwhack needs a rechart
 - [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
-- [x] Vs. AGOTI (the classic one) | 🟡 without dialogue and recharts
+- [x] Vs. AGOTI (the classic one) | 🟡 Missing dialogue, cutscenes, and recharts
 - [x] Vs. Tabi | 🟡 without dialogue and recharts
 - [x] Vs Void | 🟡 without dialogue and recharts
 - [x] Vs QT | 🟡 without dialogue, mechanics, modcharts
@@ -47,7 +47,8 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught] | 🟡 Without cutscenes and recharts
 - [ ] Vs. Tricky (The Full ASS Mod) | 🟡 Without cutscenes and recharts and expurgation
 - [ ] Vs. Monika Rebooted | 🟡 without dialogue & cutscenes
-- [ ] Maginage Matches | 🟡 Without full dialogue implementation
+- [ ] vs sky | 🟡 without dialogue, cutscenes, and recharts
+- [ ] vs Retrospecter | 🟡 Honestly I have no idea as I haven't playtested. Ask notbeep - MAZ
 - [ ] Vs. Hex V1 | 🔴
 - [ ] Vs. Hatsune Miku V2 | 🔴
 - [ ] Vs. Annie | 🔴
@@ -56,7 +57,6 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Vs. Sunday | 🔴
 - [ ] vs cg5 | 🔴
 - [ ] parappa mod | 🔴
-- [ ] vs sky | 🔴
 - [ ] vs sonic.exe 1.5 | 🔴
 - [ ] vs Imposter V3 | 🔴
 - [ ] StarCatcher | 🔴
