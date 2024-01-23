@@ -131,6 +131,39 @@
 </menu>
 <!-- Too lazy to finish, gotta work on week 2 -->
 
+<!--  Static Memories  -->
+
+<menu name="Static Memories" desc="Team Static credits.">
+	
+    <!-- writing -->
+	<credit name="Hobqueer" desc="Director, Writer and Charting" url="https://twitter.com/hobqueer"/>
+	<credit name="Lil ham" desc="Writing Assistance" url="noUrl"/>
+    <!-- music -->
+	<credit name="ElBendy1" desc="Musician (Phase 1n2)" url="noUrl"/>
+	<credit name="Foodieti" desc="Musician (Menu, Pause and Game Over" url="https://www.youtube.com/@Foodieti"/>
+	<credit name="Shad" desc="Musician (Dialogue Music)" url="noUrl"/>
+	<!-- cool programming people  -->
+	<credit name="Khara" desc="Psych port and Phase 2" url="https://www.youtube.com/channel/UCUgDIDwbheBDn_iHAeZ6lxA"/>
+	<credit name="Rifxii" desc="Dialogue" url="noUrl"/>
+	<credit name="Riverson" desc="Phase 1" url="noUrl"/>
+	<!-- art -->
+	<credit name="Bozubrain" desc="BF, Week 2 sprites and menu art" url="noUrl"/>
+	<credit name="Eleovic" desc="Phase 1n2 backgrounds" url="noUrl"/>
+	<credit name="InklingCurry" desc="Sprite Animator" url="noUrl"/>
+	<credit name="Boboinkko" desc="Senpai Sprites" url="doctor sepie"/>
+	<credit name="Nomie" desc="Beepy and Beepy(?) sprites" url="noUrl"/>
+	<credit name="Cinnomin" desc="Phase 1 storyboarding" url="noUrl"/>
+	<credit name="Goldenmari13" desc="Phase 1 cutscene images" url="noUrl"/>
+	<credit name="InfiniteGears" desc="Background characters" url="noUrl"/>
+	<credit name="LizzyKetchup" desc="Lemon Monster design" url="noUrl"/>
+	<credit name="FuntimeFoxy213" desc="Concept artist" url="noUrl"/>
+	<!-- charts -->
+	<credit name="CarlosisST" desc="Charted Nine AM" url="noUrl"/>
+	<credit name="judg3" desc="Phase 1 recharts" url="noUrl"/>
+	<credit name="Nieveria" desc="drew judg3 and her icons" url="noUrl"/>
+
+</menu>
+
 <!-- PORTERS/Scripters/Contributors/Misc -->
 
 <menu name="Nostalgic Funkin" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
