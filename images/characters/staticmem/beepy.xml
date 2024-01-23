@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BEEPY_the_beeper.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BEEPY down0000" x="0" y="0" width="449" height="644" frameX="-10" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0001" x="0" y="0" width="449" height="644" frameX="-10" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0002" x="449" y="0" width="468" height="645" frameX="0" frameY="0" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0003" x="449" y="0" width="468" height="645" frameX="0" frameY="0" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0004" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0005" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0006" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0007" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0008" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0009" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0010" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0011" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0012" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY down0013" x="917" y="0" width="469" height="644" frameX="0" frameY="-1" frameWidth="469" frameHeight="645"/>
+	<SubTexture name="BEEPY idle0000" x="1386" y="0" width="550" height="685" frameX="0" frameY="-10" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0001" x="1386" y="0" width="550" height="685" frameX="0" frameY="-10" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0002" x="0" y="685" width="457" height="683" frameX="-44" frameY="-13" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0003" x="0" y="685" width="457" height="683" frameX="-44" frameY="-13" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0004" x="457" y="685" width="472" height="693" frameX="-35" frameY="-3" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0005" x="457" y="685" width="472" height="693" frameX="-35" frameY="-3" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0006" x="929" y="685" width="326" height="696" frameX="-108" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0007" x="1255" y="685" width="326" height="696" frameX="-109" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0008" x="1581" y="685" width="324" height="696" frameX="-108" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0009" x="1581" y="685" width="324" height="696" frameX="-108" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0010" x="0" y="1381" width="325" height="696" frameX="-109" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0011" x="0" y="1381" width="325" height="696" frameX="-109" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0012" x="0" y="1381" width="325" height="696" frameX="-109" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY idle0013" x="0" y="1381" width="325" height="696" frameX="-109" frameY="0" frameWidth="550" frameHeight="696"/>
+	<SubTexture name="BEEPY left0000" x="325" y="1381" width="453" height="688" frameX="-5" frameY="-3" frameWidth="471" frameHeight="691"/>
+	<SubTexture name="BEEPY left0001" x="325" y="1381" width="453" height="688" frameX="-5" frameY="-3" frameWidth="471" frameHeight="691"/>
+	<SubTexture name="BEEPY left0002" x="778" y="1381" width="470" height="689" frameX="0" frameY="-2" frameWidth="471" frameHeight="691"/>
+	<SubTexture name="BEEPY left0003" x="778" y="1381" width="470" height="689" frameX="0" frameY="-2" frameWidth="471" frameHeight="691"/>
+	<SubTexture name="BEEPY left0004" x="1248" y="1381" width="471" height="691"/>
+	<SubTexture name="BEEPY left0005" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0006" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0007" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0008" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0009" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0010" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0011" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0012" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY left0013" x="0" y="2077" width="471" height="691"/>
+	<SubTexture name="BEEPY right0000" x="471" y="2077" width="453" height="685" frameX="-10" frameY="-1" frameWidth="471" frameHeight="686"/>
+	<SubTexture name="BEEPY right0001" x="471" y="2077" width="453" height="685" frameX="-10" frameY="-1" frameWidth="471" frameHeight="686"/>
+	<SubTexture name="BEEPY right0002" x="924" y="2077" width="470" height="686" frameX="0" frameY="0" frameWidth="471" frameHeight="686"/>
+	<SubTexture name="BEEPY right0003" x="924" y="2077" width="470" height="686" frameX="0" frameY="0" frameWidth="471" frameHeight="686"/>
+	<SubTexture name="BEEPY right0004" x="1394" y="2077" width="470" height="686" frameX="0" frameY="0" frameWidth="471" frameHeight="686"/>
+	<SubTexture name="BEEPY right0005" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0006" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0007" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0008" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0009" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0010" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0011" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0012" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY right0013" x="0" y="2768" width="471" height="686"/>
+	<SubTexture name="BEEPY up0000" x="471" y="2768" width="441" height="690" frameX="-13" frameY="0" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0001" x="471" y="2768" width="441" height="690" frameX="-13" frameY="0" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0002" x="912" y="2768" width="463" height="681" frameX="-1" frameY="-9" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0003" x="912" y="2768" width="463" height="681" frameX="-1" frameY="-9" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0004" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0005" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0006" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0007" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0008" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0009" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0010" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0011" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0012" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="BEEPY up0013" x="1375" y="2768" width="464" height="680" frameX="0" frameY="-10" frameWidth="464" frameHeight="690"/>
+</TextureAtlas>
