@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="doctorsenpai" y="0" isGF="false" color="#FFAF7C" camy="50" isPlayer="false" holdTime="6.1" sprite="staticmem/doctorsenpai">
+<character x="0" icon="staticmem/doctorsenpai" y="0" isGF="false" color="#FFAF7C" camy="50" isPlayer="false" holdTime="6.1" sprite="staticmem/doctorsenpai">
 	<anim x="0" loop="false" y="0" fps="24" anim="DOCTOR idle" name="idle"/>
 	<anim x="-41" loop="false" y="25" fps="24" anim="DOCTOR up" name="singUP"/>
 	<anim x="45" loop="false" y="5" fps="24" anim="DOCTOR left" name="singLEFT"/>
