@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="hospitalstatic" folder="stages/hospitalstatic/">
+	<sprite name="bg"               x="-300" y="-40"   sprite="hospital"       scroll="1" />
+	<girlfriend alpha="0"/>
+	<dad />
+	<boyfriend y="30"/>
+</stage>
