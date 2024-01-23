@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"easy",
+		"hard",
+		"normal"
+	],
+	"icon": "staticmem/doctorsenpai",
+	"parsedColor": -10349,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"displayName": "medicine",
+	"needsVoices": true,
+	"bpm": 115,
+	"name": "medicine"
+}
