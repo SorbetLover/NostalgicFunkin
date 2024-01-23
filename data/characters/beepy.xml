@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="beepy" y="0" isGF="false" color="#989898" isPlayer="false" holdTime="6.1" sprite="staticmem/beepy">
+<character x="0" icon="staticmem/beepy" y="0" isGF="false" color="#989898" isPlayer="false" holdTime="6.1" sprite="staticmem/beepy">
 	<anim x="0" loop="false" y="0" fps="24" anim="BEEPY idle" name="idle"/>
 	<anim x="-27" loop="false" y="-5" fps="24" anim="BEEPY up" name="singUP"/>
 	<anim x="-23" loop="false" y="-4" fps="24" anim="BEEPY left" name="singLEFT"/>
