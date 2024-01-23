@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="bfhospital" y="350" isGF="false" color="#A7F2FF" flipX="true" isPlayer="true" sprite="staticmem/bfhospital">
+<character x="0" icon="staticmem/bfhospital" y="350" isGF="false" color="#A7F2FF" flipX="true" isPlayer="true" sprite="staticmem/bfhospital">
 	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
 	<anim x="76" loop="false" y="17" fps="24" anim="BF NOTE UP0" name="singUP"/>
 	<anim x="102" loop="false" y="28" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
