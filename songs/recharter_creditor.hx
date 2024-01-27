@@ -40,7 +40,8 @@ function postCreate() {
         
         case "hairball", "your-demise", "overhead", "lo-fight", "genocide", "foolhardy":
             if (this.difficulty == "Rechart") recharter.text = "MAZ";
-
+        case "damage": if (this.difficulty == "fix") recharter.text = "Toni";
+        
         default: recharter.text = "";
     }
 }
