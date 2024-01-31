@@ -16,5 +16,6 @@
 	"displayName": "overhead",
 	"needsVoices": true,
 	"bpm": 180.5,
-	"week": "Vs Whitty"
+	"week": "Vs Whitty",
+	"BG": "whitty"
 }

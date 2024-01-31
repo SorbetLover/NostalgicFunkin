@@ -15,5 +15,7 @@
 	"displayName": "genocide",
 	"icon": "Vs Tabi/TabiMadIcons",
 	"name": "genocide",
-	"color": "#FFA05D"
+	"color": "#FFA05D",
+	"week": "Vs Tabi",
+	"BG": "tabi"
 }

@@ -14,5 +14,7 @@
 	"displayName": "my battle",
 	"icon": "Vs Tabi/TabiIcons",
 	"name": "my-battle",
-	"color": "#FFB981"
+	"color": "#FFB981",
+	"week": "Vs Tabi",
+	"BG": "tabi"
 }

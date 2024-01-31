@@ -14,5 +14,7 @@
 	"displayName": "last chance",
 	"icon": "Vs Tabi/TabiIcons",
 	"name": "last-chance",
-	"color": "#FFBA81"
+	"color": "#FFBA81",
+	"week": "Vs Tabi",
+	"BG": "tabi"
 }

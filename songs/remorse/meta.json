@@ -13,5 +13,6 @@
 	"beatsPerMesure": 4,
 	"needsVoices": true,
 	"bpm": 120,
-	"week": "Vs Whitty"
+	"week": "Vs Whitty",
+	"BG": "whitty"
 }

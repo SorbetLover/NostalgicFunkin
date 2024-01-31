@@ -13,5 +13,7 @@
 	"displayName": "foolhardy",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 200
+	"bpm": 200,
+	"week": "Vs Zardy",
+	"BG": "foolhardy"
 }

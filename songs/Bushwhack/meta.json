@@ -9,5 +9,7 @@
 	"displayName": "Bushwhack",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 193
+	"bpm": 193,
+	"week": "Vs Zardy",
+	"BG": "foolhardy"
 }
