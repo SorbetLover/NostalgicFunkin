@@ -14,5 +14,6 @@
 	"displayName": "Boogie",
 	"icon": "Vs Carol/carol",
 	"name": "boogie",
-	"color": "#594D88"
+	"color": "#594D88",
+	"week": "Vs Carol"
 }

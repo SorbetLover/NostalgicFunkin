@@ -9,7 +9,7 @@
 import flixel.text.FlxTextBorderStyle;
 import flixel.text.FlxText.FlxTextAlign;
 
-var recharter:FunkinText = null;
+var recharter:FunkinText;
 var noteIco:Note;
 
 function postCreate() {
@@ -42,11 +42,17 @@ function postCreate() {
             if (this.difficulty == "Rechart") recharter.text = "MAZ";
 
         default: recharter.text = "";
+
+        if (recharter.text == "" || recharter.text == null) {
+            disableScript();
+        }
     }
 }
 
 function postUpdate() {
-    if (recharter.text == "" || recharter.text == null) noteIco.kill();
+    if (recharter.text == "" || recharter.text == null) {
+        noteIco.kill();
+    }
 }
 
 function beatHit(curBeat) {

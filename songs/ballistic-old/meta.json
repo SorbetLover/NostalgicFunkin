@@ -15,5 +15,6 @@
 	"displayName": "ballistic",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 210
+	"bpm": 210,
+	"week": "Vs Whitty"
 }

@@ -14,5 +14,6 @@
 	"displayName": "fuzzy distortion",
 	"icon": "Vs Kapi/Kapi",
 	"name": "fuzzy-distortion",
-	"color": "#74719E"
+	"color": "#74719E",
+	"week": "Vs Kapi"
 }

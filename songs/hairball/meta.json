@@ -15,5 +15,6 @@
 	"displayName": "hairball",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 117
+	"bpm": 117,
+	"week": "Vs Kapi"
 }

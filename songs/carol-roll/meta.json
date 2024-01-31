@@ -14,5 +14,6 @@
 	"displayName": "Carol Roll",
 	"icon": "Vs Carol/carol",
 	"name": "carol-roll",
-	"color": "#594D88"
+	"color": "#594D88",
+	"week": "Vs Carol"
 }

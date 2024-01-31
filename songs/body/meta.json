@@ -14,5 +14,6 @@
 	"displayName": "Body",
 	"icon": "Vs Carol/Carol",
 	"name": "body",
-	"color": "#594D88"
+	"color": "#594D88",
+	"week": "Vs Carol"
 }

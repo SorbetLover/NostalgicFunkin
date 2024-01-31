@@ -15,5 +15,6 @@
 	"beatsPerMesure": 4,
 	"displayName": "overhead",
 	"needsVoices": true,
-	"bpm": 180.5
+	"bpm": 180.5,
+	"week": "Vs Whitty"
 }
