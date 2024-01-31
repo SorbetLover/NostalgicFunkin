@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 80,
+	"difficulties": [
+		"easy",
+		"hard",
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -6184796,
+	"displayName": "pulse",
+	"icon": "staticmem/beepy",
+	"name": "pulse",
+	"color": "#A1A0A4"
+}

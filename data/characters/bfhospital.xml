@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="staticmem/bfhospital" y="350" isGF="false" color="#A7F2FF" flipX="true" isPlayer="true" sprite="staticmem/bfhospital">
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="76" loop="false" y="17" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="102" loop="false" y="28" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+	<anim x="62" loop="false" y="24" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="75" loop="false" y="5" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="76" loop="false" y="17" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="70" loop="false" y="21" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="112" loop="false" y="24" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim x="74" loop="false" y="6" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="-8" loop="false" y="4" fps="24" anim="BF HEY" name="hey"/>
+</character>
