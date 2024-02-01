@@ -34,9 +34,9 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Whitty Remastered | 🟢
 - [x] Vs. Garcello | 🟢
 ---
+- [x] Vs. Zardy | 🟢
 - [x] Vs. Pompom | 🟡 Missing Week 2 (including its cutscenes, story mode assets, dialogue, songs, etc) and missing stage assets
 - [x] Date mod | 🟡 Polish needed + 3rd song isn't fully implemented
-- [x] Vs. Zardy | 🟡 Bushwhack needs a rechart
 - [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
 - [x] Vs. AGOTI (the classic one) | 🟡 Missing dialogue, cutscenes, and recharts
 - [x] Vs. Tabi | 🟡 without dialogue and recharts
