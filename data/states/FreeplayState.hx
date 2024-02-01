@@ -18,9 +18,8 @@ function postCreate() {
     insert(members.indexOf(bg) + 1, modBg);
     CoolUtil.loadAnimatedGraphic(bg, Paths.image("menus/squrefreeplaybg"));
     modBg.color = FlxColor.fromString("#050505");
-    for (a in [bg, modBg]) {
-        a.alpha = 0.7;
-    }
+    bg.alpha = 0.7;
+    modBg.alpha = 0.4;
 
     modTitle.setFormat("fonts/freeplay.ttf", 25, FlxColor.WHITE, "CENTER");
     modTitle.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 2);
