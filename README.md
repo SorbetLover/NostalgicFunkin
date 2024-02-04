@@ -49,6 +49,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Vs. Monika Rebooted | 🟡 without dialogue & cutscenes
 - [ ] vs sky | 🟡 without dialogue, cutscenes, and recharts
 - [ ] vs Retrospecter | 🟡 Honestly I have no idea as I haven't playtested. Ask notbeep - MAZ
+- [ ] Static Memories | 🟡 Missing cutscenes and Phase 2
 - [ ] Vs. Hex V1 | 🔴
 - [ ] Vs. Hatsune Miku V2 | 🔴
 - [ ] Vs. Annie | 🔴
@@ -61,7 +62,6 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] vs Imposter V3 | 🔴
 - [ ] StarCatcher | 🔴
 - [ ] Vs Tord | 🔴
-- [ ] Static Memories | 🔴
 ---
 
 ## Contribution
