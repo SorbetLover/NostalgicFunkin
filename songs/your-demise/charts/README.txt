@@ -1,1 +1,0 @@
-Purpose of rechart-psych diffi is to be able to replace the markov notes if we feel like the rechart sucks + a backup

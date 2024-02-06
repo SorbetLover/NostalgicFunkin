@@ -8,26 +8,26 @@
     { "params": [1], "name": "Camera Movement", "time": 28973.4854095689 },
     { "params": [0], "name": "Camera Movement", "time": 34554.8807584062 },
     {
-      "params": [0, true],
+      "params": [true, false, 0],
       "time": 38740.9272700341,
       "name": "Alt Animation Toggle"
     },
     { "params": [1], "time": 40136.2761072434, "name": "Camera Movement" },
     {
-      "params": [0, false],
+      "params": [false, false, 0],
       "time": 40310.6947118945,
       "name": "Alt Animation Toggle"
     },
     { "params": [0], "time": 45717.6714560806, "name": "Camera Movement" },
     {
-      "params": [0, true],
+      "params": [true, false, 0],
       "time": 48508.3691304992,
       "name": "Alt Animation Toggle"
     },
     { "params": [1], "time": 51299.0668049178, "name": "Camera Movement" },
     { "params": [1], "time": 51299.0668049178, "name": "Camera Movement" },
     {
-      "params": [0, false],
+      "params": [false, false, 0],
       "time": 51386.2761072434,
       "name": "Alt Animation Toggle"
     },
