@@ -64,12 +64,10 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Vs Tord | 🔴
 ---
 
-## Contribution
-I can't explain Codename Engine itself as that needs a whole wiki, so I recommend you to observe the files yourself.
+## Navigation (File Management Aspect)
+Here are some cool stuff to make navigating stuff easier without breaking anything:
 
-But here are some cool stuff to make navigating stuff easier:
-
-Because of the near 100 songs in there, I setup tags for them, so you would know which songs belong to what mod.
+Because of the +100 songs in there and the ungodly number of scripts and stages to keep track of, I setup tags for them, so you would know which songs and its' stage belong to what mod.
 Here's how to enable it (It's only tested on Windows 10, I dunno about others):
 
 ![JuawOSn.md.png](https://iili.io/JuawOSn.md.png)
