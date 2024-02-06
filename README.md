@@ -26,6 +26,12 @@ Here are our planned ones so far. Will get extended later down the road.
 🟡 - Bugged/unfinished/unpolished/still under construction/missing assets
 🔴 - Not started yet/no one's on it/not in the build yet
 
+## TODOS
+- [ ] Use CNE's chromatic aberration for genocide
+- [ ] Replace 7oltan's change animation index with CNE's alt animation toggle
+- [x] Trace a warning for using change animation index
+- [ ] Boy B-sides stages... (re-port week 5 + week 6 stages...)
+
 `V1`
 ---
 - [x] Starving Artist | 🟢
