@@ -27,9 +27,9 @@ Here are our planned ones so far. Will get extended later down the road.
 🔴 - Not started yet/no one's on it/not in the build yet
 
 ## TODOS
-- [ ] Use CNE's chromatic aberration for genocide
-- [ ] Replace 7oltan's change animation index with CNE's alt animation toggle
+- [x] Replace 7oltan's change animation index with CNE's alt animation toggle
 - [x] Trace a warning for using change animation index
+- [ ] Use CNE's chromatic aberration for genocide
 - [ ] Boy B-sides stages... (re-port week 5 + week 6 stages...)
 
 `V1`
