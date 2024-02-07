@@ -41,6 +41,7 @@ function postCreate() {
         case "hairball", "your-demise", "overhead", "lo-fight", "genocide", "foolhardy":
             if (this.difficulty == "Rechart") recharter.text = "MAZ";
         case "damage": if (this.difficulty == "fix") recharter.text = "Toni";
+        case "event-horizon": if (this.difficulty == "sirekirb's Rechart") recharter.text = "sirekirb";
         
         default: recharter.text = "";
 
