@@ -68,6 +68,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] vs Imposter V3 | 🔴
 - [ ] StarCatcher | 🔴
 - [ ] Vs Tord | 🔴
+- [ ] Vs Tree | 🔴
 ---
 
 ## Navigation (File Management Aspect)
