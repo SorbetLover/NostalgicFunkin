@@ -2,8 +2,8 @@
 <stage zoom="0.9" name="BgSky" folder="stages/Vs Sky/">
 
 	<sprite name="the_void" x="-388.05" y="-232" sprite="bg_annoyed" scroll="0" scale="1">
-		<anim name="idle" anim="bg2" loop="false"/>
-		<anim name="bgboom" anim="bgBOOM" loop="false"/>
+		<anim name="idle" anim="bg2" loop="true"/>
+		<anim name="bgboom" anim="bgBOOM" type="none"/>
 	</sprite>
 
 </stage>
