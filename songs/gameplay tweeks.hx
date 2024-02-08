@@ -15,7 +15,7 @@ function onPostNoteCreation(e) {
     // Snippet by Ne_Eo Chars won't shake when holding the notes
     if (e.note.isSustainNote) e.note.prevNote?.nextNote = e.note;
     //
-} 
+}
 
 // function noteMiss(e) {
 //     if (e.note.isSustainNote) {

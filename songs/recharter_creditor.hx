@@ -9,7 +9,7 @@
 import flixel.text.FlxTextBorderStyle;
 import flixel.text.FlxText.FlxTextAlign;
 
-var recharter:FunkinText;
+var recharter:FunkinText = Json.parse(Assets.getText(Paths.chart(curSong, PlayState.difficulty))).recharter;
 var noteIco:Note;
 
 function postCreate() {
@@ -35,24 +35,8 @@ function postCreate() {
     noteIco.alpha = 0;
     recharter.alpha = 0;
 
-    switch(PlayState.SONG.meta.name) {
-        case "ballistic-old": if (this.difficulty == "Rechart") recharter.text = "Sol";
-        
-        case "hairball", "your-demise", "overhead", "lo-fight", "genocide", "foolhardy":
-            if (this.difficulty == "Rechart") recharter.text = "MAZ";
-        case "damage": if (this.difficulty == "fix") recharter.text = "Toni";
-        case "event-horizon": if (this.difficulty == "sirekirb's Rechart") recharter.text = "sirekirb";
-        
-        default: recharter.text = "";
-
-        if (recharter.text == "" || recharter.text == null) {
-            disableScript();
-        }
-    }
-}
-
-function postUpdate() {
     if (recharter.text == "" || recharter.text == null) {
+        disableScript();
         noteIco.kill();
     }
 }
