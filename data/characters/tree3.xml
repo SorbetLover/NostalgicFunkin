@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Tree/tree angry" camx="150" y="0" isGF="false" camy="160" isPlayer="false" holdTime="6.1" sprite="Vs Tree/BroTheTreeJustDiedThisIsSoSad">
+	<anim x="0" loop="true" y="0" fps="24" anim="angry tree idle dance" name="idle"/>
+	<anim x="-12" loop="false" y="51" fps="24" anim="angry tree up" name="singUP"/>
+	<anim x="16" loop="false" y="1" fps="24" anim="angry tree left" name="singLEFT"/>
+	<anim x="-11" loop="false" y="2" fps="24" anim="angry tree right" name="singRIGHT"/>
+	<anim x="9" loop="false" y="-27" fps="24" anim="angry tree down" name="singDOWN"/>
+</character>

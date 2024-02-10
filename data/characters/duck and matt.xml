@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" icon="Vs Tree/duck and matt" y="-240" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Tree/matt and duck">
+	<anim x="0" loop="false" y="0" fps="24" anim="matt idle" name="idle"/>
+	<anim x="-41" loop="false" y="14" fps="24" anim="matt up note" name="singUP"/>
+	<anim x="40" loop="false" y="-27" fps="24" anim="matt left note" name="singLEFT"/>
+	<anim x="-9" loop="false" y="-20" fps="24" anim="matt right note" name="singRIGHT"/>
+	<anim x="-62" loop="false" y="-21" fps="24" anim="matt down note" name="singDOWN"/>
+</character>
