@@ -18,3 +18,6 @@ rebecca
 pompom
 dateweek
 weekMag
+tree
+duck
+treedate
