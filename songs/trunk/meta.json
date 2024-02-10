@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 130,
+	"difficulties": [
+		"EASY",
+		"HARD",
+		"NORMAL",
+		"RECHART"
+	],
+	"needsVoices": true,
+	"parsedColor": -16738048,
+	"displayName": "Trunk",
+	"icon": "Vs Tree/tree",
+	"name": "trunk",
+	"color": "#009900",
+	"customValues": {}
+}

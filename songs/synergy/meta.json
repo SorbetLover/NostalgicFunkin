@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"RECHART"
+	],
+	"needsVoices": true,
+	"parsedColor": -14208,
+	"displayName": "Synergy",
+	"icon": "Vs Tree/duck and matt",
+	"name": "synergy",
+	"color": "#FFC880",
+	"customValues": {}
+}
