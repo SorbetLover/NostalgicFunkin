@@ -1,0 +1,27 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="tree" char="tree" position="left" />
+	<char name="bfTree" char="bf" position="right" />
+	<char name="gfTree" char="gf" position="right" />
+
+	<!-- Lines -->
+	<line char="tree">
+		Well well well, what a cute girl ya got there bud!
+	</line>
+	<line char="gf">
+		im taken..
+	</line>
+	<line char="bf">
+		Yea!
+	</line>
+	<line char="tree">
+		Eh, how about a rap battle for her?
+	</line>
+	<line char="gf">
+		wouldn't hurt to try, right BF?
+	</line>
+	<line char="bf">
+		BEEP BOP BEP!
+	</line>
+</dialogue>
