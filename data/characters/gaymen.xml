@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-480" icon="Vs Tree/tree and javarehab" camx="150" y="-840" isGF="false" scale="0.8" camy="140" isPlayer="false" holdTime="6.1" sprite="Vs Tree/gay men">
+	<anim x="0" loop="false" y="0" fps="24" anim="mad tree idle dance" name="idle"/>
+	<anim x="-11" loop="false" y="53" fps="24" anim="mad tree up" name="singUP"/>
+	<anim x="5" loop="false" y="1" fps="24" anim="mad tree left" name="singLEFT"/>
+	<anim x="-13" loop="false" y="1" fps="24" anim="mad tree right" name="singRIGHT"/>
+	<anim x="-6" loop="false" y="-26" fps="24" anim="mad tree down" name="singDOWN"/>
+	<anim x="48" loop="false" y="170" fps="24" anim="jav sing up" name="singUP-alt"/>
+	<anim x="33" loop="false" y="11" fps="24" anim="jav sing left" name="singLEFT-alt"/>
+	<anim x="-11" loop="false" y="256" fps="24" anim="jav sing right" name="singRIGHT-alt"/>
+	<anim x="29" loop="false" y="5" fps="24" anim="jav sing down" name="singDOWN-alt"/>
+</character>

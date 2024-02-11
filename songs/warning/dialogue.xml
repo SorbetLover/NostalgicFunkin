@@ -1,0 +1,36 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="treemad" char="treemad" position="left" />
+	<char name="bfTree" char="bf" position="right" />
+	<char name="gfTree" char="gf" position="right" />
+
+	<!-- Lines -->
+	<line char="treemad">
+		... (damn, I'm slowly dying...)
+	</line>
+	<line char="bf">
+		Beep?
+	</line>
+	<line char="treemad">
+		You wouldn't understand my situation kid.
+	</line>
+	<line char="gf">
+		BF, let's get out of here.
+	</line>
+	<line char="bf">
+		Beep bop.
+	</line>
+	<line char="treemad">
+		No...
+	</line>
+	<line char="gf">
+		What?, we're blocked?
+	</line>
+	<line char="bf">
+		...
+	</line>
+	<line char="treemad">
+		I won't let you get away. Not like this.
+	</line>
+</dialogue>

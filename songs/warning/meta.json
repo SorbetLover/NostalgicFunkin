@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 170,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"RECHART"
+	],
+	"needsVoices": true,
+	"parsedColor": -3735552,
+	"displayName": "Warning",
+	"icon": "Vs Tree/tree mad",
+	"name": "warning",
+	"color": "#C70000",
+	"customValues": {}
+}

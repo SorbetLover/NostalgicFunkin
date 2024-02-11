@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/Vs Tree/" zoom="0.7">
+	<sprite x="-600" sprite="tree_and_bg3" y="-200" scale="1.1" name="background"/>
+	<gf x="378.5" y="233.5"/>
+	<dad x="-637" y="-212.5"/>
+	<bf x="925" y="255"/>
+	<combo x="990.5" y="429"/>
+</stage>
