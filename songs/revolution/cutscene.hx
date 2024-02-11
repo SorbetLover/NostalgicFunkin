@@ -1,5 +1,5 @@
-function postCreate() {
-    startVideo(Paths.video("revolution"), null, function() {
+function create() {
+    game.startCutscene("_", null, function() {
         game.startCutscene(null, function() close());
     });
 }
