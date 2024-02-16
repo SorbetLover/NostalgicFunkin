@@ -30,7 +30,6 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Replace 7oltan's change animation index with CNE's alt animation toggle
 - [x] Trace a warning for using change animation index
 - [ ] Use CNE's chromatic aberration for genocide
-- [ ] Boy B-sides stages... (re-port week 5 + week 6 stages...)
 
 `V1`
 ---
@@ -64,7 +63,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Vs. Sunday | 🔴
 - [ ] vs cg5 | 🔴
 - [ ] parappa mod | 🔴
-- [ ] vs sonic.exe 1.5 | 🔴
+- [ ] vs sonic.exe v2? (not sure yet) | 🔴
 - [ ] vs Imposter V3 | 🔴
 - [ ] StarCatcher | 🔴
 - [ ] Vs Tord | 🔴
