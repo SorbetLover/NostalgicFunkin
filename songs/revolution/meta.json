@@ -16,5 +16,6 @@
 	"icon": "Vs Tree/tree angry",
 	"name": "revolution",
 	"color": "#6B0000",
-	"customValues": {}
+	"week": "Vs Tree",
+	"BG": "tree"
 }

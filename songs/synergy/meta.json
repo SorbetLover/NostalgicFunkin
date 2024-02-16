@@ -16,5 +16,6 @@
 	"icon": "Vs Tree/duck and matt",
 	"name": "synergy",
 	"color": "#FFC880",
-	"customValues": {}
+	"week": "Vs Tree",
+	"BG": "tree"
 }

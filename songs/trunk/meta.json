@@ -16,5 +16,6 @@
 	"icon": "Vs Tree/tree",
 	"name": "trunk",
 	"color": "#009900",
-	"customValues": {}
+	"week": "Vs Tree",
+	"BG": "tree"
 }

@@ -16,5 +16,6 @@
 	"icon": "Vs Tree/duck",
 	"name": "geesy",
 	"color": "#FFFFFF",
-	"customValues": {}
+	"week": "Vs Tree",
+	"BG": "tree"
 }

@@ -16,5 +16,6 @@
 	"icon": "Vs Tree/tree mad",
 	"name": "warning",
 	"color": "#C70000",
-	"customValues": {}
+	"week": "Vs Tree",
+	"BG": "tree"
 }

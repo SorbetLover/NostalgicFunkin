@@ -16,5 +16,6 @@
 	"icon": "Vs Tree/tree and javarehab",
 	"name": "prom",
 	"color": "#8D3950",
-	"customValues": {}
+	"week": "Vs Tree",
+	"BG": "tree"
 }
