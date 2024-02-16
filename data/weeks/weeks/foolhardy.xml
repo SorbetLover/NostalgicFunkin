@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-week>
-<week name="Hardest Mod In The Corn Field" chars="foolhardy" sprite="foolhardy">
+<week name="Hardest Mod In The Corn Field" sprite="foolhardy">
 <difficulty name="hard"/>
 <difficulty name="Rechart"/>
 	<song>foolhardy</song>
