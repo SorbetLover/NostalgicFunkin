@@ -1,4 +1,8 @@
 {
+	"difficulties": [
+		"HARD",
+		"Rechart"
+	],
 	"opponentModeAllowed": true,
 	"icon": "cablecrow",
 	"parsedColor": -8943463,
