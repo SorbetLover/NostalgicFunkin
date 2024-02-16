@@ -9,7 +9,7 @@
 import flixel.text.FlxTextBorderStyle;
 import flixel.text.FlxText.FlxTextAlign;
 
-var recharter:FunkinText = Json.parse(Assets.getText(Paths.chart(curSong, PlayState.difficulty))).recharter;
+var recharter:FunkinText = Json.parse(Assets.getText(Paths.chart(curSong, PlayState.difficulty))).recharter; // "recharter": "name"
 var noteIco:Note;
 
 function postCreate() {
