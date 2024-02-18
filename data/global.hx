@@ -1,3 +1,13 @@
+static var redirectStates:Map<FlxState, String> = [
+    FreeplayState => "FreeplayCustomState"
+];
+
+function preStateSwitch() {
+    for (redirectState in redirectStates.keys())
+        if (FlxG.game._requestedState is redirectState)
+            FlxG.game._requestedState = new ModState(redirectStates.get(redirectState));
+}
+
 function new() {
     if (FlxG.save.data.shaderShit == null) FlxG.save.data.shaderShit = true;
     if (FlxG.save.data.shakeShit == null) FlxG.save.data.shakeShit = true;
