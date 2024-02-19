@@ -1,3 +1,4 @@
+
 static var redirectStates:Map<FlxState, String> = [
     FreeplayState => "FreeplayCustomState"
 ];

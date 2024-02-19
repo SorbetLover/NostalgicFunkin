@@ -97,12 +97,12 @@ public var canSelect:Bool = true;
 /**
  * Group containing all of the alphabets
  */
-public var grpSongs:FlxGroup;
+public var grpSongsMap:Map<String,FlxGroup>=[];
 
 /**
  * Array containing all of the icons.
  */
-public var iconArray:Array<HealthIcon> = [];
+public var iconArrayMap:Map<String,Array<HealthIcon>> = [];
      
 /**
  * FlxInterpolateColor object for smooth transition between Freeplay colors.
@@ -119,8 +119,11 @@ function create(){
     modList = CoolUtil.coolTextFile(Paths.txt('freeplayModlist'));
     trace(modList);
 
-    for(mod in modList)
+    for(mod in modList){
         modSongList.set(mod,[]);
+        grpSongsMap.set(mod,new FlxGroup());
+        iconArrayMap.set(mod,[]);
+    }
 
     for(i in 0...songs.length){
         var song = songs[i];
@@ -134,10 +137,14 @@ function create(){
         modSongList.set(nameOfTheWeek,curSongList);
     }
 
-	for(k=>s in songs) {
-		if (s.name == Options.freeplayLastSong)
-			curSelected = k;
-	}
+    for(key in modSongList.keys()){
+        for(k=>s in modSongList.get(key)){
+            if (s.name == Options.freeplayLastSong){
+                curMod = modList.indexOf(key);
+                curSelected = k;
+            }
+        }
+    }
 
 	if (songs[curSelected] != null) {
 		for(k=>diff in songs[curSelected].difficulties) {
@@ -167,8 +174,8 @@ function create(){
     modBg.alpha = 0.4;
     add(modBg);
 
-    grpSongs = new FlxGroup();
-	add(grpSongs);
+    for (key in grpSongsMap.keys()) 
+        add(grpSongsMap.get(key));
 
 	for (i in 0...songs.length)
 	{
@@ -176,13 +183,18 @@ function create(){
 		songText.isMenuItem = true;
 		songText.targetY = i;
         songText.ID = i;
-		grpSongs.add(songText);
+
+        var week = songs[i].week;
+        if(!modList.contains(week))
+            week = 'default';
+
+		grpSongsMap.get(week).add(songText);
 
 		var icon:HealthIcon = new HealthIcon(songs[i].icon);
 		icon.sprTracker = songText;
 
 		// using a FlxGroup is too much fuss!
-		iconArray.push(icon);
+		iconArrayMap.get(week).push(icon);
 		add(icon);
 
     	// songText.x += 40;
@@ -207,7 +219,7 @@ function create(){
 
 	add(scoreText);
     
-    modTitle  = new FlxText(440, 5, 700);
+    modTitle  = new FlxText(440, 5, 0);
     modTitle.setFormat("fonts/freeplay.ttf", 25, FlxColor.WHITE, "CENTER");
     modTitle.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 2);
     modTitle.antialiasing = true;
@@ -282,6 +294,8 @@ function update(elapsed){
 
 	if (controls.BACK)
     {
+        Options.freeplayLastSong = modSongList.get(modList[curMod])[curSelected].name;
+        Options.freeplayLastDifficulty = modSongList.get(modList[curMod])[curSelected].difficulties[curDifficulty];
         CoolUtil.playMenuSFX(2/*CANCEL*/, 0.7);
         FlxG.switchState(new MainMenuState());
     }
@@ -370,9 +384,12 @@ public function changeMod(change:Int = 0, force:Bool = false)
     
     curMod = FlxMath.wrap(curMod + change, 0, modList.length-1);
     
-    modTitle.text = "Mod: " + modList[curMod];
+    modTitle.text = "<Q     Mod: " + modList[curMod]+'     E>';
+    modTitle.x = FlxG.width/2-(modTitle.width/2);
+    //add(new FlxSprite(modTitle.x,modTitle.y).makeGraphic(modTitle.width,modTitle.height));
 
-    curSelected = 0;
+    if(!force)
+        curSelected = 0;
     changeSelection(0,true);
     updateOptionsAlpha(true);
 }
@@ -433,33 +450,27 @@ function updateCoopModes() {
     }
 }
 
+
 function updateOptionsAlpha(?snap:Bool = false) {
     var bullShit:Int = 0;
 
-    for(item in grpSongs.members)
-        item.targetY = 100;
-    for(song in modSongList.get(modList[curMod]))
-    {
-        for(item in grpSongs.members){
-            if(item.ID == song.ID){        
-                item.targetY = bullShit - curSelected;
-                if(snap)
-                    item.y = (FlxMath.remapToRange(item.targetY, 0, 1, 0, 1.3) * 120) + (FlxG.height * 0.48);
-
-                //if(modSongList.get(modList[curMod]).contains(songs[bullShit]))
-                    item.alpha = lerp(item.alpha, #if PRELOAD_ALL songInstPlaying ? 0.45 : #end 0.6, 0.25);
-                //else
-                //  item.alpha = 0;
-
-                if (item.targetY == 0)
-                    item.alpha =  1;
-
-                bullShit++;
-            }
-        }
+    for(key in grpSongsMap.keys()){
+        grpSongsMap.get(key).forEach(function(item){
+            item.alpha = 0.000000000001;
+            item.targetY = 10;//to give it the pop
+        });
+        for(icon in iconArrayMap.get(key))
+            icon.alpha = 0.000000000001;
     }
-
-    for (i in 0...iconArray.length)
-        iconArray[i].alpha = grpSongs.members[i].alpha;
-
+    grpSongsMap.get(modList[curMod]).forEach(function(item){
+        item.targetY = bullShit-curSelected;
+        if(snap)
+            item.y = (FlxMath.remapToRange(item.targetY, 0, 1, 0, 1.3) * 120) + (FlxG.height * 0.48);
+        item.alpha = 0.6;
+        if (item.targetY == 0)
+            item.alpha =  1;
+        bullShit++;
+    });
+    for(i in 0...iconArrayMap.get(modList[curMod]).length)
+        iconArrayMap.get(modList[curMod])[i].alpha = grpSongsMap.get(modList[curMod]).members[i].alpha;
 }
