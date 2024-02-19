@@ -14,5 +14,6 @@
 	"displayName": "Singularity",
 	"icon": "Vs Void/acvoid",
 	"name": "singularity",
-	"color": "#410F79"
+	"color": "#410F79",
+	"week":"Vs Void"
 }

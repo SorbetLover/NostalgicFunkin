@@ -15,5 +15,6 @@
 	"displayName": "Guns",
 	"icon": "Vs Agoti/agoti",
 	"name": "Guns",
-	"color": "#C9F498"
+	"color": "#C9F498",
+	"week":"Vs Agoti"
 }

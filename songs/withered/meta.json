@@ -14,5 +14,6 @@
 	"displayName": "withered",
 	"icon": "bob/original/bob-annoyed",
 	"name": "withered",
-	"color": "#AAAAAA"
+	"color": "#AAAAAA",
+	"week":"Vs Bob"
 }

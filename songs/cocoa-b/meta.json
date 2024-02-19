@@ -14,5 +14,6 @@
 	"displayName": "Cocoa",
 	"icon": "B Sides/dearests/parents",
 	"name": "cocoa-b",
-	"color": "#FB97BF"
+	"color": "#FB97BF",
+	"week":"B-side"
 }

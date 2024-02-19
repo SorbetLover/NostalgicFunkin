@@ -18,5 +18,6 @@
 	"displayName": "parasite",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 160
+	"bpm": 160,
+	"week":"Vs Agoti"
 }

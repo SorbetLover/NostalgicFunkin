@@ -14,5 +14,6 @@
 	"displayName": "Eggnog",
 	"icon": "B Sides/dearests/parents",
 	"name": "eggnog-b",
-	"color": "#FB97BE"
+	"color": "#FB97BE",
+	"week":"B-side"
 }

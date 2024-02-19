@@ -15,5 +15,6 @@
 	"displayName": "censory-overload",
 	"icon": "Vs QT/kb",
 	"name": "censory-overload",
-	"color": "#CF98EC"
+	"color": "#CF98EC",
+	"week":"Vs QT"
 }

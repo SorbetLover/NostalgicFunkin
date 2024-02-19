@@ -129,8 +129,15 @@ function create(){
         var song = songs[i];
         song.ID = i;
         var nameOfTheWeek = song.week;
-        if(!modList.contains(nameOfTheWeek))
+        if(!modList.contains(nameOfTheWeek)){
+            if(!modList.contains('default')){
+                modSongList.set('default',[]);
+                grpSongsMap.set('default',new FlxGroup());
+                iconArrayMap.set('default',[]);
+                modList.insert(0,'default');
+            }
             nameOfTheWeek = 'default';
+        }
         trace(nameOfTheWeek);
         var curSongList = modSongList.get(nameOfTheWeek);
         curSongList.push(song);
@@ -289,7 +296,7 @@ function update(elapsed){
 	scoreText.x = coopText.x = scoreBG.x + 4;
 	diffText.x = Std.int(scoreBG.x + ((scoreBG.width - diffText.width) / 2));
 
-	interpColor.fpsLerpTo(songs[curSelected].parsedColor, 0.0625);
+	interpColor.fpsLerpTo(modSongList.get(modList[curMod])[curSelected].parsedColor, 0.0625);
 	bg.color = interpColor.color;
 
 	if (controls.BACK)
@@ -384,7 +391,7 @@ public function changeMod(change:Int = 0, force:Bool = false)
     
     curMod = FlxMath.wrap(curMod + change, 0, modList.length-1);
     
-    modTitle.text = "<Q     Mod: " + modList[curMod]+'     E>';
+    modTitle.text = "<Q     Mod: " + modList[curMod]+" ("+(curMod+1)+'/'+modList.length+')     E>';
     modTitle.x = FlxG.width/2-(modTitle.width/2);
     //add(new FlxSprite(modTitle.x,modTitle.y).makeGraphic(modTitle.width,modTitle.height));
 
@@ -455,6 +462,7 @@ function updateOptionsAlpha(?snap:Bool = false) {
     var bullShit:Int = 0;
 
     for(key in grpSongsMap.keys()){
+        if(key == modList[curMod]) continue;//skip
         grpSongsMap.get(key).forEach(function(item){
             item.alpha = 0.000000000001;
             item.targetY = 10;//to give it the pop
@@ -466,7 +474,7 @@ function updateOptionsAlpha(?snap:Bool = false) {
         item.targetY = bullShit-curSelected;
         if(snap)
             item.y = (FlxMath.remapToRange(item.targetY, 0, 1, 0, 1.3) * 120) + (FlxG.height * 0.48);
-        item.alpha = 0.6;
+        item.alpha = lerp(item.alpha, 0.6, 0.25);
         if (item.targetY == 0)
             item.alpha =  1;
         bullShit++;

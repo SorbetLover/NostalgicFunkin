@@ -14,5 +14,6 @@
 	"displayName": "Pico",
 	"icon": "B Sides/philly/pico",
 	"name": "pico-b",
-	"color": "#8C71FD"
+	"color": "#8C71FD",
+	"week":"B-side"
 }

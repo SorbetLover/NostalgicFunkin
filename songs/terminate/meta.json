@@ -15,5 +15,6 @@
 	"displayName": "terminate",
 	"icon": "Vs QT/kb",
 	"name": "terminate",
-	"color": "#CF98EC"
+	"color": "#CF98EC",
+	"week":"Vs QT"
 }

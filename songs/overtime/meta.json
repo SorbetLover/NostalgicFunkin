@@ -13,5 +13,6 @@
 	"displayName": "Overtime",
 	"icon": "Vs Retrospecter/metro-saku-duo",
 	"name": "overtime",
-	"color": "#8D6DB1"
+	"color": "#8D6DB1",
+	"week":"Vs Retrospecter"
 }

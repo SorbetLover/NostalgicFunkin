@@ -15,5 +15,6 @@
 	"displayName": "Event Horizon",
 	"icon": "Vs Void/void",
 	"name": "event-horizon",
-	"color": "#778899"
+	"color": "#778899",
+	"week":"Vs Void"
 }

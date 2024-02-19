@@ -13,5 +13,6 @@
 	"displayName": "termination",
 	"icon": "Vs QT/kb",
 	"name": "termination",
-	"color": "#CF98EC"
+	"color": "#CF98EC",
+	"week":"Vs QT"
 }

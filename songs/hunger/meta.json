@@ -12,5 +12,6 @@
 	"displayName": "hunger",
 	"icon": "starving artist/rebecca",
 	"name": "hunger",
-	"color": "#19628C"
+	"color": "#19628C",
+	"week":"Starving Artist"
 }

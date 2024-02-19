@@ -14,5 +14,6 @@
 	"displayName": "ron",
 	"icon": "bob/onslaught/ron",
 	"name": "ron",
-	"color": "#FFDC00"
+	"color": "#FFDC00",
+	"week":"Vs Bob"
 }

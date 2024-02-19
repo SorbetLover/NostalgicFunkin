@@ -14,5 +14,6 @@
 	"beatsPerMesure": 4,
 	"displayName": "Stomachache",
 	"needsVoices": true,
-	"bpm": 125
+	"bpm": 125,
+	"week":"Vs Pompom"
 }

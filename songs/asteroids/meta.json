@@ -14,5 +14,6 @@
 	"displayName": "Asteroids",
 	"icon": "Vs Void/void",
 	"name": "asteroids",
-	"color": "#778899"
+	"color": "#778899",
+	"week":"Vs Void"
 }

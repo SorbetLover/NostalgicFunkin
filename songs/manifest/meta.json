@@ -14,5 +14,6 @@
 	"displayName": "manifest",
 	"icon": "Vs Sky/sky manifest",
 	"name": "manifest",
-	"color": "#77FF71"
+	"color": "#77FF71",
+	"week":"Vs Sky"
 }

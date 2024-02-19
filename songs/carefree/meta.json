@@ -15,5 +15,6 @@
 	"displayName": "carefree",
 	"icon": "Vs QT/qt",
 	"name": "carefree",
-	"color": "#CF98EC"
+	"color": "#CF98EC",
+	"week":"Vs QT"
 }

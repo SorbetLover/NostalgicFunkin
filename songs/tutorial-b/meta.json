@@ -14,5 +14,6 @@
 	"displayName": "Tutorial",
 	"icon": "B Sides/global/gf",
 	"name": "tutorial-b",
-	"color": "#6800A5"
+	"color": "#6800A5",
+	"week":"B-side"
 }

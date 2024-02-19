@@ -15,5 +15,6 @@
 	"displayName": "preseason",
 	"icon": "Vs Retrospecter/retro",
 	"name": "preseason",
-	"color": "#00C2DF"
+	"color": "#00C2DF",
+	"week":"Vs Retrospecter"
 }

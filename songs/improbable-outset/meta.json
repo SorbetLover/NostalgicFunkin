@@ -14,5 +14,6 @@
 	"displayName": "Improbable Outset",
 	"icon": "Vs Tricky/trickyMask",
 	"name": "improbable-outset",
-	"color": "#410F79"
+	"color": "#410F79",
+	"week":"Vs Tricky"
 }
