@@ -4,6 +4,8 @@ import funkin.backend.utils.FlxInterpolateColor;
 import funkin.backend.system.Main;
 import flixel.text.FlxTextBorderStyle;
 import funkin.savedata.FunkinSave;
+import flixel.text.FlxText.FlxTextFormat;
+import flixel.text.FlxText.FlxTextFormatMarkerPair;
 
 /**
  * Array containing all of the songs metadatas
@@ -172,7 +174,7 @@ function create(){
     add(bg);
 
     
-    trace('IT WORKED!!!');
+    // trace('IT WORKED!!!');
 
     modBg = new FlxSprite();
     modBg.antialiasing = true;
@@ -226,7 +228,7 @@ function create(){
 
 	add(scoreText);
     
-    modTitle  = new FlxText(440, 5, 0);
+    modTitle  = new FlxText(440, 0, 0);
     modTitle.setFormat("fonts/freeplay.ttf", 25, FlxColor.WHITE, "CENTER");
     modTitle.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 2);
     modTitle.antialiasing = true;
@@ -237,7 +239,7 @@ function create(){
 
 	interpColor = new FlxInterpolateColor(bg.color);
 
-    trace('IT WORKED!!!');
+    // trace('IT WORKED!!!');
 }
 
 
@@ -268,7 +270,18 @@ public var songInstPlaying:Bool = true;
 public var curPlayingInst:String = null;
 #end
 
-function update(elapsed){
+var bleh = 0;
+function update(elapsed:Float){
+    /**
+    I saw this snippet on discord and CNE source.
+    I just kept playing around with it 
+    until I got the result that satisfies me.
+
+    I don't actually know jackshit about Math lmao
+    - MAZ
+    **/
+    bleh += elapsed;
+    modTitle.y = 20 + Math.sin(bleh * 2) * 3;
 	if (FlxG.sound.music != null && FlxG.sound.music.volume < 0.7)
         FlxG.sound.music.volume += 0.5 * elapsed;
 
@@ -388,10 +401,20 @@ public function changeDiff(change:Int = 0, force:Bool = false)
 public function changeMod(change:Int = 0, force:Bool = false)
 {
     if (change == 0 && !force) return;
-    
     curMod = FlxMath.wrap(curMod + change, 0, modList.length-1);
-    
-    modTitle.text = "<Q     Mod: " + modList[curMod]+" ("+(curMod+1)+'/'+modList.length+')     E>';
+
+    var currentMod = modList[curMod];
+    // String Literal ver
+    var formattedTitle = '{R}<Q{R}    ' + "Mod:" + " " + currentMod + " " + "("+(curMod+1)+'/'+"{B}"+modList.length+'{B})' + '    {R}E>{R}';
+    // I never used template literals before, but this is probably what it'd look like if Hscript supports it:
+    // var formattedTitle = `{R}<Q{R}    Mod:${currentMod} + (${curMod+1}/${modList.length}) +    {R}E>{R}`;
+    modTitle.applyMarkup(
+        formattedTitle,
+        [
+            new FlxTextFormatMarkerPair(new FlxTextFormat(0xFFFF4444), "{R}"),
+            new FlxTextFormatMarkerPair(new FlxTextFormat(0xFFF4980D), "{B}")
+        ]
+    );
     modTitle.x = FlxG.width/2-(modTitle.width/2);
     //add(new FlxSprite(modTitle.x,modTitle.y).makeGraphic(modTitle.width,modTitle.height));
 
