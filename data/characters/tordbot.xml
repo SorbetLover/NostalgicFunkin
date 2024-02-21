@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="Vs Tord/tordbot" y="0" isGF="false" isPlayer="false" sprite="Vs Tord/tordbot">
+<character x="0" icon="Vs Tord/tordbot" camy="500" camx="800" y="0" isGF="false" isPlayer="false" sprite="Vs Tord/tordbot">
 	<anim x="0" loop="false" y="0" fps="24" anim="tordbot idle" name="idle"/>
 	<anim x="-20" loop="false" y="-95" fps="24" anim="tordbot down" name="singDOWN"/>
 	<anim x="-25" loop="false" y="-21" fps="24" anim="tordbot right" name="singRIGHT"/>

@@ -124,3 +124,6 @@ quack
 geesy
 synergy
 prom
+
+norway
+tordbot

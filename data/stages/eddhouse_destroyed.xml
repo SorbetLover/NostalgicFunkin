@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="eddhouse_destroyed" folder="stages/Vs Tord/destroyed">
+	<sprite name="skyDestroyed" x="-300" y="" scale="3"   sprite="skyDestroyed"/>
+    <sprite name="bgDestroyed" x="-300" y="200" scale="1.1"   sprite="bgDestroyed"/>
+	<girlfriend y="650" x= "600" scale="0.95" scroll="1"/>
+	<dad x="-500" y="-750"/>
+	<boyfriend x="950" y="600"/>
+</stage>
