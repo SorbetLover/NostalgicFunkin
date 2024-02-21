@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
 <character x="0" icon="Vs Tord/tordbot" y="0" isGF="false" isPlayer="false" sprite="Vs Tord/tordbot">
-	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
-	<anim x="20" loop="false" y="-185" fps="24" anim="down" name="singDOWN"/>
-	<anim x="95" loop="false" y="-43" fps="24" anim="right" name="singRIGHT"/>
-	<anim x="59" loop="false" y="70" fps="24" anim="up" name="singUP"/>
-	<anim x="84" loop="false" y="25" fps="24" anim="left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="tordbot idle" name="idle"/>
+	<anim x="-20" loop="false" y="-95" fps="24" anim="tordbot down" name="singDOWN"/>
+	<anim x="-25" loop="false" y="-21" fps="24" anim="tordbot right" name="singRIGHT"/>
+	<anim x="-26" loop="false" y="30" fps="24" anim="tordbot up" name="singUP"/>
+	<anim x="-91" loop="false" y="0" fps="24" anim="tordbot left" name="singLEFT"/>
 </character>
