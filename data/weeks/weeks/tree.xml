@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-week>
-<week name="Team Trees" chars="example,bf,gf" sprite="weektree">
+<week name="Team Trees" chars="null,bf,gf" sprite="weektree">
 	<song>Trunk</song>
 	<song>Warning</song>
 	<song>Revolution</song>

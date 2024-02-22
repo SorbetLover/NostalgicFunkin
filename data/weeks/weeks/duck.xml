@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-week>
-<week name="Duckiny125" chars="example,bf,gf" sprite="weekduck">
+<week name="Duckiny125" chars="null,bf,gf" sprite="weekduck">
 	<song>Quack</song>
 	<song>Geesy</song>
 	<song>Synergy</song>

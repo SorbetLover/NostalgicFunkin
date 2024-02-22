@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-week>
-<week name="date week <3" chars="bf,bf,gf" sprite="bonusWeek">
+<week name="date week <3" sprite="bonusWeek">
 <difficulty name="easy"/>
 <difficulty name="normal"/>
 <difficulty name="hard"/>
