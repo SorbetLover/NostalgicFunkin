@@ -39,8 +39,10 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Whitty Remastered | 🟢
 - [x] Vs. Garcello | 🟢
 ---
-- [x] Vs. Zardy | 🟡 Missing story menu BGs
+- [x] Vs Tord | 🟢
+- [x] Vs. Zardy |
 - [x] Vs. Pompom | 🟡 Missing Week 2 (including its cutscenes, story mode assets, dialogue, songs, etc) and missing stage assets
+- [ ] Vs Tree | 🟡 Missing recharts & polish & needs bug fixing with dialogue
 - [x] Date mod | 🟡 Polish needed + 3rd song isn't fully implemented
 - [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
 - [x] Vs. AGOTI (the classic one) | 🟡 Missing dialogue, cutscenes, and recharts
@@ -66,8 +68,6 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] vs sonic.exe v2? (not sure yet) | 🔴
 - [ ] vs Imposter V3 | 🔴
 - [ ] StarCatcher | 🔴
-- [ ] Vs Tord | 🔴
-- [ ] Vs Tree | 🔴
 ---
 
 ## Navigation (File Management Aspect)
