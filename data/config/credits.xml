@@ -179,13 +179,15 @@
 	user="MAZ12211"
 	customName="MAZ"
 	desc="• Ported Vs Tabi entirely, Re-ported like 80% of foolhardy.
-	• recharted Genocide, Your Demise, Hairball, Whitty week except ballistic.
+	• recharted Genocide, Your Demise, Hairball, Whitty week except ballistic, Tord week.
 	• re-ported Vs Kapi code-wise and minor help on Vs Whitty's cutscenes.
 	• Ported Starving Artist.
 	• Minor menu coding.
 	• Ported Vs Pompom story mode assets and cutscenes.
 	• Re-coded Vs Tricky songs, stages, and optimization.
-	• Minor coding help on Vs Sky."
+	• Minor coding help on Vs Sky.
+	• Ported Vs Tord start to finish including.
+	"
 	/>
 	<github
 	user="SorbetLover"
@@ -196,7 +198,9 @@
 	user="7oltan"
 	customName="7oltan"
 	desc="• Ported the majority of Date week including the countdown
-	and the gameover screen + fully ported 1st song, 2nd song, 3nd song (assets)."
+	and the gameover screen + fully ported 1st song, 2nd song, 3nd song (assets).
+	• Coded freeplay catagories!
+	"
 	/>
 	<github
 	user="bambamlolol"
