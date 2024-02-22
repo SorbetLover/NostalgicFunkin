@@ -40,6 +40,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Garcello | 🟢
 ---
 - [x] Vs Tord | 🟢
+- [x] Vs. Zardy | 🟢
 - [x] Vs. Zardy |
 - [x] Vs. Pompom | 🟡 Missing Week 2 (including its cutscenes, story mode assets, dialogue, songs, etc) and missing stage assets
 - [ ] Vs Tree | 🟡 Missing recharts & polish & needs bug fixing with dialogue
