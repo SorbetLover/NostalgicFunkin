@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-stage>
-<stage folder="stages/Vs Tree/" zoom="0.7">
+<stage folder="stages/Vs Tree/" zoom="0.8">
 	<sprite x="-600" y="-200" sprite="grass" name="background"/>
 	<gf x="460.5" y="273"/>
 	<dad x="184.5" y="773.5"/>
