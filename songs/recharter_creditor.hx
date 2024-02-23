@@ -43,19 +43,11 @@ function postCreate() {
 
 function beatHit(curBeat) {
     if (curBeat % 1 == 0) {
-        switch (noteIco.noteData) {
-            case 0:
-                for (a in [noteIco, recharter])
-                    FlxTween.tween(a, {x: a.x - 5}, Conductor.crochet / 1000, {type: FlxTween.BACKWARD, ease: FlxEase.cubeInOut});
-            case 1:
-                for (a in [noteIco, recharter])
-                    FlxTween.tween(a, {y: a.y + 5}, Conductor.crochet / 1000, {type: FlxTween.BACKWARD, ease: FlxEase.cubeInOut});
-            case 2:
-                for (a in [noteIco, recharter])
-                    FlxTween.tween(a, {y: a.y - 5}, Conductor.crochet / 1000, {type: FlxTween.BACKWARD, ease: FlxEase.cubeInOut});
-            case 3:
-                for (a in [noteIco, recharter])
-                    FlxTween.tween(a, {x: a.x + 5}, Conductor.crochet / 1000, {type: FlxTween.BACKWARD, ease: FlxEase.cubeInOut});
+        for (a in [noteIco, recharter]){
+            var note:Int = noteIco.noteData;
+            var xDir:Int = note == 0 ? -5 : (note == 3 ? 5 : 0);
+            var yDir:Int = note == 2 ? -5 : (note == 1 ? 5 : 0);
+            FlxTween.tween(a, {x:a.x + xDir,y:a.y + yDir}, Conductor.crochet / 1000, {type: FlxTween.BACKWARD, ease: FlxEase.cubeInOut});
         }
     }
 }
