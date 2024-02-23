@@ -5,7 +5,7 @@
 		"EASY",
 		"NORMAL",
 		"HARD",
-		"rechart"
+		"sirekirb's Rechart"
 	],
 	"parsedColor": -12513415,
 	"customValues": {},
@@ -16,5 +16,6 @@
 	"displayName": "Improbable Outset",
 	"beatsPerMeasure": 4,
 	"needsVoices": true,
-	"bpm": 200
+	"bpm": 200,
+	"week":"Vs Tricky"
 }

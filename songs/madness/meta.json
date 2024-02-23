@@ -8,7 +8,7 @@
 		"EASY",
 		"NORMAL",
 		"HARD",
-		"Rechart"
+		"sirekirb's Rechart"
 	],
 	"needsVoices": true,
 	"parsedColor": -12513415,
@@ -16,5 +16,6 @@
 	"icon": "Vs Tricky/tricky",
 	"name": "madness",
 	"color": "#410F79",
-	"customValues": {}
+	"customValues": {},
+	"week":"Vs Tricky"
 }
