@@ -9,6 +9,8 @@ import flixel.text.FlxText.FlxTextFormat;
 import flixel.text.FlxText.FlxTextFormatMarkerPair;
 import Type;
 
+// 7oltan made this okurrrrr :3
+
 /**
  * Array containing all of the songs metadatas
  */
