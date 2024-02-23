@@ -1,13 +1,14 @@
 {
+	"beatsPerMeasure": 4,
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"beatsPerMesure": 4,
-	"bpm": 185.0,
+	"bpm": 212,
 	"difficulties": [
-        "EASY",
-        "NORMAL",
-		"HARD"
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"Rechart"
 	],
 	"needsVoices": true,
 	"parsedColor": -12513415,
@@ -15,5 +16,5 @@
 	"icon": "Vs Tricky/tricky",
 	"name": "madness",
 	"color": "#410F79",
-	"week":"Vs Tricky"
+	"customValues": {}
 }
