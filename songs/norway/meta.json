@@ -1,6 +1,4 @@
 {
-	"recharter": "MAZ",
-	"week": "Vs Tord",
 	"beatsPerMeasure": 4,
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
@@ -18,5 +16,5 @@
 	"icon": "Vs Tord/tord",
 	"name": "norway",
 	"color": "#C70000",
-	"customValues": {}
+	"week": "Vs Tord"
 }

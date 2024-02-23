@@ -1,9 +1,9 @@
 {
 	"week": "Vs Agoti",
-	"beatsPerMeasure": 4,
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
 	"bpm": 160,
 	"difficulties": [
 		"NOOB",
