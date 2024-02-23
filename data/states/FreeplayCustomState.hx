@@ -4,8 +4,10 @@ import funkin.backend.utils.FlxInterpolateColor;
 import funkin.backend.system.Main;
 import flixel.text.FlxTextBorderStyle;
 import funkin.savedata.FunkinSave;
+import funkin.savedata.FunkinSave.HighscoreChange;
 import flixel.text.FlxText.FlxTextFormat;
 import flixel.text.FlxText.FlxTextFormatMarkerPair;
+import Type;
 
 /**
  * Array containing all of the songs metadatas
@@ -119,7 +121,6 @@ function create(){
 	songs = songList.songs;
 
     modList = CoolUtil.coolTextFile(Paths.txt('freeplayModlist'));
-    trace(modList);
 
     for(mod in modList){
         modSongList.set(mod,[]);
@@ -140,7 +141,6 @@ function create(){
             }
             nameOfTheWeek = 'default';
         }
-        trace(nameOfTheWeek);
         var curSongList = modSongList.get(nameOfTheWeek);
         curSongList.push(song);
         modSongList.set(nameOfTheWeek,curSongList);
@@ -172,9 +172,6 @@ function create(){
     bg.antialiasing = true;
     bg.alpha = 0.7;
     add(bg);
-
-    
-    // trace('IT WORKED!!!');
 
     modBg = new FlxSprite();
     modBg.antialiasing = true;
@@ -238,8 +235,7 @@ function create(){
     changeCoopMode(0, true);
 
 	interpColor = new FlxInterpolateColor(bg.color);
-
-    // trace('IT WORKED!!!');
+    trace('new instance');
 }
 
 
@@ -458,8 +454,10 @@ function updateScore() {
     }
     updateCoopModes();
     var changes:Array<HighscoreChange> = [];
-    if (__coopMode) changes.push(CCoopMode);
-    if (__opponentMode) changes.push(COpponentMode);
+    // HERE fix it later cunt, or atleast when enums work
+    //trace(Type.typeof(changes));
+    //if (__coopMode) changes.push(HighscoreChange.CCoopMode);
+    //if (__opponentMode) changes.push(HighscoreChange.COpponentMode);
     var saveData = FunkinSave.getSongHighscore(modSongList.get(modList[curMod])[curSelected].name, modSongList.get(modList[curMod])[curSelected].difficulties[curDifficulty], changes);
     intendedScore = saveData.score;
 }
