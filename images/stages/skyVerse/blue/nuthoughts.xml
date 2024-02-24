@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nuthoughts.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nuthoughts0000" x="1334" y="0" width="650" height="479" frameX="-9" frameY="-17" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0001" x="1334" y="0" width="650" height="479" frameX="-9" frameY="-17" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0002" x="1334" y="0" width="650" height="479" frameX="-9" frameY="-17" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0003" x="669" y="0" width="663" height="489" frameX="0" frameY="-12" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0004" x="669" y="0" width="663" height="489" frameX="0" frameY="-12" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0005" x="669" y="0" width="663" height="489" frameX="0" frameY="-12" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0006" x="0" y="0" width="667" height="498" frameX="-2" frameY="0" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0007" x="0" y="0" width="667" height="498" frameX="-2" frameY="0" frameWidth="669" frameHeight="501"/>
+	<SubTexture name="nuthoughts0008" x="0" y="0" width="667" height="498" frameX="-2" frameY="0" frameWidth="669" frameHeight="501"/>
+</TextureAtlas>

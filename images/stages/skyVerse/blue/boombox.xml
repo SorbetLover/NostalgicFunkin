@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boombox.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boombox0000" x="0" y="0" width="258" height="171"/>
+	<SubTexture name="boombox0001" x="260" y="0" width="258" height="171"/>
+	<SubTexture name="boombox0002" x="520" y="0" width="258" height="171"/>
+	<SubTexture name="boombox0003" x="780" y="0" width="258" height="171"/>
+	<SubTexture name="boombox0004" x="1040" y="0" width="258" height="171"/>
+	<SubTexture name="boombox0005" x="1300" y="0" width="258" height="171"/>
+	<SubTexture name="boombox0006" x="1560" y="0" width="258" height="171"/>
+	<SubTexture name="boombox0007" x="0" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0008" x="0" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0009" x="260" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0010" x="520" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0011" x="780" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0012" x="1040" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0013" x="1300" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0014" x="1560" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0015" x="0" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0016" x="1300" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0017" x="1560" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0018" x="1560" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0019" x="1560" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0020" x="260" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0021" x="520" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0022" x="780" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0023" x="1040" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0024" x="1300" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0025" x="1560" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0026" x="1560" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0027" x="0" y="346" width="258" height="171"/>
+	<SubTexture name="boombox0028" x="1300" y="173" width="258" height="171"/>
+	<SubTexture name="boombox0029" x="1560" y="173" width="258" height="171"/>
+	<SubTexture name="boombox row0000" x="0" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0001" x="259" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0002" x="518" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0003" x="777" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0004" x="1036" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0005" x="1295" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0006" x="1554" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0007" x="1554" y="519" width="257" height="167"/>
+	<SubTexture name="boombox row0008" x="0" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0009" x="259" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0010" x="518" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0011" x="777" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0012" x="1036" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0013" x="518" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0014" x="777" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0015" x="1295" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0016" x="1554" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0017" x="1554" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0018" x="1554" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0019" x="0" y="857" width="257" height="167"/>
+	<SubTexture name="boombox row0020" x="259" y="857" width="257" height="167"/>
+	<SubTexture name="boombox row0021" x="518" y="857" width="257" height="167"/>
+	<SubTexture name="boombox row0022" x="777" y="857" width="257" height="167"/>
+	<SubTexture name="boombox row0023" x="1036" y="857" width="257" height="167"/>
+	<SubTexture name="boombox row0024" x="1295" y="857" width="257" height="167"/>
+	<SubTexture name="boombox row0025" x="1554" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0026" x="1554" y="857" width="257" height="167"/>
+	<SubTexture name="boombox row0027" x="1295" y="688" width="257" height="167"/>
+	<SubTexture name="boombox row0028" x="1554" y="688" width="257" height="167"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="skyVerse/skyblue" y="0" isGF="false" color="#C829F1" isPlayer="false" gameOverChar="" holdTime="6.1" sprite="skyVerse/skyblue">
+	<anim x="0" loop="false" y="0" fps="24" anim="blue idle" name="idle"/>
+	<anim x="20" loop="false" y="-40" fps="24" anim="blue right" name="singRIGHT"/>
+	<anim x="48" loop="false" y="-80" fps="24" anim="blue down" name="singDOWN"/>
+	<anim x="80" loop="false" y="19" fps="24" anim="blue up" name="singUP"/>
+	<anim x="50" loop="false" y="-20" fps="24" anim="blue left" name="singLEFT"/>
+	<anim x="20" loop="true" y="-40" fps="24" anim="blue right" name="singRIGHT-hold" indices="0,2"/>
+	<anim x="48" loop="true" y="-80" fps="24" anim="blue down" name="singDOWN-hold" indices="0,2"/>
+	<anim x="80" loop="true" y="19" fps="24" anim="blue up" name="singUP-hold" indices="0,2"/>
+	<anim x="50" loop="true" y="-20" fps="24" anim="blue left" name="singLEFT-hold" indices="0,2"/>
+	<anim x="40" loop="false" y="0" fps="24" anim="blue alt idle" name="idle-alt"/>
+	<anim x="20" loop="false" y="-40" fps="24" anim="blue pol board" name="singRIGHT-alt"/>
+	<anim x="50" loop="false" y="-20" fps="24" anim="blue alt left" name="singLEFT-alt"/>
+	<anim x="48" loop="false" y="-80" fps="24" anim="blue alt down" name="singDOWN-alt"/>
+	<anim x="80" loop="false" y="19" fps="24" anim="blue alt up" name="singUP-alt"/>
+	<anim x="20" loop="true" y="-40" fps="24" anim="blue pol board" name="singRIGHT-alt-hold" indices="0,2"/>
+	<anim x="50" loop="true" y="-20" fps="24" anim="blue alt left" name="singLEFT-alt-hold" indices="0,2"/>
+	<anim x="48" loop="true" y="-80" fps="24" anim="blue alt down" name="singDOWN-alt-hold" indices="0,2"/>
+	<anim x="80" loop="true" y="19" fps="24" anim="blue alt up" name="singUP-alt-hold" indices="0,2"/>
+	<anim x="50" loop="false" y="0" fps="24" anim="blue chachacha" name="chachacha"/>
+	<anim x="50" loop="false" y="-16" fps="24" anim="blue swoon left" name="singLEFT-love"/>
+	<anim x="-40" loop="false" y="-40" fps="24" anim="blue love right" name="singRIGHT-love"/>
+	<anim x="100" loop="false" y="10" fps="24" anim="blue love up" name="singUP-love"/>
+	<anim x="50" loop="false" y="-75" fps="24" anim="blue love down" name="singDOWN-love"/>
+</character>

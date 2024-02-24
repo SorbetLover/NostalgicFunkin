@@ -127,3 +127,5 @@ prom
 
 norway
 tordbot
+
+blue
