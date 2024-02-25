@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="skyVerse/yotsuba" y="0" isGF="true" isPlayer="false" holdTime="6.1" sprite="skyVerse/yotsuba">
+<character x="0" icon="skyVerse/yotsuba" camx="-300" y="0" isGF="true" camy="50" isPlayer="false" holdTime="6.1" sprite="skyVerse/yotsuba">
 	<anim x="0" loop="false" y="0" fps="24" anim="yotsuba idle" indices="0,1,2,3,4,5,6" name="danceLeft"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="yotsuba idle" indices="7,8,9,10,11,12,13" name="danceRight"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="yotsuba clap" name="clap"/>
