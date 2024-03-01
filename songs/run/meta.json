@@ -15,5 +15,6 @@
 	"displayName": "run",
 	"icon": "bob/original/bob-mad",
 	"name": "run",
-	"color": "#0E0E0E"
+	"color": "#0E0E0E",
+	"week":"Vs Bob"
 }

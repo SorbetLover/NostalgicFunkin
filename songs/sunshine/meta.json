@@ -14,5 +14,6 @@
 	"displayName": "sunshine",
 	"icon": "bob/original/bob",
 	"name": "sunshine",
-	"color": "#FFFFFF"
+	"color": "#FFFFFF",
+	"week":"Vs Bob"
 }

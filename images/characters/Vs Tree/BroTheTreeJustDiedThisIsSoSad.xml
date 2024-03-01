@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angry tree.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry tree down0000" x="5045" y="4841" width="1017" height="1170" pivotX="83.15" pivotY="-165.05"/>
+	<SubTexture name="angry tree down0001" x="5045" y="6011" width="1017" height="1170"/>
+	<SubTexture name="angry tree down0002" x="6318" y="1250" width="1017" height="1170"/>
+	<SubTexture name="angry tree down0003" x="6203" y="2447" width="1017" height="1170"/>
+	<SubTexture name="angry tree down0004" x="6126" y="3644" width="1017" height="1170"/>
+	<SubTexture name="angry tree down0005" x="6126" y="3644" width="1017" height="1170"/>
+	<SubTexture name="angry tree down0006" x="6062" y="4841" width="1017" height="1170"/>
+	<SubTexture name="angry tree down0007" x="6126" y="3644" width="1017" height="1170"/>
+	<SubTexture name="angry tree down0008" x="6126" y="3644" width="1017" height="1170"/>
+	<SubTexture name="angry tree idle dance0000" x="3093" y="3644" width="1011" height="1197" pivotX="79.65" pivotY="-140.7"/>
+	<SubTexture name="angry tree idle dance0001" x="3023" y="4841" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0002" x="4181" y="2447" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0003" x="4104" y="3644" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0004" x="3023" y="6038" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0005" x="4034" y="4841" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0006" x="5192" y="2447" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0007" x="5115" y="3644" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0008" x="3093" y="3644" width="1011" height="1197"/>
+	<SubTexture name="angry tree idle dance0009" x="4034" y="6038" width="1011" height="1197"/>
+	<SubTexture name="angry tree left0000" x="3264" y="1250" width="1018" height="1197" pivotX="92.8" pivotY="-140.7"/>
+	<SubTexture name="angry tree left0001" x="4282" y="1250" width="1018" height="1197"/>
+	<SubTexture name="angry tree left0002" x="5300" y="1250" width="1018" height="1197"/>
+	<SubTexture name="angry tree left0003" x="987" y="4841" width="1018" height="1197"/>
+	<SubTexture name="angry tree left0004" x="987" y="6038" width="1018" height="1197"/>
+	<SubTexture name="angry tree left0005" x="2075" y="3644" width="1018" height="1197"/>
+	<SubTexture name="angry tree left0006" x="2005" y="4841" width="1018" height="1197"/>
+	<SubTexture name="angry tree left0007" x="2005" y="6038" width="1018" height="1197"/>
+	<SubTexture name="angry tree left0008" x="3163" y="2447" width="1018" height="1197"/>
+	<SubTexture name="angry tree right0000" x="0" y="0" width="1088" height="1197" pivotX="72" pivotY="-140.7"/>
+	<SubTexture name="angry tree right0001" x="0" y="1197" width="1088" height="1197"/>
+	<SubTexture name="angry tree right0002" x="1088" y="0" width="1088" height="1197"/>
+	<SubTexture name="angry tree right0003" x="0" y="2394" width="1088" height="1197"/>
+	<SubTexture name="angry tree right0004" x="1088" y="1197" width="1088" height="1197"/>
+	<SubTexture name="angry tree right0005" x="2176" y="0" width="1088" height="1197"/>
+	<SubTexture name="angry tree right0006" x="0" y="3591" width="1088" height="1197"/>
+	<SubTexture name="angry tree right0007" x="1088" y="2394" width="1088" height="1197"/>
+	<SubTexture name="angry tree right0008" x="2176" y="1197" width="1088" height="1197"/>
+	<SubTexture name="angry tree up0000" x="3264" y="0" width="987" height="1250" pivotX="65.3" pivotY="-92.4"/>
+	<SubTexture name="angry tree up0001" x="0" y="4788" width="987" height="1250"/>
+	<SubTexture name="angry tree up0002" x="4251" y="0" width="987" height="1250"/>
+	<SubTexture name="angry tree up0003" x="0" y="6038" width="987" height="1250"/>
+	<SubTexture name="angry tree up0004" x="5238" y="0" width="987" height="1250"/>
+	<SubTexture name="angry tree up0005" x="6225" y="0" width="987" height="1250"/>
+	<SubTexture name="angry tree up0006" x="1088" y="3591" width="987" height="1250"/>
+	<SubTexture name="angry tree up0007" x="2176" y="2394" width="987" height="1250"/>
+</TextureAtlas>

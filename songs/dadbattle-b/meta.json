@@ -14,5 +14,6 @@
 	"displayName": "Dad Battle",
 	"icon": "B Sides/dearests/dad",
 	"name": "dadbattle-b",
-	"color": "#FB97BF"
+	"color": "#FB97BF",
+	"week":"B-side"
 }

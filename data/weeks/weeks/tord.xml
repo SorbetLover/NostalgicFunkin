@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-week>
+<week name="Giant Robot" chars="tord,bf,gf" sprite="weekTord">
+<difficulty name="easy"/>
+<difficulty name="normal"/>
+<difficulty name="hard"/>
+<difficulty name="Rechart"/>
+	<song>norway</song>
+	<song>tordbot</song>
+</week>

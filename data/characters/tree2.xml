@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Tree/tree mad" y="0" isGF="false" camx="150" camy="160" isPlayer="false" holdTime="6.1" sprite="Vs Tree/mad_treenew">
+	<anim x="0" loop="false" y="0" fps="24" anim="mad tree idle dance" name="idle"/>
+	<anim x="-6" loop="false" y="51" fps="24" anim="mad tree up" name="singUP"/>
+	<anim x="103" loop="false" y="1" fps="24" anim="mad tree left" name="singLEFT"/>
+	<anim x="-68" loop="false" y="2" fps="24" anim="mad tree right" name="singRIGHT"/>
+	<anim x="-6" loop="false" y="-26" fps="24" anim="mad tree down" name="singDOWN"/>
+</character>

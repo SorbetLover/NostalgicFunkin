@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 270,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"RECHART"
+	],
+	"needsVoices": true,
+	"parsedColor": -7521968,
+	"displayName": "Prom",
+	"icon": "Vs Tree/tree and javarehab",
+	"name": "prom",
+	"color": "#8D3950",
+	"week": "Vs Tree",
+	"BG": "tree"
+}

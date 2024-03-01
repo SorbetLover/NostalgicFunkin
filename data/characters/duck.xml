@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Vs Tree/duck" y="0" isGF="false" flipX="true" isPlayer="false" holdTime="6.1" sprite="Vs Tree/Duckiny125">
+	<anim x="0" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="3" loop="false" y="58" fps="24" anim="BF NOTE UP" name="singUP"/>
+	<anim x="22" loop="false" y="0" fps="24" anim="BF NOTE RIGHT" name="singLEFT"/>
+	<anim x="-8" loop="false" y="0" fps="24" anim="BF NOTE LEFT" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="BF NOTE DOWN" name="singDOWN"/>
+</character>

@@ -14,5 +14,6 @@
 	"displayName": "High",
 	"icon": "B Sides/dearests/mom",
 	"name": "high-b",
-	"color": "#FB97C5"
+	"color": "#FB97C5",
+	"week":"B-side"
 }

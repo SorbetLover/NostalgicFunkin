@@ -14,5 +14,6 @@
 	"displayName": "Stardust",
 	"icon": "Vs Void/star",
 	"name": "stardust",
-	"color": "#778899"
+	"color": "#778899",
+	"week":"Vs Void"
 }

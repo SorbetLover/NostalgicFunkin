@@ -1,18 +1,21 @@
 {
+	"beatsPerMeasure": 4,
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"beatsPerMesure": 4,
-	"bpm": 185.0,
+	"bpm": 212,
 	"difficulties": [
-        "EASY",
-        "NORMAL",
-		"HARD"
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"sirekirb's Rechart"
 	],
 	"needsVoices": true,
 	"parsedColor": -12513415,
 	"displayName": "madness",
 	"icon": "Vs Tricky/tricky",
 	"name": "madness",
-	"color": "#410F79"
+	"color": "#410F79",
+	"customValues": {},
+	"week":"Vs Tricky"
 }

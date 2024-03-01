@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 170,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"sirekirb's Rechart"
+	],
+	"needsVoices": true,
+	"parsedColor": -3735552,
+	"displayName": "Warning",
+	"icon": "Vs Tree/tree mad",
+	"name": "warning",
+	"color": "#C70000",
+	"week": "Vs Tree",
+	"BG": "tree"
+}

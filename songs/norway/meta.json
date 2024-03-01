@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 201,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"Rechart"
+	],
+	"needsVoices": true,
+	"parsedColor": -3735552,
+	"displayName": "Norway",
+	"icon": "Vs Tord/tord",
+	"name": "norway",
+	"color": "#C70000",
+	"week": "Vs Tord"
+}

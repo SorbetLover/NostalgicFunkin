@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="eddhouse" folder="stages/Vs Tord/normal">
+	<sprite name="skyNormal" x="-300" y=""   sprite="skyNormal"/>
+    <sprite name="bgNormal" x="-300" y="200"   sprite="bgNormal"/>
+	<girlfriend y="550" x= "400" scale="0.95" scroll="1"/>
+	<dad x="100" y="605" camxoffset="60" camyoffset="20"/>
+	<boyfriend x="800" y="500" camxoffset="-60"/>
+</stage>

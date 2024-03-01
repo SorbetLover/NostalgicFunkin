@@ -30,7 +30,6 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Replace 7oltan's change animation index with CNE's alt animation toggle
 - [x] Trace a warning for using change animation index
 - [ ] Use CNE's chromatic aberration for genocide
-- [ ] Boy B-sides stages... (re-port week 5 + week 6 stages...)
 
 `V1`
 ---
@@ -40,8 +39,10 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs. Whitty Remastered | 🟢
 - [x] Vs. Garcello | 🟢
 ---
-- [x] Vs. Zardy | 🟡 Missing story menu BGs
+- [x] Vs Tord | 🟢
+- [x] Vs. Zardy | 🟢
 - [x] Vs. Pompom | 🟡 Missing Week 2 (including its cutscenes, story mode assets, dialogue, songs, etc) and missing stage assets
+- [ ] Vs Tree | 🟡 Missing recharts & polish & needs bug fixing with dialogue
 - [x] Date mod | 🟡 Polish needed + 3rd song isn't fully implemented
 - [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
 - [x] Vs. AGOTI (the classic one) | 🟡 Missing dialogue, cutscenes, and recharts
@@ -64,11 +65,9 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Vs. Sunday | 🔴
 - [ ] vs cg5 | 🔴
 - [ ] parappa mod | 🔴
-- [ ] vs sonic.exe 1.5 | 🔴
+- [ ] vs sonic.exe v2? (not sure yet) | 🔴
 - [ ] vs Imposter V3 | 🔴
 - [ ] StarCatcher | 🔴
-- [ ] Vs Tord | 🔴
-- [ ] Vs Tree | 🔴
 ---
 
 ## Navigation (File Management Aspect)

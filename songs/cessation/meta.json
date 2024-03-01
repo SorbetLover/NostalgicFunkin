@@ -12,5 +12,6 @@
 	"displayName": "cessation",
 	"icon": "Vs QT/qtkb",
 	"name": "cessation",
-	"color": "#CF98EC"
+	"color": "#CF98EC",
+	"week":"Vs QT"
 }

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialog.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 540000" x="454" y="575" width="119" height="220" frameX="-21" frameY="-91" frameWidth="466" frameHeight="322"/>
+	<SubTexture name="Symbol 540001" x="0" y="0" width="465" height="322" frameX="-1" frameY="0" frameWidth="466" frameHeight="322"/>
+	<SubTexture name="Symbol 540002" x="0" y="329" width="447" height="241" frameX="-1" frameY="-52" frameWidth="466" frameHeight="322"/>
+	<SubTexture name="Symbol 540003" x="0" y="329" width="447" height="241" frameX="-1" frameY="-52" frameWidth="466" frameHeight="322"/>
+	<SubTexture name="Symbol 540004" x="454" y="329" width="445" height="239" frameX="0" frameY="-54" frameWidth="466" frameHeight="322"/>
+	<SubTexture name="Symbol 540005" x="454" y="329" width="445" height="239" frameX="0" frameY="-54" frameWidth="466" frameHeight="322"/>
+	<SubTexture name="Symbol 540006" x="472" y="0" width="441" height="243" frameX="-5" frameY="-52" frameWidth="466" frameHeight="322"/>
+	<SubTexture name="Symbol 540007" x="472" y="0" width="441" height="243" frameX="-5" frameY="-52" frameWidth="466" frameHeight="322"/>
+</TextureAtlas>

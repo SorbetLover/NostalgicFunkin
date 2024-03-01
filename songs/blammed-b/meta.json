@@ -14,5 +14,6 @@
 	"displayName": "Blammed",
 	"icon": "B Sides/philly/pico",
 	"name": "blammed-b",
-	"color": "#8C71FD"
+	"color": "#8C71FD",
+	"week":"B-side"
 }

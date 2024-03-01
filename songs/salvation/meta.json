@@ -14,5 +14,6 @@
 	"displayName": "Salvation",
 	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 150
+	"bpm": 150,
+	"week":"Vs Mami"
 }

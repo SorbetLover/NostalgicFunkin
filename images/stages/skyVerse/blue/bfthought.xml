@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfthought.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf_thought10000" x="0" y="0" width="397" height="382"/>
+	<SubTexture name="bf_thought10001" x="0" y="0" width="397" height="382"/>
+	<SubTexture name="bf_thought10002" x="0" y="0" width="397" height="382"/>
+	<SubTexture name="bf_thought10003" x="0" y="0" width="397" height="382"/>
+	<SubTexture name="bf_thought10004" x="399" y="0" width="396" height="382" frameX="-1" frameY="0" frameWidth="397" frameHeight="382"/>
+	<SubTexture name="bf_thought10005" x="399" y="0" width="396" height="382" frameX="-1" frameY="0" frameWidth="397" frameHeight="382"/>
+	<SubTexture name="bf_thought10006" x="399" y="0" width="396" height="382" frameX="-1" frameY="0" frameWidth="397" frameHeight="382"/>
+	<SubTexture name="bf_thought10007" x="399" y="0" width="396" height="382" frameX="-1" frameY="0" frameWidth="397" frameHeight="382"/>
+	<SubTexture name="bf_thought20000" x="0" y="384" width="395" height="359"/>
+	<SubTexture name="bf_thought20001" x="0" y="384" width="395" height="359"/>
+	<SubTexture name="bf_thought20002" x="0" y="384" width="395" height="359"/>
+	<SubTexture name="bf_thought20003" x="0" y="384" width="395" height="359"/>
+	<SubTexture name="bf_thought20004" x="397" y="384" width="395" height="359"/>
+	<SubTexture name="bf_thought20005" x="397" y="384" width="395" height="359"/>
+	<SubTexture name="bf_thought20006" x="397" y="384" width="395" height="359"/>
+	<SubTexture name="bf_thought20007" x="397" y="384" width="395" height="359"/>
+</TextureAtlas>

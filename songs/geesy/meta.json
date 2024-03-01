@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 165,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"RECHART"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Geesy",
+	"icon": "Vs Tree/duck",
+	"name": "geesy",
+	"color": "#FFFFFF",
+	"week": "Vs Tree",
+	"BG": "tree"
+}

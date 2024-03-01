@@ -14,5 +14,6 @@
 	"displayName": "Ultraviolet",
 	"icon": "Vs Void/void",
 	"name": "ultraviolet",
-	"color": "#778899"
+	"color": "#778899",
+	"week":"Vs Void"
 }

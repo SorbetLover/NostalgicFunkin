@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gay men.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jav sing down0000" x="0" y="0" width="1052" height="1196" frameX="0" frameY="-54" frameWidth="1052" frameHeight="1265"/>
+	<SubTexture name="jav sing down0001" x="1052" y="0" width="1028" height="1214" frameX="-12" frameY="-51" frameWidth="1052" frameHeight="1265"/>
+	<SubTexture name="jav sing down0002" x="2080" y="0" width="1009" height="1265" frameX="-26" frameY="0" frameWidth="1052" frameHeight="1265"/>
+	<SubTexture name="jav sing down0003" x="3089" y="0" width="1009" height="1265" frameX="-26" frameY="0" frameWidth="1052" frameHeight="1265"/>
+	<SubTexture name="jav sing down0004" x="3089" y="0" width="1009" height="1265" frameX="-26" frameY="0" frameWidth="1052" frameHeight="1265"/>
+	<SubTexture name="jav sing left0000" x="4098" y="0" width="900" height="1262" frameX="-47" frameY="-11" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0001" x="4998" y="0" width="874" height="1273" frameX="-39" frameY="0" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0002" x="5872" y="0" width="946" height="1260" frameX="0" frameY="-13" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0003" x="6818" y="0" width="940" height="1249" frameX="-3" frameY="-24" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0004" x="0" y="1273" width="914" height="1252" frameX="-16" frameY="-21" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0005" x="914" y="1273" width="914" height="1252" frameX="-16" frameY="-21" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0006" x="0" y="1273" width="914" height="1252" frameX="-16" frameY="-21" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0007" x="0" y="1273" width="914" height="1252" frameX="-16" frameY="-21" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0008" x="0" y="1273" width="914" height="1252" frameX="-16" frameY="-21" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing left0009" x="0" y="1273" width="914" height="1252" frameX="-16" frameY="-21" frameWidth="947" frameHeight="1273"/>
+	<SubTexture name="jav sing right0000" x="1828" y="1273" width="851" height="1517" frameX="-1" frameY="0" frameWidth="922" frameHeight="1517"/>
+	<SubTexture name="jav sing right0001" x="2679" y="1273" width="895" height="1476" frameX="0" frameY="-20" frameWidth="922" frameHeight="1517"/>
+	<SubTexture name="jav sing right0002" x="3574" y="1273" width="907" height="1484" frameX="-15" frameY="-33" frameWidth="922" frameHeight="1517"/>
+	<SubTexture name="jav sing right0003" x="4481" y="1273" width="890" height="1378" frameX="-11" frameY="-139" frameWidth="922" frameHeight="1517"/>
+	<SubTexture name="jav sing up0000" x="5371" y="1273" width="919" height="1432"/>
+	<SubTexture name="jav sing up0001" x="6290" y="1273" width="899" height="1431" frameX="-20" frameY="-1" frameWidth="919" frameHeight="1432"/>
+	<SubTexture name="jav sing up0002" x="7189" y="1273" width="893" height="1424" frameX="-26" frameY="-8" frameWidth="919" frameHeight="1432"/>
+	<SubTexture name="jav sing up0003" x="0" y="2790" width="899" height="1421" frameX="-20" frameY="-11" frameWidth="919" frameHeight="1432"/>
+	<SubTexture name="jav sing up0004" x="899" y="2790" width="897" height="1408" frameX="-22" frameY="-24" frameWidth="919" frameHeight="1432"/>
+	<SubTexture name="mad tree down0000" x="1796" y="2790" width="939" height="1234" frameX="-16" frameY="0" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0001" x="2735" y="2790" width="942" height="1217" frameX="-16" frameY="-17" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0002" x="3677" y="2790" width="946" height="1207" frameX="-9" frameY="-27" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0003" x="4623" y="2790" width="954" height="1196" frameX="0" frameY="-38" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0004" x="5577" y="2790" width="954" height="1183" frameX="0" frameY="-50" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0005" x="5577" y="2790" width="954" height="1183" frameX="0" frameY="-50" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0006" x="5577" y="2790" width="954" height="1183" frameX="0" frameY="-50" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0007" x="5577" y="2790" width="954" height="1183" frameX="0" frameY="-50" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree down0008" x="5577" y="2790" width="954" height="1183" frameX="0" frameY="-50" frameWidth="958" frameHeight="1234"/>
+	<SubTexture name="mad tree idle dance0000" x="6531" y="2790" width="933" height="1262" frameX="-13" frameY="0" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0001" x="0" y="4211" width="934" height="1250" frameX="-13" frameY="-12" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0002" x="934" y="4211" width="945" height="1241" frameX="-4" frameY="-20" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0003" x="1879" y="4211" width="948" height="1231" frameX="-2" frameY="-30" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0004" x="2827" y="4211" width="952" height="1221" frameX="0" frameY="-40" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0005" x="3779" y="4211" width="948" height="1241" frameX="-13" frameY="-20" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0006" x="4727" y="4211" width="946" height="1241" frameX="-13" frameY="-20" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0007" x="5673" y="4211" width="943" height="1250" frameX="-13" frameY="-12" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree idle dance0008" x="6616" y="4211" width="942" height="1262" frameX="-13" frameY="0" frameWidth="961" frameHeight="1262"/>
+	<SubTexture name="mad tree left0000" x="0" y="5473" width="851" height="1262" frameX="-11" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0001" x="851" y="5473" width="842" height="1262" frameX="-4" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0002" x="1693" y="5473" width="841" height="1262" frameX="-2" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0003" x="2534" y="5473" width="841" height="1262" frameX="0" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0004" x="2534" y="5473" width="841" height="1262" frameX="0" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0005" x="2534" y="5473" width="841" height="1262" frameX="0" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0006" x="2534" y="5473" width="841" height="1262" frameX="0" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0007" x="2534" y="5473" width="841" height="1262" frameX="0" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree left0008" x="2534" y="5473" width="841" height="1262" frameX="0" frameY="0" frameWidth="862" frameHeight="1262"/>
+	<SubTexture name="mad tree right0000" x="3375" y="5473" width="953" height="1262" frameX="0" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0001" x="4328" y="5473" width="972" height="1262" frameX="-3" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0002" x="5300" y="5473" width="987" height="1262" frameX="-6" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0003" x="6287" y="5473" width="997" height="1262" frameX="-8" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0004" x="6287" y="5473" width="997" height="1262" frameX="-8" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0005" x="6287" y="5473" width="997" height="1262" frameX="-8" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0006" x="6287" y="5473" width="997" height="1262" frameX="-8" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0007" x="6287" y="5473" width="997" height="1262" frameX="-8" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree right0008" x="6287" y="5473" width="997" height="1262" frameX="-8" frameY="0" frameWidth="1005" frameHeight="1262"/>
+	<SubTexture name="mad tree up0000" x="0" y="6735" width="959" height="1272" frameX="0" frameY="-44" frameWidth="959" frameHeight="1317"/>
+	<SubTexture name="mad tree up0001" x="959" y="6735" width="953" height="1294" frameX="0" frameY="-23" frameWidth="959" frameHeight="1317"/>
+	<SubTexture name="mad tree up0002" x="1912" y="6735" width="946" height="1306" frameX="0" frameY="-11" frameWidth="959" frameHeight="1317"/>
+	<SubTexture name="mad tree up0003" x="2858" y="6735" width="942" height="1317" frameX="0" frameY="0" frameWidth="959" frameHeight="1317"/>
+	<SubTexture name="mad tree up0004" x="3800" y="6735" width="937" height="1317" frameX="0" frameY="0" frameWidth="959" frameHeight="1317"/>
+	<SubTexture name="mad tree up0005" x="3800" y="6735" width="937" height="1317" frameX="0" frameY="0" frameWidth="959" frameHeight="1317"/>
+	<SubTexture name="mad tree up0006" x="3800" y="6735" width="937" height="1317" frameX="0" frameY="0" frameWidth="959" frameHeight="1317"/>
+	<SubTexture name="mad tree up0007" x="3800" y="6735" width="937" height="1317" frameX="0" frameY="0" frameWidth="959" frameHeight="1317"/>
+</TextureAtlas>

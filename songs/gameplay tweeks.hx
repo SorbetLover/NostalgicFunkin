@@ -28,13 +28,19 @@ function onPostNoteCreation(e) {
 //     } 
 // }
 
+var anims = ["singLEFT", "singDOWN", "singUP", "singRIGHT"];
+
 function onNoteHit(e) {
     if (e.note.isSustainNote) e.healthGain = 0;
-    /* Same Snippet */
+    // Same Snippet 
+    // this is ne_eo script i think but i did add my "-hold" ting to it - 7oltan <3
     e.cancelAnim();
     for(char in e.characters) {
-        char.playSingAnim(e.direction, e.animSuffix, "SING", true);
-        if((e.note.isSustainNote || e.note.nextNote?.isSustainNote) && e.note.animation.name != "holdend") {
+        if ((e.note.isSustainNote || e.note.nextNote?.isSustainNote)&&char.hasAnimation(anims[e.direction]+e.animSuffix+'-hold')&&e.note.animation.name != "holdend") 
+            char.playSingAnim(e.direction, e.animSuffix+'-hold', "SING", true);
+        else
+            char.playSingAnim(e.direction, e.animSuffix, "SING", true);
+        if((e.note.isSustainNote || e.note.nextNote?.isSustainNote) && e.note.animation.name != "holdend" && !char.hasAnimation(anims[e.direction]+e.animSuffix+'-hold')) {
             var frame = char.frame;
             char.animation.curAnim = null;
             char.frame = frame;

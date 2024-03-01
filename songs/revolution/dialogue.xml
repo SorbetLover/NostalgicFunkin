@@ -1,0 +1,67 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="treeblack" char="treeblack" position="left" />
+	<char name="bfTree" char="bf" position="right" />
+	<char name="bfgfTree" char="bfgf" position="right" />
+	<char name="gfTree" char="gf" position="right" />
+
+	<!-- Lines -->
+	<line char="treeblack">
+		...
+	</line>
+	<line char="gf">
+		is.. is he dead?
+	</line>
+	<line char="treeblack">
+		...
+	</line>
+	<line char="treeblack">
+		You...
+	</line>
+	<line char="bfgf">
+		!!!
+	</line>
+	<line char="treeblack">
+		I tried playing nice kid.
+	</line>
+	<line char="treeblack">
+		Instead, you've killed me.
+	</line>
+	<line char="gf">
+		what?
+	</line>
+	<line char="treeblack">
+		...
+	</line>
+	<line char="treeblack">
+		Forget getting your girl. 
+	</line>
+	<line char="treeblack">
+		I'm technically dead anyways, thanks to you.
+	</line>
+	<line char="bf">
+		...
+	</line>
+	<line char="treeblack">
+		Besides... I have a hour left before I rot...
+	</line>
+	<line char="treeblack">
+		So... I'll rather TAKE YOU TO HELL WITH ME!
+	</line>
+	<line char="gf">
+		Boyfriend, let's get out of here!
+	</line>
+	<line char="bf">
+		Yeah.
+	</line>
+	<line char="treeblack">
+		There's no escaping me...
+	</line>
+	<line char="treeblack">
+		I WILL RIP OUT YOUR SPINAL CORD!
+	</line>
+	<line char="bf">
+		BEEP BOH BOOP!
+	</line>
+</dialogue>

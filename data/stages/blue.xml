@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="stages/skyVerse/blue">
+	<sprite name="fatbg"               x="-769.1" y="-409.6"   sprite="fatbg"       scroll="0.95" />
+	<sprite name="trashcan"               x="362.8" y="-57.5"   sprite="trashcan"       scroll="0.95" />
+
+	<sprite name="boombox"       alpha="0.000000000000001"        x="719.6" y="57"   sprite="boombox"       scroll="0.95" >
+		<anim name="idle" anim="boombox" indices="0" fps="24"/>
+		<anim name="beat" anim="boombox" indices="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29" fps="24"/>
+		<anim name="libera" anim="boombox row" fps="24" loop="true"/>
+	</sprite>
+
+	<sprite name="gameboy"         x="692.9" y="178"   sprite="gameboy"       scroll="0.95" >
+		<anim name="idle" anim="gameboy" indices="0" fps="24"/>
+		<anim name="chip" anim="gameboy" indices="2,3,4,5,6" fps="24"/>
+	</sprite>
+
+	<girlfriend  x="531.6" y="-0.3" scroll="0.95"/>
+
+	<sprite name="bluethoughts"     alpha="0.000000000000001"    x="346.35" y="8.5"   sprite="bluethoughts"       scroll="0.95" >
+		<anim name="thought" anim="bluethoughts" fps="24" loop="true"/>
+	</sprite>
+
+	<sprite name="bfthought"    alpha="0.000000000000001"     x="572.25" y="49.95"   sprite="bfthought"       scroll="0.95" >
+		<anim name="thought1" anim="bf_thought1" fps="24" loop="true"/>
+		<anim name="thought2" anim="bf_thought2" fps="24" loop="true"/>
+	</sprite>
+
+	<dad  x="117" y="65"/>
+	<ratings y = "400"/>
+</stage>

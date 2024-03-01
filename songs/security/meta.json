@@ -14,5 +14,6 @@
 	"displayName": "Security",
 	"icon": "Vs Void/security",
 	"name": "security",
-	"color": "#778899"
+	"color": "#778899",
+	"week":"Vs Void"
 }

@@ -14,5 +14,6 @@
 	"displayName": "Whitroll",
 	"icon": "dateWeek/CW",
 	"name": "whitroll",
-	"color": "#424268"
+	"color": "#424268",
+	"week":"Date Week"
 }

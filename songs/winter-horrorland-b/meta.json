@@ -14,5 +14,6 @@
 	"displayName": "Winter Horrorland",
 	"icon": "B Sides/monster/monster",
 	"name": "winter-horrorland-b",
-	"color": "#77FF71"
+	"color": "#77FF71",
+	"week":"B-side"
 }

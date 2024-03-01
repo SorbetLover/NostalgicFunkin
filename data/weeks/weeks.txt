@@ -17,4 +17,8 @@ seos
 rebecca
 pompom
 dateweek
-weekMag
+tree
+duck
+treedate
+tord
+skyVerse

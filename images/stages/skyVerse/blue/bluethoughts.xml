@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluethoughts.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bluethoughts0000" x="785" y="532" width="788" height="525" frameX="0" frameY="-5" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0001" x="785" y="532" width="788" height="525" frameX="0" frameY="-5" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0002" x="785" y="532" width="788" height="525" frameX="0" frameY="-5" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0003" x="785" y="0" width="781" height="530" frameX="0" frameY="0" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0004" x="785" y="0" width="781" height="530" frameX="0" frameY="0" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0005" x="785" y="0" width="781" height="530" frameX="0" frameY="0" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0006" x="0" y="0" width="783" height="531" frameX="-4" frameY="-7" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0007" x="0" y="0" width="783" height="531" frameX="-4" frameY="-7" frameWidth="788" frameHeight="538"/>
+	<SubTexture name="bluethoughts0008" x="0" y="0" width="783" height="531" frameX="-4" frameY="-7" frameWidth="788" frameHeight="538"/>
+</TextureAtlas>

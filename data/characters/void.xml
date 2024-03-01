@@ -1,12 +1,18 @@
 <!DOCTYPE codename-engine-character>
 <character x="0" icon="Vs Void/void" y="-50" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Void/void_assets">
-	<anim x="-221" loop="false" y="12" fps="24" anim="Void Right Note Hype" name="singRIGHT-alt"/>
-	<anim x="-10" loop="false" y="4" fps="24" anim="Void Down Note Chill" name="singDOWN"/>
-	<anim x="278" loop="false" y="5" fps="24" anim="Void Left Note Hype" name="singLEFT-alt"/>
-	<anim x="32" loop="false" y="6" fps="24" anim="Void Up Note Chill" name="singUP"/>
+	<anim x="-130" loop="false" y="-20" fps="24" anim="Void Right Note Hype" name="singRIGHT-alt"/>
+	<anim x="-10" loop="false" y="0" fps="24" anim="Void Down Note Chill" name="singDOWN"/>
+	<anim x="110" loop="false" y="0" fps="24" anim="Void Left Note Hype" name="singLEFT-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Void Up Note Chill" name="singUP"/>
 	<anim x="0" loop="false" y="0" fps="24" anim="Void Idle" name="idle"/>
-	<anim x="-81" loop="false" y="12" fps="24" anim="Void Right Note Chill" name="singRIGHT"/>
-	<anim x="-10" loop="false" y="4" fps="24" anim="Void Down Note Hype" name="singDOWN-alt"/>
-	<anim x="32" loop="false" y="31" fps="24" anim="Void Up Note Hype" name="singUP-alt"/>
-	<anim x="98" loop="false" y="5" fps="24" anim="Void Left Note Chill" name="singLEFT"/>
+	<anim x="-30" loop="false" y="0" fps="24" anim="Void Right Note Chill" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Void Down Note Hype" name="singDOWN-alt"/>
+	<anim x="40" loop="false" y="40" fps="24" anim="Void Up Note Hype" name="singUP-alt"/>
+	<anim x="70" loop="false" y="0" fps="24" anim="Void Left Note Chill" name="singLEFT"/>
+	<anim x="0" loop="false" y="-100" fps="24" anim="Void Wink" name="wink"/>
+	<anim x="0" loop="false" y="-100" fps="24" anim="Void Seethe" name="seethe"/>
+	<anim x="0" loop="false" y="-100" fps="24" anim="Void Pose" name="pose"/>
+	<anim x="0" loop="false" y="-100" fps="24" anim="Void PoseWink" name="pose-wink"/>
+	<anim x="0" loop="false" y="-100" fps="24" anim="Void Confused" name="confused"/>
+	<anim x="0" loop="false" y="-100" fps="24" anim="Void Intro" name="sickintro"/>
 </character>

@@ -14,5 +14,6 @@
 	"displayName": "Perfume",
 	"icon": "dateWeek/CW",
 	"name": "perfume",
-	"color": "#424268"
+	"color": "#424268",
+	"week":"Date Week"
 }

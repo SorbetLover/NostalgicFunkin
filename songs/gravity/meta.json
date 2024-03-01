@@ -14,5 +14,6 @@
 	"displayName": "Gravity",
 	"icon": "Vs Void/void",
 	"name": "gravity",
-	"color": "#778899"
+	"color": "#778899",
+	"week":"Vs Void"
 }

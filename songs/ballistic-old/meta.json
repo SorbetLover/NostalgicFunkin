@@ -1,21 +1,20 @@
 {
+	"week": "Vs Whitty",
 	"opponentModeAllowed": true,
-	"icon": "Vs Whitty/whittyCrazy",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 210,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
 		"HARD",
 		"Rechart"
 	],
-	"parsedColor": -327680,
-	"color": "#FB0000",
-	"name": "ballistic-old",
-	"coopAllowed": true,
-	"stepsPerBeat": 4,
-	"displayName": "ballistic",
-	"beatsPerMesure": 4,
 	"needsVoices": true,
-	"bpm": 210,
-	"week": "Vs Whitty",
-	"BG": "whitty"
+	"parsedColor": -327680,
+	"displayName": "ballistic",
+	"icon": "Vs Whitty/whittyCrazy",
+	"name": "ballistic-old",
+	"color": "#FB0000"
 }

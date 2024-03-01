@@ -1,4 +1,19 @@
+
+import funkin.backend.utils.NativeAPI;
+
+static var redirectStates:Map<FlxState, String> = [
+    FreeplayState => "FreeplayCustomState"
+];
+
+function preStateSwitch() {
+    for (redirectState in redirectStates.keys())
+        if (FlxG.game._requestedState is redirectState)
+            FlxG.game._requestedState = new ModState(redirectStates.get(redirectState));
+}
 function new() {
+    NativeAPI.allocConsole();
+    trace("Hacker console activated!1!1!");
+
     if (FlxG.save.data.shaderShit == null) FlxG.save.data.shaderShit = true;
     if (FlxG.save.data.shakeShit == null) FlxG.save.data.shakeShit = true;
     if (FlxG.save.data.flashFX == null) FlxG.save.data.flashFX = true;

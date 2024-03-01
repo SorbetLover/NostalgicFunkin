@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yotsuba.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yotsuba boombox0000" x="1740" y="1036" width="200" height="263" frameX="-19" frameY="-9" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0001" x="1740" y="1036" width="200" height="263" frameX="-19" frameY="-9" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0002" x="929" y="1047" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0003" x="1132" y="1047" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0004" x="1335" y="1046" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0005" x="929" y="1047" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0006" x="1132" y="1047" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0007" x="1335" y="1046" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0008" x="929" y="1047" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0009" x="1132" y="1047" width="201" height="264" frameX="0" frameY="-14" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0010" x="0" y="263" width="385" height="272" frameX="-8" frameY="0" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0011" x="0" y="0" width="425" height="261" frameX="-8" frameY="-11" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0012" x="0" y="0" width="425" height="261" frameX="-8" frameY="-11" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0013" x="427" y="0" width="429" height="256" frameX="-17" frameY="-16" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0014" x="427" y="0" width="429" height="256" frameX="-17" frameY="-16" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0015" x="727" y="779" width="214" height="255" frameX="-17" frameY="-17" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0016" x="727" y="779" width="214" height="255" frameX="-17" frameY="-17" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0017" x="727" y="779" width="214" height="255" frameX="-17" frameY="-17" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0018" x="727" y="779" width="214" height="255" frameX="-17" frameY="-17" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0019" x="727" y="779" width="214" height="255" frameX="-17" frameY="-17" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0020" x="723" y="1041" width="204" height="261" frameX="-8" frameY="-11" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0021" x="723" y="1041" width="204" height="261" frameX="-8" frameY="-11" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0022" x="1349" y="255" width="230" height="253" frameX="-57" frameY="-20" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0023" x="1349" y="255" width="230" height="253" frameX="-57" frameY="-20" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0024" x="263" y="1599" width="230" height="255" frameX="-56" frameY="-17" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0025" x="263" y="1599" width="230" height="255" frameX="-56" frameY="-17" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0026" x="291" y="1070" width="223" height="261" frameX="-8" frameY="-11" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba boombox0027" x="291" y="1070" width="223" height="261" frameX="-8" frameY="-11" frameWidth="446" frameHeight="278"/>
+	<SubTexture name="yotsuba chachacha0000" x="1729" y="1312" width="199" height="253" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0001" x="1729" y="1312" width="199" height="253" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0002" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0003" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0004" x="1129" y="1313" width="199" height="255" frameX="-10" frameY="0" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0005" x="1129" y="1313" width="199" height="255" frameX="-10" frameY="0" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0006" x="1330" y="1313" width="199" height="254" frameX="-10" frameY="0" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0007" x="1330" y="1313" width="199" height="254" frameX="-10" frameY="0" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0008" x="1330" y="1313" width="199" height="254" frameX="-10" frameY="0" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0009" x="1729" y="1312" width="199" height="253" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0010" x="1729" y="1312" width="199" height="253" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0011" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0012" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0013" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0014" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0015" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0016" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0017" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0018" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0019" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0020" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0021" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0022" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0023" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0024" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba chachacha0025" x="731" y="1573" width="199" height="252" frameX="0" frameY="-2" frameWidth="209" frameHeight="255"/>
+	<SubTexture name="yotsuba clap0000" x="1531" y="1312" width="196" height="257" frameX="-24" frameY="0" frameWidth="222" frameHeight="257"/>
+	<SubTexture name="yotsuba clap0001" x="508" y="786" width="217" height="253" frameX="-5" frameY="-4" frameWidth="222" frameHeight="257"/>
+	<SubTexture name="yotsuba clap0002" x="508" y="786" width="217" height="253" frameX="-5" frameY="-4" frameWidth="222" frameHeight="257"/>
+	<SubTexture name="yotsuba clap0003" x="495" y="1333" width="222" height="253" frameX="0" frameY="-4" frameWidth="222" frameHeight="257"/>
+	<SubTexture name="yotsuba clap0004" x="495" y="1333" width="222" height="253" frameX="0" frameY="-4" frameWidth="222" frameHeight="257"/>
+	<SubTexture name="yotsuba gameboy0000" x="635" y="258" width="236" height="256" frameX="-1" frameY="0" frameWidth="254" frameHeight="258"/>
+	<SubTexture name="yotsuba gameboy0001" x="873" y="252" width="239" height="252" frameX="-1" frameY="-4" frameWidth="254" frameHeight="258"/>
+	<SubTexture name="yotsuba gameboy0002" x="1386" y="0" width="254" height="252" frameX="0" frameY="-5" frameWidth="254" frameHeight="258"/>
+	<SubTexture name="yotsuba gameboy0003" x="1130" y="0" width="254" height="253" frameX="0" frameY="-5" frameWidth="254" frameHeight="258"/>
+	<SubTexture name="yotsuba gameboy0004" x="1642" y="0" width="249" height="253" frameX="0" frameY="-3" frameWidth="254" frameHeight="258"/>
+	<SubTexture name="yotsuba gameboy0005" x="1642" y="0" width="249" height="253" frameX="0" frameY="-3" frameWidth="254" frameHeight="258"/>
+	<SubTexture name="yotsuba gameboy0006" x="1642" y="0" width="249" height="253" frameX="0" frameY="-3" frameWidth="254" frameHeight="258"/>
+	<SubTexture name="yotsuba idle0000" x="1768" y="757" width="210" height="254" frameX="-5" frameY="-13" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0001" x="927" y="1313" width="200" height="258" frameX="0" frameY="-9" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0002" x="719" y="1310" width="206" height="255" frameX="0" frameY="-12" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0003" x="1538" y="1046" width="200" height="264" frameX="-17" frameY="-3" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0004" x="1150" y="777" width="204" height="267" frameX="-19" frameY="0" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0005" x="1356" y="777" width="204" height="267" frameX="-19" frameY="0" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0006" x="1356" y="777" width="204" height="267" frameX="-19" frameY="0" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0007" x="1712" y="498" width="219" height="257" frameX="-20" frameY="-10" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0008" x="1488" y="510" width="222" height="255" frameX="-19" frameY="-12" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0009" x="294" y="804" width="212" height="262" frameX="-19" frameY="-5" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0010" x="943" y="779" width="205" height="266" frameX="-19" frameY="-1" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0011" x="516" y="1041" width="205" height="267" frameX="-19" frameY="0" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0012" x="1562" y="767" width="204" height="267" frameX="-19" frameY="0" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba idle0013" x="1562" y="767" width="204" height="267" frameX="-19" frameY="0" frameWidth="241" frameHeight="267"/>
+	<SubTexture name="yotsuba trumpet down0000" x="548" y="516" width="245" height="242" frameX="0" frameY="-2" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0001" x="1581" y="255" width="240" height="241" frameX="-5" frameY="-1" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0002" x="495" y="1588" width="234" height="239" frameX="-10" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0003" x="495" y="1588" width="234" height="239" frameX="-10" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0004" x="495" y="1588" width="234" height="239" frameX="-10" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0005" x="495" y="1588" width="234" height="239" frameX="-10" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0006" x="495" y="1588" width="234" height="239" frameX="-10" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0007" x="495" y="1588" width="234" height="239" frameX="-10" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet down0008" x="495" y="1588" width="234" height="239" frameX="-10" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="yotsuba trumpet idle0000" x="296" y="537" width="250" height="247" frameX="0" frameY="-9" frameWidth="250" frameHeight="257"/>
+	<SubTexture name="yotsuba trumpet idle0001" x="387" y="263" width="246" height="250" frameX="-2" frameY="-7" frameWidth="250" frameHeight="257"/>
+	<SubTexture name="yotsuba trumpet idle0002" x="1114" y="255" width="233" height="257" frameX="-8" frameY="0" frameWidth="250" frameHeight="257"/>
+	<SubTexture name="yotsuba trumpet idle0003" x="1114" y="255" width="233" height="257" frameX="-8" frameY="0" frameWidth="250" frameHeight="257"/>
+	<SubTexture name="yotsuba trumpet idle0004" x="1024" y="514" width="234" height="253" frameX="-7" frameY="-4" frameWidth="250" frameHeight="257"/>
+	<SubTexture name="yotsuba trumpet idle0005" x="1024" y="514" width="234" height="253" frameX="-7" frameY="-4" frameWidth="250" frameHeight="257"/>
+	<SubTexture name="yotsuba trumpet left0000" x="858" y="0" width="270" height="250" frameX="0" frameY="-3" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0001" x="0" y="1335" width="266" height="251" frameX="-5" frameY="-2" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0002" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0003" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0004" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0005" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0006" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0007" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0008" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet left0009" x="0" y="1588" width="261" height="253" frameX="-10" frameY="0" frameWidth="271" frameHeight="253"/>
+	<SubTexture name="yotsuba trumpet right0000" x="268" y="1335" width="225" height="262" frameX="0" frameY="0" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0001" x="1260" y="514" width="226" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0002" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0003" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0004" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0005" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0006" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0007" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0008" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet right0009" x="795" y="516" width="227" height="261" frameX="0" frameY="-1" frameWidth="227" frameHeight="262"/>
+	<SubTexture name="yotsuba trumpet up0000" x="0" y="537" width="294" height="265" frameX="0" frameY="0" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0001" x="0" y="804" width="292" height="264" frameX="-3" frameY="-1" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0002" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0003" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0004" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0005" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0006" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0007" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0008" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+	<SubTexture name="yotsuba trumpet up0009" x="0" y="1070" width="289" height="263" frameX="-6" frameY="-2" frameWidth="295" frameHeight="265"/>
+</TextureAtlas>

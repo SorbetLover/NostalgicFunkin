@@ -14,5 +14,6 @@
 	"displayName": "Thorns",
 	"icon": "B Sides/weeb/spirit",
 	"name": "thorns-b",
-	"color": "#59B7FF"
+	"color": "#59B7FF",
+	"week":"B-side"
 }

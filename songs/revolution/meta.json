@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 230,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"sirekirb's Rechart"
+	],
+	"needsVoices": true,
+	"parsedColor": -9764864,
+	"displayName": "Revolution",
+	"icon": "Vs Tree/tree angry",
+	"name": "revolution",
+	"color": "#6B0000",
+	"week": "Vs Tree",
+	"BG": "tree"
+}
