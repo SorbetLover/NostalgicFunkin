@@ -16,7 +16,7 @@ function create() {
 	add(red);
 
 	senpaiEvil = new FlxSprite();
-	senpaiEvil.frames = Paths.getSparrowAtlas('game/cutscenes/weeb/senpaiCrazy');
+	senpaiEvil.frames = Paths.getSparrowAtlas('b_senpaiCrazy');
 	senpaiEvil.animation.addByPrefix('idle', 'Senpai Pre Explosion', 24, false);
 	senpaiEvil.animation.play('idle');
 	senpaiEvil.setGraphicSize(Std.int(senpaiEvil.width * daPixelZoom));

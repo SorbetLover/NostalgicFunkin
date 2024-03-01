@@ -1,17 +1,23 @@
 <!DOCTYPE codename-engine-dialogue>
 <dialogue box="hating-simulator">
 	<!-- All characters -->
-	<char name="senpai" char="senpai" position="left" defaultAnim="angry" />
-	<char name="pixelBf" char="pixelBf" position="right" />
+	<char name="b_senpai" char="senpai" position="left" defaultAnim="angry" />
+	<char name="b_pixelBf" char="b_pixelBf" position="right" />
 
 	<!-- Lines -->
-	<line char="senpai" playSound="pixel/ANGRY_TEXT_BOX" speed="0.08" textSound="pixel/ANGRY" bubble="angry">
-		Not bad for an ugly worm.
+	<line char="b_senpai" playSound="pixel/ANGRY_TEXT_BOX" speed="0.08" textSound="pixel/ANGRY" bubble="angry">
+		Just who do you think you are?
 	</line>
-	<line char="senpai">
-		But this time I'll rip your nuts off right after your girlfriend finishes gargling mine.
+	<line char="b_senpai">
+		Whatever, I'll just make sure you're never able to walk again.
 	</line>
-	<line char="pixelBf">
-		Bop beep be be skdoo bep
+	<line char="b_senpai">
+		And your girl...
+	</line>
+	<line char="b_senpai" speed="0.08" textSound="pixel/ANGRY">
+		Will be mine!
+	</line>
+	<line char="b_pixelBf">
+		beep bo be ba skee
 	</line>
 </dialogue>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="b_senpai.png" width="562" height="64">
+	<SubTexture name="Senpai Portrait Enter instance 10000" x="110" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10001" x="164" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10002" x="164" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10003" x="218" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10004" x="218" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10005" x="272" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10006" x="272" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10007" x="272" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Enter instance 10008" x="272" y="1" width="51" height="57" frameX="-0" frameY="-0" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Angry instance 10000" x="501" y="1" width="60" height="62" frameX="-0" frameY="-0" frameWidth="60" frameHeight="62"/>
+	<SubTexture name="Senpai Portrait Angry instance 10001" x="1" y="1" width="51" height="55" frameX="-0" frameY="-0" frameWidth="51" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Angry instance 10002" x="441" y="1" width="57" height="60" frameX="-0" frameY="-0" frameWidth="57" frameHeight="60"/>
+	<SubTexture name="Senpai Portrait Angry instance 10003" x="55" y="1" width="52" height="57" frameX="-0" frameY="-0" frameWidth="52" frameHeight="57"/>
+	<SubTexture name="Senpai Portrait Angry instance 10004" x="383" y="1" width="55" height="59" frameX="-0" frameY="-0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="Senpai Portrait Angry instance 10005" x="326" y="1" width="54" height="58" frameX="-0" frameY="-0" frameWidth="54" frameHeight="58"/>
+</TextureAtlas>

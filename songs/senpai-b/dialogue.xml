@@ -1,17 +1,24 @@
 <!DOCTYPE codename-engine-dialogue>
 <dialogue box="hating-simulator">
 	<!-- All characters -->
-	<char name="senpai" char="senpai" position="left" />
-	<char name="pixelBf" char="pixelBf" position="right" />
+	<char name="b_senpai" char="b_senpai" position="left" />
+	<char name="b_pixelBf" char="b_pixelBf" position="right" />
 
 	<!-- Lines -->
-	<line char="senpai" changeMusic="pixel/Lunchbox">
-		Ah, a new fair maiden has come in search of true love!
+	<line char="b_senpai" callback="cutOffLine" changeMusic="pixel/b_Lunchbox">
+		Ah, a new fa--
 	</line>
-	<line char="senpai">
-		A serenade between gentlemen shall decide where her beautiful heart shall reside.
+	<line char="b_senpai">
+		hmmmm, you seem quite familiar.
+		Have we perhaps met somewhere before?
 	</line>
-	<line char="pixelBf">
-		Beep bo bop
+	<line char="b_senpai">
+		Nevertheless, I shall fight for the hand of your beloved....
+	</line>
+	<line char="b_senpai">
+		And win, of course.
+	</line>	
+	<line char="b_pixelBf">
+		skeeby dippy pop
 	</line>
 </dialogue>
