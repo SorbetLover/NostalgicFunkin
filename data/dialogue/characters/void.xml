@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="50" y="20">
+	<anim name="normal" anim="Void Normal instance" fps="24" />
+	<anim name="smug" anim="Void Smug instance" fps="24" />
+	<anim name="idk" anim="Void Umm instance" fps="24" />
+	<anim name="worn out" anim="Void Worn Out instance" fps="24" />
+	<anim name="mad" anim="Void Mad instance" fps="24" />
+	<anim name="rage" anim="Void Rage instance" fps="24" /><!-- bozo rage quit L + ratio + skill issues lmao-->
+	<anim name="crazy" anim="Void Crazy instance" fps="24" />
+	<anim name="dark" anim="Void Dark instance" fps="24" />
+</character>

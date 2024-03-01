@@ -1,0 +1,28 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="space">
+	<char name="void" char="void" position="left" defaultAnim="normal"/>
+	<char name="bf-void" char="bf-void" position="right" defaultAnim="normal"/>
+
+	<line char="void" bubble="normal">
+		So this is it, huh? This is the dude who showed up an ex-rockstar?
+		Eh, I don't really see it.
+	</line>
+	<line char="void" changeDefAnim="smug">
+		Hey, at least you showed up. If I were you, I prolly' wouldn't have even bothered. Heh. 
+	</line>
+	<line char="void">
+		But this works, everyone'll have a great time 
+		watching me polish the floor with you. 
+	</line>
+	<line char="void">
+		Alright already, A.C. Void's got a show to do,
+		we don't got all the time in the galaxy.
+		Ya ready?
+	</line>
+	<line char="bf-void">
+		Beep po bai 
+	</line>
+	<line char="void" changeDefAnim="idk">
+		...Uhhhh alright, then... 
+	</line>
+</dialogue>

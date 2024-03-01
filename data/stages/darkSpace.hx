@@ -37,13 +37,14 @@ function create(){
     {	
         holoEmptyV = new FlxSprite(-360, -360);
         holoEmptyV.frames = Paths.getSparrowAtlas('stages/Vs Void/space/holoEmpty-V');
-        holoEmptyV.animation.addByPrefix('bop', 'Holo Boppers', 24, false);
+        holoEmptyV.animation.addByPrefix('bop', 'Holo Boppers', 24, true);
         holoEmptyV.antialiasing = true;
         holoEmptyV.scrollFactor.set(0.2, 0.2);
         holoEmptyV.setGraphicSize(Std.int(holoEmptyV.width * 1.15));
         holoEmptyV.updateHitbox();
         add(holoEmptyV);
         insert(members.indexOf(dad)-1, holoEmptyV);	
+        holoEmptyV.animation.play('bop', true);
         
         new FlxTimer().start(3.2, function(tmr:FlxTimer)
         {
@@ -57,17 +58,18 @@ function create(){
     {
         holoEmpty = new FlxSprite(-360, -360);
         holoEmpty.frames = Paths.getSparrowAtlas('stages/Vs Void/space/holoEmpty');
-        holoEmpty.animation.addByPrefix('bop', 'Holo Boppers', 24, false);
+        holoEmpty.animation.addByPrefix('bop', 'Holo Boppers', 24, true);
         holoEmpty.antialiasing = true;
         holoEmpty.scrollFactor.set(0.2, 0.2);
         holoEmpty.setGraphicSize(Std.int(holoEmpty.width * 1.15));
         holoEmpty.updateHitbox();
         add(holoEmpty);
         insert(members.indexOf(dad)-1, holoEmpty);
+        holoEmpty.animation.play('bop', true);
         
         holoEmptyAlt = new FlxSprite(-360, -360);
         holoEmptyAlt.frames = Paths.getSparrowAtlas('stages/Vs Void/space/holoEmptyAlt');
-        holoEmptyAlt.animation.addByPrefix('bop', 'Holo Boppers', 24, false);
+        holoEmptyAlt.animation.addByPrefix('bop', 'Holo Boppers', 24, true);
         holoEmptyAlt.antialiasing = true;
         holoEmptyAlt.scrollFactor.set(0.2, 0.2);
         holoEmptyAlt.setGraphicSize(Std.int(holoEmptyAlt.width * 1.15));
@@ -75,6 +77,7 @@ function create(){
         holoEmptyAlt.alpha = 0;
         add(holoEmptyAlt);
         insert(members.indexOf(dad)-1, holoEmptyAlt);
+        holoEmptyAlt.animation.play('bop', true);
         
         new FlxTimer().start(3.2, function(tmr:FlxTimer)
         {
@@ -135,7 +138,7 @@ function create(){
     {
         spacestageAlt = new FlxSprite(-500, -330);
         spacestageAlt.frames = Paths.getSparrowAtlas('stages/Vs Void/space/spacestageAlt');
-        spacestageAlt.animation.addByPrefix('bop', 'Stage Bop', 24, false);
+        spacestageAlt.animation.addByPrefix('bop', 'Stage Bop', 24, true);
         spacestageAlt.antialiasing = true;
         spacestageAlt.setGraphicSize(Std.int(spacestageAlt.width * 1.2));
         spacestageAlt.updateHitbox();
@@ -146,7 +149,7 @@ function create(){
     {
         spacestage = new FlxSprite(-500, -330);
         spacestage.frames = Paths.getSparrowAtlas('stages/Vs Void/space/spacestage');
-        spacestage.animation.addByPrefix('bop', 'Stage Bop', 24, false);
+        spacestage.animation.addByPrefix('bop', 'Stage Bop', 24, true);
         spacestage.antialiasing = true;
         spacestage.setGraphicSize(Std.int(spacestage.width * 1.2));
         spacestage.updateHitbox();
@@ -171,7 +174,7 @@ function create(){
             {ease: FlxEase.quadInOut});
     }, 0);
 
-    specialAnim = new FlxSprite(dad.x, dad.y -20);
+    specialAnim = new FunkinSprite(dad.x +160, dad.y +70);
     specialAnim.frames = Paths.getSparrowAtlas('stages/Vs Void/space/specialAnim');
     specialAnim.animation.addByPrefix('pose', 'Void Pose', 12, false);
     specialAnim.animation.addByPrefix('wink', 'Void Wink', 12, false);
@@ -183,11 +186,10 @@ function create(){
     specialAnim.alpha = 0;
     specialAnim.antialiasing = true;
     specialAnim.updateHitbox();
-    add(specialAnim);
-    insert(members.indexOf(dad)+1, specialAnim);
 
     add(gf);
     add(dad);
+    add(specialAnim);// ye
     add(boyfriend);
     add(comboGroup);
 
@@ -200,15 +202,6 @@ function create(){
         boyfriend.x = 730;
         boyfriend.y = 120;
     }
-    
-    //dad2 = new Character(dad.x, dad.y, 'hurt-void');
-    //dads.push(dad2);
-
-    //dad3 = new Character(dad.x, dad.y, 'darkcrazed-void');
-    //dads.push(dad3);
-
-    //dad4 = new Character(dad.x, dad.y, 'crazed-void');
-    //dads.push(dad4);
 }
 function update(elapsed:Float) {
 }
@@ -216,8 +209,7 @@ function stepHit(curStep:Int) {
     switch (curStep){}
 }
 function beatHit(curBeat:Int) {
-    switch (curBeat){
-    }
+    switch (curBeat){}
     if (curSong == "ultraviolet"){
         
 			switch (curBeat)
@@ -228,16 +220,21 @@ function beatHit(curBeat:Int) {
 
 					specialAnim.alpha = 1;
 
+                    specialAnim.playAnim('pose', true);
+
 					FlxTween.tween(FlxG.camera, {zoom: 0.85}, 0.5, 
 						{ease: FlxEase.expoOut});
+
+                case 353:
+                    specialAnim.playAnim('wink', true);
 
 				case 356:
 
 					dad.alpha = 1;
 
 					specialAnim.alpha = 0;
+            }
     }
-}
     if (curSong == "gravity"){
         
 				switch (curBeat)
@@ -256,6 +253,7 @@ function beatHit(curBeat:Int) {
 
 						dad.alpha = 0;
 						specialAnim.alpha = 1;
+                        specialAnim.playAnim('flinch', true);
 
 						holoEmpty.alpha = 0;
 
@@ -271,6 +269,9 @@ function beatHit(curBeat:Int) {
 
 						FlxTween.tween(FlxG.camera, {zoom: 0.75}, 2.1, 
 							{ease: FlxEase.quadOut});
+                            
+                    case 341:
+                        specialAnim.playAnim('secondflinch', true);
 
 					case 345:
 
@@ -286,6 +287,10 @@ function beatHit(curBeat:Int) {
 
 						dad.alpha = 0;
 						specialAnim.alpha = 1;
+                        specialAnim.playAnim('snap', true);
+
+                    case 367:
+                        specialAnim.playAnim('secondsnap', true);
 
 					case 368:
 

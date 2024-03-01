@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-dialogue-box>
+<dialoguebox y="50" graphicSizex="600" graphicSizey="600">
+	<text font="Exo-Bold.ttf" x="182" y="197" width="1053" color="#ffffff" size="30"/>
+
+	<charpos name="left" x="-500" y="160"/>
+	<charpos name="middle" x="-270" y="230" />
+	<charpos name="right" x="60" y="155"/>
+
+	<anim name="normal" anim="Text Box Appear instance" fps="24"/>
+</dialoguebox>

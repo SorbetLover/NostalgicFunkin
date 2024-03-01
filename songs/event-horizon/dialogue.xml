@@ -1,0 +1,48 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="space">
+	<char name="void" char="void" position="left" defaultAnim="idk"/>
+	<char name="bf-void" char="bf-void" position="right" defaultAnim="normal"/>
+
+	<line char="void" bubble="normal">
+		Okay, screw you, dude. Like, ACTUALLY screw you.
+	</line>
+	<line char="void" changeDefAnim="mad">
+		Don't you know who I am? You think you can just come out here,
+        with your stupid beep-boop voice, and your hot girlfriend...
+	</line>
+	<line char="void" changeDefAnim="rage">
+		And make me look bad? ON MY OWN FREAKIN' STAGE?? REALLY??
+	</line>
+	<line char="bf-void">
+		Beep
+	</line>
+	<line char="bf-void" changeDefAnim="normal2">
+		Alright V-man, I think we gotta get these two outta here, I-
+	</line>
+	<line char="void" changeDefAnim="rage">
+		HEY! I don't NOT-PAY you two to call the shots around here!
+	</line>
+	<line char="bf-void">
+		You don't not-pay us at all-
+	</line>
+	<line char="bf-void" changeDefAnim="idk2">
+		Wait...
+	</line>
+	<line char="void" changeDefAnim="mad">
+		Enough. You think you're special, punk?
+	</line>
+	<line char="void">
+		I'm A.C. Void. A-C-FREAKIN' VOID.
+        And you're nothing but a tiny speck in the universe. A NOBODY.
+	</line>
+	<line char="void" changeDefAnim="rage">
+		Trust me pal, you are NOT making it out of this.
+        I'm bout' to send you into another DIMENSION.
+	</line>
+	<line char="void" changeDefAnim="mad">
+		...Let's go.
+	</line>
+	<line char="bf-void" changeDefAnim="ready">
+		Beep BOP. >=)
+	</line>
+</dialogue>
