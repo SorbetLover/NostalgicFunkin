@@ -4,6 +4,11 @@
             "name": "Zooms",
             "type": "String",
             "defaultValue": "0.9"
+        },
+        {
+            "name": "time",
+            "type": "String",
+            "defaultValue": "0"
         }
     ]
 }

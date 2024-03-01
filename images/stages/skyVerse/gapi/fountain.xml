@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fountain.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fountain0000" x="0" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0001" x="0" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0002" x="0" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0003" x="0" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0004" x="637" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0005" x="637" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0006" x="637" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0007" x="637" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0008" x="1274" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0009" x="1274" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0010" x="1274" y="0" width="635" height="495"/>
+	<SubTexture name="fountain0011" x="1274" y="0" width="635" height="495"/>
+</TextureAtlas>
