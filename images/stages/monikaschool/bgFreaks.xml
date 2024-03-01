@@ -2,7 +2,7 @@
 <!--
 Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="bgFreaks-angry.png" width="3193" height="86">
+<TextureAtlas imagePath="bgFreaks.png" width="3193" height="86">
 	<SubTexture name="BG fangirls dissuaded0000" x="2395" y="1" width="398" height="84" frameX="-12" frameY="-7" frameWidth="451" frameHeight="96"/>
 	<SubTexture name="BG fangirls dissuaded0001" x="2395" y="1" width="398" height="84" frameX="-12" frameY="-7" frameWidth="451" frameHeight="96"/>
 	<SubTexture name="BG fangirls dissuaded0002" x="5" y="1" width="394" height="81" frameX="-11" frameY="-10" frameWidth="451" frameHeight="96"/>

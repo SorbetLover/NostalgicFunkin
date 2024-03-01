@@ -12,6 +12,7 @@ function preStateSwitch() {
 }
 function new() {
     NativeAPI.allocConsole();
+    trace("Hacker console activated!1!1!");
 
     if (FlxG.save.data.shaderShit == null) FlxG.save.data.shaderShit = true;
     if (FlxG.save.data.shakeShit == null) FlxG.save.data.shakeShit = true;
