@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "skyVerse/skyog",
+	"difficulties": [
+		"normal"
+	],
+	"parsedColor": -6610497,
+	"customValues": {},
+	"color": "#9B21BF",
+	"name": "skyverse/sky-forever",
+	"coopAllowed": true,
+	"week": "sky verse",
+	"stepsPerBeat": 4,
+	"displayName": "sky forever",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 200
+}
