@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 127,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -1908000,
+	"displayName": "Roses",
+	"icon": "B Sides/weeb/senpai",
+	"name": "bside/roses-b",
+	"color": "#E2E2E0",
+	"week":"B-side"
+}

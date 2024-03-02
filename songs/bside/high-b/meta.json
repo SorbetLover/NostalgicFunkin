@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 137,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -288827,
+	"displayName": "High",
+	"icon": "B Sides/dearests/mom",
+	"name": "bside/high-b",
+	"color": "#FB97C5",
+	"week":"B-side"
+}

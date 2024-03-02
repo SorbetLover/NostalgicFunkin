@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 150,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -288834,
+	"displayName": "Eggnog",
+	"icon": "B Sides/dearests/parents",
+	"name": "bside/eggnog-b",
+	"color": "#FB97BE",
+	"week":"B-side"
+}

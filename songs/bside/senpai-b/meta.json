@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 165,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -1908000,
+	"displayName": "Senpai",
+	"icon": "B Sides/weeb/senpai",
+	"name": "bside/senpai-b",
+	"color": "#E2E2E0",
+	"week":"B-side"
+}
