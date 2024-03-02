@@ -1,6 +1,6 @@
 <!DOCTYPE codename-engine-week>
 <week name="PICO" chars="pico,bf,gf" sprite="b3">
-	<song>pico-b</song>
-	<song>philly-b</song>
-	<song>blammed-b</song>
+	<song>bside/pico-b</song>
+	<song>bside/philly-b</song>
+	<song>bside/blammed-b</song>
 </week>

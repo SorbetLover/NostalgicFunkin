@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 184,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -5460820,
+	"displayName": "South",
+	"icon": "B Sides/spooky/spooky",
+	"name": "bside/south-b",
+	"color": "#ACACAC",
+	"week":"B-side"
+}

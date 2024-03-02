@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 111,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -288833,
+	"displayName": "Cocoa",
+	"icon": "B Sides/dearests/parents",
+	"name": "bside/cocoa-b",
+	"color": "#FB97BF",
+	"week":"B-side"
+}

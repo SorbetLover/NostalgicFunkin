@@ -1,6 +1,6 @@
 <!DOCTYPE codename-engine-week>
 <week name="RED SNOW" chars="parents-christmas,bf,gf" sprite="b5">
-	<song>cocoa-b</song>
-	<song>eggnog-b</song>
-	<song>winter-horrorland-b</song>
+	<song>bside/cocoa-b</song>
+	<song>bside/eggnog-b</song>
+	<song>bside/winter-horrorland-b</song>
 </week>

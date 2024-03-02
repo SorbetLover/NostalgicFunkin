@@ -1,6 +1,6 @@
 <!DOCTYPE codename-engine-week>
 <week name="DADDY DEAREST" chars="dad,bf,gf" sprite="b1">
-	<song>bopeebo-b</song>
-	<song>fresh-b</song>
-	<song>dadbattle-b</song>
+	<song>bside/bopeebo-b</song>
+	<song>bside/fresh-b</song>
+	<song>bside/dadbattle-b</song>
 </week>

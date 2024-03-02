@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 168,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"Hard with fewer longjacks"
+	],
+	"needsVoices": true,
+	"parsedColor": -5460820,
+	"displayName": "Spookeez",
+	"icon": "B Sides/spooky/spooky",
+	"name": "bside/spookeez-b",
+	"color": "#ACACAC",
+	"week":"B-side"
+}
