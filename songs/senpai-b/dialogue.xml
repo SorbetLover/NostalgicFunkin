@@ -8,7 +8,7 @@
 	<line char="b_senpai" callback="cutOffLine" changeMusic="pixel/b_Lunchbox">
 		Ah, a new fa--
 	</line>
-	<line char="b_senpai">
+	<line char="b_senpai" callback="shake">
 		hmmmm, you seem quite familiar.
 		Have we perhaps met somewhere before?
 	</line>

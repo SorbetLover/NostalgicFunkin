@@ -2,14 +2,27 @@
 import flixel.animation.FlxAnimationController;
 
 var curDialogue:Int = 1; // var used to map what dialogue it is currently showing
- 
 var playingmusic:Bool = false;
+var bg:FlxSprite;
 
-function create(){    
-   
-   switch(PlayState.instance.curSong){
-      case "your dad": // add here the initial song
-   }
+function postCreate(){
+    trace("Screw you.");
+    bg = new FlxSprite().screenCenter();
+    for (allChars in charMap) {
+        insert(members.lastIndexOf(charMap[allChars]), bgImg);
+    }
+}
+
+function shake(){
+    // dialgoueCam.shake();
+    trace("fdfdsfd");
+}
+
+public function bgImg(path:String){
+    bg.loadAnimatedGraphic(Paths.image(path));
+}
+
+public function playVoice() {
 
 }
 
