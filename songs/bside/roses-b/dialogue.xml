@@ -1,7 +1,7 @@
 <!DOCTYPE codename-engine-dialogue>
 <dialogue box="hating-simulator">
 	<!-- All characters -->
-	<char name="b_senpai" char="senpai" position="left" defaultAnim="angry" />
+	<char name="b_senpai" char="b_senpai" position="left" defaultAnim="angry" />
 	<char name="b_pixelBf" char="b_pixelBf" position="right" />
 
 	<!-- Lines -->
@@ -14,8 +14,14 @@
 	<line char="b_senpai">
 		And your girl...
 	</line>
-	<line char="b_senpai" speed="0.08" textSound="pixel/ANGRY">
-		Will be mine!
+	<line char="b_senpai" textSound="pixel/ANGRY">
+		<format size="36">Will.</format>
+	</line>
+	<line char="b_senpai" textSound="pixel/ANGRY">
+		<format size="40">Be.</format>
+	</line>
+	<line char="b_senpai" speed="0.1" textSound="pixel/ANGRY">
+		<format size="50">MINE!</format>
 	</line>
 	<line char="b_pixelBf">
 		beep bo be ba skee

@@ -5,7 +5,7 @@
 	<char name="b_pixelBf" char="b_pixelBf" position="right" />
 
 	<!-- Lines -->
-	<line char="b_senpai" callback="cutOffLine" changeMusic="pixel/b_Lunchbox">
+	<line char="b_senpai" callback="cutOffLine" changeMusic="pixel/Lunchbox">
 		Ah, a new fa--
 	</line>
 	<line char="b_senpai" callback="shake">
