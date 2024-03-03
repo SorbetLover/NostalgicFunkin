@@ -7,7 +7,8 @@
 	"difficulties": [
 		"EASY",
 		"NORMAL",
-		"HARD"
+		"HARD",
+		"Rechart"
 	],
 	"needsVoices": true,
 	"parsedColor": -5460820,
