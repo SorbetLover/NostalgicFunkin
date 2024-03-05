@@ -9,7 +9,7 @@
 	"icon": "Vs Whitty/whitty",
 	"parsedColor": -15726294,
 	"coopAllowed": true,
-	"name": "overhead",
+	"name": "vs-whitty/overhead",
 	"color": "#10092A",
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,

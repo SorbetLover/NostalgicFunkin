@@ -31,11 +31,13 @@ function create() {
 
     new FlxTimer().start(224/24, function() {
         remove(whittyCut);
+        for (allChars in [game.boyfriend, game.dad, game.gf]) {
+            allChars.visible = true;
+        }
         game.camHUD.visible = true;
-        game.dad.visible = true;
         dialogueBgAlpha = 0.5;
-        game.startCutscene(null, function() close());
         city.fadeOut();
+        game.startCutscene(null, function() close());
     });
     new FlxTimer().start(147/24, function() {
         beepboop.play();
@@ -44,6 +46,6 @@ function create() {
     new FlxTimer().start(170/24, function() {
         game.boyfriend.playAnim("idle", true);
         game.camFollow.setPosition(650, 400);
-        game.camGame.zoom = FlxG.camera.zoom - 0.05;
+        game.camGame.zoom -= 0.05;
     });
 }

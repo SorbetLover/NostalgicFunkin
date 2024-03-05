@@ -4,7 +4,7 @@
 <difficulty name="normal"/>
 <difficulty name="hard"/>
 <difficulty name="Rechart"/>
-	<song>lo-fight</song>
-	<song>overhead</song>
-	<song>ballistic-old</song>
+	<song>vs-whitty/lo-fight</song>
+	<song>vs-whitty/overhead</song>
+	<song>vs-whitty/ballistic-old</song>
 </week>

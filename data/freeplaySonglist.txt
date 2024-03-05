@@ -23,11 +23,11 @@ bside/senpai-b
 bside/roses-b
 bside/thorns-b
 
-lo-fight
-overhead
-ballistic-old
-ballistic-new
-remorse
+vs-whitty/lo-fight
+vs-whitty/overhead
+vs-whitty/ballistic-old
+vs-whitty/ballistic-new
+vs-whitty/remorse
 
 carol-roll
 body
