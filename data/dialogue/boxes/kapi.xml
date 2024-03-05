@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-dialogue-box>
-<dialoguebox scale="0.9" y="0" textSound="dialogue/text-kapi">
+<dialoguebox y="0" textSound="dialogue/text-kapi">
 	<text font="delfino.otf" x="182" y="197" width="1053" color="#ffffff" size="48"/>
 	<!-- <text font="delfino.otf" x="182" y="197" width="1053" color="#000000" size="48"/> can't add a dropText -->
 
