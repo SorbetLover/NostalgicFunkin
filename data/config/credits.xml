@@ -2,16 +2,13 @@
 <!--
 	Putting this here so I don't fuckin forget.
 	- TO-DOS:
-		- Vs Mami
-		- Vs Tricky
-		- Vs Void
 		- Vs QT
 		- Vs Agoti
 		- Vs Retrospecter
 		- Vs Neon
-		- Vs Sky
 		- Date week
 -->
+<!-- There are so many names to put here, so we used Perplexity AI to sort this out -->
 
 
 
@@ -156,6 +153,85 @@
 		<credit name="Nieveria" desc="drew judg3 and her icons" url="noUrl"/>
 
 	</menu>
+
+	<!--Vs Tord-->
+	<menu name="Vs Tord" desc="Vs Tord creator's credits.">
+		<credit name="bbpanzu" desc="Artist, Animator, Musician, Programmer" url="https://gamebanana.com/members/1764067"/>
+		<credit name="KadeDev" desc="Kade Engine" url="https://gamebanana.com/members/1774971"/>
+		<credit name="Tord Larson/Eddsworld" desc="the Tord Character" url="https://gamebanana.com/members/1774971"/>
+	</menu>
+
+	<!--Vs Sky (Alexander0110_ & Dra9onSlayer5)-->
+	<menu name="Vs Sky" desc="Vs Sky creator's credits.">
+		<credit name="bbpanzu" desc="Artist, Animator, Musician, Programmer" url="https://gamebanana.com/members/1764067"/>
+		<credit name="Sky charcter" desc="@Alexander0110_&#xA;@Dra9onSlayer5 (on Twitter)"/>
+		<credit name="KadeDev" desc="Kade Engine" url="https://gamebanana.com/members/1774971"/>
+	</menu>
+
+	<!--Vs Tricky-->
+	<menu name="Vs Tricky" desc="Vs Tricky creators' credits.">
+		<credit name="Banbuds" desc="Director, Artist and Animator" url="https://twitter.com/Banbuds"/>
+		<credit name="Rozebud" desc="Musician and Programming" url="https://twitter.com/helpme_thebigt"/>
+		<credit name="Kadedev" desc="Programming" url="https://twitter.com/kade0912"/>
+		<credit name="Cval" desc="Charting, off-setting" url="https://twitter.com/cval_brown"/>
+		<credit name="YingYang48" desc="Composer" url="https://twitter.com/YingWasHere"/>
+		<credit name="JADS" desc="Composer" url="https://twitter.com/Aw3somejds"/>
+		<credit name="Moro" desc="Cutscene 3 + 4, Backgrounds" url="https://www.youtube.com/channel/UC8f-8Krg89SQvyEFfts1H3A"/>
+		<credit name="Moro" desc="Cutscene 3 + 4, Backgrounds" url="https://www.youtube.com/channel/UC8f-8Krg89SQvyEFfts1H3A"/>
+		<menu name="Special Thanks!">
+			<credit name="Tom Fulp" desc="Sfx" url="https://tomfulp.newgrounds.com/"/>
+			<credit name="Krinkels" desc="Madness Combat" url="https://krinkels.newgrounds.com/"/>
+			<credit name="DeveloVoosh GWeb" desc="Madness Combat" url="https://gamebanana.com/members/1799048/"/>
+			<credit name="Tsuraran" desc="Chicken Dance Remix" url="https://twitter.com/_Tsuraran"/>
+		</menu>
+	</menu>
+
+	<!--Vs Mami (used AI midway through this...)-->
+	<menu name="Vs Mami" desc="Vs Mami creators' credits.">
+		<credit name="Fade Revamped" desc="Lead Director / Vocalist / Charter" url="https://twitter.com/FadeRevamped"/>
+		<credit name="EGG OVERLORD" desc="Co-Director / Did nearly all the art for the mod lmao" url="https://gamebanana.com/members/1891017"/>
+		<credit name="TheAwfulUsername" desc="Co-Director / Vocalist / Advisor" url="https://www.youtube.com/channel/UCRnZRp-cIlnNfjmqxsk0dog"/>
+		<credit name="BoinkBonk" desc="Lead Animator" url="https://gamebanana.com/members/1784261"/>
+		<credit name="Sector03" desc="Lead Coder / Art Quality Assurance / Charter (Secret Song Partial)" url="https://gamebanana.com/members/1699539"/>
+		<credit name="Vidz" desc="Coder" url="https://gamebanana.com/members/1873391"/>
+		<credit name="magbros.ogg" desc="Musician" url="https://gamebanana.com/members/1805209"/>
+		<credit name="Ascenti" desc="Animator" url="https://youtube.com/channel/UCUNk1L-6cjZEA272msCNeUQ"/>
+		<credit name="akoy!" desc="Musician" url="https://gamebanana.com/members/1988541"/>
+		<credit name="Cerbera" desc="Charter" url="https://gamebanana.com/members/1816058"/>
+		<credit name="Ryoku05" desc="Vocalist / Playtester" url="https://gamebanana.com/members/2369751"/>
+		<credit name="KixelArt" desc="Artist / Animator" url="https://gamebanana.com/members/2395629"/>
+		<credit name="Bethdacat" desc="Artist" url="https://gamebanana.com/members/1769200"/>
+		<credit name="!HopesRei" desc="Coder" url="https://gamebanana.com/members/1935914"/>
+		<credit name="heat_" desc="Coder" url="https://gamebanana.com/members/1972449"/>
+		<credit name="ClariS" desc="Made the original Connect song"/>
+		<menu name="Special Thanks!">
+			<credit name="KadeDev" desc="Made Kade Engine" url="https://gamebanana.com/members/1774971"/>
+			<credit name="Lexicord" desc="Secret Song Icon" url="https://gamebanana.com/members/1857921"/>
+			<credit name="Shadow Mario" desc="Secret Song Shaders (FROM Psych Engine)" url="https://gamebanana.com/members/1735892"/>
+			<credit name="JADS" desc="Permission for 2nd Secret Song" url="https://gamebanana.com/members/1767622"/>
+			<credit name="NonFlamingo" desc="Bug Testing" url="https://gamebanana.com/members/1780459"/>
+			<credit name="CaitlinDiVA" desc="Voice Acting"/>
+			<credit name="G4bo" desc="Salvation Cutscene"/>
+			<credit name="KenethYT" desc="Cutscene Help" url="https://gamebanana.com/members/1839903"/>
+			<credit name="DeveloVoosh GWeb" desc="Chromatic Aberration Shader" url="https://gamebanana.com/members/1799048"/>
+			<credit name="Bhand" desc="Emotional Support"/>
+			<credit name="shaggy#5405" desc="Being Awesome (Worked on the first build)"/>
+			<credit name="GenoX" desc="Boyfriend UTAU Voicebank (Slightly Edited by TAU)" url="https://gamebanana.com/members/1771171"/>		
+		</menu>
+	</menu>
+
+	<!--Vs Void-->
+	<menu name="Vs Void" desc="Vs Void creators' credits.">
+		<credit name="Starbreak" desc="Programming, Art/Animation, Music, Charting" url="https://gamebanana.com/members/1932970"/>
+		<menu name="Special Thanks!">
+			<credit name="TheNikwell" desc="Creative Help/Dialogue Help" url="https://thenikwell.newgrounds.com/"/>
+			<credit name="Slinkous" desc="Github Setup Help" url="https://github.com/SlinkousArt"/>
+			<credit name="1up" desc='"Thanks for playing" Art' url="https://www.instagram.com/sir_1up_sir/"/>
+			<credit name="Zapsplat.com" desc="Sound Effects" url="https://www.zapsplat.com/"/>
+			<credit name="KadeDev" desc="Made KadeEngine (of course)" url="https://gamebanana.com/members/1774971"/>
+		</menu>
+	</menu>
+
 </menu>
 
 <menu name="Nostalgic Funkin'" desc="The ones who ported the mods.(includes scripts' credits)&#xA;">
