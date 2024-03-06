@@ -15,6 +15,7 @@ var noteIco:Note;
 function postCreate() {
     noteIco = new Note(playerStrums, {id: FlxG.random.int(0, 3)});
     noteIco.cameras = [camHUD];
+    noteIco.antialiasing = Options.antialiasing;
     noteIco.setPosition(Std.int(healthBarBG.width / 2), healthBarBG.y - 80);
     noteIco.setGraphicSize(Std.int(noteIco.width * 0.32));
     insert(members.indexOf(iconP1) - 1, noteIco);
@@ -29,6 +30,7 @@ function postCreate() {
 
     recharter.setFormat(Paths.font("freeplay.ttf"), 19, FlxColor.WHITE, "LEFT");
     recharter.setBorderStyle(FlxTextBorderStyle.OUTLINE, FlxColor.BLACK, 1);
+    recharter.antialiasing = Options.antialiasing;
     recharter.cameras = [camHUD];
     insert(members.lastIndexOf(noteIco), recharter);
 

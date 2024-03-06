@@ -1,6 +1,6 @@
 function create() {
 	importScript("data/scripts/pixel");
-	if (PlayState.SONG.meta.name.toLowerCase() == "roses-b") {
+	if (PlayState.SONG.meta.name.toLowerCase() == "bside/roses-b") {
 		bgGirls.animation.remove("danceLeft");
 		bgGirls.animation.remove("danceRight");
 		bgGirls.animation.addByIndices('danceLeft', 'BG fangirls dissuaded', CoolUtil.numberArray(14), "", 24, false);
