@@ -1,5 +1,9 @@
 <!DOCTYPE codename-engine-week>
 <week name="PICO" chars="pico,bf,gf" sprite="b3">
+<difficulty name="easier"/>
+<difficulty name="standard"/>
+<difficulty name="flip"/>
+<difficulty name="Rechart"/>	
 	<song>bside/pico-b</song>
 	<song>bside/philly-b</song>
 	<song>bside/blammed-b</song>

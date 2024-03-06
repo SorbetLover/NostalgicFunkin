@@ -1,4 +1,8 @@
 <!DOCTYPE codename-engine-week>
 <week name="" chars="none,bf,gf" sprite="b0">
+<difficulty name="easier"/>
+<difficulty name="standard"/>
+<difficulty name="flip"/>
+<difficulty name="Rechart"/>
 	<song>bside/tutorial-b</song>
 </week>

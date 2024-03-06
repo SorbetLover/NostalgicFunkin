@@ -1,5 +1,9 @@
 <!DOCTYPE codename-engine-week>
 <week name="RED SNOW" chars="parents-christmas,bf,gf" sprite="b5">
+<difficulty name="easier"/>
+<difficulty name="standard"/>
+<difficulty name="flip"/>
+<difficulty name="Rechart"/>	
 	<song>bside/cocoa-b</song>
 	<song>bside/eggnog-b</song>
 	<song>bside/winter-horrorland-b</song>

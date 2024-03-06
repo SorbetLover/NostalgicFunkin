@@ -1,5 +1,9 @@
 <!DOCTYPE codename-engine-week>
 <week name="HATING SIMULATOR FT. MOAWLING" chars="senpai,bf,gf" sprite="b6">
+<difficulty name="easier"/>
+<difficulty name="standard"/>
+<difficulty name="flip"/>
+<difficulty name="Rechart"/>	
 	<song>bside/senpai-b</song>
 	<song>bside/roses-b</song>
 	<song>bside/thorns-b</song>

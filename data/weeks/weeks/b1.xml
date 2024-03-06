@@ -1,5 +1,9 @@
 <!DOCTYPE codename-engine-week>
 <week name="DADDY DEAREST" chars="dad,bf,gf" sprite="b1">
+<difficulty name="easier"/>
+<difficulty name="standard"/>
+<difficulty name="flip"/>
+<difficulty name="Rechart"/>
 	<song>bside/bopeebo-b</song>
 	<song>bside/fresh-b</song>
 	<song>bside/dadbattle-b</song>

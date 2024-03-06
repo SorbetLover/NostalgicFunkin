@@ -1,5 +1,9 @@
 <!DOCTYPE codename-engine-week>
 <week name="SPOOKY MONTH" chars="spooky,bf,gf" sprite="b2">
+<difficulty name="easier"/>
+<difficulty name="standard"/>
+<difficulty name="flip"/>
+<difficulty name="Rechart"/>	
 	<song>bside/spookeez-b</song>
 	<song>bside/south-b</song>
 </week>
