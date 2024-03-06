@@ -127,7 +127,3 @@ prom
 
 norway
 tordbot
-
-skyverse/blue
-skyverse/star
-skyverse/sky-forever
