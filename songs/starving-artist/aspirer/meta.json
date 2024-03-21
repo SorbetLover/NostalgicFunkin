@@ -11,7 +11,8 @@
 	"parsedColor": -13669236,
 	"displayName": "aspirer",
 	"icon": "starving artist/rebecca2",
-	"name": "aspirer",
+	"name": "starving-artist/aspirer",
 	"color": "#2F6C8C",
-	"week":"Starving Artist"
+	"week":"Starving Artist",
+	"BG": "starvingartist"
 }

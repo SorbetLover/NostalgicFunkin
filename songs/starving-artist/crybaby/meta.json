@@ -11,7 +11,8 @@
 	"parsedColor": -11372660,
 	"displayName": "crybaby",
 	"icon": "starving artist/rebecca3",
-	"name": "crybaby",
+	"name": "starving-artist/crybaby",
 	"color": "#52778C",
-	"week":"Starving Artist"
+	"week":"Starving Artist",
+	"BG": "starvingartist"
 }

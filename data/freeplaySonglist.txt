@@ -83,10 +83,10 @@ nerves
 release
 fading
 
-hunger
-aspirer
-crybaby
-empty
+starving-artist/hunger
+starving-artist/aspirer
+starving-artist/crybaby
+starving-artist/empty
 
 sugar-cookie
 key-lime
