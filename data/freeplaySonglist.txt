@@ -40,12 +40,12 @@ genocide
 foolhardy
 Bushwhack
 
-wocky
-Beathoven
-Hairball
-Nyaw
-fuzzy-distortion
-Flatzone
+vs-kapi/wocky
+vs-kapi/Beathoven
+vs-kapi/Hairball
+vs-kapi/Nyaw
+vs-kapi/fuzzy-distortion
+vs-kapi/Flatzone
 
 carefree
 careless

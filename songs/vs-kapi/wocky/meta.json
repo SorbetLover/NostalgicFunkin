@@ -3,7 +3,7 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 168,
+	"bpm": 174,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
@@ -11,9 +11,9 @@
 	],
 	"needsVoices": true,
 	"parsedColor": -9145954,
-	"displayName": "beathoven",
-	"icon": "Vs Kapi/kapi",
-	"name": "beathoven",
+	"displayName": "wocky",
+	"icon": "Vs Kapi/Kapi",
+	"name": "vs-kapi/wocky",
 	"color": "#74719E",
 	"week": "Vs Kapi",
 	"BG": "kapi"

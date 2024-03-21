@@ -3,18 +3,18 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 174,
+	"bpm": 160,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -9145954,
-	"displayName": "wocky",
-	"icon": "Vs Kapi/Kapi",
-	"name": "wocky",
-	"color": "#74719E",
+	"parsedColor": -3541864,
+	"displayName": "flatzone",
+	"icon": "Vs Kapi/GameWatch",
+	"name": "vs-kapi/flatzone",
+	"color": "#4c5408",
 	"week": "Vs Kapi",
 	"BG": "kapi"
 }

@@ -3,18 +3,18 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 160,
+	"bpm": 168,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -3541864,
-	"displayName": "flatzone",
-	"icon": "Vs Kapi/GameWatch",
-	"name": "flatzone",
-	"color": "#4c5408",
+	"parsedColor": -9145954,
+	"displayName": "beathoven",
+	"icon": "Vs Kapi/kapi",
+	"name": "vs-kapi/beathoven",
+	"color": "#74719E",
 	"week": "Vs Kapi",
 	"BG": "kapi"
 }
