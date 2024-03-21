@@ -33,9 +33,9 @@ carol-roll
 body
 boogie
 
-my-battle
-last-chance
-genocide
+vs-tabi/my-battle
+vs-tabi/last-chance
+vs-tabi/genocide
 
 foolhardy/foolhardy
 foolhardy/Bushwhack

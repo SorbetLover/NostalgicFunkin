@@ -3,19 +3,18 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 213,
+	"bpm": 190,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
-		"HARD",
-		"Rechart"
+		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -24483,
-	"displayName": "genocide",
-	"icon": "Vs Tabi/TabiMadIcons",
-	"name": "genocide",
-	"color": "#FFA05D",
+	"parsedColor": -17791,
+	"displayName": "last chance",
+	"icon": "Vs Tabi/TabiIcons",
+	"name": "vs-tabi/last-chance",
+	"color": "#FFBA81",
 	"week": "Vs Tabi",
 	"BG": "tabi"
 }
