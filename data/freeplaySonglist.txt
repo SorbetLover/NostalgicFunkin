@@ -37,8 +37,8 @@ my-battle
 last-chance
 genocide
 
-foolhardy
-Bushwhack
+foolhardy/foolhardy
+foolhardy/Bushwhack
 
 vs-kapi/wocky
 vs-kapi/Beathoven

@@ -6,7 +6,7 @@
 	"opponentModeAllowed": true,
 	"icon": "cablecrow",
 	"parsedColor": -8943463,
-	"name": "Bushwhack",
+	"name": "foolhardy/Bushwhack",
 	"coopAllowed": true,
 	"color": "#778899",
 	"stepsPerBeat": 4,
