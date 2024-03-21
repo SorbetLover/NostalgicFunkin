@@ -3,7 +3,7 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 90,
+	"bpm": 190,
 	"difficulties": [
 		"easy",
 		"normal",
@@ -11,9 +11,10 @@
 	],
 	"needsVoices": true,
 	"parsedColor": -12434840,
-	"displayName": "Whitroll",
+	"displayName": "Heartbass",
 	"icon": "dateWeek/CW",
-	"name": "whitroll",
+	"name": "date-week/heartbass",
 	"color": "#424268",
-	"week":"Date Week"
+	"week":"Date Week",
+	"BG": "dateweek"
 }
