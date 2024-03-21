@@ -1,7 +1,7 @@
 <!DOCTYPE codename-engine-week>
 <week name="SMOKE EM OUT STRUGGLE" chars="garcello,bf,gf" sprite="weekG">
-	<song>headache</song>
-	<song>nerves</song>
-	<song>release</song>
-	<song hide="true">fading</song>
+	<song>vs-garcello/headache</song>
+	<song>vs-garcello//nerves</song>
+	<song>vs-garcello/release</song>
+	<song hide="true">vs-garcello/fading</song>
 </week>

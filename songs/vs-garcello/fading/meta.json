@@ -11,9 +11,10 @@
 	],
 	"needsVoices": true,
 	"parsedColor": -16711790,
-	"displayName": "nerves",
-	"icon": "Vs Garcello/garcellotire",
-	"name": "nerves",
+	"displayName": "fading",
+	"icon": "Vs Garcello/garcellodead",
+	"name": "vs-garcello/fading",
 	"color": "#00FF92",
-	"week":"Vs Garcello"
+	"week":"Vs Garcello",
+	"BG": "garcello"
 }

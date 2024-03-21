@@ -10,10 +10,11 @@
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -16711790,
-	"displayName": "release",
-	"icon": "Vs Garcello/garcellodead",
-	"name": "release",
-	"color": "#00FF92",
-	"week":"Vs Garcello"
+	"parsedColor": -16711786,
+	"displayName": "headache",
+	"icon": "Vs Garcello/garcello",
+	"name": "vs-garcello/headache",
+	"color": "#00FF96",
+	"week":"Vs Garcello",
+	"BG": "garcello"
 }
