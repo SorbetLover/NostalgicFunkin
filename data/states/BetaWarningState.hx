@@ -1,20 +1,16 @@
-import funkin.backend.FunkinText;
-var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image("betawarning")).screenCenter();
-var redText:FunkinText;
+import flixel.text.FlxText.FlxTextFormat;
+import flixel.text.FlxText.FlxTextFormatMarkerPair;
+import funkin.backend.system.Main;
 
 function postCreate() {
+    var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image("betawarning")).screenCenter();
     insert(0, bg);
-
-    redText = new FunkinText(16, disclaimer.y + 160, FlxG.width - 32, "Player discretion is advised.", 34);
-    redText.color = 0xFFFF4444;
-    redText.bold = true;
-    redText.alignment = "center";
-    add(redText);
 
     titleAlphabet.y = disclaimer.y - 120;
     disclaimer.screenCenter();
-    disclaimer.text = "This engine is still in a alpha state. That means majority of the features are either buggy or unfinished. If you find any bugs, please report them to the Codename Engine GitHub.\n\nAlso this modpack has flashing lights, camera effects, gore, loud music, dark themes.\n\n\n\nPress ENTER to continue.";
-
-    // disclaimer.blend = "add";
-    // redText.blend = "add";
+    disclaimer.applyMarkup("This engine is still in a" + '* ' + Main.releaseCycle + ' *' + "state. That means *majority of the features* are either *buggy* or *non finished*. If you find any bugs, please report them to the Codename Engine GitHub.\n\nAlso this modpack has flashing lights, camera effects, gore, loud music, dark themes.\n\n*Player discretion is advised.*\n\nPress ENTER to continue",
+			[
+				new FlxTextFormatMarkerPair(new FlxTextFormat(0xFFFF4444), "*")
+			]
+		);
 }
