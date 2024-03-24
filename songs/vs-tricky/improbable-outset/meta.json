@@ -8,14 +8,14 @@
 		"sirekirb's Rechart"
 	],
 	"parsedColor": -12513415,
-	"customValues": {},
 	"color": "#410F79",
-	"name": "improbable-outset",
+	"name": "vs-tricky/improbable-outset",
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"displayName": "Improbable Outset",
 	"beatsPerMeasure": 4,
 	"needsVoices": true,
 	"bpm": 200,
-	"week":"Vs Tricky"
+	"week":"Vs Tricky",
+	"BG": "tricky"
 }

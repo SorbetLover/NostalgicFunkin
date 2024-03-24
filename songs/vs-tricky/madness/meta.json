@@ -14,8 +14,8 @@
 	"parsedColor": -12513415,
 	"displayName": "madness",
 	"icon": "Vs Tricky/tricky",
-	"name": "madness",
+	"name": "vs-tricky/madness",
 	"color": "#410F79",
-	"customValues": {},
-	"week":"Vs Tricky"
+	"week":"Vs Tricky",
+	"BG": "tricky"
 }

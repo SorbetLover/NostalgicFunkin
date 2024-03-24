@@ -79,9 +79,9 @@ singularity
 security
 stardust
 
-improbable-outset
-madness
-hellclown
+vs-tricky/improbable-outset
+vs-tricky/madness
+vs-tricky/hellclown
 
 vs-garcello/headache
 vs-garcello/nerves

@@ -11,8 +11,10 @@
 	],
 	"needsVoices": true,
 	"parsedColor": -288833,
+	"name": "vs-tricky/hellclown",
 	"displayName": "hellclown",
 	"icon": "Vs Tricky/icon-helltricky",
-	"week":"Vs Tricky"
+	"week":"Vs Tricky",
+	"BG": "tricky"
 }
 	
