@@ -3,17 +3,17 @@
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 110,
+	"bpm": 100,
 	"difficulties": [
 		"EASY",
 		"NORMAL",
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -10924664,
-	"displayName": "Boogie",
+	"parsedColor": -8622166,
+	"displayName": "Carol Roll",
 	"icon": "Vs Carol/carol",
-	"name": "boogie",
+	"name": "vs-carol/carol-roll",
 	"color": "#594D88",
 	"week": "Vs Carol"
 }

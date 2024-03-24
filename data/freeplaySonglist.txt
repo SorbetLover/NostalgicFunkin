@@ -29,9 +29,9 @@ vs-whitty/ballistic-old
 vs-whitty/ballistic-new
 vs-whitty/remorse
 
-carol-roll
-body
-boogie
+vs-carol/carol-roll
+vs-carol/body
+vs-carol/boogie
 
 vs-tabi/my-battle
 vs-tabi/last-chance

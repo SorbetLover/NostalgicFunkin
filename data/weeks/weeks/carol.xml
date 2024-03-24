@@ -1,6 +1,6 @@
 <!DOCTYPE codename-engine-week>
 <week name="Carol Roll" chars="none,bf,gf" sprite="weekCarol">
-	<song>carol-roll</song>
-	<song>body</song>
-	<song>boogie</song>
+	<song>vs-carol/carol-roll</song>
+	<song>vs-carol/body</song>
+	<song>vs-carol/boogie</song>
 </week>
