@@ -13,7 +13,8 @@
 	"parsedColor": -29114,
 	"displayName": "Sugar Cookie",
 	"icon": "Vs Pompom/pompom",
-	"name": "sugar-cookie",
+	"name": "vs-pompom/sugar-cookie",
 	"color": "#FF8E46",
-	"week":"Vs Pompom"
+	"week":"Vs Pompom",
+	"BG":"pompom"
 }

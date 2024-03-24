@@ -93,9 +93,9 @@ starving-artist/aspirer
 starving-artist/crybaby
 starving-artist/empty
 
-sugar-cookie
-key-lime
-stomachache
+vs-pompom/sugar-cookie
+vs-pompom/key-lime
+vs-pompom/stomachache
 
 high-school-conflict
 bara-no-yume

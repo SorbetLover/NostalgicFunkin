@@ -13,7 +13,8 @@
 	"parsedColor": -29114,
 	"displayName": "key-lime",
 	"icon": "Vs Pompom/pompom",
-	"name": "key-lime",
+	"name": "vs-pompom/key-lime",
 	"color": "#FF8E46",
-	"week":"Vs Pompom"
+	"week":"Vs Pompom",
+	"BG":"pompom"
 }

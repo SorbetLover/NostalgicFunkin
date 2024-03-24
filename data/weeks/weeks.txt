@@ -15,8 +15,10 @@ flatzone
 qt
 seos
 rebecca
-pompom
+pompomW1
 dateweek
+smW0
+smW1
 tree
 duck
 treedate
