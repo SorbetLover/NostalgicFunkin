@@ -13,6 +13,8 @@
 	"parsedColor": -10349,
 	"displayName": "doctor",
 	"icon": "staticmem/doctorsenpai",
-	"name": "doctor",
-	"color": "#8F71FD"
+	"name": "static-memories/doctor",
+	"color": "#8F71FD",
+	"week": "Static Memories",
+	"BG": "staticmemories"
 }

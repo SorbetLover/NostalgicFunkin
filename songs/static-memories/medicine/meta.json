@@ -13,5 +13,7 @@
 	"displayName": "medicine",
 	"needsVoices": true,
 	"bpm": 115,
-	"name": "medicine"
+	"name": "static-memories/medicine",
+	"week": "Static Memories",
+	"BG": "staticmemories"
 }

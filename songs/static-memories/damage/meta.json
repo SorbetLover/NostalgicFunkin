@@ -13,6 +13,8 @@
 	"parsedColor": -10349,
 	"displayName": "damage",
 	"icon": "doctorsenpai",
-	"name": "damage",
-	"color": "#FFD793"
+	"name": "static-memories/damage",
+	"color": "#FFD793",
+	"week": "Static Memories",
+	"BG": "staticmemories"
 }

@@ -47,6 +47,11 @@ vs-kapi/Nyaw
 vs-kapi/fuzzy-distortion
 vs-kapi/Flatzone
 
+static-memories/pulse
+static-memories/doctor
+static-memories/medicine
+static-memories/damage
+
 carefree
 careless
 censory-overload

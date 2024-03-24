@@ -13,6 +13,8 @@
 	"parsedColor": -6184796,
 	"displayName": "pulse",
 	"icon": "staticmem/beepy",
-	"name": "pulse",
-	"color": "#A1A0A4"
+	"name": "static-memories/pulse",
+	"color": "#A1A0A4",
+	"week": "Static Memories",
+	"BG": "staticmemories"
 }
