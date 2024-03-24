@@ -16,5 +16,6 @@
 	"displayName": "ballistic",
 	"icon": "Vs Whitty/whittyCrazy",
 	"name": "vs-whitty/ballistic-old",
-	"color": "#FB0000"
+	"color": "#FB0000",
+	"BG": "whitty"
 }

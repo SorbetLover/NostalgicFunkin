@@ -1,0 +1,1 @@
+function onPlayerHit(e) if (e.note.isSustainNote) trace(e.note.sustainLength);

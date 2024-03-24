@@ -36,11 +36,11 @@ function onNoteHit(e) {
     // this is ne_eo script i think but i did add my "-hold" ting to it - 7oltan <3
     e.cancelAnim();
     for(char in e.characters) {
-        if ((e.note.isSustainNote || e.note.nextNote?.isSustainNote)&&char.hasAnimation(anims[e.direction]+e.animSuffix+'-hold')&&e.note.animation.name != "holdend") 
+        if ((e.note.isSustainNote || e.note.nextNote?.isSustainNote && e.note.sustainLength > 75)&&char.hasAnimation(anims[e.direction]+e.animSuffix+'-hold')&&e.note.animation.name != "holdend") 
             char.playSingAnim(e.direction, e.animSuffix+'-hold', "SING", true);
         else
             char.playSingAnim(e.direction, e.animSuffix, "SING", true);
-        if((e.note.isSustainNote || e.note.nextNote?.isSustainNote) && e.note.animation.name != "holdend" && !char.hasAnimation(anims[e.direction]+e.animSuffix+'-hold')) {
+        if((e.note.isSustainNote || e.note.nextNote?.isSustainNote && e.note.sustainLength > 75) && e.note.animation.name != "holdend" && !char.hasAnimation(anims[e.direction]+e.animSuffix+'-hold')) {
             var frame = char.frame;
             char.animation.curAnim = null;
             char.frame = frame;

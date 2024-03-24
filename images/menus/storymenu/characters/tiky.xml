@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="tiky.png" width="628" height="5271">
+	<SubTexture name="tricky week0000" x="1" y="1" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0001" x="1" y="660" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0002" x="1" y="1319" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0003" x="1" y="1978" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0004" x="1" y="2637" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0005" x="1" y="3296" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0006" x="1" y="3955" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0007" x="1" y="1319" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0008" x="1" y="1978" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0009" x="1" y="2637" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0010" x="1" y="3296" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0011" x="1" y="4614" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0012" x="1" y="1319" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0013" x="1" y="1978" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0014" x="1" y="2637" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0015" x="1" y="3296" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0016" x="1" y="3955" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0017" x="1" y="1319" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0018" x="1" y="1978" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0019" x="1" y="2637" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0020" x="1" y="3296" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0021" x="1" y="3955" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0022" x="1" y="1319" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0023" x="1" y="1978" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky week0024" x="1" y="2637" width="626" height="656" frameX="-0" frameY="-0" frameWidth="626" frameHeight="656"/>
+</TextureAtlas>
