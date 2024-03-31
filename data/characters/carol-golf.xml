@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="300" icon="Vs carol/carol" camy="50" camx="150" y="510" isGF="false" isPlayer="false" gameOverChar="" sprite="golfweek/carol_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="carol idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol ready" name="ready"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol and" name="and"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol swing" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="carol pose" name="singUP"/>
+</character>

@@ -1,0 +1,19 @@
+{
+	"week": "golf week",
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 110,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -10066279,
+	"displayName": "golf",
+	"icon": "Vs Carol/carol",
+	"name": "golfweek/golf",
+	"color": "#666699",
+	"BG":"golfweek",
+	"customValues": {}
+}

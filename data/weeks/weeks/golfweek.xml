@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-week>
+<week name="Golf w/ Carol" chars="" sprite="golfweek">
+<difficulty name="normal"/>
+	<song>golfweek/golf</song>
+	<song>golfweek/endless</song>
+</week>

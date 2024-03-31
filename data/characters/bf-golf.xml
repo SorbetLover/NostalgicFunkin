@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character camx="300" camy="400" x="0" icon="bf" y="150" isGF="false" flipX="true" isPlayer="true" sprite="golfweek/bf">
+	<anim x="0" loop="false" y="0" fps="24" anim="bf idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="bf ready" name="ready"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="bf and" name="and"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="bf pose" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="bf miss pose" name="singUPmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="bf swing" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="bf miss swing" name="singLEFTmiss"/>
+</character>

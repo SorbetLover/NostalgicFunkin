@@ -1,0 +1,19 @@
+{
+	"week": "golf week",
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 185,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "endless",
+	"icon": "golfweek/miku",
+	"name": "golfweek/endless",
+	"color": "#32CDCC",
+	"BG":"golfweek",
+	"customValues": {}
+}

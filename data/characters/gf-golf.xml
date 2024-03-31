@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="gf" y="350" isGF="true" isPlayer="false" gameOverChar="" sprite="golfweek/gf_assets">
+	<anim x="-51" loop="false" y="315" fps="24" anim="gf sad" indices="0,1,2,3,4,5,6,7,8,9,10,11,12" name="sad"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf idle" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" name="danceLeft"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf idle" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" name="danceRight"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf ready" name="ready"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf 2ready" name="ready2"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf and" name="and"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf 2and" name="and2"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf 3and" name="and3"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf swing" name="swing"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf strikea" name="strikea"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf goodjob" name="goodjob"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf pose" name="pose"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="gf together" name="together"/>
+</character>
