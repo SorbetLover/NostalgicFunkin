@@ -103,8 +103,6 @@ function ready(){
 }
 
 function and(){
-    dad.debugMode = false;//debug mode to stop idling
-    boyfriend.debugMode = false;//debug mode to stop idling
     vocals.volume = 1;
     returnFoucs();
     
@@ -131,6 +129,10 @@ function swing(){
         holeIn(1);
     else
         holeIn(-1);
+
+    
+    dad.debugMode = false;//debug mode to stop idling
+    boyfriend.debugMode = false;//debug mode to stop idling
     
    showNote('purple');                 
 }
