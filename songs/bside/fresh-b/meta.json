@@ -5,9 +5,9 @@
 	"beatsPerMesure": 4,
 	"bpm": 132,
 	"difficulties": [
-		"EASY",
-		"NORMAL",
-		"HARD",
+		"EASIER",
+		"STANDARD",
+		"FLIP",
 		"Rechart"
 	],
 	"needsVoices": true,
