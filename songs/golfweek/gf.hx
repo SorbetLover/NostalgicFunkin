@@ -14,9 +14,9 @@ function onPlayerHit(event){
         goodhit = true;
         changeLatestHole(1);
     }
-    event.accuracy = 1;
+    /*event.accuracy = 1;
     event.rating = 'sick';
-    event.score = 300;
+    event.score = 300;*/
     event.healthGain = 2/6;
 }
 function onPlayerMiss(event){
@@ -82,10 +82,7 @@ function beatHit(){
 
 
 function ready(){
-    if(poseTween != null && !poseTween.finished){
-        poseTween.cancel();
-        FlxG.camera.zoom = 1.3;
-    }
+    cancelTween();
     FlxTween.tween(FlxG.camera, {zoom: 1}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.elasticInOut});
     
     vocals.volume = 1;
@@ -157,20 +154,10 @@ var strikeaTween;
 var leanTween;
 
 function strikea(){
-    
-    /*var pp:FlxPoint = new FlxPoint(dad.getMidpoint().x-200,dad.getMidpoint().y+100);
-    if (bfturn) pp.set(boyfriend.getMidpoint().x + 200, boyfriend.getMidpoint().y + 100);*/
-        
-
     returnFoucs();
     
-    if (!_together){
+    if (!_together)
         strikeaTween = FlxTween.tween(FlxG.camera, {zoom: 1.02}, (Conductor.stepCrochet * 4.02 / 1000), {ease: FlxEase.cubeIn});
-
-        /*FlxTween.num(0,leanX-FlxG.width*0.5, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.cubeIn}, function(num) { leanX = num; });
-        leanTween = FlxTween.num(0,leanY-FlxG.height*0.5, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.cubeIn}, function(num) { leanY = num; });*/
-        //FlxTween.tween(FlxG.camera.scroll, {x:pp.x-FlxG.width*0.5,y:pp.y-FlxG.height*0.5}, (Conductor.stepCrochet * 4.2 / 1000), {ease: FlxEase.cubeIn});
-    }
         
     vocals.volume = 1;
     gf.playAnim('strikea');
@@ -181,13 +168,10 @@ var poseTween;
 function pose(){
     vocals.volume = 1;
 
-    //returnFoucs();
+    returnFoucs();
 
     if(!_together){
-        if(strikeaTween != null  && !strikeaTween.finished){
-            strikeaTween.cancel();
-            FlxG.camera.zoom = 1.02;
-        }
+        cancelTween();
 
         poseTween = FlxTween.tween(FlxG.camera, {zoom: 1.3}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.quadOut});
 
@@ -210,10 +194,7 @@ function together(){
 }
 
 function yourturn(){
-    if(poseTween != null && !poseTween.finished){
-        poseTween.cancel();
-        FlxG.camera.zoom = 1.3;
-    }
+    cancelTween();
     FlxTween.tween(FlxG.camera, {zoom: 1}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.elasticInOut});
     
     vocals.volume = 1;
@@ -234,7 +215,17 @@ function returnFoucs(){
         foucsON('both');
 }
 
-function miku(){
-	//FlxTween.tween(FlxG.camera, {zoom: 1.3}, (Conductor.stepCrochet * 8 / 1000), {ease: FlxEase.circOut});
+function miku()
     foucsON('miku');
+
+function cancelTween(){
+    if(poseTween != null && !poseTween.finished){
+        poseTween.cancel();
+        FlxG.camera.zoom = 1.3;
+    }
+    
+    if(strikeaTween != null  && !strikeaTween.finished){
+        strikeaTween.cancel();
+        FlxG.camera.zoom = 1.02;
+    }
 }

@@ -1,21 +1,16 @@
 <!DOCTYPE codename-engine-stage>
-<stage zoom="0.8" name="field" folder="stages/golfweek/">
+<stage startCamPosX="300" startCamPosY="340" zoom="0.8" name="field" folder="stages/golfweek/">
     <!--BACKGROUND-->
 
 	<sprite name="sky" x="-580.15" y="-348.1" sprite="sky" scroll="0.3">
-		<anim name="bounce" anim="daysky" loop="false" type="beat"/>
-		<anim name="bounce2" anim="daysky" loop="false" type="beat"/>
-	</sprite>
-
-	<sprite name="nightsky" x="-580.15" y="-348.1" sprite="sky" scroll="0.3" alpha='0'>
-		<anim name="bounce" anim="nightsky" loop="false" type="beat"/>
-		<anim name="bounce2" anim="nightsky" loop="false" type="beat"/>
+		<anim name="day" anim="daysky" loop="false"/>
+		<anim name="night" anim="nightsky" loop="false"/>
 	</sprite>
 
 	<sprite name="golfbg" x="-580.15" y="-348.1" sprite="bg" scroll="0.5">
-		<anim name="normal" indices="0,0" anim="bg" loop="false"/>
 		<anim name="goodhit" indices="1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13" anim="bg" loop="false"/>
 		<anim name="badhit" indices="14,15,16,17,18,19,20,21,22,23,24,25" anim="bg" loop="false"/>
+		<anim name="normal" indices="0,0" anim="bg" loop="false"/>
 	</sprite>
 
 	<sprite name="ground" x="-580.15" y="-348.1" sprite="ground"/>

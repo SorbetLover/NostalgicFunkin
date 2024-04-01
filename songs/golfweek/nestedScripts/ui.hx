@@ -41,8 +41,7 @@ function ready(){
 
 function goodjob(){
     FlxFlicker.stopFlickering(iconP1);
-    trace(checkNextEvent());
-    if(checkNextEvent() != 'miku')
+    if(checkNextEvent() != 'miku' && checkNextEvent() != 'ready' && checkNextEvent() != 'together')
         FlxFlicker.flicker(iconP2, 0);
 }
 
@@ -56,6 +55,3 @@ function yourturn(){
         FlxFlicker.flicker(iconP1, 0);
     FlxFlicker.stopFlickering(iconP2);
 }
-
-public function debug() //testin testin
-    FlxG.camera.flash();

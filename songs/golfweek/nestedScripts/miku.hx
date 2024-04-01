@@ -5,10 +5,12 @@ public var miku;
 var flipped = false;
 var lyrics;
 var lyricsArray;
+var startWaveFrame;
 
 function create(){
-    FlxTween.tween(stage.stageSprites.get('nightsky'),{alpha:1}, ((Conductor.crochet * 8) / 1000), {ease: FlxEase.cubeIn});
+    //stage.stageSprites.get('nightsky').alpha = 1;
 
+    //FlxTween.tween(stage.stageSprites.get('nightsky'),{alpha:1}, ((Conductor.crochet * 8) / 1000), {ease: FlxEase.cubeIn});
 
     miku = new FlxSprite(564, -286.2);
     miku.frames = Paths.getSparrowAtlas('characters/golfweek/miku');
@@ -36,6 +38,11 @@ function onSongStart()
 function flipMiku(flip)
     flipped = (flip == 'true');
 
+function update(){
+    if(miku.animation.curAnim.finished)
+        miku.animation.play("perform", true, false, startWaveFrame);
+}
+
 function beatHit(){
     if(startingSong) return;
 
@@ -44,6 +51,12 @@ function beatHit(){
 
 	var fff = Math.round(Conductor.songPosition / 1000 * 24);
 			
-	miku.animation.play("perform", true, false, fff);
+    if(!(fff >= miku.animation.curAnim.numFrames)){
+        miku.animation.play("perform", true, false, fff);
+        if(curBeat == 359)
+            startWaveFrame = fff;
+    }
+
+
 	miku.flipX = flipped;
 }
