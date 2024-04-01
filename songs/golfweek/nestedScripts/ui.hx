@@ -41,7 +41,8 @@ function ready(){
 
 function goodjob(){
     FlxFlicker.stopFlickering(iconP1);
-    if(checkNextEvent() != 'miku' && checkNextEvent() != 'ready' && checkNextEvent() != 'together')
+    FlxFlicker.stopFlickering(iconP2);
+    if(checkNextEvent() != 'miku' && checkNextEvent() != 'ready' && checkNextEvent() != 'together' & checkNextEvent() != '')
         FlxFlicker.flicker(iconP2, 0);
 }
 
