@@ -41,10 +41,11 @@ Here are our planned ones so far. Will get extended later down the road.
 ---
 - [x] Vs Tord | 🟢
 - [x] Vs. Zardy | 🟢
+- [x] Golf Week | 🟢
+- [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
 - [x] Vs. Pompom | 🟡 Missing Week 2 (including its cutscenes, story mode assets, dialogue, songs, etc) and missing stage assets
 - [ ] Vs Tree | 🟡 Missing recharts & polish & needs bug fixing with dialogue
 - [x] Date mod | 🟡 Polish needed + 3rd song isn't fully implemented
-- [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
 - [x] Vs. AGOTI (the classic one) | 🟡 Missing dialogue, cutscenes, and recharts
 - [x] Vs. Tabi | 🟡 without dialogue and recharts
 - [x] Vs Void | 🟡 without dialogue and recharts
