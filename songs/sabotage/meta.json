@@ -1,6 +1,7 @@
 {
 	"displayName": "Sabotage",
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"bpm": 170.0,
 	"icon": "impostor/impostor",
 	"color": "#FF78BF",

@@ -1,6 +1,7 @@
 {
 	"displayName": "Spookpostor",
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"bpm": 213.0,
 	"icon": "impostor/boo",
 	"color": "#000000",

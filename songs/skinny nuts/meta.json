@@ -1,6 +1,7 @@
 {
 	"displayName": "Skinny Nuts",
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"bpm": 175.0,
 	"icon": "impostor/bfclow",
 	"color": "#FF78BF",

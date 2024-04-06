@@ -1,6 +1,7 @@
 {
 	"displayName": "Meltdown",
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"bpm": 225.0,
 	"icon": "impostor/impostor2",
 	"color": "#FF78BF",

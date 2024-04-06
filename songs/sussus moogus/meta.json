@@ -1,6 +1,7 @@
 {
 	"displayName": "Sussus Moogus",
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"bpm": 150.0,
 	"icon": "impostor/impostor",
 	"color": "#FF78BF",

@@ -2,6 +2,7 @@
 	"displayName": "Defeat",
 	"bpm": 200.0,
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"icon": "impostor/black",
 	"color": "#FF78BF",
 	"coopAllowed": true,

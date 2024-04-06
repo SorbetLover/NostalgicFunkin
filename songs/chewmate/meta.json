@@ -2,6 +2,7 @@
 	"displayName": "Chewmate",
 	"bpm": 80.0,
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"icon": "impostor/hamster",
 	"color": "#FF78BF",
 	"coopAllowed": true,

@@ -1,6 +1,7 @@
 {
 	"displayName": "Christmas",
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"bpm": 171.3,
 	"icon": "impostor/fella",
 	"color": "#209000",

@@ -1,6 +1,7 @@
 {
 	"displayName": "Rivals",
 	"week": "VS Impostor",
+	"BG": "imposter",
 	"bpm": 135.0,
 	"icon": "impostor/tomongus",
 	"color": "#FF78BF",
