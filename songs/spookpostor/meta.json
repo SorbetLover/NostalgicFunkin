@@ -1,0 +1,9 @@
+{
+	"displayName": "Spookpostor",
+	"week": "VS Impostor",
+	"bpm": 213.0,
+	"icon": "impostor/boo",
+	"color": "#000000",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}

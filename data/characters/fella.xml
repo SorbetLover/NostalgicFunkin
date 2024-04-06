@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="150" y="470" color="#289056" antialiasing="false" camx="-90" camy="-59" scale="3" icon="impostor/fella" sprite="impostor/fella">
+	<anim name="idle"          anim="IDLE"      fps="24" loop="false" x="0"  y="0"/>
+	<anim name="singUP"        anim="UP"        fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT"      anim="LEFT"      fps="24" loop="false" x="0"  y="0"/>
+	<anim name="singRIGHT"     anim="RIGHT"     fps="24" loop="false" x="0" y="0"/>
+	<anim name="singDOWN"      anim="DOWN"      fps="24" loop="false" x="0" y="0"/>
+</character>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="210" y="430" antialiasing="false" color="#2EB0CE" camx="-67" camy="-39" scale="3" icon="impostor/bf-loggo" sprite="impostor/bf-loggo">
+	<anim name="idle"          anim="IDLE"      fps="24" loop="false" x="0"  y="0"/>
+	<anim name="singUP"        anim="UP"        fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT"      anim="LEFT"      fps="24" loop="false" x="0"  y="0"/>
+	<anim name="singRIGHT"     anim="RIGHT"     fps="24" loop="false" x="0" y="0"/>
+	<anim name="singDOWN"      anim="DOWN"      fps="24" loop="false" x="0" y="0"/>
+	<anim name="singUPmiss"    anim="miUP"    fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFTmiss"  anim="miLEFT"  fps="24" loop="false" x="0"  y="0"/>
+	<anim name="singRIGHTmiss" anim="miRIGHT" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singDOWNmiss"  anim="miDOWN"  fps="24" loop="false" x="0" y="0"/>
+</character>

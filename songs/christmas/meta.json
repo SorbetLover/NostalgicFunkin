@@ -1,0 +1,9 @@
+{
+	"displayName": "Christmas",
+	"week": "VS Impostor",
+	"bpm": 171.3,
+	"icon": "impostor/fella",
+	"color": "#209000",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}

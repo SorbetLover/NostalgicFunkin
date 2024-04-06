@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="60" y="340" danceInterval="2" antialiasing="false" color="#289056" camx="-87" camy="-67" scale="3" icon="impostor/boo" sprite="impostor/boo">
+	<anim name="idle"          anim="IDLE"      fps="24" loop="false" x="0"  y="0"/>
+	<anim name="singUP"        anim="UP"        fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT"      anim="LEFT"      fps="24" loop="false" x="0"  y="0"/>
+	<anim name="singRIGHT"     anim="RIGHT"     fps="24" loop="false" x="0" y="0"/>
+	<anim name="singDOWN"      anim="DOWN"      fps="24" loop="false" x="0" y="0"/>
+</character>
