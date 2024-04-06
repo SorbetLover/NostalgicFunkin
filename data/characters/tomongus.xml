@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="250" y="570" antialiasing="false" scale="6" camx="100" color="#FF6770" sprite="impostor/tomongus" icon="impostor/tomongus">
+	<anim name="idle" anim="Idle" fps="24" loop="false" x="0" y="0" />
+
+	<!-- Offsets are actually multiplied by scale -->
+	<anim name="singLEFT"   anim="Left"     fps="24" loop="false"   x="0" y="0" />
+	<anim name="singDOWN"   anim="Down"     fps="24" loop="false"   x="0" y="0" />
+	<anim name="singUP"     anim="Right"    fps="24" loop="false"   x="0" y="0" />
+	<anim name="singRIGHT"  anim="Up"       fps="24" loop="false"   x="0" y="0" />
+	<anim name="die"        anim="SHOT"     fps="24" loop="false"   x="170" y="20" />
+</character>

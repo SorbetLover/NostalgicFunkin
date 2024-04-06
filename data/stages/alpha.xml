@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" folder="stages/alpha/">
+	<sprite name="bg"               x="-600" y="-200"   sprite="HOTASS" scroll="0.9"/>
+</stage>

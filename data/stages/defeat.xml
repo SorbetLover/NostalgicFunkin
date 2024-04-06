@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" folder="stages/defeat/">
+	<sprite name="defeat"               x="0" y="100"   sprite="defeatfnf" scale="2" updateHitbox="false" />
+	<girlfriend alpha="0" />
+	<dad/>
+	<boyfriend/>
+</stage>

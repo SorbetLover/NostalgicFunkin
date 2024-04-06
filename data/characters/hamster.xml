@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="200" y="350" antialiasing="false" scale="6" camy="150" color="#FFCF86" icon="impostor/hamster" sprite="impostor/hamster">
+	<anim name="idle" anim="HamsterIdle" fps="24" loop="false" x="0" y="0" />
+
+	<!-- Offsets are actually multiplied by scale -->
+	<anim name="singLEFT"   anim="HamsterLeft"     fps="24" loop="false"   x="0" y="0" />
+	<anim name="singDOWN"   anim="HamsterDown"     fps="24" loop="false"   x="0" y="0" />
+	<anim name="singUP"     anim="HamsterUp"       fps="24" loop="false"   x="0" y="0" />
+	<anim name="singRIGHT"  anim="HamsterRight"    fps="24" loop="false"   x="0" y="0" />
+</character>

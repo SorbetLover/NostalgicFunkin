@@ -1,0 +1,9 @@
+{
+	"displayName": "Meltdown",
+	"week": "VS Impostor",
+	"bpm": 225.0,
+	"icon": "impostor/impostor2",
+	"color": "#FF78BF",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}

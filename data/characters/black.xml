@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" color="#2B2B2B" x="-400" y="50" camx="-400" camy="-100" icon="impostor/black" sprite="impostor/black">
+	<anim name="idle"      anim="BLACK IDLE"      fps="24" loop="true" x="0" y="0"/>
+	<anim name="singUP"    anim="BLACK UP"    fps="24" loop="false" x="46" y="104"/>
+	<anim name="singLEFT"  anim="BLACK LEFT"  fps="24" loop="false" x="116" y="12"/>
+	<anim name="singRIGHT" anim="BLACK RIGHT" fps="24" loop="false" x="-225" y="-10"/>
+	<anim name="singDOWN"  anim="BLACK DOWN"  fps="24" loop="false" x="-22" y="-20"/>
+	<anim name="death"  anim="BLACK DEATH"  fps="24" loop="false" x="252" y="238"/>
+</character>

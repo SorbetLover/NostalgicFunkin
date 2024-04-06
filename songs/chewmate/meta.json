@@ -1,0 +1,9 @@
+{
+	"displayName": "Chewmate",
+	"bpm": 80.0,
+	"week": "VS Impostor",
+	"icon": "impostor/hamster",
+	"color": "#FF78BF",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}

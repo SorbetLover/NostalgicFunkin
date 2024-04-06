@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" folder="stages/skeld/" >
+	<sprite name="bgSky" x="-12" y="0" sprite="weebSky"
+		antialiasing="false" scale="6" scroll="0.1" updateHitbox="true"/>
+
+	<sprite name="bgStreet" x="-204" y="0" sprite="weebStreet"
+		antialiasing="false" scale="6" scroll="0.95" updateHitbox="true"/>
+</stage>

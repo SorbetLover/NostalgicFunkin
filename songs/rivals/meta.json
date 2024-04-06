@@ -1,0 +1,9 @@
+{
+	"displayName": "Rivals",
+	"week": "VS Impostor",
+	"bpm": 135.0,
+	"icon": "impostor/tomongus",
+	"color": "#FF78BF",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="200" y="570" antialiasing="false" scale="6" camx="-200" camy="-20" gameOverChar="bf-pixel-dead" icon="impostor/bf-tomongus" color="#7BD6F6" sprite="impostor/bf-tomongus">
+	<anim name="idle"       anim="BF IDLE" fps="24" loop="false" x="0" y="0" />
+
+	<!-- Offsets are actually multiplied by scale -->
+	<anim name="singLEFT"   anim="BF LEFT NOTE"     fps="24" loop="false"   x="0" y="0" />
+	<anim name="singDOWN"   anim="BF DOWN NOTE"     fps="24" loop="false"   x="0" y="0" />
+	<anim name="singUP"     anim="BF UP NOTE"       fps="24" loop="false"   x="0" y="0" />
+	<anim name="singRIGHT"  anim="BF RIGHT NOTE"    fps="24" loop="false"   x="0" y="0" />
+
+	<anim name="singUPmiss"    anim="BF UP MISS"    fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFTmiss"  anim="BF LEFT MISS"  fps="24" loop="false" x="0" y="0"/>
+	<anim name="singRIGHTmiss" anim="BF RIGHT MISS" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singDOWNmiss"  anim="BF DOWN MISS"  fps="24" loop="false" x="0" y="0"/>
+	<anim name="shoot"         anim="BF SHOOT"      fps="24" loop="false" x="8" y="-7"/>
+</character>

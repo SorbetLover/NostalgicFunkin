@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.85" folder="stages/toogus/">
+	<sprite name="bg"                  x="0" y="50"   sprite="Mira" scale="1.4" updateHitbox="false" />
+	<sprite name="stageFront"                  x="1000" y="150"   sprite="vending_machine" />
+	<girlfriend/>
+	<dad/>
+	<boyfriend/>
+</stage>

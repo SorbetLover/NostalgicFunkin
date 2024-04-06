@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" folder="stages/polus/">
+	<sprite name="sky"                  x="-834.3" y="-620.5"   sprite="polusSky" scroll="0.5" />
+	<sprite name="rocks"               x="-915.8" y="-411.3"   sprite="polusrocks" scroll="0.6" />
+	<sprite name="hills"               x="-1238.05" y="-180.55"   sprite="polusHills" scroll="0.9" />
+	<sprite name="warehouse"               x="-458.35" y="-315.6"   sprite="polusWarehouse" scroll="0.9" />
+	<sprite name="crowd" x="-280.5" y="240.8" sprite="CrowdBop" anim="CrowdBop" scale="1.5" updateHitbox="false" alpha="0">
+		<anim name="CrowdBop" anim="CrowdBop" fps="24" loop="true" />
+	</sprite>
+	<sprite name="ground"               x="-580.9" y="241.85"   sprite="polusGround" />
+	<girlfriend x="206" y="-106.7"/>
+	<dad x="-169.55" y="-85.1"/>
+	<boyfriend x="751.7" y="-132.45"/>
+	<sprite name="deadBF"               x="532.95" y="465.95"   sprite="bfdead" alpha="0" />
+</stage>

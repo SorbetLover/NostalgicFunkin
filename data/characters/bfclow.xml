@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="0" y="250" sprite="impostor/bfclow" icon="impostor/bfclow">
+	<anim name="idle"          anim="idle"      fps="24" loop="false" x="-5"  y="0"/>
+	<anim name="singUP"        anim="up"        fps="24" loop="false" x="-29" y="27"/>
+	<anim name="singLEFT"      anim="left"      fps="24" loop="false" x="12"  y="-6"/>
+	<anim name="singRIGHT"     anim="right"     fps="24" loop="false" x="-38" y="-7"/>
+	<anim name="singDOWN"      anim="down"      fps="24" loop="false" x="-10" y="-50"/>
+</character>

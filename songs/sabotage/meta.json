@@ -1,0 +1,9 @@
+{
+	"displayName": "Sabotage",
+	"week": "VS Impostor",
+	"bpm": 170.0,
+	"icon": "impostor/impostor",
+	"color": "#FF78BF",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}

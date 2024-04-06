@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" color="#FFFFFF" x="200" y="250" camx="0" camy="0" scale="2" icon="bf" sprite="impostor/ziffy">
+	<anim name="idle"      anim="IdleZiffy"  fps="24" loop="false" x="0" y="0"/>
+	<anim name="singUP"    anim="UpZiffy"    fps="24" loop="false" x="0" y="2"/>
+	<anim name="singLEFT"  anim="LeftZiffy"  fps="24" loop="false" x="7" y="-3"/>
+	<anim name="singRIGHT" anim="RightZiffy" fps="24" loop="false" x="-5" y="0"/>
+	<anim name="singDOWN"  anim="DownZiffy"  fps="24" loop="false" x="0" y="-6"/>
+</character>

@@ -1,0 +1,9 @@
+{
+	"displayName": "Alpha Moogus",
+	"week": "VS Impostor",
+	"bpm": 150.0,
+	"icon": "impostor/oldpostor",
+	"color": "#9271FD",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}
