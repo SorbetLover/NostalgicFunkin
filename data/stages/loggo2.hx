@@ -5,6 +5,9 @@ var yy2 = 1700;
 var ofs = 50;
 
 function stepHit(curStep) {
+	if(curStep == 0) {
+		defaultCamZoom = 0.9;
+	}
 	if (curStep % 8 == 0)
 		peopleloggo.animation.play("bop", true);
 }
@@ -15,46 +18,35 @@ function postCreate() {
 
 function postUpdate() {
 	if(curCameraTarget == 0) {
-		defaultCamZoom = 0.9;
+		//defaultCamZoom = 0.9;
 	switch(dad.animation.curAnim.name) {
 		case 'singLEFT' | 'singLEFT-alt':
-			camFollow.x = xx - ofs;
-			camFollow.y = yy;
+			camFollow.setPosition(xx-ofs,yy);
 		case 'singRIGHT' | 'singRIGHT-alt':
-			camFollow.x = xx + ofs;
-			camFollow.y = yy;
+			camFollow.setPosition(xx+ofs,yy);
 		case 'singUP' | 'singUP-alt':
-			camFollow.x = xx;
-			camFollow.y = yy - ofs;
+			camFollow.setPosition(xx,yy-ofs);
 		case 'singDOWN' | 'singDOWN-alt':
-			camFollow.x = xx;
-			camFollow.y = yy + ofs;
+			camFollow.setPosition(xx,yy+ofs);
 		default:
-			camFollow.x = xx;
-			camFollow.y = yy;
+			camFollow.setPosition(xx,yy);
 	}
 	} else {
-		defaultCamZoom = 0.9;
+		//defaultCamZoom = 0.9;
 		if(dad.animation.curAnim.name == 'idle') {
-			camFollow.x = xx2;
-			camFollow.y = yy2;
+			camFollow.setPosition(xx2,yy2);
 		} else {
 			switch(boyfriend.animation.curAnim.name) {
 				case 'singLEFT' | 'singLEFT-alt':
-					camFollow.x = xx2 - ofs;
-					camFollow.y = yy2;
+					camFollow.setPosition(xx2-ofs,yy2);
 				case 'singRIGHT' | 'singRIGHT-alt':
-					camFollow.x = xx2 + ofs;
-					camFollow.y = yy2;
+					camFollow.setPosition(xx2+ofs,yy2);
 				case 'singUP' | 'singUP-alt':
-					camFollow.x = xx2;
-					camFollow.y = yy2 - ofs;
+					camFollow.setPosition(xx2,yy2-ofs);
 				case 'singDOWN' | 'singDOWN-alt':
-					camFollow.x = xx2;
-					camFollow.y = yy2 + ofs;
+					camFollow.setPosition(xx2,yy2+ofs);
 				default:
-					camFollow.x = xx2;
-					camFollow.y = yy2;
+					camFollow.setPosition(xx2,yy2);
 			}
 		}
 	}
