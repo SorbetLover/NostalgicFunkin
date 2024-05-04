@@ -58,7 +58,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] vs sky | 🟡 without dialogue, cutscenes, and recharts
 - [ ] vs Retrospecter | 🟡 Honestly I have no idea as I haven't playtested. Ask notbeep - MAZ. (It's cancelled guys go home now)
 - [ ] Static Memories | 🟡 Missing cutscenes and Phase 2
-- [ ] Vs. Hex V1 | 🔴
+- [ ] Vs. Hex V1 | 🟠 Being worked (paused for now cuz I'm busy) -Notbeep
 - [ ] Vs. Hatsune Miku V2 | 🔴
 - [ ] Vs. Annie | 🔴
 - [ ] Vs. Shaggy (not the ultimate update) | 🔴
