@@ -56,7 +56,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [ ] Vs. Tricky (The Full ASS Mod) | 🟡 Without cutscenes and recharts and expurgation
 - [ ] Vs. Monika Rebooted | 🟡 without dialogue & cutscenes
 - [ ] vs sky | 🟡 without dialogue, cutscenes, and recharts
-- [ ] vs Retrospecter | 🟡 Honestly I have no idea as I haven't playtested. Ask notbeep - MAZ. (It's cancelled guys go home now)
+- [ ] vs Retrospecter | ⚫ (discontinued)
 - [ ] Static Memories | 🟡 Missing cutscenes and Phase 2
 - [ ] Vs. Hex V1 | 🟠 Being worked (paused for now cuz I'm busy) -Notbeep
 - [ ] Vs. Hatsune Miku V2 | 🔴
