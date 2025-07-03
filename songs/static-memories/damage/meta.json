@@ -12,7 +12,7 @@
 	"needsVoices": true,
 	"parsedColor": -10349,
 	"displayName": "damage",
-	"icon": "doctorsenpai",
+	"icon": "staticmem/doctorsenpai",
 	"name": "static-memories/damage",
 	"color": "#FFD793",
 	"week": "Static Memories",
