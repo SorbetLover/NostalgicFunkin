@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-dialogue-box>
+<dialoguebox y="-200" antialiasing="false" scale="5.3" alpha="1">
+	<text font="pixel.otf" x="207" y="206" width="900" color="#FFFFFF" size="30"/>
+
+	<charpos name="left" x="-560" y="150" />
+	<!-- <charpos name="middle" x="0" y="184" /> -->
+	<charpos name="right" x="450" y="170" />
+
+	<anim name="normal" anim="Text Box Appear instance 10004" fps="24" loop="false"/>
+</dialoguebox>

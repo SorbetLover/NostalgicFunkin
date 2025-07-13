@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-week-character>
+<char scale="1" x="130" y="-30" antialiasing="false">
+	<anim name="idle" anim="SENPAI idle Black Lines"  fps="12"    loop="true" />
+</char>

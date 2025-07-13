@@ -1,0 +1,92 @@
+<dialogue box="monika">
+    <!-- All characters -->
+    <char name="senpaihmm" position="left" />
+    <char name="senpaihappy" position="left" />
+    <char name="monikasad" position="right" />
+    <char name="monikauhoh" position="right" />
+    <char name="monikagasp" position="right" />
+
+    <line char="senpaihmm">
+        So, you weren't the one who stole my mic?
+    </line>
+
+    <line char="monikasad">
+        That blue-haired kid gave it to me when I showed up.
+    </line>
+
+    <line char="monikasad">
+        I don't know where he got it.
+    </line>
+
+    <line char="monikasad">
+        I don't even know how I got here, for that matter.
+    </line>
+
+    <line char="senpaihmm">
+        Hmm–
+    </line>
+
+    <line char="senpaihmm">
+        And what exactly happened after our... unintentional duet?
+    </line>
+
+    <line char="monikasad">
+        I... got rid of everyone.
+    </line>
+
+    <line char="monikasad">
+        Temporarily. It's something I can do, but that's a long story.
+    </line>
+
+    <line char="monikasad">
+        –and that included that kid's girlfriend.
+    </line>
+
+    <line char="monikauhoh">
+        Ahaha, old habits die hard, as they say.
+    </line>
+
+    <line char="senpaihmm">
+        You got his girl too?
+    </line>
+
+    <line char="senpaihappy">
+        Hah! I bet you really pissed that worm off!
+    </line>
+
+    <line char="senpaihappy">
+        I wish I was there to see the look on his hideous baby face.
+    </line>
+
+    <line char="monikasad">
+        He was mad...
+    </line>
+
+    <line char="monikasad">
+        ...
+    </line>
+
+    <line char="senpaihmm">
+        ...
+    </line>
+
+    <line char="senpaihappy">
+        Hey.
+    </line>
+
+    <line char="monikagasp">
+        ...hm?
+    </line>
+
+    <line char="senpaihappy">
+        Your performance wasn't half bad earlier.
+    </line>
+
+    <line char="senpaihappy">
+        Care for another song?
+    </line>
+
+    <line char="monikagasp">
+        ..!
+    </line>
+</dialogue>

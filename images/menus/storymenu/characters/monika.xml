@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monika.png">
+<SubTexture name="SENPAI idle Black Lines0000" x="0" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0001" x="0" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0002" x="356" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0003" x="356" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0004" x="0" y="308" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0005" x="0" y="308" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0006" x="356" y="308" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0007" x="356" y="308" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0008" x="712" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0009" x="712" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0010" x="712" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0011" x="712" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0012" x="712" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+<SubTexture name="SENPAI idle Black Lines0013" x="712" y="0" width="356" height="308" frameX="0" frameY="0" frameWidth="336" frameHeight="288" />
+</TextureAtlas>

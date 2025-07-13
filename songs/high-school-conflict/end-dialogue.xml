@@ -1,0 +1,40 @@
+<dialogue box="monika">
+    <!-- All characters -->
+    <char name="pixelBf" position="right" />
+    <char name="monikahappy" position="left" />
+    <char name="monika" position="left" />
+    <char name="monikagaspleft" position="left" />
+    <char name="whodis" position="left" />
+
+    <line char="pixelBf">
+        Skdee bep!
+    </line>
+
+    <line char="monikahappy">
+        You kept up really well with my song!
+    </line>
+
+    <line char="monika">
+        Ah, I haven't felt this happy in a while!
+    </line>
+
+    <line char="monika">
+        Could we sing again?
+    </line>
+
+    <line char="pixelBf">
+        Beep!
+    </line>
+
+    <line char="monikahappy">
+        Alright! Here we go-
+    </line>
+
+    <line char="whodis">
+        Who the hell are you?!
+    </line>
+
+    <line char="monikagaspleft">
+        -huh?
+    </line>
+</dialogue>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character antialiasing="false" x="-400" y="-530" scale="5" sprite="monika/monikahmm">
+	<anim name="normal" anim="Portrait Enter instance 1" fps="24" />
+</character>

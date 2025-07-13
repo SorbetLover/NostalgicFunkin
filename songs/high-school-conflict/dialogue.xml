@@ -1,0 +1,59 @@
+<dialogue box="monika">
+    <!-- All characters -->
+    <char name="pixelBf" position="right" />
+    <char name="monikagaspleft" position="left" />
+    <char name="monikahappy" position="left" />
+    <char name="monika" position="left" />
+
+    <line char="monikagaspleft">
+        ...huh?
+    </line>
+
+    <line char="monikagaspleft">
+        I thought... they deleted me. After what I did to my friends.
+    </line>
+
+    <line char="monikagaspleft">
+        -but where am I now?
+    </line>
+
+    <line char="pixelBf">
+        Beep!
+    </line>
+
+    <line char="monikagaspleft">
+        -Oh! Hello?
+    </line>
+
+    <line char="pixelBf">
+        Skee dep boop!
+    </line>
+
+    <line char="monikagaspleft">
+        You wanna sing?
+    </line>
+
+    <line char="pixelBf">
+        Beep dai!
+    </line>
+
+    <line char="monikagaspleft">
+        ...Things are happening really fast.
+    </line>
+
+    <line char="monika">
+        -but you know what?
+    </line>
+
+    <line char="monikahappy">
+        I'd love to!
+    </line>
+
+    <line char="monika">
+        Usually I'd play piano while I sing, but this isn't a bad change of pace.
+    </line>
+
+    <line char="monikahappy">
+        So... Yeah!
+    </line>
+</dialogue>

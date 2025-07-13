@@ -1,0 +1,55 @@
+<dialogue box="monika">
+    <!-- All characters -->
+    <char name="senpai" position="left"/>
+    <char name="senpaiwho" position="left"/>
+    <char name="pixelBf" position="right" />
+    <char name="monikagasp" position="left" />
+
+    <line char="senpai">
+        Wait-
+    </line>
+
+    <line char="senpai">
+        Is that my microphone? How the hell did you get that?
+    </line>
+
+    <line char="senpaiwho">
+        ...
+    </line>
+
+    <line char="senpaiwho">
+        and what is that <format color="#FF0000">WORM</format> doing here?!
+    </line>
+
+    <line char="pixelBf">
+        bep-
+    </line>
+
+    <line char="senpai">
+        Didn't have enough fun making a fool of me last time you showed up?
+    </line>
+
+    <line char="senpai">
+        Now you're bringing more of your hideously attractive friends here to mock me once again?
+    </line>
+
+    <line char="monikagasp">
+        Hey, it's not-
+    </line>
+
+    <line char="senpai">
+        You. Give me that back. I have another score to settle.
+    </line>
+
+    <line char="monikagasp">
+        Huh? No, wait, I was just about to-
+    </line>
+
+    <line char="senpai">
+        I said GIVE IT!
+    </line>
+
+    <line char="monikagasp">
+        N-no!
+    </line>
+</dialogue>

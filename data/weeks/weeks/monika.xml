@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-week>
+<week name="JUST MONIKA" chars="monika,bf,gf" sprite="weekMonika">
+<difficulty name="easy"/>
+<difficulty name="normal"/>
+<difficulty name="hard"/>
+	<song>high-school-conflict</song>
+	<song>bara-no-yume</song>
+	<song>your-demise</song>
+	<song>your-reality</song>
+</week>

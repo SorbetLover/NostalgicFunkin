@@ -1,0 +1,42 @@
+<dialogue box="monika">
+    <!-- All characters -->
+    <char name="senpai" position="left"/>
+    <char name="monikasad" position="right"/>
+    <char name="monikauhoh" position="right"/>
+
+    <line char="senpai">
+        First you steal my things, and then you pull something like that?
+    </line>
+
+    <line char="senpai">
+        Who do you think you are?
+    </line>
+
+    <line char="monikasad">
+        ...
+    </line>
+
+    <line char="senpai">
+        Now, step aside.
+    </line>
+
+    <line char="monikasad">
+        ...
+    </line>
+
+    <line char="monikauhoh">
+        ...ahaha.
+    </line>
+
+    <line char="monikauhoh">
+        I don't think I will.
+    </line>
+
+    <line char="monikauhoh">
+        You on the other hand–
+    </line>
+
+    <line char="senpai">
+        What are you–
+    </line>
+</dialogue>

@@ -1,0 +1,21 @@
+<dialogue box="monika">
+    <!-- All characters -->
+    <char name="monikahmm" position="left" />
+    <char name="monikauhohleft" position="left" />
+
+    <line char="monikahmm">
+        ...
+    </line>
+
+    <line char="monikauhohleft">
+        Ahaha, I should know better–
+    </line>
+
+    <line char="monikauhohleft">
+        Trying to interfere with people's love lives again.
+    </line>
+
+    <line char="monikahmm">
+        I'll leave you be.
+    </line>
+</dialogue>

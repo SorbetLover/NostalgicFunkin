@@ -1,0 +1,69 @@
+<dialogue box="monika">
+    <!-- All characters -->
+    <char name="monikauhohleft" position="left"/>
+    <char name="pixelbfwhat" position="right" />
+    <char name="monika" position="left"/>
+    <char name="pixelbfangry" position="right" />
+    <char name="monikagaspleft" position="left" />
+    <char name="monikahmm" position="left" />
+
+    <line char="monikauhohleft">
+        There... No more distractions.
+    </line>
+
+    <line char="pixelbfwhat">
+        SKEE DEP!
+    </line>
+
+    <line char="pixelbfwhat">
+        (Translation) GIRLFRIEND!
+    </line>
+
+    <line char="monika">
+        Let's get back to singing, shall we?
+    </line>
+
+    <line char="pixelbfangry">
+        ...
+    </line>
+
+    <line char="monikagaspleft">
+        Hmm?
+    </line>
+
+    <line char="pixelbfangry">
+        *agressive bee bop noises*
+    </line>
+
+    <line char="monikagaspleft">
+        Oh... her.
+    </line>
+
+    <line char="monika">
+        Hey, let's not worry about her, ok?
+    </line>
+
+    <line char="monika">
+        C'mon, I've got a very special song I've wanted to sing!
+    </line>
+
+    <line char="pixelbfangry">
+        *continuation of angry bee bops*
+    </line>
+
+    <line char="monikagaspleft">
+        ...
+    </line>
+
+    <line char="monikahmm">
+        ...
+    </line>
+
+    <line char="monikahmm">
+        One more song.
+    </line>
+
+    <line>
+        Beware the Notes of Markov.
+    </line>
+</dialogue>

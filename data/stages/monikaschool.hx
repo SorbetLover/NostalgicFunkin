@@ -7,6 +7,7 @@ function create() {
 		bgGirls.animation.addByIndices('danceRight', 'BG fangirls dissuaded', CoolUtil.numberArray(30, 15), "", 24, false);
 	}
 	bgGirls.animation.play("danceLeft", true); // horrible fix, please fix later
+
 }
 
 function postCreate(){
@@ -14,4 +15,11 @@ function postCreate(){
 		boyfriend.x += 100;
 		boyfriend.y -= 50;
 	}
+	if(PlayState.SONG.meta.name == "high-school-conflict"){
+		
+		bgGirls.visible = false;
+		dad.x -= 130;
+		dad.y += 40;
+	}
+	dad.cameraOffset = FlxPoint.weak(100,100);
 }
