@@ -17,7 +17,7 @@
 Nostalgic Funkin' is a mod pack aimed at porting most classic mods from three years ago or to be specific, mods from Kade Engine era that made an impact such as Vs Tricky, Vs Whitty, Vs Tabi, B sides, etc to a more modern engine this mod pack uses which is called Codename Engine.
 
 Main porters are:
-MAZ, Null, Tsaku, Notbeep-,- (Itzbeepi77), SorbetLover (Toni).
+MAZ, NullifiedAce, Tsaku, Notbeep-,- (Itzbeepi77), SorbetLover (Toni).
 
 ---
 ## What's planned?
