@@ -42,6 +42,7 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] Vs Tord | 🟢
 - [x] Vs. Zardy | 🟢
 - [x] Golf Week | 🟢
+- [x] Vs. Monika Rebooted | 🟢
 - [x] B-sides | 🟡 missing week 5 & 6 cutscenes and recharts
 - [x] Vs. Pompom | 🟡 Missing Week 2 (including its cutscenes, story mode assets, dialogue, songs, etc) and missing stage assets
 - [ ] Vs Tree | 🟡 Missing recharts & polish & needs bug fixing with dialogue
@@ -54,7 +55,6 @@ Here are our planned ones so far. Will get extended later down the road.
 - [x] vs neon | 🟡 without dialogue and cutscene
 - [ ] Literally every fnf mod ever (Vs Bob) [Onslaught] | 🟡 Without cutscenes and recharts
 - [ ] Vs. Tricky (The Full ASS Mod) | 🟡 Without cutscenes and recharts and expurgation
-- [ ] Vs. Monika Rebooted | 🟡 without dialogue & cutscenes
 - [ ] vs sky | 🟡 without dialogue, cutscenes, and recharts
 - [ ] vs Retrospecter | ⚫ (discontinued)
 - [ ] Static Memories | 🟡 Missing cutscenes and Phase 2
