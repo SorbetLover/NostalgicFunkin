@@ -34,7 +34,6 @@ Here are our planned ones so far. Will get extended later down the road.
 `V1`
 ---
 - [x] Starving Artist | 🟢
-- [x] Vs. Kapi | 🟢
 - [x] Vs. Carol | 🟢
 - [x] Vs. Whitty Remastered | 🟢
 - [x] Vs. Garcello | 🟢

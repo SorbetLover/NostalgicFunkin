@@ -1,4 +1,0 @@
-<!DOCTYPE codename-engine-week-character>
-<char scale="0.65" x="180" y="20">
-	<anim name="arcade"       anim="arcade"  fps="24"    loop="true" />
-</char>

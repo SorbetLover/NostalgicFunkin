@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-week>
-<week name="B-B-BREAK DOWN!" chars="arcade" sprite="kapi">
-	<song>vs-kapi/wocky</song>
-	<song>vs-kapi/Beathoven</song>
-	<song>vs-kapi/Hairball</song>
-	<song>vs-kapi/Nyaw</song>
-	<song hide="true">vs-kapi/fuzzy-distortion</song>
-</week>

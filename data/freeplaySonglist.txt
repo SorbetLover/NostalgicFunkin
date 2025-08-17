@@ -40,13 +40,6 @@ vs-tabi/genocide
 foolhardy/foolhardy
 foolhardy/Bushwhack
 
-vs-kapi/wocky
-vs-kapi/Beathoven
-vs-kapi/Hairball
-vs-kapi/Nyaw
-vs-kapi/fuzzy-distortion
-vs-kapi/Flatzone
-
 static-memories/pulse
 static-memories/doctor
 static-memories/medicine
