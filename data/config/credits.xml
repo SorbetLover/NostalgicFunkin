@@ -97,15 +97,6 @@
 		<credit name="Jads" desc="Vocal Samples" url="https://gamebanana.com/members/1767622"/>
 	</menu>
 
-	<!-- VS KAPI -->
-	<menu name="Vs Kapi" desc="Vs Kapi creators' credits.">
-		<credit name="Paper Kitty" desc="Art, Animations, Misc. Scripting, Charting and Composing." url="https://gamebanana.com/members/1838959"/>
-		<credit name="BbPanzu" desc="For sitting down and saying meow 16 different times for me" url="https://gamebanana.com/members/1764067"/>
-		<credit name="MikeGeno" desc="The song Hairball" url="https://www.youtube.com/channel/UCyDQKOgEjuIiuPXctcuQKlg"/>
-		<credit name="ImToasty" desc="Scripted and Charted Fuzzy Distortion." url="https://gamebanana.com/members/1812925"/>
-		<credit name="Tenaxis" desc="The song 'Fuzzy Distortion'" icon=""/>
-	</menu>
-
 	<!-- Starving Artist -->
 	<menu name="Starving Artist" desc="Starving Artist creators' credits.">
 		<credit name="Rebecca_Doodles" desc="Creator,Artist and Coder" url="https://gamebanana.com/members/1882773"/>
