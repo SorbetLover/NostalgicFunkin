@@ -31,6 +31,10 @@ function onPostNoteCreation(e) {
 var anims = ["singLEFT", "singDOWN", "singUP", "singRIGHT"];
 
 function onNoteHit(e) {
+    if(e.note.noteType == "NoSusAnim" && e.note.isSustainNote) {
+        e.preventAnim();
+        return;
+    }
     if (e.note.isSustainNote) e.healthGain = 0;
     // Same Snippet 
     // this is ne_eo script i think but i did add my "-hold" ting to it - 7oltan <3
